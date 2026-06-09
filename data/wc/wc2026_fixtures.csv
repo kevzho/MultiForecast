@@ -1,0 +1,105 @@
+MatchID,Date,Stage,Group,HomeTeam,AwayTeam,Venue,Neutral
+1,2026-06-11,Group,A,Mexico,South Korea,"Mexico City, Mexico",False
+2,2026-06-11,Group,A,South Africa,Czechia,TBD,True
+3,2026-06-17,Group,A,Mexico,South Africa,"Guadalajara, Mexico",False
+4,2026-06-17,Group,A,South Korea,Czechia,TBD,True
+5,2026-06-23,Group,A,Mexico,Czechia,"Monterrey, Mexico",False
+6,2026-06-23,Group,A,South Korea,South Africa,TBD,True
+7,2026-06-12,Group,B,Canada,Switzerland,"Toronto, Canada",False
+8,2026-06-12,Group,B,Qatar,Bosnia and Herzegovina,TBD,True
+9,2026-06-18,Group,B,Canada,Qatar,"Vancouver, Canada",False
+10,2026-06-18,Group,B,Switzerland,Bosnia and Herzegovina,TBD,True
+11,2026-06-24,Group,B,Canada,Bosnia and Herzegovina,"Toronto, Canada",False
+12,2026-06-24,Group,B,Switzerland,Qatar,TBD,True
+13,2026-06-13,Group,C,Brazil,Morocco,TBD,True
+14,2026-06-13,Group,C,Scotland,Haiti,TBD,True
+15,2026-06-19,Group,C,Brazil,Scotland,TBD,True
+16,2026-06-19,Group,C,Morocco,Haiti,TBD,True
+17,2026-06-25,Group,C,Brazil,Haiti,TBD,True
+18,2026-06-25,Group,C,Morocco,Scotland,TBD,True
+19,2026-06-14,Group,D,United States,Paraguay,"Los Angeles, United States",False
+20,2026-06-14,Group,D,Australia,Turkiye,TBD,True
+21,2026-06-20,Group,D,United States,Australia,"Seattle, United States",False
+22,2026-06-20,Group,D,Paraguay,Turkiye,TBD,True
+23,2026-06-26,Group,D,United States,Turkiye,"Kansas City, United States",False
+24,2026-06-26,Group,D,Paraguay,Australia,TBD,True
+25,2026-06-15,Group,E,Germany,Ecuador,TBD,True
+26,2026-06-15,Group,E,Ivory Coast,Curacao,TBD,True
+27,2026-06-21,Group,E,Germany,Ivory Coast,TBD,True
+28,2026-06-21,Group,E,Ecuador,Curacao,TBD,True
+29,2026-06-27,Group,E,Germany,Curacao,TBD,True
+30,2026-06-27,Group,E,Ecuador,Ivory Coast,TBD,True
+31,2026-06-11,Group,F,Netherlands,Japan,TBD,True
+32,2026-06-11,Group,F,Sweden,Tunisia,TBD,True
+33,2026-06-17,Group,F,Netherlands,Sweden,TBD,True
+34,2026-06-17,Group,F,Japan,Tunisia,TBD,True
+35,2026-06-23,Group,F,Netherlands,Tunisia,TBD,True
+36,2026-06-23,Group,F,Japan,Sweden,TBD,True
+37,2026-06-12,Group,G,Belgium,Egypt,TBD,True
+38,2026-06-12,Group,G,Iran,New Zealand,TBD,True
+39,2026-06-18,Group,G,Belgium,Iran,TBD,True
+40,2026-06-18,Group,G,Egypt,New Zealand,TBD,True
+41,2026-06-24,Group,G,Belgium,New Zealand,TBD,True
+42,2026-06-24,Group,G,Egypt,Iran,TBD,True
+43,2026-06-13,Group,H,Spain,Uruguay,TBD,True
+44,2026-06-13,Group,H,Saudi Arabia,Cape Verde,TBD,True
+45,2026-06-19,Group,H,Spain,Saudi Arabia,TBD,True
+46,2026-06-19,Group,H,Uruguay,Cape Verde,TBD,True
+47,2026-06-25,Group,H,Spain,Cape Verde,TBD,True
+48,2026-06-25,Group,H,Uruguay,Saudi Arabia,TBD,True
+49,2026-06-14,Group,I,France,Senegal,TBD,True
+50,2026-06-14,Group,I,Norway,Iraq,TBD,True
+51,2026-06-20,Group,I,France,Norway,TBD,True
+52,2026-06-20,Group,I,Senegal,Iraq,TBD,True
+53,2026-06-26,Group,I,France,Iraq,TBD,True
+54,2026-06-26,Group,I,Senegal,Norway,TBD,True
+55,2026-06-15,Group,J,Argentina,Austria,TBD,True
+56,2026-06-15,Group,J,Algeria,Jordan,TBD,True
+57,2026-06-21,Group,J,Argentina,Algeria,TBD,True
+58,2026-06-21,Group,J,Austria,Jordan,TBD,True
+59,2026-06-27,Group,J,Argentina,Jordan,TBD,True
+60,2026-06-27,Group,J,Austria,Algeria,TBD,True
+61,2026-06-16,Group,K,Portugal,Colombia,TBD,True
+62,2026-06-16,Group,K,Uzbekistan,DR Congo,TBD,True
+63,2026-06-22,Group,K,Portugal,Uzbekistan,TBD,True
+64,2026-06-22,Group,K,Colombia,DR Congo,TBD,True
+65,2026-06-27,Group,K,Portugal,DR Congo,TBD,True
+66,2026-06-27,Group,K,Colombia,Uzbekistan,TBD,True
+67,2026-06-16,Group,L,England,Croatia,TBD,True
+68,2026-06-16,Group,L,Panama,Ghana,TBD,True
+69,2026-06-22,Group,L,England,Panama,TBD,True
+70,2026-06-22,Group,L,Croatia,Ghana,TBD,True
+71,2026-06-27,Group,L,England,Ghana,TBD,True
+72,2026-06-27,Group,L,Croatia,Panama,TBD,True
+73,2026-06-28,R32,,TBD,TBD,TBD,True
+74,2026-06-28,R32,,TBD,TBD,TBD,True
+75,2026-06-28,R32,,TBD,TBD,TBD,True
+76,2026-06-29,R32,,TBD,TBD,TBD,True
+77,2026-06-29,R32,,TBD,TBD,TBD,True
+78,2026-06-29,R32,,TBD,TBD,TBD,True
+79,2026-06-30,R32,,TBD,TBD,TBD,True
+80,2026-06-30,R32,,TBD,TBD,TBD,True
+81,2026-06-30,R32,,TBD,TBD,TBD,True
+82,2026-07-01,R32,,TBD,TBD,TBD,True
+83,2026-07-01,R32,,TBD,TBD,TBD,True
+84,2026-07-01,R32,,TBD,TBD,TBD,True
+85,2026-07-02,R32,,TBD,TBD,TBD,True
+86,2026-07-02,R32,,TBD,TBD,TBD,True
+87,2026-07-03,R32,,TBD,TBD,TBD,True
+88,2026-07-03,R32,,TBD,TBD,TBD,True
+89,2026-07-04,R16,,TBD,TBD,TBD,True
+90,2026-07-04,R16,,TBD,TBD,TBD,True
+91,2026-07-05,R16,,TBD,TBD,TBD,True
+92,2026-07-05,R16,,TBD,TBD,TBD,True
+93,2026-07-06,R16,,TBD,TBD,TBD,True
+94,2026-07-06,R16,,TBD,TBD,TBD,True
+95,2026-07-07,R16,,TBD,TBD,TBD,True
+96,2026-07-07,R16,,TBD,TBD,TBD,True
+97,2026-07-09,QF,,TBD,TBD,TBD,True
+98,2026-07-10,QF,,TBD,TBD,TBD,True
+99,2026-07-11,QF,,TBD,TBD,TBD,True
+100,2026-07-11,QF,,TBD,TBD,TBD,True
+101,2026-07-14,SF,,TBD,TBD,TBD,True
+102,2026-07-15,SF,,TBD,TBD,TBD,True
+103,2026-07-18,3rd-place,,TBD,TBD,TBD,True
+104,2026-07-19,Final,,TBD,TBD,TBD,True

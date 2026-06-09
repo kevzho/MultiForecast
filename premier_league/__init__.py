@@ -1,0 +1,2 @@
+"""Premier League forecasting package."""
+
