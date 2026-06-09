@@ -2,13 +2,15 @@ from pathlib import Path
 from scipy.stats import zscore, percentileofscore
 import pandas as pd
 
+from premier_league.engine.config import SEASON
+
 
 SRC_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = SRC_DIR.parents[1]
 DATA_DIR = PROJECT_ROOT / "data"
 
-MATCHES_PATH = DATA_DIR / "E0_2526.csv"
-OUTPUT_PATH = DATA_DIR / "summary_table2526.csv"
+MATCHES_PATH = DATA_DIR / f"E0_{SEASON}.csv"
+OUTPUT_PATH = DATA_DIR / f"summary_table{SEASON}.csv"
 
 
 def initialize_table(teams):
@@ -120,7 +122,9 @@ def build_summary_table():
     teams = sorted(set(raw_matches["HomeTeam"]).union(set(raw_matches["AwayTeam"])))
     table = initialize_table(teams)
 
-    for _, row in raw_matches.iterrows():
+    played_matches = raw_matches.dropna(subset=["FTHG", "FTAG"])
+
+    for _, row in played_matches.iterrows():
         update_actual_table(
             table,
             row["HomeTeam"],
@@ -150,8 +154,8 @@ def build_summary_table():
 
     df = pd.DataFrame(rows)
 
-    df["Pts_zscore"] = zscore(df["Pts"]).round(2)
-    df["GD_zscore"] = zscore(df["GD"]).round(2)
+    df["Pts_zscore"] = pd.Series(zscore(df["Pts"]), index=df.index).fillna(0).round(2)
+    df["GD_zscore"] = pd.Series(zscore(df["GD"]), index=df.index).fillna(0).round(2)
     df["Pts_pct"] = df["Pts"].apply(lambda x: percentileofscore(df["Pts"], x)).round(1)
     df["GD_pct"] = df["GD"].apply(lambda x: percentileofscore(df["GD"], x)).round(1)
     df["Strength"] = df["Pts_zscore"].apply(classify_strength)

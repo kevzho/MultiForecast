@@ -14,7 +14,10 @@ REQUIRED_COLS = [
     "FTAG"
 ]
 
-def load_season_df(season_code="2526", league="E0"):
+from premier_league.engine.config import SEASON
+
+
+def load_season_df(season_code=SEASON, league="E0"):
     path = os.path.join(DATA_DIR, f"{league}_{season_code}.csv")
     df = pd.read_csv(path)
 
@@ -32,7 +35,7 @@ def split_played_future(df):
     future = df[df["FTHG"].isna() & df["FTAG"].isna()] #checking for rows with null full time hg and ag (indicating non-played status)
     return played, future
 
-def load_power_rankings(season="2526"):
+def load_power_rankings(season=SEASON):
     """Load Elo ratings from power_rankings CSV"""
     path = os.path.join(DATA_DIR, f"power_rankings_{season}.csv")
     
@@ -46,7 +49,7 @@ def load_power_rankings(season="2526"):
     return ratings
 
 
-def load_current_table(season="2526"):
+def load_current_table(season=SEASON):
     """Load current league standings from summary_table CSV"""
     path = os.path.join(DATA_DIR, f"summary_table{season}.csv")
     

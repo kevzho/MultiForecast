@@ -2,7 +2,8 @@
 from premier_league.engine.config import (
     HOME_ADV,
     DRAW_RATE,
-    N_SIMULATIONS
+    N_SIMULATIONS,
+    SEASON,
 )
 
 from premier_league.engine.simulation import simulate_season
@@ -13,7 +14,7 @@ def run_simulation_pipeline(
     fixtures_df,
     ratings,
     current_table,
-    season="2526"
+    season=SEASON
 ):
 
     #define cache path for simulations

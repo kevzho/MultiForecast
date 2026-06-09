@@ -20,11 +20,16 @@ TEAM_NAME_MAP: dict[str, str] = {
     "Brentford": "Brentford",
     "Brighton & Hove Albion": "Brighton",
     "Brighton": "Brighton",
-    "Burnley": "Burnley",
     "Chelsea": "Chelsea",
+    "Coventry": "Coventry City",
+    "Coventry City": "Coventry City",
     "Crystal Palace": "Crystal Palace",
     "Everton": "Everton",
     "Fulham": "Fulham",
+    "Hull": "Hull City",
+    "Hull City": "Hull City",
+    "Ipswich": "Ipswich Town",
+    "Ipswich Town": "Ipswich Town",
     "Leeds United": "Leeds",
     "Leeds": "Leeds",
     "Liverpool": "Liverpool",
@@ -40,10 +45,6 @@ TEAM_NAME_MAP: dict[str, str] = {
     "Sunderland": "Sunderland",
     "Tottenham Hotspur": "Tottenham",
     "Tottenham": "Tottenham",
-    "West Ham United": "West Ham",
-    "West Ham": "West Ham",
-    "Wolverhampton Wanderers": "Wolves",
-    "Wolves": "Wolves",
 }
 
 CANONICAL_TEAMS = set(TEAM_NAME_MAP.values())

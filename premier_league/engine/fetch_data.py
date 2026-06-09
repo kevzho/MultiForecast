@@ -5,6 +5,7 @@ import pandas as pd
 import requests
 
 from datetime import datetime
+from premier_league.engine.config import SEASON
 
 #our data directory (place `data` next to this script)
 BASE_DIR = os.path.dirname(__file__)
@@ -17,7 +18,7 @@ DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 os.makedirs(DATA_DIR, exist_ok=True)
 
 #fetch data we need as json and csv for caching, so we don't have to keep hitting the remote source
-def csv_to_json(season_code="2526", league="E0"):
+def csv_to_json(season_code=SEASON, league="E0"):
     csv_path = os.path.join(DATA_DIR, f"{league}_{season_code}.csv")
     json_path = os.path.join(DATA_DIR, f"{league}_{season_code}_raw.json")
 
@@ -47,7 +48,7 @@ def download_fdc_csv(season_code = None, league = "E0"):
 
     #checks if we have null season code, if so default to current season code (e.g. "2526" for 2025-2026 season)
     if season_code is None:
-        season_code = current_season_code()
+        season_code = SEASON
 
     url = f"https://www.football-data.co.uk/mmz4281/{season_code}/{league}.csv"
     out = os.path.join(DATA_DIR, f"{league}_{season_code}.csv")
@@ -68,5 +69,5 @@ def download_fdc_csv(season_code = None, league = "E0"):
     print("Saved to: ", out)
     
 if __name__ == "__main__":
-    download_fdc_csv("2526", "E0")
-    csv_to_json("2526", "E0") #downloading 25-26 premier league data
+    download_fdc_csv(SEASON, "E0")
+    csv_to_json(SEASON, "E0") #downloading current premier league data
