@@ -1,12 +1,12 @@
 #import all parameters in our config.py file
-from src.config import (
+from premier_league.engine.config import (
     HOME_ADV,
     DRAW_RATE,
     N_SIMULATIONS
 )
 
-from src.simulation import simulate_season
-from src.cache_utils import save_json, load_json
+from premier_league.engine.simulation import simulate_season
+from premier_league.engine.cache_utils import save_json, load_json
 
 
 def run_simulation_pipeline(

@@ -10,7 +10,7 @@ from datetime import datetime
 BASE_DIR = os.path.dirname(__file__)
 
 #adjust project root
-PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, os.pardir))
+PROJECT_ROOT = os.path.abspath(os.path.join(BASE_DIR, os.pardir, os.pardir))
 DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 
 #ensure the data directory exists so writing won't raise FileNotFoundError

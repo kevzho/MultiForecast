@@ -3,7 +3,7 @@ import subprocess
 import sys
 
 
-PROJECT_ROOT = Path(__file__).resolve().parent
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 PYTHON = sys.executable
 
 
@@ -43,14 +43,14 @@ def delete_sim_cache():
 
 
 def main(launch_app=False):
-    run_step("Fetch latest data", [PYTHON, "-m", "src.fetch_data"])
-    run_step("Rebuild Elo ratings", [PYTHON, "-m", "src.elo_run"])
-    run_step("Refresh remaining fixtures", [PYTHON, "-m", "src.remaining_fixtures"])
-    run_step("Build summary table", [PYTHON, "-m", "src.table"])
+    run_step("Fetch latest data", [PYTHON, "-m", "premier_league.engine.fetch_data"])
+    run_step("Rebuild Elo ratings", [PYTHON, "-m", "premier_league.engine.elo_run"])
+    run_step("Refresh remaining fixtures", [PYTHON, "-m", "premier_league.engine.remaining_fixtures"])
+    run_step("Build summary table", [PYTHON, "-m", "premier_league.engine.table"])
 
     delete_sim_cache()
 
-    run_step("Run simulation pipeline", [PYTHON, "run.py"])
+    run_step("Run simulation pipeline", [PYTHON, "-m", "premier_league.run"])
 
     if launch_app:
         run_step("Launch app", [PYTHON, "-m", "streamlit", "run", "app.py"])

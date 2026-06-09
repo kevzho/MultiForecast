@@ -1,6 +1,6 @@
-from src.load_data import load_power_rankings, load_current_table
-from src.pipeline import run_simulation_pipeline
-from src.remaining_fixtures import get_remaining_fixtures
+from premier_league.engine.load_data import load_power_rankings, load_current_table
+from premier_league.engine.pipeline import run_simulation_pipeline
+from premier_league.engine.remaining_fixtures import get_remaining_fixtures
 
 import pandas as pd
 import os

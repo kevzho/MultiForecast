@@ -4,7 +4,7 @@ import pandas as pd
 
 
 SRC_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = SRC_DIR.parent
+PROJECT_ROOT = SRC_DIR.parents[1]
 DATA_DIR = PROJECT_ROOT / "data"
 
 MATCHES_PATH = DATA_DIR / "E0_2526.csv"

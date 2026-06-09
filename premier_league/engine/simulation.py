@@ -3,9 +3,9 @@ from tqdm import tqdm
 import random
 from copy import deepcopy
 
-from src.elo import elo_to_match_probs
+from premier_league.engine.elo import elo_to_match_probs
 from .table import initialize_table, rank_simulation_table, update_simulation_table
-from src.team_names import normalize_team
+from premier_league.engine.team_names import normalize_team
 
 def sample_match(win_h, draw, win_a):
     r = random.random()

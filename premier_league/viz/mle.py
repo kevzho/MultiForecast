@@ -18,7 +18,7 @@ import os
 from pathlib import Path
 
 # Resolve path to data file regardless of where script is run from
-BASE_DIR = Path(__file__).resolve().parent.parent  # Project root
+BASE_DIR = Path(__file__).resolve().parents[2]  # Project root
 DATA_FILE = BASE_DIR / "data" / "E0_2526.csv"
 
 df = pd.read_csv(DATA_FILE)
@@ -364,4 +364,3 @@ print(f"   - Adjustment needed: {draw_percentage / ((average_home_goals + averag
 print("4. TEAM-SPECIFIC DRAW RATES:")
 print(f"   - Range: {team_draws_df['drawRate'].min():.1f}% to {team_draws_df['drawRate'].max():.1f}%")
 print("   - Consider incorporating team defensive styles")
-

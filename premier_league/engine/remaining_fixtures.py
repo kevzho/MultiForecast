@@ -10,10 +10,10 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 
-from src.team_names import normalize_team, CANONICAL_TEAMS
+from premier_league.engine.team_names import normalize_team, CANONICAL_TEAMS
 
 SRC_DIR = Path(__file__).resolve().parent
-PROJECT_ROOT = SRC_DIR.parent
+PROJECT_ROOT = SRC_DIR.parents[1]
 DATA_DIR = PROJECT_ROOT / "data"
 
 URL = "https://www.espn.com/soccer/story/_/id/45522470/premier-league-fixtures-schedule-2025-26-full"

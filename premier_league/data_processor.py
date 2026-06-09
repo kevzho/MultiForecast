@@ -1,6 +1,6 @@
 import pandas as pd
 import ast
-from src.config import N_SIMULATIONS
+from premier_league.engine.config import N_SIMULATIONS
 import logging
 import unicodedata
 
