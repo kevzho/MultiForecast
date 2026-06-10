@@ -575,7 +575,7 @@
       ]
     },
     "metadata": {
-      "timestamp": "2026-05-10T14:56:35.345190",
+      "timestamp": "2026-06-09T19:37:56.642711",
       "num_simulations": 20000,
       "source_file": "data/simulation_results_2526.csv"
     }
@@ -583,7 +583,7 @@
   "metadata": {
     "num_teams": 20,
     "num_simulations": 20000,
-    "timestamp": "2026-05-10T14:56:35.345190"
+    "timestamp": "2026-06-09T19:37:56.642711"
   },
-  "cached_at": "2026-05-10T14:56:35.345570"
+  "cached_at": "2026-06-09T19:37:56.645101"
 }
