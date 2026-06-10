@@ -19,7 +19,8 @@ from pathlib import Path
 
 # Resolve path to data file regardless of where script is run from
 BASE_DIR = Path(__file__).resolve().parents[2]  # Project root
-DATA_FILE = BASE_DIR / "data" / "E0_2526.csv"
+from premier_league.engine.config import SEASON
+DATA_FILE = BASE_DIR / "data" / f"E0_{SEASON}.csv"
 
 df = pd.read_csv(DATA_FILE)
 #df

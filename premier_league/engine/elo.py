@@ -2,6 +2,7 @@ import math
 import os 
 import json
 import pandas as pd
+from premier_league.engine.config import SEASON
 
 #basic elo math measuring skill relative to the pool of players, with a scaling factor of 400 (common in chess, applying here)
 def expected_score(team_a_elo, team_b_elo):
@@ -69,7 +70,7 @@ def compute_elo(df, k=20, home_adv=80, base_rating=1500):
     return ratings
 
 #cacheing ratings to json
-def save_elo(ratings, season_code="2526"):
+def save_elo(ratings, season_code=SEASON):
     """
     Saves Elo ratings as JSON in the data/ folder.
     """
@@ -80,7 +81,7 @@ def save_elo(ratings, season_code="2526"):
         json.dump(ratings, f, indent=2)
 
 #saves elo as csv
-def save_elo_csv(ratings, season_code="2526"):
+def save_elo_csv(ratings, season_code=SEASON):
     """
     Saves Elo ratings as CSV in the data/ folder.
     """

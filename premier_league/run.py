@@ -1,4 +1,5 @@
 from premier_league.engine.load_data import load_power_rankings, load_current_table
+from premier_league.engine.config import SEASON
 from premier_league.engine.pipeline import run_simulation_pipeline
 from premier_league.engine.remaining_fixtures import get_remaining_fixtures
 
@@ -11,7 +12,7 @@ def main(force_refresh=False):
     print("Starting Premier League simulation...")
     
     #specify season
-    season = "2526"
+    season = SEASON
     
     #Loading power rankings and current table
     print("Loading power rankings...")
