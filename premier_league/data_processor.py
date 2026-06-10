@@ -20,7 +20,10 @@ def clean_team_name(name):
 
 # Then in load_simulation_data(), after getting teams:
 
-def load_simulation_data(csv_path="data/simulation_results_2526.csv"):
+from premier_league.engine.config import SEASON
+
+
+def load_simulation_data(csv_path=f"data/simulation_results_{SEASON}.csv"):
     """
     Load the CSV and convert string arrays to actual lists
     """

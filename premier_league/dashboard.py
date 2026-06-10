@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-from premier_league.engine.config import N_SIMULATIONS
+from premier_league.engine.config import N_SIMULATIONS, SEASON
 
 #import modules
 from premier_league.data_processor import load_simulation_data, format_probability, get_top_teams, get_bottom_teams
@@ -13,7 +13,7 @@ from premier_league.cache_manager import load_simulation_results, save_simulatio
 
 def render_premier_league():
     # Title
-    st.title("Premier League Season Simulator: Predicting the 2025/26 Season")
+    st.title(f"Premier League Season Simulator: Predicting the 20{SEASON[:2]}/{SEASON[2:]} Season")
     st.markdown("(A Monte Carlo simulation of remaining fixtures).")
 
     #sidebar for controls (left)
@@ -25,7 +25,7 @@ def render_premier_league():
         
         #attempt to load cached data first
         cache_key = get_cache_key(
-            data_source="2526",
+            data_source=SEASON,
             params={"num_simulations": N_SIMULATIONS}
         )
 
@@ -41,7 +41,7 @@ def render_premier_league():
             data = load_simulation_data()
             #save to cache
             cache_key = get_cache_key(
-                data_source="2526",
+                data_source=SEASON,
                 params={"num_simulations": data['metadata']['num_simulations']}
             )
 

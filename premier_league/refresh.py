@@ -1,3 +1,4 @@
+from premier_league.engine.config import SEASON
 from pathlib import Path
 import subprocess
 import sys
@@ -37,7 +38,7 @@ def delete_sim_cache():
     if not cache_dir.exists():
         return
 
-    for path in cache_dir.glob("simulations_2526*.json"):
+    for path in cache_dir.glob(f"simulations_{SEASON}*.json"):
         path.unlink()
         print(f"Deleted cache file: {path}")
 
