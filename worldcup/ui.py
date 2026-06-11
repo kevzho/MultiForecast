@@ -51,7 +51,7 @@ def render_worldcup_tab():
     fifa_ranks = dict(zip(groups["Team"], groups["FIFA_Rank"]))
 
     model_names = list(AVAILABLE_MODELS)
-    default_model = "Dixon-Coles" if "Dixon-Coles" in AVAILABLE_MODELS else "Elo-Poisson"
+    default_model = "Elo-Poisson" if "Elo-Poisson" in AVAILABLE_MODELS else model_names[0]
     with st.sidebar:
         st.header("World Cup Forecast")
         st.caption("Choose the match model and simulation volume for the tournament projection.")
