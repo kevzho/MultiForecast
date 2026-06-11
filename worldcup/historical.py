@@ -64,4 +64,13 @@ def load_history(cache: str | Path = "data/wc/historical/") -> pd.DataFrame:
     if "neutral" in history:
         history["neutral"] = history["neutral"].astype(bool)
 
-    return history
+    columns = [
+        "date",
+        "home_team",
+        "away_team",
+        "home_score",
+        "away_score",
+        "tournament",
+        "neutral",
+    ]
+    return history[[column for column in columns if column in history]].copy()
