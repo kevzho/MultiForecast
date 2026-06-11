@@ -13,6 +13,33 @@ from worldcup.data import load_elo
 from worldcup.historical import download_history, load_history
 from worldcup.team_names import CANONICAL_WC_TEAMS, normalize_intl_team
 
+TOURNAMENT_COMPETITIVENESS_FACTORS = {
+    "world cup qualification": 0.8,
+    "fifa world cup qualification": 0.8,
+    "uefa euro qualification": 0.8,
+    "afc asian cup qualification": 0.8,
+    "africa cup of nations qualification": 0.8,
+    "concacaf championship qualification": 0.8,
+    "concacaf gold cup qualification": 0.8,
+    "copa américa qualification": 0.8,
+    "copa america qualification": 0.8,
+    "nations league": 0.8,
+    "friendly": 0.4,
+    "fifa world cup": 1.0,
+    "world cup": 1.0,
+    "uefa euro": 1.0,
+    "european championship": 1.0,
+    "copa américa": 1.0,
+    "copa america": 1.0,
+    "afc asian cup": 1.0,
+    "africa cup of nations": 1.0,
+    "concacaf gold cup": 1.0,
+    "copa libertadores": 1.0,
+    "confederations cup": 1.0,
+}
+UNKNOWN_TOURNAMENT_FACTOR = 0.7
+DEFAULT_ELO_SHRINKAGE_ALPHA = 0.30
+
 
 @dataclass(frozen=True)
 class StrengthTable:
@@ -46,8 +73,9 @@ class StrengthTable:
 
 def fit_strengths(
     history: pd.DataFrame,
-    half_life_days: int = 730,
+    half_life_days: int = 365,
     max_years: int = 8,
+    elo_shrinkage_alpha: float = DEFAULT_ELO_SHRINKAGE_ALPHA,
 ) -> StrengthTable:
     """Fit recency-weighted Poisson attack/defense strengths."""
 
@@ -72,6 +100,7 @@ def fit_strengths(
         table.defense,
         match_counts,
         target_teams,
+        elo_shrinkage_alpha=elo_shrinkage_alpha,
     )
     base_rate = table.base_rate
     attack, defense, base_rate = _center_strengths(attack, defense, base_rate)
@@ -117,14 +146,20 @@ def _prepare_matches(history: pd.DataFrame, max_years: int) -> pd.DataFrame:
     matches = matches[matches["date"] >= cutoff].copy()
     if "neutral" not in matches:
         matches["neutral"] = False
+    if "tournament" not in matches:
+        matches["tournament"] = ""
     matches["neutral"] = matches["neutral"].astype(bool)
+    matches["tournament"] = matches["tournament"].fillna("").astype(str)
     return matches
 
 
 def _goal_rows(matches: pd.DataFrame, half_life_days: int) -> pd.DataFrame:
     latest = matches["date"].max()
     age_days = (latest - matches["date"]).dt.days.clip(lower=0)
-    weights = np.exp(-math.log(2) * age_days / half_life_days)
+    recency_weights = np.exp(-math.log(2) * age_days / half_life_days)
+    competitiveness = matches["tournament"].map(_competitiveness_factor).astype(float)
+    weights = recency_weights * competitiveness
+    opponent_factors = _opponent_quality_factors(matches)
 
     home_rows = pd.DataFrame(
         {
@@ -132,7 +167,7 @@ def _goal_rows(matches: pd.DataFrame, half_life_days: int) -> pd.DataFrame:
             "scorer": matches["home_team"],
             "conceder": matches["away_team"],
             "home": (~matches["neutral"]).astype(int),
-            "weight": weights,
+            "weight": weights * opponent_factors["away"].to_numpy(),
         }
     )
     away_rows = pd.DataFrame(
@@ -141,10 +176,39 @@ def _goal_rows(matches: pd.DataFrame, half_life_days: int) -> pd.DataFrame:
             "scorer": matches["away_team"],
             "conceder": matches["home_team"],
             "home": 0,
-            "weight": weights,
+            "weight": weights * opponent_factors["home"].to_numpy(),
         }
     )
     return pd.concat([home_rows, away_rows], ignore_index=True)
+
+
+def _competitiveness_factor(tournament: str) -> float:
+    tournament_key = str(tournament).strip().lower()
+    for pattern, factor in TOURNAMENT_COMPETITIVENESS_FACTORS.items():
+        if pattern in tournament_key:
+            return factor
+    return UNKNOWN_TOURNAMENT_FACTOR
+
+
+def _opponent_quality_factors(matches: pd.DataFrame) -> pd.DataFrame:
+    elo = {normalize_intl_team(team): float(rating) for team, rating in load_elo().items()}
+    mean_elo = float(np.mean(list(elo.values()))) if elo else 1500.0
+
+    def factor(team: str) -> float:
+        rating = elo.get(normalize_intl_team(team), mean_elo)
+        # Opponent normalization: 1.0 + one point per 800 Elo above the WC mean,
+        # clipped to [0.5, 1.2]. This reduces confederation schedule imbalance:
+        # CONMEBOL/UEFA teams facing stronger opponents receive more credit than
+        # teams compiling similar scorelines against substantially weaker slates.
+        return float(np.clip(1.0 + (rating - mean_elo) / 800, 0.5, 1.2))
+
+    return pd.DataFrame(
+        {
+            "home": matches["home_team"].map(factor).astype(float),
+            "away": matches["away_team"].map(factor).astype(float),
+        },
+        index=matches.index,
+    )
 
 
 def _fit_glm(rows: pd.DataFrame, teams: list[str]) -> StrengthTable:
@@ -203,20 +267,28 @@ def _blend_with_elo(
     defense: dict[str, float],
     match_counts: dict[str, int],
     target_teams: set[str],
+    elo_shrinkage_alpha: float = DEFAULT_ELO_SHRINKAGE_ALPHA,
 ) -> tuple[dict[str, float], dict[str, float]]:
     elo_attack, elo_defense = _elo_implied_strengths()
+    alpha = float(np.clip(elo_shrinkage_alpha, 0.0, 1.0))
     teams = sorted(target_teams)
     blended_attack: dict[str, float] = {}
     blended_defense: dict[str, float] = {}
     for team in teams:
         reliability = min(match_counts.get(team, 0) / 10, 1.0)
-        blended_attack[team] = (
+        reliability_attack = (
             reliability * attack.get(team, 0.0)
             + (1 - reliability) * elo_attack.get(team, 0.0)
         )
-        blended_defense[team] = (
+        reliability_defense = (
             reliability * defense.get(team, 0.0)
             + (1 - reliability) * elo_defense.get(team, 0.0)
+        )
+        blended_attack[team] = (
+            (1 - alpha) * reliability_attack + alpha * elo_attack.get(team, 0.0)
+        )
+        blended_defense[team] = (
+            (1 - alpha) * reliability_defense + alpha * elo_defense.get(team, 0.0)
         )
     return blended_attack, blended_defense
 
@@ -267,13 +339,74 @@ def _print_rankings(table: StrengthTable) -> None:
         print(f"  {team}: {value:.3f}")
 
 
+def _overall_rankings(table: StrengthTable) -> list[tuple[str, float]]:
+    teams = sorted(set(table.attack).union(table.defense))
+    return sorted(
+        ((team, table.attack.get(team, 0.0) - table.defense.get(team, 0.0)) for team in teams),
+        key=lambda item: item[1],
+        reverse=True,
+    )
+
+
+def _print_overall_report(before: StrengthTable | None, after: StrengthTable) -> None:
+    after_rankings = _overall_rankings(after)
+    print("Top 10 overall strength (attack - defense):")
+    for idx, (team, value) in enumerate(after_rankings[:10], start=1):
+        print(f"  {idx:2d}. {team}: {value:.3f}")
+
+    before_lookup = {}
+    if before is not None:
+        before_lookup = {
+            team: idx
+            for idx, (team, _) in enumerate(_overall_rankings(before), start=1)
+        }
+    after_lookup = {team: idx for idx, (team, _) in enumerate(after_rankings, start=1)}
+    print("Spain/Argentina rank change:")
+    for team in ("Spain", "Argentina"):
+        before_rank = before_lookup.get(team, "n/a")
+        after_rank = after_lookup.get(team, "n/a")
+        print(f"  {team}: before {before_rank}, after {after_rank}")
+
+
+def _print_backtest_report(
+    before: StrengthTable | None,
+    after: StrengthTable,
+    history: pd.DataFrame,
+) -> None:
+    if before is None:
+        print("Dixon-Coles backtest before/after: no previous strengths CSV found.")
+        return
+    try:
+        from worldcup.models.dixon_coles import DixonColesModel
+        from worldcup.validation import backtest
+    except ModuleNotFoundError as exc:
+        print(f"Dixon-Coles backtest unavailable: {exc}")
+        return
+
+    before_metrics = backtest(lambda: DixonColesModel(before), history)
+    after_metrics = backtest(lambda: DixonColesModel(after), history)
+    print("Dixon-Coles backtest (since 2018):")
+    print(
+        "  Before: "
+        f"LogLoss={before_metrics['logloss']:.4f}, RPS={before_metrics['rps']:.4f}"
+    )
+    print(
+        "  After:  "
+        f"LogLoss={after_metrics['logloss']:.4f}, RPS={after_metrics['rps']:.4f}"
+    )
+
+
 def main() -> None:
+    output_path = Path("data/wc/intl_strengths.csv")
+    previous_table = load_strengths(output_path) if output_path.exists() else None
     download_history()
     history = load_history()
     table = fit_strengths(history)
     _print_rankings(table)
-    save_strengths(table, "data/wc/intl_strengths.csv")
-    print("Wrote data/wc/intl_strengths.csv")
+    _print_overall_report(previous_table, table)
+    _print_backtest_report(previous_table, table, history)
+    save_strengths(table, output_path)
+    print(f"Wrote {output_path}")
 
 
 if __name__ == "__main__":
