@@ -18,6 +18,7 @@ from worldcup.simulate import simulate_tournament
 from worldcup.strengths import load_strengths
 from worldcup.validation import backtest, compare_models
 from worldcup.viz import (
+    all_team_probabilities,
     favorite_metric,
     group_projection,
     most_likely_bracket,
@@ -83,6 +84,9 @@ def render_worldcup_tab():
 
     st.divider()
     _render_title_contenders(simulation)
+
+    st.divider()
+    _render_all_team_probabilities(simulation)
 
     st.divider()
     _render_group_stage(simulation)
@@ -250,6 +254,57 @@ def _render_title_contenders(simulation: dict) -> None:
     )
 
 
+def _render_all_team_probabilities(simulation: dict) -> None:
+    st.header("All Teams — Win Probabilities")
+    st.caption("Every team in the simulation, sorted by probability of winning the World Cup.")
+    rows = all_team_probabilities(simulation)
+    if not rows:
+        st.info("No team probability data available.")
+        return
+
+    chart_df = pd.DataFrame(rows)
+    chart = (
+        alt.Chart(chart_df)
+        .mark_bar(color="#15803d")
+        .encode(
+            x=alt.X("P(win_cup):Q", axis=alt.Axis(format=".0%"), title="Win Cup"),
+            y=alt.Y("Team:N", sort="-x", title=None),
+            tooltip=[
+                alt.Tooltip("Team:N"),
+                alt.Tooltip("Group:N"),
+                alt.Tooltip("P(win_cup):Q", format=".1%"),
+                alt.Tooltip("P(reach_Final):Q", format=".1%"),
+            ],
+        )
+        .properties(height=max(480, len(chart_df) * 14))
+    )
+    st.altair_chart(chart, use_container_width=True)
+
+    table = chart_df.copy()
+    probability_columns = [
+        "P(advance)",
+        "P(reach_QF)",
+        "P(reach_SF)",
+        "P(reach_Final)",
+        "P(win_cup)",
+    ]
+    for column in probability_columns:
+        table[column] = table[column] * 100
+    st.dataframe(
+        table,
+        use_container_width=True,
+        hide_index=True,
+        column_config={
+            column: st.column_config.ProgressColumn(
+                format="%.1f%%",
+                min_value=0,
+                max_value=100,
+            )
+            for column in probability_columns
+        },
+    )
+
+
 def _render_group_stage(simulation: dict) -> None:
     st.header("Group Stage")
     st.caption("Projected group tables combine advancement probability with most likely finish.")
@@ -318,29 +373,48 @@ def _render_knockout_projection(simulation: dict, bracket: dict) -> None:
     st.header("Knockout Projection")
     st.caption("Each matchup advances the team with the stronger projected next-round probability.")
     rounds = bracket.get("rounds", {})
-    ordered_rounds = [round_name for round_name in ("R32", "R16", "QF", "SF", "Final") if round_name in rounds]
-    if rounds:
-        cols = st.columns(len(ordered_rounds))
-        for col, round_name in zip(cols, ordered_rounds):
+    left_rounds = rounds.get("left", {})
+    right_rounds = rounds.get("right", {})
+    final = rounds.get("Final", [])
+    if left_rounds or right_rounds:
+        cols = st.columns([1.25, 1.1, 0.95, 0.85, 1.05, 0.85, 0.95, 1.1, 1.25])
+        left_order = ("R32", "R16", "QF", "SF")
+        right_order = ("SF", "QF", "R16", "R32")
+        for col, round_name in zip(cols[:4], left_order):
             with col:
-                st.markdown(f"**{round_name}**")
-                for matchup in rounds[round_name]:
-                    _render_matchup_card(matchup)
-    champion = bracket.get("champion")
-    if champion:
-        p_win = simulation["per_team"].get(champion, {}).get("P(win_cup)", 0.0)
-        st.success(f"🏆 Projected champion: **{champion}** ({p_win:.0%} win-cup probability)")
+                _render_bracket_round(round_name, left_rounds.get(round_name, []))
+        with cols[4]:
+            st.markdown("**Final**")
+            for matchup in final:
+                _render_matchup_card(matchup, compact=False)
+            champion = bracket.get("champion")
+            if champion:
+                p_win = simulation["per_team"].get(champion, {}).get("P(win_cup)", 0.0)
+                st.success(f"🏆 **{champion}**\n\n{p_win:.0%} win-cup probability")
+        for col, round_name in zip(cols[5:], right_order):
+            with col:
+                _render_bracket_round(round_name, right_rounds.get(round_name, []))
 
 
-def _render_matchup_card(matchup: dict) -> None:
+def _render_bracket_round(round_name: str, matchups: list[dict]) -> None:
+    st.markdown(f"**{round_name}**")
+    spacer = {"R32": 0.25, "R16": 1.0, "QF": 2.4, "SF": 4.2}.get(round_name, 0.25)
+    if spacer:
+        st.markdown(f"<div style='height:{spacer}rem;'></div>", unsafe_allow_html=True)
+    for matchup in matchups:
+        _render_matchup_card(matchup)
+
+
+def _render_matchup_card(matchup: dict, compact: bool = True) -> None:
     team_a = matchup["team_a"]
     team_b = matchup["team_b"]
     winner = matchup["winner"]
     loser = team_b if winner == team_a else team_a
     probability = matchup.get("p_advance_winner", 0.0)
+    margin = "0.5rem" if compact else "0.8rem"
     st.markdown(
         f"""
-        <div style="border:1px solid #e5e7eb;border-radius:8px;padding:0.55rem 0.65rem;margin-bottom:0.55rem;background:#ffffff;">
+        <div style="border:1px solid #e5e7eb;border-left:4px solid #16a34a;border-radius:8px;padding:0.55rem 0.65rem;margin-bottom:{margin};background:#ffffff;">
           <div style="font-weight:700;color:#15803d;">✅ {winner} <span style="float:right;">{probability:.0%}</span></div>
           <div style="color:#94a3b8;text-decoration:line-through;margin-top:0.15rem;">{loser}</div>
         </div>
