@@ -39,6 +39,9 @@ def test_root_app_creates_pl_and_worldcup_tabs(monkeypatch):
 
     importlib.import_module("app")
 
-    assert ("tabs", ["Premier League", "World Cup 2026"]) in calls
+    assert calls[0][0] == "set_page_config"
+    assert calls[0][1]["page_title"] == "MultiForecast — World Cup 2026 & Premier League"
+    assert ("tabs", ["World Cup 2026", "Premier League 26/27"]) in calls
+    assert calls.index(("render", "wc")) < calls.index(("render", "pl"))
     assert ("render", "pl") in calls
     assert ("render", "wc") in calls

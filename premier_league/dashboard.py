@@ -297,6 +297,12 @@ def render_premier_league():
         )
         st.plotly_chart(fig, use_container_width=True)
 
+    with st.expander("How it works", expanded=False):
+        st.caption("Elo translates rating gaps into expected match strength.")
+        st.latex(r"E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}")
+        st.caption("Poisson rates turn expected goals into a scoreline distribution.")
+        st.latex(r"P(k) = \frac{\lambda^{k} e^{-\lambda}}{k!}")
+
     #footer & copyright
     st.divider()
     st.caption("Data based on ELO ratings and Monte Carlo simulation")
