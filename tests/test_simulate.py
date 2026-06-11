@@ -25,6 +25,25 @@ class StubModel:
         return ScorelineDist(grid)
 
 
+class CountingProbModel:
+    def __init__(self, strengths):
+        self.strengths = strengths
+        self.predict_calls = 0
+
+    def predict(self, home, away, *, neutral=False):
+        self.predict_calls += 1
+        grid = np.zeros((11, 11))
+        if self.strengths[home] >= self.strengths[away]:
+            grid[2, 0] = 0.65
+            grid[1, 1] = 0.20
+            grid[0, 2] = 0.15
+        else:
+            grid[2, 0] = 0.15
+            grid[1, 1] = 0.20
+            grid[0, 2] = 0.65
+        return ScorelineDist(grid)
+
+
 def _fixture_rows(groups):
     rows = []
     match_id = 1
@@ -129,3 +148,44 @@ def test_dominant_team_has_highest_win_cup_probability(tmp_path, monkeypatch):
     }
 
     assert max(win_probs, key=win_probs.get) == "A1"
+
+
+def test_predict_memoization_preserves_seeded_results_and_reduces_calls(tmp_path, monkeypatch):
+    import worldcup.simulate as simulate_module
+
+    groups_df, fixtures_df, results_df, fifa_ranks, strengths = _world_cup_fixture_data()
+
+    monkeypatch.setattr(simulate_module, "CACHE_PATH", tmp_path / "memoized.json")
+    memoized_model = CountingProbModel(strengths)
+    memoized = simulate_tournament(
+        memoized_model,
+        groups_df,
+        fixtures_df,
+        results_df,
+        fifa_ranks,
+        n_sims=5,
+        seed=99,
+        shootout="coin",
+        elo=strengths,
+        force=True,
+        memoize_predictions=True,
+    )
+
+    monkeypatch.setattr(simulate_module, "CACHE_PATH", tmp_path / "unmemoized.json")
+    unmemoized_model = CountingProbModel(strengths)
+    unmemoized = simulate_tournament(
+        unmemoized_model,
+        groups_df,
+        fixtures_df,
+        results_df,
+        fifa_ranks,
+        n_sims=5,
+        seed=99,
+        shootout="coin",
+        elo=strengths,
+        force=True,
+        memoize_predictions=False,
+    )
+
+    assert memoized == unmemoized
+    assert memoized_model.predict_calls < unmemoized_model.predict_calls

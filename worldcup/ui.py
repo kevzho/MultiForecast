@@ -5,6 +5,7 @@ from __future__ import annotations
 import altair as alt
 import pandas as pd
 import streamlit as st
+from time import perf_counter, time
 
 from worldcup.data import load_elo, load_fixtures, load_groups, load_results
 from worldcup.historical import load_history
@@ -14,7 +15,7 @@ from worldcup.model import EloModel
 from worldcup.models.bradley_terry import BradleyTerryModel
 from worldcup.models.dixon_coles import DixonColesModel
 from worldcup.models.poisson import PoissonModel
-from worldcup.simulate import simulate_tournament
+from worldcup.simulate import simulate_tournament, simulation_cache_info
 from worldcup.strengths import load_strengths
 from worldcup.validation import backtest, compare_models
 from worldcup.viz import (
@@ -33,6 +34,12 @@ MODEL_CAPTIONS = {
     "Data Poisson": "Data Poisson uses empirical attack and defense strengths from recent international results.",
     "Dixon-Coles": "Dixon-Coles is the flagship score model, adding low-score correlation to data Poisson rates.",
     "Bradley-Terry": "Bradley-Terry is a comparison model that fits W/D/L strength and reshapes goal rates.",
+}
+MODEL_CACHE_CLASS_NAMES = {
+    "Elo-Poisson": "EloModel",
+    "Data Poisson": "PoissonModel",
+    "Dixon-Coles": "DixonColesModel",
+    "Bradley-Terry": "BradleyTerryModel",
 }
 
 
@@ -66,15 +73,63 @@ def render_worldcup_tab():
             help="Higher values smooth the forecast but take longer on a cache miss.",
         )
 
-    simulation = _cached_simulation(
-        model_name,
-        groups,
-        fixtures,
-        results,
-        fifa_ranks,
-        n_sims=int(n_sims),
-        elo=elo,
-    )
+    n_sims = int(n_sims)
+    selection_key = (model_name, n_sims)
+    cache_info = _cached_simulation_cache_info(model_name, n_sims, results)
+    with st.sidebar:
+        if cache_info:
+            ran_at = cache_info.get("last_updated") or "an earlier run"
+            seed_note = cache_info.get("seed")
+            seed_text = f", seed {seed_note}" if seed_note is not None else ""
+            st.caption(f"Cached result available ({ran_at}{seed_text}); Run simulation will load it.")
+        run_clicked = st.button("Run simulation", type="primary", use_container_width=True)
+        rerun_clicked = False
+        if cache_info:
+            rerun_clicked = st.button("Re-run", use_container_width=True)
+
+    if run_clicked or rerun_clicked:
+        seed = int(time()) if rerun_clicked else 42
+        start = perf_counter()
+        with st.spinner("Running World Cup simulation..."):
+            simulation = _cached_simulation(
+                model_name,
+                groups,
+                fixtures,
+                results,
+                fifa_ranks,
+                n_sims=n_sims,
+                elo=elo,
+                seed=seed,
+                force=rerun_clicked,
+                cache_token=_cache_token(cache_info),
+            )
+        elapsed = perf_counter() - start
+        st.session_state["worldcup_simulation"] = {
+            "key": selection_key,
+            "result": simulation,
+            "metadata": _cached_simulation_cache_info(model_name, n_sims, results) or {
+                "seed": seed,
+                "last_updated": None,
+            },
+            "elapsed": elapsed,
+            "forced": rerun_clicked,
+        }
+
+    state = st.session_state.get("worldcup_simulation")
+    if not state or state.get("key") != selection_key:
+        st.title("World Cup 2026 Predictor")
+        st.info("Pick a model and click Run simulation to generate the forecast.")
+        return
+
+    simulation = state["result"]
+    metadata = state.get("metadata") or {}
+    if metadata.get("last_updated"):
+        st.caption(
+            f"Showing cached results from {metadata['last_updated']} "
+            f"(seed {metadata.get('seed', 'unknown')})."
+        )
+    elif state.get("elapsed") is not None:
+        st.caption(f"Simulation completed in {state['elapsed']:.1f}s.")
 
     bracket = most_likely_bracket(simulation)
 
@@ -108,6 +163,9 @@ def _cached_simulation(
     fifa_ranks: dict[str, int],
     n_sims: int,
     elo: dict[str, float],
+    seed: int,
+    force: bool,
+    cache_token: str,
 ) -> dict:
     model = AVAILABLE_MODELS[model_name]()
     return simulate_tournament(
@@ -117,10 +175,31 @@ def _cached_simulation(
         results,
         fifa_ranks,
         n_sims=int(n_sims),
-        seed=42,
+        seed=seed,
         shootout="elo",
         elo=elo,
+        force=force,
     )
+
+
+def _cached_simulation_cache_info(
+    model_name: str,
+    n_sims: int,
+    results: pd.DataFrame,
+) -> dict | None:
+    model = _cache_key_model(model_name)
+    return simulation_cache_info(model, int(n_sims), results)
+
+
+def _cache_token(cache_info: dict | None) -> str:
+    if not cache_info:
+        return "miss"
+    return str(cache_info.get("last_updated") or "unknown")
+
+
+def _cache_key_model(model_name: str):
+    class_name = MODEL_CACHE_CLASS_NAMES.get(model_name, model_name)
+    return type(class_name, (), {})()
 
 
 @st.cache_data(show_spinner="Backtesting match models...")
