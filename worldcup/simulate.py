@@ -29,13 +29,25 @@ def simulate_tournament(
     seed: int = 42,
     shootout: str = "elo",
     elo: dict[str, float] | None = None,
+    force: bool = False,
+    memoize_predictions: bool = True,
 ) -> dict:
     cache_key = _cache_key(model, n_sims, results_df)
-    cached = _read_cache(cache_key)
+    cached = None if force else _read_cache(cache_key)
     if cached is not None:
         return cached
 
     rng = make_rng(seed)
+    predict_cache = {}
+
+    def predict_cached(home: str, away: str, *, neutral: bool = False):
+        if not memoize_predictions:
+            return model.predict(home, away, neutral=bool(neutral))
+        key = (home, away, bool(neutral))
+        if key not in predict_cache:
+            predict_cache[key] = model.predict(home, away, neutral=bool(neutral))
+        return predict_cache[key]
+
     elo = elo or getattr(model, "ratings", {})
     teams = list(groups_df["Team"])
     groups = {
@@ -61,7 +73,7 @@ def simulate_tournament(
                 if fixture["MatchID"] in played_results:
                     hg, ag = played_results[fixture["MatchID"]]
                 else:
-                    dist = model.predict(home, away, neutral=bool(fixture["Neutral"]))
+                    dist = predict_cached(home, away, neutral=bool(fixture["Neutral"]))
                     hg, ag = dist.sample(rng)
                 matches.append(
                     {
@@ -101,7 +113,7 @@ def simulate_tournament(
             thirds.append(stats[third])
 
         if len(groups) < 12:
-            winner_fn = _winner_fn(model, rng, shootout, elo, sim_gf, sim_ga)
+            winner_fn = _winner_fn(predict_cached, rng, shootout, elo, sim_gf, sim_ga)
             _simulate_mini_knockout(group_results, counters, winner_fn)
             for team in teams:
                 counters[team]["gf"] += sim_gf[team]
@@ -114,7 +126,7 @@ def simulate_tournament(
             counters[team]["reached_R32"] += 1
 
         r32 = build_r32(group_results, best_thirds)
-        winner_fn = _winner_fn(model, rng, shootout, elo, sim_gf, sim_ga)
+        winner_fn = _winner_fn(predict_cached, rng, shootout, elo, sim_gf, sim_ga)
         r16, _ = advance(r32, winner_fn)
         _record_pairing_teams(counters, r16, "reached_R16")
         qf, _ = advance(r16, winner_fn)
@@ -137,12 +149,12 @@ def simulate_tournament(
             counters[team]["ga"] += sim_ga[team]
 
     result = _aggregate(counters, groups, n_sims)
-    _write_cache(cache_key, result)
+    _write_cache(cache_key, result, seed=seed)
     return result
 
 
 def _winner_fn(
-    model,
+    predict,
     rng,
     shootout: str,
     elo: dict[str, float],
@@ -150,7 +162,7 @@ def _winner_fn(
     goals_against: dict[str, float],
 ):
     def choose(team_a: str, team_b: str) -> tuple[str, str]:
-        dist = model.predict(team_a, team_b, neutral=True)
+        dist = predict(team_a, team_b, neutral=True)
         goals_a, goals_b = dist.sample(rng)
         goals_for[team_a] += goals_a
         goals_against[team_a] += goals_b
@@ -303,6 +315,13 @@ def _cache_key(model, n_sims: int, results_df: pd.DataFrame) -> str:
 
 
 def _read_cache(cache_key: str) -> dict | None:
+    entry = _read_cache_entry(cache_key)
+    if entry is None:
+        return None
+    return entry["result"]
+
+
+def _read_cache_entry(cache_key: str) -> dict | None:
     if not CACHE_PATH.exists():
         return None
     with CACHE_PATH.open("r", encoding="utf-8") as f:
@@ -310,10 +329,20 @@ def _read_cache(cache_key: str) -> dict | None:
     entry = cache.get(cache_key)
     if entry is None:
         return None
-    return entry["result"]
+    return entry
 
 
-def _write_cache(cache_key: str, result: dict) -> None:
+def simulation_cache_info(model, n_sims: int, results_df: pd.DataFrame) -> dict | None:
+    entry = _read_cache_entry(_cache_key(model, n_sims, results_df))
+    if entry is None:
+        return None
+    return {
+        "last_updated": entry.get("last_updated"),
+        "seed": entry.get("seed"),
+    }
+
+
+def _write_cache(cache_key: str, result: dict, seed: int) -> None:
     CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
     if CACHE_PATH.exists():
         with CACHE_PATH.open("r", encoding="utf-8") as f:
@@ -322,6 +351,7 @@ def _write_cache(cache_key: str, result: dict) -> None:
         cache = {}
     cache[cache_key] = {
         "last_updated": datetime.now(timezone.utc).isoformat(),
+        "seed": seed,
         "result": result,
     }
     with CACHE_PATH.open("w", encoding="utf-8") as f:
