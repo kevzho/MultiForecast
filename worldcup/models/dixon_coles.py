@@ -6,7 +6,6 @@ import math
 
 import numpy as np
 import pandas as pd
-from scipy.optimize import minimize_scalar
 
 from worldcup.model import MAX_GOALS, ScorelineDist, _poisson_pmf
 from worldcup.strengths import StrengthTable
@@ -42,6 +41,8 @@ class DixonColesModel:
             matches["neutral"] = False
         if matches.empty:
             return cls(strengths, default_rho)
+
+        from scipy.optimize import minimize_scalar
 
         def neg_loglike(rho: float) -> float:
             total = 0.0

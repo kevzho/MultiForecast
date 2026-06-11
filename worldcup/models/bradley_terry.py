@@ -7,7 +7,6 @@ import math
 
 import numpy as np
 import pandas as pd
-from scipy.optimize import minimize
 
 from worldcup.model import ScorelineDist, _poisson_pmf, _rescale_wdl
 from worldcup.strengths import StrengthTable
@@ -97,6 +96,8 @@ class BradleyTerryModel:
 
         initial = np.zeros(len(team_index) + 2)
         initial[len(team_index)] = math.log(0.7)
+        from scipy.optimize import minimize
+
         result = minimize(neg_loglike, initial, method="BFGS")
         if not result.success:
             return cls.from_elo(goal_strengths, default_elo or {})
