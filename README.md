@@ -50,6 +50,13 @@ World Cup simulator smoke run:
 python -m worldcup.simulate
 ```
 
+## Automated Daily Refresh
+
+The GitHub Action `Daily Refresh (PL + World Cup)` runs `python refresh_all.py`
+every day at 10:00 UTC and commits updated tracked `data/` outputs. Premier
+League and World Cup live fetch steps are non-fatal, so a flaky upstream source
+prints a warning and the job continues with the last-good data where possible.
+
 ## Product Docs
 
 - [Premier League predictor](premier_league/README.md)

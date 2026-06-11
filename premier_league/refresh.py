@@ -33,6 +33,13 @@ def run_step(label, cmd, cwd=PROJECT_ROOT):
         )
 
 
+def run_optional_step(label, cmd, cwd=PROJECT_ROOT):
+    try:
+        run_step(label, cmd, cwd=cwd)
+    except subprocess.CalledProcessError as e:
+        print(f"WARN: {label} failed: {e}")
+
+
 def delete_sim_cache():
     cache_dir = PROJECT_ROOT / "cache"
     if not cache_dir.exists():
@@ -44,9 +51,9 @@ def delete_sim_cache():
 
 
 def main(launch_app=False):
-    run_step("Fetch latest data", [PYTHON, "-m", "premier_league.engine.fetch_data"])
+    run_optional_step("Fetch latest data", [PYTHON, "-m", "premier_league.engine.fetch_data"])
     run_step("Rebuild Elo ratings", [PYTHON, "-m", "premier_league.engine.elo_run"])
-    run_step("Refresh remaining fixtures", [PYTHON, "-m", "premier_league.engine.remaining_fixtures"])
+    run_optional_step("Refresh remaining fixtures", [PYTHON, "-m", "premier_league.engine.remaining_fixtures"])
     run_step("Build summary table", [PYTHON, "-m", "premier_league.engine.table"])
 
     delete_sim_cache()

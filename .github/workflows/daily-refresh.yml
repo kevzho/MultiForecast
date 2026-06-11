@@ -1,4 +1,4 @@
-name: Daily Premier League Refresh
+name: Daily Refresh (PL + World Cup)
 
 on:
   schedule:
@@ -31,12 +31,14 @@ jobs:
 
       - name: Run refresh pipeline
         run: |
-          python -m premier_league.refresh
+          python refresh_all.py
 
       - name: Commit updated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/*.csv data/*.json cache/*.csv cache/*.json premier_league/viz/table-level-eda-output.ipynb || true
-          git diff --cached --quiet || git commit -m "Automated daily refresh"
+          git add -A data cache premier_league/viz/table-level-eda-output.ipynb || true
+          git reset -- cache data/wc/historical || true
+          git diff --cached --quiet || git commit -m "Automated daily refresh: $(date -u +%F)"
+          git pull --rebase --autostash origin main
           git push

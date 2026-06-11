@@ -4,3 +4,5 @@ personal-notes.txt
 __pycache__/
 data/wc/historical/
 apply_2627.py
+cache/
+cache/
