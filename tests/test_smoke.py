@@ -76,7 +76,8 @@ def test_app_and_worldcup_ui_import_without_statsmodels(monkeypatch):
 
     importlib.import_module("app")
 
-    assert ("tabs", ["Premier League", "World Cup 2026"]) in calls
+    assert ("tabs", ["World Cup 2026", "Premier League 26/27"]) in calls
+    assert calls.index(("render", "wc")) < calls.index(("render", "pl"))
     assert ("render", "pl") in calls
     assert ("render", "wc") in calls
 

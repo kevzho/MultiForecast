@@ -106,12 +106,12 @@ def most_likely_bracket(simulation: dict) -> dict:
     if len(group_results) < 12:
         return _mini_bracket(simulation, group_results)
     best_thirds = _projected_best_thirds(simulation, group_results)
-    rounds = {"R32": build_r32(group_results, best_thirds)}
-    rounds["R16"] = _advance_round(simulation, rounds["R32"], "R32")
-    rounds["QF"] = _advance_round(simulation, rounds["R16"], "R16")
-    rounds["SF"] = _advance_round(simulation, rounds["QF"], "QF")
-    rounds["Final"] = _advance_round(simulation, rounds["SF"], "SF")
-    champion = _advance_pairing(simulation, rounds["Final"][0], "Final")
+    rounds = {}
+    pairings = build_r32(group_results, best_thirds)
+    for round_name in ("R32", "R16", "QF", "SF", "Final"):
+        rounds[round_name] = _advance_round(simulation, pairings, round_name)
+        pairings = _next_round_pairings(rounds[round_name])
+    champion = rounds["Final"][0]["winner"] if rounds.get("Final") else ""
     return {"rounds": rounds, "champion": champion}
 
 
@@ -142,12 +142,15 @@ def _projected_best_thirds(simulation: dict, group_results: dict) -> list[str]:
     return thirds[:8]
 
 
-def _advance_round(simulation: dict, pairings: list[tuple[str, str]], round_name: str) -> list:
-    winners = [_advance_pairing(simulation, pairing, round_name) for pairing in pairings]
-    return list(zip(winners[::2], winners[1::2]))
+def _advance_round(simulation: dict, pairings: list[tuple[str, str]], round_name: str) -> list[dict]:
+    return [_pairing_outcome(simulation, pairing, round_name) for pairing in pairings]
 
 
 def _advance_pairing(simulation: dict, pairing: tuple[str, str], round_name: str) -> str:
+    return _pairing_outcome(simulation, pairing, round_name)["winner"]
+
+
+def _pairing_outcome(simulation: dict, pairing: tuple[str, str], round_name: str) -> dict:
     key = ROUND_NEXT_PROB[round_name]
     per_team = simulation.get("per_team", {})
     team_a, team_b = pairing
@@ -156,7 +159,18 @@ def _advance_pairing(simulation: dict, pairing: tuple[str, str], round_name: str
     if prob_a == prob_b:
         prob_a = per_team.get(team_a, {}).get("P(win_cup)", 0.0)
         prob_b = per_team.get(team_b, {}).get("P(win_cup)", 0.0)
-    return team_a if prob_a >= prob_b else team_b
+    winner = team_a if prob_a >= prob_b else team_b
+    return {
+        "team_a": team_a,
+        "team_b": team_b,
+        "winner": winner,
+        "p_advance_winner": per_team.get(winner, {}).get(key, 0.0),
+    }
+
+
+def _next_round_pairings(round_matchups: list[dict]) -> list[tuple[str, str]]:
+    winners = [matchup["winner"] for matchup in round_matchups]
+    return list(zip(winners[::2], winners[1::2]))
 
 
 def _expected_finish(finish_distribution: dict) -> float:
@@ -174,6 +188,8 @@ def _mini_bracket(simulation: dict, group_results: dict) -> dict:
         (group_results[groups[0]]["winner"], group_results[groups[1]]["runner_up"]),
         (group_results[groups[1]]["winner"], group_results[groups[0]]["runner_up"]),
     ]
-    final = _advance_round(simulation, pairings, "R32")
-    champion = _advance_pairing(simulation, final[0], "Final")
-    return {"rounds": {"R32": pairings, "Final": final}, "champion": champion}
+    r32 = _advance_round(simulation, pairings, "R32")
+    final_pairings = _next_round_pairings(r32)
+    final = _advance_round(simulation, final_pairings, "Final")
+    champion = final[0]["winner"] if final else ""
+    return {"rounds": {"R32": r32, "Final": final}, "champion": champion}
