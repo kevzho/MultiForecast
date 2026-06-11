@@ -8,7 +8,6 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
-import statsmodels.api as sm
 
 from worldcup.data import load_elo
 from worldcup.historical import download_history, load_history
@@ -149,6 +148,14 @@ def _goal_rows(matches: pd.DataFrame, half_life_days: int) -> pd.DataFrame:
 
 
 def _fit_glm(rows: pd.DataFrame, teams: list[str]) -> StrengthTable:
+    try:
+        import statsmodels.api as sm
+    except ModuleNotFoundError as exc:
+        raise ModuleNotFoundError(
+            "statsmodels is required to fit strengths; run `pip install statsmodels`. "
+            "Pre-fitted data/wc/intl_strengths.csv is used at runtime and does not need statsmodels."
+        ) from exc
+
     attack_cols = pd.get_dummies(rows["scorer"], prefix="attack", dtype=float)
     defense_cols = pd.get_dummies(rows["conceder"], prefix="defense", dtype=float)
     attack_ref = f"attack_{teams[-1]}"
