@@ -6,6 +6,7 @@
 pandas==2.0.3
 numpy==1.24.3
 scipy==1.11.1
+statsmodels==0.14.6
 
 # viz
 plotly==5.17.0
