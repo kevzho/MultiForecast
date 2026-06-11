@@ -2,4 +2,5 @@ plan.pdf
 personal-notes.txt
 /src/__pycache__/
 __pycache__/
+data/wc/historical/
 apply_2627.py

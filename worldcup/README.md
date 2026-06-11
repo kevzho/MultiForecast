@@ -22,7 +22,13 @@ World Cup data lives under `data/wc/`:
 - `wc2026_fixtures.csv`: group fixtures plus knockout placeholders.
 - `wc2026_results.csv`: live result stub.
 - `intl_elo_ratings.csv`: international Elo seed ratings.
+- `intl_strengths.csv`: fitted recency-weighted attack/defense strengths for international teams.
 - `SOURCES.md`: rank, venue, Elo, and fixture verification notes.
+
+Historical international results are auto-downloaded on first use by
+`python -m worldcup.strengths` into `data/wc/historical/`. The cache contains
+the upstream `results.csv` and `shootouts.csv` files from
+`martj42/international_results` and is ignored by git.
 
 ## Key Modules
 
