@@ -100,6 +100,14 @@ def simulate_tournament(
             }
             thirds.append(stats[third])
 
+        if len(groups) < 12:
+            winner_fn = _winner_fn(model, rng, shootout, elo, sim_gf, sim_ga)
+            _simulate_mini_knockout(group_results, counters, winner_fn)
+            for team in teams:
+                counters[team]["gf"] += sim_gf[team]
+                counters[team]["ga"] += sim_ga[team]
+            continue
+
         best_thirds, _ = rank_third_place(thirds, fifa_ranks)
         r32_teams.update(best_thirds)
         for team in r32_teams:
@@ -158,6 +166,40 @@ def _winner_fn(
         return team_b, team_a
 
     return choose
+
+
+def _simulate_mini_knockout(
+    group_results: dict,
+    counters: dict[str, dict],
+    winner_fn,
+) -> None:
+    groups = sorted(group_results)
+    qualifiers = []
+    for group in groups:
+        winner = group_results[group]["winner"]
+        runner_up = group_results[group]["runner_up"]
+        qualifiers.extend((winner, runner_up))
+        counters[winner]["reached_R32"] += 1
+        counters[runner_up]["reached_R32"] += 1
+
+    if len(qualifiers) < 2:
+        return
+    if len(groups) == 2:
+        pairings = [
+            (group_results[groups[0]]["winner"], group_results[groups[1]]["runner_up"]),
+            (group_results[groups[1]]["winner"], group_results[groups[0]]["runner_up"]),
+        ]
+    else:
+        pairings = list(zip(qualifiers[::2], qualifiers[1::2]))
+
+    while len(pairings) > 1:
+        _record_pairing_teams(counters, pairings, "reached_R16")
+        pairings, _ = advance(pairings, winner_fn)
+
+    _record_pairing_teams(counters, pairings, "reached_Final")
+    champion_pairing, _ = advance(pairings, winner_fn)
+    champion = champion_pairing[0][0]
+    counters[champion]["won_cup"] += 1
 
 
 def _shootout_probability(
