@@ -1,0 +1,307 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+bundesliga,2324,2023-08-18,Werder Bremen,Bayern Munich,0,4,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-19,Augsburg,Borussia Monchengladbach,4,4,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-19,Hoffenheim,Freiburg,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-19,Bayer Leverkusen,RB Leipzig,3,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-19,Stuttgart,Bochum,5,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-19,Wolfsburg,Heidenheim,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-19,Borussia Dortmund,FC Cologne,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-20,Union Berlin,Mainz,4,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-20,Eintracht Frankfurt,Darmstadt,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-25,RB Leipzig,Stuttgart,5,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-26,Bochum,Borussia Dortmund,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-26,Darmstadt,Union Berlin,1,4,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-26,FC Cologne,Wolfsburg,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-26,Freiburg,Werder Bremen,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-26,Heidenheim,Hoffenheim,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-26,Borussia Monchengladbach,Bayer Leverkusen,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-27,Mainz,Eintracht Frankfurt,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-08-27,Bayern Munich,Augsburg,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-01,Borussia Dortmund,Heidenheim,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-02,Augsburg,Bochum,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-02,Hoffenheim,Wolfsburg,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-02,Bayer Leverkusen,Darmstadt,5,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-02,Stuttgart,Freiburg,5,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-02,Werder Bremen,Mainz,4,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-02,Borussia Monchengladbach,Bayern Munich,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-03,Eintracht Frankfurt,FC Cologne,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-03,Union Berlin,RB Leipzig,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-15,Bayern Munich,Bayer Leverkusen,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-16,FC Cologne,Hoffenheim,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-16,Freiburg,Borussia Dortmund,2,4,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-16,Mainz,Stuttgart,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-16,RB Leipzig,Augsburg,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-16,Wolfsburg,Union Berlin,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-16,Bochum,Eintracht Frankfurt,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-17,Heidenheim,Werder Bremen,4,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-17,Darmstadt,Borussia Monchengladbach,3,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-22,Stuttgart,Darmstadt,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-23,Augsburg,Mainz,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-23,Bayern Munich,Bochum,7,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-23,Borussia Dortmund,Wolfsburg,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-23,Borussia Monchengladbach,RB Leipzig,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-23,Union Berlin,Hoffenheim,0,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-23,Werder Bremen,FC Cologne,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-24,Bayer Leverkusen,Heidenheim,4,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-24,Eintracht Frankfurt,Freiburg,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-29,Hoffenheim,Borussia Dortmund,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-30,Bochum,Borussia Monchengladbach,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-30,FC Cologne,Stuttgart,0,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-30,Heidenheim,Union Berlin,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-30,Mainz,Bayer Leverkusen,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-30,Wolfsburg,Eintracht Frankfurt,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-09-30,RB Leipzig,Bayern Munich,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-01,Darmstadt,Werder Bremen,4,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-01,Freiburg,Augsburg,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-06,Borussia Monchengladbach,Mainz,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-07,Augsburg,Darmstadt,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-07,Borussia Dortmund,Union Berlin,4,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-07,RB Leipzig,Bochum,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-07,Stuttgart,Wolfsburg,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-07,Werder Bremen,Hoffenheim,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-08,Bayer Leverkusen,FC Cologne,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-08,Bayern Munich,Freiburg,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-08,Eintracht Frankfurt,Heidenheim,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-20,Borussia Dortmund,Werder Bremen,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-21,Darmstadt,RB Leipzig,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-21,Freiburg,Bochum,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-21,Hoffenheim,Eintracht Frankfurt,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-21,Union Berlin,Stuttgart,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-21,Wolfsburg,Bayer Leverkusen,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-21,Mainz,Bayern Munich,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-22,FC Cologne,Borussia Monchengladbach,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-22,Heidenheim,Augsburg,2,5,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-27,Bochum,Mainz,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-28,Augsburg,Wolfsburg,3,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-28,Bayern Munich,Darmstadt,8,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-28,Borussia Monchengladbach,Heidenheim,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-28,Stuttgart,Hoffenheim,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-28,Werder Bremen,Union Berlin,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-28,RB Leipzig,FC Cologne,6,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-29,Eintracht Frankfurt,Borussia Dortmund,3,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-10-29,Bayer Leverkusen,Freiburg,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-03,Darmstadt,Bochum,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-04,FC Cologne,Augsburg,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-04,Freiburg,Borussia Monchengladbach,3,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-04,Hoffenheim,Bayer Leverkusen,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-04,Mainz,RB Leipzig,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-04,Union Berlin,Eintracht Frankfurt,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-04,Borussia Dortmund,Bayern Munich,0,4,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-05,Wolfsburg,Werder Bremen,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-05,Heidenheim,Stuttgart,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-10,Borussia Monchengladbach,Wolfsburg,4,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-11,Augsburg,Hoffenheim,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-11,Bayern Munich,Heidenheim,4,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-11,Darmstadt,Mainz,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-11,Stuttgart,Borussia Dortmund,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-11,Bochum,FC Cologne,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-12,Bayer Leverkusen,Union Berlin,4,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-12,Werder Bremen,Eintracht Frankfurt,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-12,RB Leipzig,Freiburg,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-24,FC Cologne,Bayern Munich,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-25,Borussia Dortmund,Borussia Monchengladbach,4,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-25,Freiburg,Darmstadt,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-25,Union Berlin,Augsburg,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-25,Werder Bremen,Bayer Leverkusen,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-25,Wolfsburg,RB Leipzig,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-25,Eintracht Frankfurt,Stuttgart,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-26,Heidenheim,Bochum,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-11-26,Hoffenheim,Mainz,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-01,Darmstadt,FC Cologne,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-02,Bochum,Wolfsburg,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-02,Borussia Monchengladbach,Hoffenheim,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-02,RB Leipzig,Heidenheim,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-02,Stuttgart,Werder Bremen,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-03,Mainz,Freiburg,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-03,Bayer Leverkusen,Borussia Dortmund,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-03,Augsburg,Eintracht Frankfurt,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-08,Hoffenheim,Bochum,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-09,Eintracht Frankfurt,Bayern Munich,5,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-09,Heidenheim,Darmstadt,3,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-09,Union Berlin,Borussia Monchengladbach,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-09,Werder Bremen,Augsburg,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-09,Wolfsburg,Freiburg,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-09,Borussia Dortmund,RB Leipzig,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-10,Stuttgart,Bayer Leverkusen,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-10,FC Cologne,Mainz,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-15,Borussia Monchengladbach,Werder Bremen,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-16,Augsburg,Borussia Dortmund,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-16,Bochum,Union Berlin,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-16,Darmstadt,Wolfsburg,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-16,Mainz,Heidenheim,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-16,RB Leipzig,Hoffenheim,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-17,Freiburg,FC Cologne,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-17,Bayer Leverkusen,Eintracht Frankfurt,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-17,Bayern Munich,Stuttgart,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-19,Werder Bremen,RB Leipzig,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-19,Borussia Dortmund,Mainz,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-19,Hoffenheim,Darmstadt,3,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-20,Union Berlin,FC Cologne,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-20,Eintracht Frankfurt,Borussia Monchengladbach,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-20,Heidenheim,Freiburg,3,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-20,Bayer Leverkusen,Bochum,4,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-20,Stuttgart,Augsburg,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2023-12-20,Wolfsburg,Bayern Munich,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-12,Bayern Munich,Hoffenheim,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-13,Augsburg,Bayer Leverkusen,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-13,FC Cologne,Heidenheim,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-13,Freiburg,Union Berlin,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-13,Mainz,Wolfsburg,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-13,RB Leipzig,Eintracht Frankfurt,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-13,Darmstadt,Borussia Dortmund,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-14,Bochum,Werder Bremen,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-14,Borussia Monchengladbach,Stuttgart,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-20,Bochum,Stuttgart,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-20,Darmstadt,Eintracht Frankfurt,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-20,FC Cologne,Borussia Dortmund,0,4,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-20,Freiburg,Hoffenheim,3,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-20,Heidenheim,Wolfsburg,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-20,RB Leipzig,Bayer Leverkusen,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-21,Bayern Munich,Werder Bremen,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-21,Borussia Monchengladbach,Augsburg,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-24,Bayern Munich,Union Berlin,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-26,Eintracht Frankfurt,Mainz,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-27,Augsburg,Bayern Munich,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-27,Hoffenheim,Heidenheim,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-27,Stuttgart,RB Leipzig,5,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-27,Werder Bremen,Freiburg,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-27,Wolfsburg,FC Cologne,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-27,Bayer Leverkusen,Borussia Monchengladbach,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-28,Union Berlin,Darmstadt,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-01-28,Borussia Dortmund,Bochum,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-02,Heidenheim,Borussia Dortmund,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-03,Bayern Munich,Borussia Monchengladbach,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-03,Bochum,Augsburg,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-03,Darmstadt,Bayer Leverkusen,0,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-03,Freiburg,Stuttgart,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-03,Mainz,Werder Bremen,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-03,FC Cologne,Eintracht Frankfurt,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-04,Wolfsburg,Hoffenheim,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-04,RB Leipzig,Union Berlin,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-07,Mainz,Union Berlin,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-09,Borussia Dortmund,Freiburg,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-10,Augsburg,RB Leipzig,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-10,Eintracht Frankfurt,Bochum,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-10,Borussia Monchengladbach,Darmstadt,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-10,Union Berlin,Wolfsburg,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-10,Werder Bremen,Heidenheim,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-10,Bayer Leverkusen,Bayern Munich,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-11,Stuttgart,Mainz,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-11,Hoffenheim,FC Cologne,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-16,FC Cologne,Werder Bremen,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-17,Darmstadt,Stuttgart,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-17,Heidenheim,Bayer Leverkusen,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-17,Hoffenheim,Union Berlin,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-17,Mainz,Augsburg,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-17,Wolfsburg,Borussia Dortmund,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-17,RB Leipzig,Borussia Monchengladbach,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-18,Freiburg,Eintracht Frankfurt,3,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-18,Bochum,Bayern Munich,3,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-23,Bayer Leverkusen,Mainz,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-24,Borussia Monchengladbach,Bochum,5,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-24,Stuttgart,FC Cologne,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-24,Union Berlin,Heidenheim,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-24,Werder Bremen,Darmstadt,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-24,Bayern Munich,RB Leipzig,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-25,Eintracht Frankfurt,Wolfsburg,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-25,Borussia Dortmund,Hoffenheim,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-02-25,Augsburg,Freiburg,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-01,Freiburg,Bayern Munich,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-02,Bochum,RB Leipzig,1,4,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-02,Darmstadt,Augsburg,0,6,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-02,Heidenheim,Eintracht Frankfurt,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-02,Mainz,Borussia Monchengladbach,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-02,Union Berlin,Borussia Dortmund,0,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-02,Wolfsburg,Stuttgart,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-03,FC Cologne,Bayer Leverkusen,0,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-03,Hoffenheim,Werder Bremen,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-08,Stuttgart,Union Berlin,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-09,Augsburg,Heidenheim,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-09,Bayern Munich,Mainz,8,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-09,Borussia Monchengladbach,FC Cologne,3,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-09,RB Leipzig,Darmstadt,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-09,Werder Bremen,Borussia Dortmund,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-10,Bochum,Freiburg,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-10,Eintracht Frankfurt,Hoffenheim,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-10,Bayer Leverkusen,Wolfsburg,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-15,FC Cologne,RB Leipzig,1,5,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-16,Darmstadt,Bayern Munich,2,5,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-16,Heidenheim,Borussia Monchengladbach,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-16,Mainz,Bochum,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-16,Union Berlin,Werder Bremen,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-16,Wolfsburg,Augsburg,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-16,Hoffenheim,Stuttgart,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-17,Freiburg,Bayer Leverkusen,2,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-17,Borussia Dortmund,Eintracht Frankfurt,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-30,Eintracht Frankfurt,Union Berlin,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-30,Bayer Leverkusen,Hoffenheim,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-30,Borussia Monchengladbach,Freiburg,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-30,RB Leipzig,Mainz,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-30,Werder Bremen,Wolfsburg,0,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-30,Bayern Munich,Borussia Dortmund,0,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-31,Augsburg,FC Cologne,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-31,Stuttgart,Heidenheim,3,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-03-31,Bochum,Darmstadt,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-05,Eintracht Frankfurt,Werder Bremen,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-06,FC Cologne,Bochum,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-06,Freiburg,RB Leipzig,1,4,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-06,Heidenheim,Bayern Munich,3,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-06,Mainz,Darmstadt,4,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-06,Union Berlin,Bayer Leverkusen,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-06,Borussia Dortmund,Stuttgart,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-07,Hoffenheim,Augsburg,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-07,Wolfsburg,Borussia Monchengladbach,1,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-12,Augsburg,Union Berlin,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-13,Bayern Munich,FC Cologne,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-13,Bochum,Heidenheim,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-13,Mainz,Hoffenheim,4,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-13,Borussia Monchengladbach,Borussia Dortmund,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-13,RB Leipzig,Wolfsburg,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-13,Stuttgart,Eintracht Frankfurt,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-14,Darmstadt,Freiburg,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-14,Bayer Leverkusen,Werder Bremen,5,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-19,Eintracht Frankfurt,Augsburg,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-20,FC Cologne,Darmstadt,0,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-20,Heidenheim,RB Leipzig,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-20,Hoffenheim,Borussia Monchengladbach,4,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-20,Wolfsburg,Bochum,1,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-20,Union Berlin,Bayern Munich,1,5,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-21,Werder Bremen,Stuttgart,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-21,Borussia Dortmund,Bayer Leverkusen,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-21,Freiburg,Mainz,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-26,Bochum,Hoffenheim,3,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-27,Augsburg,Werder Bremen,0,3,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-27,Bayern Munich,Eintracht Frankfurt,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-27,Freiburg,Wolfsburg,1,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-27,RB Leipzig,Borussia Dortmund,4,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-27,Bayer Leverkusen,Stuttgart,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-28,Borussia Monchengladbach,Union Berlin,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-28,Mainz,FC Cologne,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-04-28,Darmstadt,Heidenheim,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-03,Hoffenheim,RB Leipzig,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-04,Borussia Dortmund,Augsburg,5,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-04,Stuttgart,Bayern Munich,3,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-04,Werder Bremen,Borussia Monchengladbach,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-04,Wolfsburg,Darmstadt,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-04,FC Cologne,Freiburg,0,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-05,Union Berlin,Bochum,3,4,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-05,Eintracht Frankfurt,Bayer Leverkusen,1,5,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-05,Heidenheim,Mainz,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-10,Augsburg,Stuttgart,0,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-11,FC Cologne,Union Berlin,3,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-11,Freiburg,Heidenheim,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-11,Borussia Monchengladbach,Eintracht Frankfurt,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-11,RB Leipzig,Werder Bremen,1,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-11,Mainz,Borussia Dortmund,3,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-12,Darmstadt,Hoffenheim,0,6,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-12,Bayern Munich,Wolfsburg,2,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-12,Bochum,Bayer Leverkusen,0,5,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-18,Borussia Dortmund,Darmstadt,4,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-18,Eintracht Frankfurt,RB Leipzig,2,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-18,Heidenheim,FC Cologne,4,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-18,Hoffenheim,Bayern Munich,4,2,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-18,Bayer Leverkusen,Augsburg,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-18,Stuttgart,Borussia Monchengladbach,4,0,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-18,Union Berlin,Freiburg,2,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-18,Werder Bremen,Bochum,4,1,played,2026-08-27 22:28:20.225888+00:00
+bundesliga,2324,2024-05-18,Wolfsburg,Mainz,1,3,played,2026-08-27 22:28:20.225888+00:00

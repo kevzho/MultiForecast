@@ -11,7 +11,7 @@ class _Tab:
         return False
 
 
-def test_root_app_creates_pl_and_worldcup_tabs(monkeypatch):
+def test_root_app_creates_domestic_and_worldcup_tabs(monkeypatch):
     calls = []
     streamlit = types.SimpleNamespace()
 
@@ -25,23 +25,23 @@ def test_root_app_creates_pl_and_worldcup_tabs(monkeypatch):
     streamlit.set_page_config = set_page_config
     streamlit.tabs = tabs
 
-    pl_module = types.SimpleNamespace(
-        render_premier_league=lambda: calls.append(("render", "pl"))
+    domestic_module = types.SimpleNamespace(
+        render_domestic_leagues=lambda: calls.append(("render", "domestic"))
     )
     wc_module = types.SimpleNamespace(
         render_worldcup_tab=lambda: calls.append(("render", "wc"))
     )
 
     monkeypatch.setitem(sys.modules, "streamlit", streamlit)
-    monkeypatch.setitem(sys.modules, "premier_league.dashboard", pl_module)
+    monkeypatch.setitem(sys.modules, "domestic.ui", domestic_module)
     monkeypatch.setitem(sys.modules, "worldcup.ui", wc_module)
     sys.modules.pop("app", None)
 
     importlib.import_module("app")
 
     assert calls[0][0] == "set_page_config"
-    assert calls[0][1]["page_title"] == "MultiForecast — World Cup 2026 & Premier League"
-    assert ("tabs", ["World Cup 2026", "Premier League 26/27"]) in calls
-    assert calls.index(("render", "wc")) < calls.index(("render", "pl"))
-    assert ("render", "pl") in calls
+    assert calls[0][1]["page_title"] == "MultiForecast — World Cup & Big Five Leagues"
+    assert ("tabs", ["World Cup 2026", "Big Five Leagues"]) in calls
+    assert calls.index(("render", "wc")) < calls.index(("render", "domestic"))
+    assert ("render", "domestic") in calls
     assert ("render", "wc") in calls

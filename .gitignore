@@ -3,6 +3,10 @@ personal-notes.txt
 /src/__pycache__/
 __pycache__/
 data/wc/historical/
+data/domestic/raw/
+data/domestic/last_known_good/
+data/domestic/validation/
 apply_2627.py
 cache/
-cache/
+.DS_Store
+.streamlit/secrets.toml

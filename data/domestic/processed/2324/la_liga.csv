@@ -1,0 +1,381 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+la_liga,2324,2023-08-11,Almeria,Vallecano,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-11,Sevilla,Valencia,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-12,Real Sociedad,Girona,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-12,Las Palmas,Mallorca,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-12,Athletic Club,Real Madrid,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-13,Celta Vigo,Osasuna,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-13,Villarreal,Real Betis,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-13,Getafe,Barcelona,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-14,Cadiz,Alaves,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-14,Atletico Madrid,Granada,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-18,Mallorca,Villarreal,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-18,Valencia,Las Palmas,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-19,Real Sociedad,Celta Vigo,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-19,Almeria,Real Madrid,1,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-19,Osasuna,Athletic Club,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-20,Girona,Getafe,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-20,Barcelona,Cadiz,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-20,Real Betis,Atletico Madrid,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-21,Alaves,Sevilla,4,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-21,Granada,Vallecano,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-25,Las Palmas,Real Sociedad,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-25,Celta Vigo,Real Madrid,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-26,Cadiz,Almeria,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-26,Granada,Mallorca,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-26,Sevilla,Girona,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-27,Villarreal,Barcelona,3,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-27,Valencia,Osasuna,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-27,Athletic Club,Real Betis,4,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-28,Getafe,Alaves,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-08-28,Vallecano,Atletico Madrid,0,7,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-01,Cadiz,Villarreal,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-01,Almeria,Celta Vigo,2,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-02,Real Sociedad,Granada,5,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-02,Real Madrid,Getafe,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-02,Alaves,Valencia,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-02,Real Betis,Vallecano,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-03,Girona,Las Palmas,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-03,Mallorca,Athletic Club,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-03,Osasuna,Barcelona,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-15,Vallecano,Alaves,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-16,Athletic Club,Cadiz,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-16,Valencia,Atletico Madrid,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-16,Celta Vigo,Mallorca,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-16,Barcelona,Real Betis,5,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-17,Getafe,Osasuna,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-17,Villarreal,Almeria,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-17,Sevilla,Las Palmas,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-17,Real Madrid,Real Sociedad,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-18,Granada,Girona,2,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-22,Alaves,Athletic Club,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-23,Girona,Mallorca,5,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-23,Osasuna,Sevilla,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-23,Barcelona,Celta Vigo,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-23,Almeria,Valencia,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-24,Real Sociedad,Getafe,4,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-24,Vallecano,Villarreal,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-24,Real Betis,Cadiz,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-24,Las Palmas,Granada,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-24,Atletico Madrid,Real Madrid,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-26,Sevilla,Almeria,5,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-26,Mallorca,Barcelona,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-27,Athletic Club,Getafe,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-27,Real Madrid,Las Palmas,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-27,Villarreal,Girona,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-27,Cadiz,Vallecano,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-27,Valencia,Real Sociedad,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-28,Celta Vigo,Alaves,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-28,Granada,Real Betis,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-28,Osasuna,Atletico Madrid,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-29,Barcelona,Sevilla,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-30,Getafe,Villarreal,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-30,Vallecano,Mallorca,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-30,Girona,Real Madrid,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-09-30,Real Sociedad,Athletic Club,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-01,Almeria,Granada,3,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-01,Alaves,Osasuna,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-01,Atletico Madrid,Cadiz,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-01,Real Betis,Valencia,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-02,Las Palmas,Celta Vigo,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-06,Athletic Club,Almeria,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-07,Cadiz,Girona,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-07,Real Madrid,Osasuna,4,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-07,Mallorca,Valencia,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-07,Sevilla,Vallecano,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-08,Villarreal,Las Palmas,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-08,Atletico Madrid,Real Sociedad,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-08,Alaves,Real Betis,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-08,Celta Vigo,Getafe,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-08,Granada,Barcelona,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-20,Osasuna,Granada,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-21,Real Sociedad,Mallorca,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-21,Getafe,Real Betis,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-21,Sevilla,Real Madrid,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-21,Celta Vigo,Atletico Madrid,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-22,Las Palmas,Vallecano,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-22,Girona,Almeria,5,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-22,Villarreal,Alaves,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-22,Barcelona,Athletic Club,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-23,Valencia,Cadiz,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-27,Girona,Celta Vigo,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-28,Almeria,Las Palmas,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-28,Barcelona,Real Madrid,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-28,Mallorca,Getafe,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-28,Cadiz,Sevilla,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-29,Real Betis,Osasuna,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-29,Vallecano,Real Sociedad,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-29,Athletic Club,Valencia,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-29,Atletico Madrid,Alaves,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-10-30,Granada,Villarreal,2,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-03,Las Palmas,Atletico Madrid,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-04,Osasuna,Girona,2,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-04,Real Betis,Mallorca,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-04,Celta Vigo,Sevilla,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-04,Real Sociedad,Barcelona,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-05,Alaves,Almeria,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-05,Valencia,Granada,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-05,Villarreal,Athletic Club,2,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-05,Real Madrid,Vallecano,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-06,Getafe,Cadiz,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-10,Athletic Club,Celta Vigo,4,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-11,Vallecano,Girona,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-11,Almeria,Real Sociedad,1,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-11,Granada,Getafe,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-11,Osasuna,Las Palmas,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-11,Real Madrid,Valencia,5,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-12,Barcelona,Alaves,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-12,Sevilla,Real Betis,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-12,Atletico Madrid,Villarreal,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-24,Alaves,Granada,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-25,Vallecano,Barcelona,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-25,Valencia,Celta Vigo,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-25,Getafe,Almeria,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-25,Atletico Madrid,Mallorca,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-26,Villarreal,Osasuna,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-26,Real Sociedad,Sevilla,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-26,Cadiz,Real Madrid,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-26,Real Betis,Las Palmas,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-27,Girona,Athletic Club,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-11-29,Mallorca,Cadiz,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-01,Las Palmas,Getafe,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-02,Girona,Valencia,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-02,Athletic Club,Vallecano,4,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-02,Real Madrid,Granada,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-02,Osasuna,Real Sociedad,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-03,Mallorca,Alaves,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-03,Almeria,Real Betis,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-03,Sevilla,Villarreal,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-03,Barcelona,Atletico Madrid,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-04,Celta Vigo,Cadiz,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-08,Getafe,Valencia,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-09,Alaves,Las Palmas,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-09,Real Betis,Real Madrid,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-09,Villarreal,Real Sociedad,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-09,Mallorca,Sevilla,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-10,Atletico Madrid,Almeria,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-10,Cadiz,Osasuna,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-10,Barcelona,Girona,2,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-11,Granada,Athletic Club,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-11,Vallecano,Celta Vigo,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-15,Osasuna,Vallecano,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-16,Celta Vigo,Granada,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-16,Athletic Club,Atletico Madrid,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-16,Sevilla,Getafe,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-16,Valencia,Barcelona,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-17,Almeria,Mallorca,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-17,Real Sociedad,Real Betis,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-17,Las Palmas,Cadiz,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-17,Real Madrid,Villarreal,4,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-18,Girona,Alaves,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-19,Vallecano,Valencia,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-19,Atletico Madrid,Getafe,3,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-19,Granada,Sevilla,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-20,Barcelona,Almeria,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-20,Athletic Club,Las Palmas,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-20,Villarreal,Celta Vigo,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-21,Real Betis,Girona,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-21,Cadiz,Real Sociedad,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-21,Alaves,Real Madrid,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-21,Mallorca,Osasuna,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2023-12-23,Atletico Madrid,Sevilla,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-02,Getafe,Vallecano,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-02,Real Sociedad,Alaves,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-02,Valencia,Villarreal,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-03,Granada,Cadiz,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-03,Celta Vigo,Real Betis,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-03,Real Madrid,Mallorca,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-03,Girona,Atletico Madrid,4,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-04,Osasuna,Almeria,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-04,Sevilla,Athletic Club,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-04,Las Palmas,Barcelona,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-12,Sevilla,Alaves,2,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-13,Las Palmas,Villarreal,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-13,Mallorca,Celta Vigo,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-13,Athletic Club,Real Sociedad,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-13,Real Betis,Granada,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-14,Almeria,Girona,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-14,Cadiz,Valencia,1,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-19,Alaves,Cadiz,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-20,Vallecano,Las Palmas,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-20,Villarreal,Mallorca,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-20,Valencia,Athletic Club,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-20,Celta Vigo,Real Sociedad,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-21,Osasuna,Getafe,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-21,Real Madrid,Almeria,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-21,Real Betis,Barcelona,2,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-21,Girona,Sevilla,5,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-22,Granada,Atletico Madrid,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-26,Almeria,Alaves,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-27,Real Sociedad,Vallecano,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-27,Las Palmas,Real Madrid,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-27,Barcelona,Villarreal,3,5,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-27,Mallorca,Real Betis,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-28,Celta Vigo,Girona,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-28,Cadiz,Athletic Club,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-28,Sevilla,Osasuna,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-28,Atletico Madrid,Valencia,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-29,Getafe,Granada,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-31,Barcelona,Osasuna,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-01-31,Atletico Madrid,Vallecano,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-01,Getafe,Real Madrid,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-02,Athletic Club,Mallorca,4,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-03,Valencia,Almeria,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-03,Granada,Las Palmas,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-03,Alaves,Barcelona,1,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-03,Girona,Real Sociedad,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-04,Villarreal,Cadiz,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-04,Osasuna,Celta Vigo,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-04,Real Betis,Getafe,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-04,Real Madrid,Atletico Madrid,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-05,Vallecano,Sevilla,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-09,Cadiz,Real Betis,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-10,Alaves,Villarreal,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-10,Real Sociedad,Osasuna,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-10,Real Madrid,Girona,4,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-10,Las Palmas,Valencia,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-11,Getafe,Celta Vigo,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-11,Mallorca,Vallecano,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-11,Sevilla,Atletico Madrid,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-11,Barcelona,Granada,3,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-12,Almeria,Athletic Club,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-16,Villarreal,Getafe,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-17,Atletico Madrid,Las Palmas,5,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-17,Osasuna,Cadiz,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-17,Celta Vigo,Barcelona,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-17,Valencia,Sevilla,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-18,Vallecano,Real Madrid,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-18,Granada,Almeria,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-18,Mallorca,Real Sociedad,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-18,Real Betis,Alaves,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-19,Athletic Club,Girona,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-23,Real Sociedad,Villarreal,1,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-24,Barcelona,Getafe,4,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-24,Alaves,Mallorca,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-24,Almeria,Atletico Madrid,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-25,Cadiz,Celta Vigo,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-25,Real Betis,Athletic Club,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-25,Las Palmas,Osasuna,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-25,Real Madrid,Sevilla,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-02-26,Girona,Vallecano,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-01,Celta Vigo,Almeria,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-02,Sevilla,Real Sociedad,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-02,Vallecano,Cadiz,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-02,Getafe,Las Palmas,3,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-02,Valencia,Real Madrid,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-03,Villarreal,Granada,5,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-03,Atletico Madrid,Real Betis,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-03,Mallorca,Girona,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-03,Athletic Club,Barcelona,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-04,Osasuna,Alaves,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-08,Barcelona,Mallorca,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-09,Valencia,Getafe,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-09,Cadiz,Atletico Madrid,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-09,Granada,Real Sociedad,2,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-09,Girona,Osasuna,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-10,Alaves,Vallecano,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-10,Las Palmas,Athletic Club,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-10,Real Madrid,Celta Vigo,4,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-10,Real Betis,Villarreal,2,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-11,Almeria,Sevilla,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-15,Real Sociedad,Cadiz,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-16,Mallorca,Granada,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-16,Osasuna,Real Madrid,2,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-16,Getafe,Girona,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-16,Athletic Club,Alaves,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-17,Sevilla,Celta Vigo,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-17,Las Palmas,Almeria,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-17,Villarreal,Valencia,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-17,Vallecano,Real Betis,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-17,Atletico Madrid,Barcelona,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-29,Cadiz,Granada,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-30,Getafe,Sevilla,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-30,Almeria,Osasuna,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-30,Valencia,Mallorca,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-30,Barcelona,Las Palmas,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-31,Celta Vigo,Vallecano,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-31,Girona,Real Betis,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-31,Alaves,Real Sociedad,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-03-31,Real Madrid,Athletic Club,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-01,Villarreal,Atletico Madrid,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-04,Granada,Valencia,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-12,Real Betis,Celta Vigo,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-13,Atletico Madrid,Girona,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-13,Vallecano,Getafe,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-13,Mallorca,Real Madrid,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-13,Cadiz,Barcelona,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-14,Las Palmas,Sevilla,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-14,Granada,Alaves,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-14,Athletic Club,Villarreal,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-14,Real Sociedad,Almeria,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-15,Osasuna,Valencia,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-19,Athletic Club,Granada,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-20,Celta Vigo,Las Palmas,4,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-20,Vallecano,Osasuna,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-20,Valencia,Real Betis,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-20,Girona,Cadiz,4,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-21,Getafe,Real Sociedad,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-21,Almeria,Villarreal,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-21,Alaves,Atletico Madrid,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-21,Real Madrid,Barcelona,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-22,Sevilla,Mallorca,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-26,Real Sociedad,Real Madrid,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-27,Las Palmas,Girona,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-27,Almeria,Getafe,1,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-27,Alaves,Celta Vigo,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-27,Atletico Madrid,Athletic Club,3,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-28,Cadiz,Mallorca,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-28,Granada,Osasuna,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-28,Villarreal,Vallecano,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-28,Real Betis,Sevilla,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-04-29,Barcelona,Valencia,4,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-03,Getafe,Athletic Club,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-04,Real Sociedad,Las Palmas,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-04,Real Madrid,Cadiz,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-04,Girona,Barcelona,4,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-04,Mallorca,Atletico Madrid,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-05,Osasuna,Real Betis,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-05,Celta Vigo,Villarreal,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-05,Valencia,Alaves,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-05,Sevilla,Granada,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-05,Vallecano,Almeria,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-10,Alaves,Girona,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-11,Mallorca,Las Palmas,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-11,Villarreal,Sevilla,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-11,Granada,Real Madrid,0,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-11,Athletic Club,Osasuna,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-12,Cadiz,Getafe,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-12,Atletico Madrid,Celta Vigo,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-12,Valencia,Vallecano,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-12,Real Betis,Almeria,3,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-13,Barcelona,Real Sociedad,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-14,Osasuna,Mallorca,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-14,Real Madrid,Alaves,5,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-14,Girona,Villarreal,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-15,Sevilla,Cadiz,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-15,Vallecano,Granada,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-15,Celta Vigo,Athletic Club,2,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-15,Getafe,Atletico Madrid,0,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-16,Las Palmas,Real Betis,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-16,Almeria,Barcelona,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-16,Real Sociedad,Valencia,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-18,Alaves,Getafe,1,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-19,Athletic Club,Sevilla,2,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-19,Atletico Madrid,Osasuna,1,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-19,Barcelona,Vallecano,3,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-19,Real Betis,Real Sociedad,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-19,Cadiz,Las Palmas,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-19,Granada,Celta Vigo,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-19,Mallorca,Almeria,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-19,Valencia,Girona,1,3,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-19,Villarreal,Real Madrid,4,4,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-24,Girona,Granada,7,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-25,Osasuna,Villarreal,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-25,Real Sociedad,Atletico Madrid,0,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-25,Almeria,Cadiz,6,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-25,Vallecano,Athletic Club,0,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-25,Real Madrid,Real Betis,0,0,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-26,Getafe,Mallorca,1,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-26,Celta Vigo,Valencia,2,2,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-26,Las Palmas,Alaves,1,1,played,2026-08-27 22:28:16.012337+00:00
+la_liga,2324,2024-05-26,Sevilla,Barcelona,1,2,played,2026-08-27 22:28:16.012337+00:00

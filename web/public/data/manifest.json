@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "1.0.0",
+  "artifactVersion": "2026.1",
+  "generatedAt": "2026-08-27T22:46:53.748563+00:00",
+  "leagues": [
+    {
+      "id": "premier_league",
+      "name": "Premier League",
+      "shortName": "Premier League",
+      "country": "England",
+      "code": "E0",
+      "kind": "domestic-league",
+      "season": "2026/27",
+      "expectedTeams": 20,
+      "status": "ready",
+      "dataUrl": "/data/premier_league.json",
+      "generatedAt": "2026-08-27T22:47:02.110223+00:00",
+      "note": "Cup winners and UEFA performance places can change the final allocation."
+    },
+    {
+      "id": "serie_a",
+      "name": "Serie A",
+      "shortName": "Serie A",
+      "country": "Italy",
+      "code": "I1",
+      "kind": "domestic-league",
+      "season": "2026/27",
+      "expectedTeams": 20,
+      "status": "ready",
+      "dataUrl": "/data/serie_a.json",
+      "generatedAt": "2026-08-27T22:47:11.191739+00:00",
+      "note": "Title and relegation ties may require a playoff; cup winners and UEFA performance places can change the allocation."
+    },
+    {
+      "id": "ligue_1",
+      "name": "Ligue 1",
+      "shortName": "Ligue 1",
+      "country": "France",
+      "code": "F1",
+      "kind": "domestic-league",
+      "season": "2026/27",
+      "expectedTeams": 18,
+      "status": "ready",
+      "dataUrl": "/data/ligue_1.json",
+      "generatedAt": "2026-08-27T22:47:21.984935+00:00",
+      "note": "Cup winners and UEFA performance places can change the final allocation."
+    },
+    {
+      "id": "la_liga",
+      "name": "La Liga",
+      "shortName": "La Liga",
+      "country": "Spain",
+      "code": "SP1",
+      "kind": "domestic-league",
+      "season": "2026/27",
+      "expectedTeams": 20,
+      "status": "ready",
+      "dataUrl": "/data/la_liga.json",
+      "generatedAt": "2026-08-27T22:47:32.827233+00:00",
+      "note": "Cup winners and UEFA performance places can change the final allocation."
+    },
+    {
+      "id": "bundesliga",
+      "name": "Bundesliga",
+      "shortName": "Bundesliga",
+      "country": "Germany",
+      "code": "D1",
+      "kind": "domestic-league",
+      "season": "2026/27",
+      "expectedTeams": 18,
+      "status": "ready",
+      "dataUrl": "/data/bundesliga.json",
+      "generatedAt": "2026-08-27T22:47:42.416965+00:00",
+      "note": "Cup winners and UEFA performance places can change the final allocation."
+    }
+  ],
+  "worldCup": {
+    "id": "world-cup-2026",
+    "name": "FIFA World Cup 2026",
+    "shortName": "World Cup",
+    "country": "Canada, Mexico and United States",
+    "code": "WC2026",
+    "kind": "tournament",
+    "edition": "2026",
+    "expectedTeams": 48,
+    "status": "ready",
+    "dataUrl": "/data/world-cup-2026.json",
+    "generatedAt": "2026-08-27T22:48:00.009850+00:00",
+    "note": "48-team group and knockout forecast."
+  }
+}

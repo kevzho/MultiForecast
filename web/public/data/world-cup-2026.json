@@ -1,0 +1,6132 @@
+{
+  "kind": "tournament-forecast",
+  "schemaVersion": "1.0.0",
+  "artifactVersion": "2026.1",
+  "status": "ready",
+  "isDemo": false,
+  "disclaimer": "Tournament probabilities are model estimates, not guarantees.",
+  "competition": {
+    "id": "world-cup-2026",
+    "name": "FIFA World Cup 2026",
+    "shortName": "World Cup",
+    "country": "Canada, Mexico and United States",
+    "code": "WC2026"
+  },
+  "edition": "2026",
+  "generatedAt": "2026-08-27T22:48:00.009850+00:00",
+  "model": {
+    "name": "Elo-Poisson",
+    "version": "2026.1",
+    "simulations": 2000,
+    "trainedThrough": null
+  },
+  "coverage": {
+    "teamsIncluded": 48,
+    "teamsExpected": 48,
+    "groupsIncluded": 12,
+    "groupsExpected": 12
+  },
+  "teams": [
+    {
+      "team": {
+        "id": "mexico",
+        "name": "Mexico",
+        "shortName": "Mexico"
+      },
+      "group": "A",
+      "rating": 1956.0,
+      "probabilities": {
+        "advanceGroup": 0.9305,
+        "roundOf16": 0.6235,
+        "quarterfinal": 0.288,
+        "semifinal": 0.1415,
+        "final": 0.0565,
+        "champion": 0.022
+      }
+    },
+    {
+      "team": {
+        "id": "south-korea",
+        "name": "South Korea",
+        "shortName": "South Korea"
+      },
+      "group": "A",
+      "rating": 1872.0,
+      "probabilities": {
+        "advanceGroup": 0.789,
+        "roundOf16": 0.452,
+        "quarterfinal": 0.1715,
+        "semifinal": 0.073,
+        "final": 0.023,
+        "champion": 0.0085
+      }
+    },
+    {
+      "team": {
+        "id": "south-africa",
+        "name": "South Africa",
+        "shortName": "South Africa"
+      },
+      "group": "A",
+      "rating": 1668.0,
+      "probabilities": {
+        "advanceGroup": 0.382,
+        "roundOf16": 0.126,
+        "quarterfinal": 0.0225,
+        "semifinal": 0.0045,
+        "final": 0.0,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "czechia",
+        "name": "Czechia",
+        "shortName": "Czechia"
+      },
+      "group": "A",
+      "rating": 1740.0,
+      "probabilities": {
+        "advanceGroup": 0.569,
+        "roundOf16": 0.215,
+        "quarterfinal": 0.059,
+        "semifinal": 0.013,
+        "final": 0.0035,
+        "champion": 0.0005
+      }
+    },
+    {
+      "team": {
+        "id": "canada",
+        "name": "Canada",
+        "shortName": "Canada"
+      },
+      "group": "B",
+      "rating": 1800.0,
+      "probabilities": {
+        "advanceGroup": 0.8815,
+        "roundOf16": 0.407,
+        "quarterfinal": 0.143,
+        "semifinal": 0.0355,
+        "final": 0.0095,
+        "champion": 0.0025
+      }
+    },
+    {
+      "team": {
+        "id": "switzerland",
+        "name": "Switzerland",
+        "shortName": "Switzerland"
+      },
+      "group": "B",
+      "rating": 1896.0,
+      "probabilities": {
+        "advanceGroup": 0.91,
+        "roundOf16": 0.534,
+        "quarterfinal": 0.256,
+        "semifinal": 0.0975,
+        "final": 0.037,
+        "champion": 0.016
+      }
+    },
+    {
+      "team": {
+        "id": "qatar",
+        "name": "Qatar",
+        "shortName": "Qatar"
+      },
+      "group": "B",
+      "rating": 1680.0,
+      "probabilities": {
+        "advanceGroup": 0.555,
+        "roundOf16": 0.183,
+        "quarterfinal": 0.042,
+        "semifinal": 0.0045,
+        "final": 0.0,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "bosnia-and-herzegovina",
+        "name": "Bosnia and Herzegovina",
+        "shortName": "Bosnia and Herzegovina"
+      },
+      "group": "B",
+      "rating": 1584.0,
+      "probabilities": {
+        "advanceGroup": 0.3355,
+        "roundOf16": 0.0575,
+        "quarterfinal": 0.0095,
+        "semifinal": 0.002,
+        "final": 0.0,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "brazil",
+        "name": "Brazil",
+        "shortName": "Brazil"
+      },
+      "group": "C",
+      "rating": 2040.0,
+      "probabilities": {
+        "advanceGroup": 0.942,
+        "roundOf16": 0.6025,
+        "quarterfinal": 0.3955,
+        "semifinal": 0.235,
+        "final": 0.122,
+        "champion": 0.063
+      }
+    },
+    {
+      "team": {
+        "id": "morocco",
+        "name": "Morocco",
+        "shortName": "Morocco"
+      },
+      "group": "C",
+      "rating": 2016.0,
+      "probabilities": {
+        "advanceGroup": 0.9325,
+        "roundOf16": 0.5555,
+        "quarterfinal": 0.349,
+        "semifinal": 0.2005,
+        "final": 0.1055,
+        "champion": 0.0505
+      }
+    },
+    {
+      "team": {
+        "id": "scotland",
+        "name": "Scotland",
+        "shortName": "Scotland"
+      },
+      "group": "C",
+      "rating": 1728.0,
+      "probabilities": {
+        "advanceGroup": 0.572,
+        "roundOf16": 0.1665,
+        "quarterfinal": 0.0565,
+        "semifinal": 0.011,
+        "final": 0.0025,
+        "champion": 0.0005
+      }
+    },
+    {
+      "team": {
+        "id": "haiti",
+        "name": "Haiti",
+        "shortName": "Haiti"
+      },
+      "group": "C",
+      "rating": 1560.0,
+      "probabilities": {
+        "advanceGroup": 0.204,
+        "roundOf16": 0.03,
+        "quarterfinal": 0.0045,
+        "semifinal": 0.002,
+        "final": 0.0,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "united-states",
+        "name": "United States",
+        "shortName": "United States"
+      },
+      "group": "D",
+      "rating": 1932.0,
+      "probabilities": {
+        "advanceGroup": 0.9155,
+        "roundOf16": 0.5675,
+        "quarterfinal": 0.3195,
+        "semifinal": 0.1295,
+        "final": 0.0535,
+        "champion": 0.018
+      }
+    },
+    {
+      "team": {
+        "id": "paraguay",
+        "name": "Paraguay",
+        "shortName": "Paraguay"
+      },
+      "group": "D",
+      "rating": 1704.0,
+      "probabilities": {
+        "advanceGroup": 0.3805,
+        "roundOf16": 0.118,
+        "quarterfinal": 0.038,
+        "semifinal": 0.009,
+        "final": 0.0015,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "australia",
+        "name": "Australia",
+        "shortName": "Australia"
+      },
+      "group": "D",
+      "rating": 1848.0,
+      "probabilities": {
+        "advanceGroup": 0.7385,
+        "roundOf16": 0.354,
+        "quarterfinal": 0.1595,
+        "semifinal": 0.053,
+        "final": 0.0165,
+        "champion": 0.006
+      }
+    },
+    {
+      "team": {
+        "id": "turkiye",
+        "name": "Turkiye",
+        "shortName": "Turkiye"
+      },
+      "group": "D",
+      "rating": 1824.0,
+      "probabilities": {
+        "advanceGroup": 0.678,
+        "roundOf16": 0.292,
+        "quarterfinal": 0.1215,
+        "semifinal": 0.0385,
+        "final": 0.0135,
+        "champion": 0.0025
+      }
+    },
+    {
+      "team": {
+        "id": "germany",
+        "name": "Germany",
+        "shortName": "Germany"
+      },
+      "group": "E",
+      "rating": 2004.0,
+      "probabilities": {
+        "advanceGroup": 0.9575,
+        "roundOf16": 0.6615,
+        "quarterfinal": 0.351,
+        "semifinal": 0.189,
+        "final": 0.097,
+        "champion": 0.048
+      }
+    },
+    {
+      "team": {
+        "id": "ecuador",
+        "name": "Ecuador",
+        "shortName": "Ecuador"
+      },
+      "group": "E",
+      "rating": 1836.0,
+      "probabilities": {
+        "advanceGroup": 0.832,
+        "roundOf16": 0.3635,
+        "quarterfinal": 0.1295,
+        "semifinal": 0.0395,
+        "final": 0.0125,
+        "champion": 0.0045
+      }
+    },
+    {
+      "team": {
+        "id": "ivory-coast",
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast"
+      },
+      "group": "E",
+      "rating": 1716.0,
+      "probabilities": {
+        "advanceGroup": 0.6365,
+        "roundOf16": 0.187,
+        "quarterfinal": 0.037,
+        "semifinal": 0.008,
+        "final": 0.0015,
+        "champion": 0.0005
+      }
+    },
+    {
+      "team": {
+        "id": "curacao",
+        "name": "Curacao",
+        "shortName": "Curacao"
+      },
+      "group": "E",
+      "rating": 1548.0,
+      "probabilities": {
+        "advanceGroup": 0.257,
+        "roundOf16": 0.046,
+        "quarterfinal": 0.006,
+        "semifinal": 0.001,
+        "final": 0.0005,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "netherlands",
+        "name": "Netherlands",
+        "shortName": "Netherlands"
+      },
+      "group": "F",
+      "rating": 2028.0,
+      "probabilities": {
+        "advanceGroup": 0.918,
+        "roundOf16": 0.533,
+        "quarterfinal": 0.346,
+        "semifinal": 0.1905,
+        "final": 0.1035,
+        "champion": 0.0505
+      }
+    },
+    {
+      "team": {
+        "id": "japan",
+        "name": "Japan",
+        "shortName": "Japan"
+      },
+      "group": "F",
+      "rating": 1908.0,
+      "probabilities": {
+        "advanceGroup": 0.7825,
+        "roundOf16": 0.3415,
+        "quarterfinal": 0.169,
+        "semifinal": 0.072,
+        "final": 0.0265,
+        "champion": 0.0125
+      }
+    },
+    {
+      "team": {
+        "id": "sweden",
+        "name": "Sweden",
+        "shortName": "Sweden"
+      },
+      "group": "F",
+      "rating": 1812.0,
+      "probabilities": {
+        "advanceGroup": 0.6355,
+        "roundOf16": 0.2185,
+        "quarterfinal": 0.082,
+        "semifinal": 0.0255,
+        "final": 0.008,
+        "champion": 0.0035
+      }
+    },
+    {
+      "team": {
+        "id": "tunisia",
+        "name": "Tunisia",
+        "shortName": "Tunisia"
+      },
+      "group": "F",
+      "rating": 1692.0,
+      "probabilities": {
+        "advanceGroup": 0.3575,
+        "roundOf16": 0.0825,
+        "quarterfinal": 0.023,
+        "semifinal": 0.0055,
+        "final": 0.0015,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "belgium",
+        "name": "Belgium",
+        "shortName": "Belgium"
+      },
+      "group": "G",
+      "rating": 1992.0,
+      "probabilities": {
+        "advanceGroup": 0.941,
+        "roundOf16": 0.644,
+        "quarterfinal": 0.4245,
+        "semifinal": 0.189,
+        "final": 0.096,
+        "champion": 0.0445
+      }
+    },
+    {
+      "team": {
+        "id": "egypt",
+        "name": "Egypt",
+        "shortName": "Egypt"
+      },
+      "group": "G",
+      "rating": 1788.0,
+      "probabilities": {
+        "advanceGroup": 0.7055,
+        "roundOf16": 0.323,
+        "quarterfinal": 0.131,
+        "semifinal": 0.0355,
+        "final": 0.011,
+        "champion": 0.004
+      }
+    },
+    {
+      "team": {
+        "id": "iran",
+        "name": "Iran",
+        "shortName": "Iran"
+      },
+      "group": "G",
+      "rating": 1884.0,
+      "probabilities": {
+        "advanceGroup": 0.8545,
+        "roundOf16": 0.49,
+        "quarterfinal": 0.2605,
+        "semifinal": 0.081,
+        "final": 0.031,
+        "champion": 0.009
+      }
+    },
+    {
+      "team": {
+        "id": "new-zealand",
+        "name": "New Zealand",
+        "shortName": "New Zealand"
+      },
+      "group": "G",
+      "rating": 1536.0,
+      "probabilities": {
+        "advanceGroup": 0.1935,
+        "roundOf16": 0.039,
+        "quarterfinal": 0.007,
+        "semifinal": 0.0005,
+        "final": 0.0,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "spain",
+        "name": "Spain",
+        "shortName": "Spain"
+      },
+      "group": "H",
+      "rating": 2100.0,
+      "probabilities": {
+        "advanceGroup": 0.9685,
+        "roundOf16": 0.6835,
+        "quarterfinal": 0.448,
+        "semifinal": 0.317,
+        "final": 0.2065,
+        "champion": 0.129
+      }
+    },
+    {
+      "team": {
+        "id": "uruguay",
+        "name": "Uruguay",
+        "shortName": "Uruguay"
+      },
+      "group": "H",
+      "rating": 1944.0,
+      "probabilities": {
+        "advanceGroup": 0.8925,
+        "roundOf16": 0.443,
+        "quarterfinal": 0.2175,
+        "semifinal": 0.1195,
+        "final": 0.0445,
+        "champion": 0.0135
+      }
+    },
+    {
+      "team": {
+        "id": "saudi-arabia",
+        "name": "Saudi Arabia",
+        "shortName": "Saudi Arabia"
+      },
+      "group": "H",
+      "rating": 1644.0,
+      "probabilities": {
+        "advanceGroup": 0.4305,
+        "roundOf16": 0.086,
+        "quarterfinal": 0.0185,
+        "semifinal": 0.004,
+        "final": 0.0005,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "cape-verde",
+        "name": "Cape Verde",
+        "shortName": "Cape Verde"
+      },
+      "group": "H",
+      "rating": 1596.0,
+      "probabilities": {
+        "advanceGroup": 0.3055,
+        "roundOf16": 0.0505,
+        "quarterfinal": 0.014,
+        "semifinal": 0.0015,
+        "final": 0.0005,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "france",
+        "name": "France",
+        "shortName": "France"
+      },
+      "group": "I",
+      "rating": 2088.0,
+      "probabilities": {
+        "advanceGroup": 0.963,
+        "roundOf16": 0.725,
+        "quarterfinal": 0.532,
+        "semifinal": 0.342,
+        "final": 0.212,
+        "champion": 0.116
+      }
+    },
+    {
+      "team": {
+        "id": "senegal",
+        "name": "Senegal",
+        "shortName": "Senegal"
+      },
+      "group": "I",
+      "rating": 1920.0,
+      "probabilities": {
+        "advanceGroup": 0.8495,
+        "roundOf16": 0.515,
+        "quarterfinal": 0.217,
+        "semifinal": 0.102,
+        "final": 0.0455,
+        "champion": 0.018
+      }
+    },
+    {
+      "team": {
+        "id": "norway",
+        "name": "Norway",
+        "shortName": "Norway"
+      },
+      "group": "I",
+      "rating": 1776.0,
+      "probabilities": {
+        "advanceGroup": 0.5865,
+        "roundOf16": 0.2355,
+        "quarterfinal": 0.0625,
+        "semifinal": 0.0195,
+        "final": 0.0055,
+        "champion": 0.0015
+      }
+    },
+    {
+      "team": {
+        "id": "iraq",
+        "name": "Iraq",
+        "shortName": "Iraq"
+      },
+      "group": "I",
+      "rating": 1632.0,
+      "probabilities": {
+        "advanceGroup": 0.2755,
+        "roundOf16": 0.0725,
+        "quarterfinal": 0.0175,
+        "semifinal": 0.004,
+        "final": 0.0,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "argentina",
+        "name": "Argentina",
+        "shortName": "Argentina"
+      },
+      "group": "J",
+      "rating": 2076.0,
+      "probabilities": {
+        "advanceGroup": 0.958,
+        "roundOf16": 0.61,
+        "quarterfinal": 0.391,
+        "semifinal": 0.286,
+        "final": 0.175,
+        "champion": 0.1025
+      }
+    },
+    {
+      "team": {
+        "id": "austria",
+        "name": "Austria",
+        "shortName": "Austria"
+      },
+      "group": "J",
+      "rating": 1860.0,
+      "probabilities": {
+        "advanceGroup": 0.7975,
+        "roundOf16": 0.3175,
+        "quarterfinal": 0.132,
+        "semifinal": 0.0525,
+        "final": 0.0185,
+        "champion": 0.0065
+      }
+    },
+    {
+      "team": {
+        "id": "algeria",
+        "name": "Algeria",
+        "shortName": "Algeria"
+      },
+      "group": "J",
+      "rating": 1764.0,
+      "probabilities": {
+        "advanceGroup": 0.634,
+        "roundOf16": 0.201,
+        "quarterfinal": 0.064,
+        "semifinal": 0.023,
+        "final": 0.008,
+        "champion": 0.0025
+      }
+    },
+    {
+      "team": {
+        "id": "jordan",
+        "name": "Jordan",
+        "shortName": "Jordan"
+      },
+      "group": "J",
+      "rating": 1608.0,
+      "probabilities": {
+        "advanceGroup": 0.2905,
+        "roundOf16": 0.045,
+        "quarterfinal": 0.008,
+        "semifinal": 0.0015,
+        "final": 0.0005,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "portugal",
+        "name": "Portugal",
+        "shortName": "Portugal"
+      },
+      "group": "K",
+      "rating": 2052.0,
+      "probabilities": {
+        "advanceGroup": 0.959,
+        "roundOf16": 0.6615,
+        "quarterfinal": 0.38,
+        "semifinal": 0.248,
+        "final": 0.15,
+        "champion": 0.0875
+      }
+    },
+    {
+      "team": {
+        "id": "colombia",
+        "name": "Colombia",
+        "shortName": "Colombia"
+      },
+      "group": "K",
+      "rating": 1968.0,
+      "probabilities": {
+        "advanceGroup": 0.919,
+        "roundOf16": 0.527,
+        "quarterfinal": 0.2275,
+        "semifinal": 0.125,
+        "final": 0.05,
+        "champion": 0.021
+      }
+    },
+    {
+      "team": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan",
+        "shortName": "Uzbekistan"
+      },
+      "group": "K",
+      "rating": 1656.0,
+      "probabilities": {
+        "advanceGroup": 0.4215,
+        "roundOf16": 0.0915,
+        "quarterfinal": 0.027,
+        "semifinal": 0.0045,
+        "final": 0.001,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "dr-congo",
+        "name": "DR Congo",
+        "shortName": "DR Congo"
+      },
+      "group": "K",
+      "rating": 1620.0,
+      "probabilities": {
+        "advanceGroup": 0.318,
+        "roundOf16": 0.0525,
+        "quarterfinal": 0.011,
+        "semifinal": 0.003,
+        "final": 0.0005,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "england",
+        "name": "England",
+        "shortName": "England"
+      },
+      "group": "L",
+      "rating": 2064.0,
+      "probabilities": {
+        "advanceGroup": 0.95,
+        "roundOf16": 0.6785,
+        "quarterfinal": 0.4655,
+        "semifinal": 0.275,
+        "final": 0.164,
+        "champion": 0.1
+      }
+    },
+    {
+      "team": {
+        "id": "croatia",
+        "name": "Croatia",
+        "shortName": "Croatia"
+      },
+      "group": "L",
+      "rating": 1980.0,
+      "probabilities": {
+        "advanceGroup": 0.8975,
+        "roundOf16": 0.578,
+        "quarterfinal": 0.3125,
+        "semifinal": 0.1715,
+        "final": 0.0815,
+        "champion": 0.035
+      }
+    },
+    {
+      "team": {
+        "id": "panama",
+        "name": "Panama",
+        "shortName": "Panama"
+      },
+      "group": "L",
+      "rating": 1752.0,
+      "probabilities": {
+        "advanceGroup": 0.579,
+        "roundOf16": 0.181,
+        "quarterfinal": 0.048,
+        "semifinal": 0.012,
+        "final": 0.002,
+        "champion": 0.0
+      }
+    },
+    {
+      "team": {
+        "id": "ghana",
+        "name": "Ghana",
+        "shortName": "Ghana"
+      },
+      "group": "L",
+      "rating": 1572.0,
+      "probabilities": {
+        "advanceGroup": 0.218,
+        "roundOf16": 0.032,
+        "quarterfinal": 0.0045,
+        "semifinal": 0.0015,
+        "final": 0.0005,
+        "champion": 0.0
+      }
+    }
+  ],
+  "groups": [
+    {
+      "id": "A",
+      "label": "Group A",
+      "teamIds": [
+        "mexico",
+        "south-korea",
+        "south-africa",
+        "czechia"
+      ],
+      "fixtureIds": [
+        "wc-1",
+        "wc-2",
+        "wc-3",
+        "wc-4",
+        "wc-5",
+        "wc-6"
+      ]
+    },
+    {
+      "id": "B",
+      "label": "Group B",
+      "teamIds": [
+        "canada",
+        "switzerland",
+        "qatar",
+        "bosnia-and-herzegovina"
+      ],
+      "fixtureIds": [
+        "wc-7",
+        "wc-8",
+        "wc-9",
+        "wc-10",
+        "wc-11",
+        "wc-12"
+      ]
+    },
+    {
+      "id": "C",
+      "label": "Group C",
+      "teamIds": [
+        "brazil",
+        "morocco",
+        "scotland",
+        "haiti"
+      ],
+      "fixtureIds": [
+        "wc-13",
+        "wc-14",
+        "wc-15",
+        "wc-16",
+        "wc-17",
+        "wc-18"
+      ]
+    },
+    {
+      "id": "D",
+      "label": "Group D",
+      "teamIds": [
+        "united-states",
+        "paraguay",
+        "australia",
+        "turkiye"
+      ],
+      "fixtureIds": [
+        "wc-19",
+        "wc-20",
+        "wc-21",
+        "wc-22",
+        "wc-23",
+        "wc-24"
+      ]
+    },
+    {
+      "id": "E",
+      "label": "Group E",
+      "teamIds": [
+        "germany",
+        "ecuador",
+        "ivory-coast",
+        "curacao"
+      ],
+      "fixtureIds": [
+        "wc-25",
+        "wc-26",
+        "wc-27",
+        "wc-28",
+        "wc-29",
+        "wc-30"
+      ]
+    },
+    {
+      "id": "F",
+      "label": "Group F",
+      "teamIds": [
+        "netherlands",
+        "japan",
+        "sweden",
+        "tunisia"
+      ],
+      "fixtureIds": [
+        "wc-31",
+        "wc-32",
+        "wc-33",
+        "wc-34",
+        "wc-35",
+        "wc-36"
+      ]
+    },
+    {
+      "id": "G",
+      "label": "Group G",
+      "teamIds": [
+        "belgium",
+        "egypt",
+        "iran",
+        "new-zealand"
+      ],
+      "fixtureIds": [
+        "wc-37",
+        "wc-38",
+        "wc-39",
+        "wc-40",
+        "wc-41",
+        "wc-42"
+      ]
+    },
+    {
+      "id": "H",
+      "label": "Group H",
+      "teamIds": [
+        "spain",
+        "uruguay",
+        "saudi-arabia",
+        "cape-verde"
+      ],
+      "fixtureIds": [
+        "wc-43",
+        "wc-44",
+        "wc-45",
+        "wc-46",
+        "wc-47",
+        "wc-48"
+      ]
+    },
+    {
+      "id": "I",
+      "label": "Group I",
+      "teamIds": [
+        "france",
+        "senegal",
+        "norway",
+        "iraq"
+      ],
+      "fixtureIds": [
+        "wc-49",
+        "wc-50",
+        "wc-51",
+        "wc-52",
+        "wc-53",
+        "wc-54"
+      ]
+    },
+    {
+      "id": "J",
+      "label": "Group J",
+      "teamIds": [
+        "argentina",
+        "austria",
+        "algeria",
+        "jordan"
+      ],
+      "fixtureIds": [
+        "wc-55",
+        "wc-56",
+        "wc-57",
+        "wc-58",
+        "wc-59",
+        "wc-60"
+      ]
+    },
+    {
+      "id": "K",
+      "label": "Group K",
+      "teamIds": [
+        "portugal",
+        "colombia",
+        "uzbekistan",
+        "dr-congo"
+      ],
+      "fixtureIds": [
+        "wc-61",
+        "wc-62",
+        "wc-63",
+        "wc-64",
+        "wc-65",
+        "wc-66"
+      ]
+    },
+    {
+      "id": "L",
+      "label": "Group L",
+      "teamIds": [
+        "england",
+        "croatia",
+        "panama",
+        "ghana"
+      ],
+      "fixtureIds": [
+        "wc-67",
+        "wc-68",
+        "wc-69",
+        "wc-70",
+        "wc-71",
+        "wc-72"
+      ]
+    }
+  ],
+  "fixtures": [
+    {
+      "id": "wc-1",
+      "stage": "Group",
+      "round": "A",
+      "kickoff": "2026-06-11T00:00:00Z",
+      "venue": "Mexico City, Mexico",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mexico",
+        "name": "Mexico",
+        "shortName": "Mexico"
+      },
+      "awayTeam": {
+        "id": "south-korea",
+        "name": "South Korea",
+        "shortName": "South Korea"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5196151255469854,
+        "draw": 0.2600000000000001,
+        "awayWin": 0.2203848744530147,
+        "expectedHomeGoals": 1.611210975818501,
+        "expectedAwayGoals": 0.9881004045241144,
+        "over25": 0.4801365604185754,
+        "bothTeamsScore": 0.5098740660299315,
+        "homeCleanSheet": 0.37155362239675377,
+        "awayCleanSheet": 0.19513560327887114,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12362031503231935
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12131798800197947
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09794098164932642
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.0955113157818701
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07656329170555634
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-2",
+      "stage": "Group",
+      "round": "A",
+      "kickoff": "2026-06-11T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "south-africa",
+        "name": "South Africa",
+        "shortName": "South Africa"
+      },
+      "awayTeam": {
+        "id": "czechia",
+        "name": "Czechia",
+        "shortName": "Czechia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.2944030110507093,
+        "draw": 0.2600000000000001,
+        "awayWin": 0.4455969889492907,
+        "expectedHomeGoals": 1.1455715038434804,
+        "expectedAwayGoals": 1.4568608804747305,
+        "over25": 0.482227499343084,
+        "bothTeamsScore": 0.5238236749513344,
+        "homeCleanSheet": 0.2313855228958261,
+        "awayCleanSheet": 0.31875482895199014,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366671844365396
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.10983825494158342
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.09182393885265762
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.08309950351604287
+          },
+          {
+            "home": 0,
+            "away": 2,
+            "probability": 0.07876617816771846
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-3",
+      "stage": "Group",
+      "round": "A",
+      "kickoff": "2026-06-17T00:00:00Z",
+      "venue": "Guadalajara, Mexico",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mexico",
+        "name": "Mexico",
+        "shortName": "Mexico"
+      },
+      "awayTeam": {
+        "id": "south-africa",
+        "name": "South Africa",
+        "shortName": "South Africa"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6542483236904262,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.0857516763095739,
+        "expectedHomeGoals": 1.9083942642746194,
+        "expectedAwayGoals": 0.6543621577854719,
+        "over25": 0.4664708399973654,
+        "bothTeamsScore": 0.43699942667686764,
+        "homeCleanSheet": 0.5131051121740214,
+        "awayCleanSheet": 0.14197504862908306,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1398786882613394
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.13350784442064834
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12147413697978743
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09226606788451759
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.0920795874799719
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-4",
+      "stage": "Group",
+      "round": "A",
+      "kickoff": "2026-06-17T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "south-korea",
+        "name": "South Korea",
+        "shortName": "South Korea"
+      },
+      "awayTeam": {
+        "id": "czechia",
+        "name": "Czechia",
+        "shortName": "Czechia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5041781580231314,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.23582184197686862,
+        "expectedHomeGoals": 1.5786966553813355,
+        "expectedAwayGoals": 1.0216226275177398,
+        "over25": 0.480734900066031,
+        "bothTeamsScore": 0.5137264112984116,
+        "homeCleanSheet": 0.3597252681324861,
+        "awayCleanSheet": 0.20238209896746948,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12364335739388532
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.11900305962645691
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09701440534233394
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.09187179016437946
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07583377839836726
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-5",
+      "stage": "Group",
+      "round": "A",
+      "kickoff": "2026-06-23T00:00:00Z",
+      "venue": "Monterrey, Mexico",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "mexico",
+        "name": "Mexico",
+        "shortName": "Mexico"
+      },
+      "awayTeam": {
+        "id": "czechia",
+        "name": "Czechia",
+        "shortName": "Czechia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6174997944646474,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.1225002055353526,
+        "expectedHomeGoals": 1.8240334371126303,
+        "expectedAwayGoals": 0.7576148455247926,
+        "over25": 0.47263911934945685,
+        "bothTeamsScore": 0.4674146195822356,
+        "homeCleanSheet": 0.4638545882421437,
+        "awayCleanSheet": 0.15393387097389194,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13507802140045105
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12279367987291924
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.12148986738758531
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09733643168567552
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.0852030787982713
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-6",
+      "stage": "Group",
+      "round": "A",
+      "kickoff": "2026-06-23T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "south-korea",
+        "name": "South Korea",
+        "shortName": "South Korea"
+      },
+      "awayTeam": {
+        "id": "south-africa",
+        "name": "South Africa",
+        "shortName": "South Africa"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5653042773671806,
+        "draw": 0.26,
+        "awayWin": 0.1746957226328194,
+        "expectedHomeGoals": 1.7088763764086132,
+        "expectedAwayGoals": 0.8854428593877657,
+        "over25": 0.47763522346014964,
+        "bothTeamsScore": 0.4946925277147,
+        "homeCleanSheet": 0.41008707933319233,
+        "awayCleanSheet": 0.17474609727276938,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12793340050195837
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12344925740712681
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.10689180897564826
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09929672062918174
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07952570432066167
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-7",
+      "stage": "Group",
+      "round": "B",
+      "kickoff": "2026-06-12T00:00:00Z",
+      "venue": "Toronto, Canada",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "canada",
+        "name": "Canada",
+        "shortName": "Canada"
+      },
+      "awayTeam": {
+        "id": "switzerland",
+        "name": "Switzerland",
+        "shortName": "Switzerland"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.3370740159185741,
+        "draw": 0.26,
+        "awayWin": 0.40292598408142577,
+        "expectedHomeGoals": 1.2339007215876512,
+        "expectedAwayGoals": 1.3690878678024891,
+        "over25": 0.48272676844345636,
+        "bothTeamsScore": 0.5273864131814642,
+        "homeCleanSheet": 0.2540370804348474,
+        "awayCleanSheet": 0.29189537635045654,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366260335725884
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.10276751945410902
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.0911445636260701
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.08666594972087684
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.07686407349819917
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-8",
+      "stage": "Group",
+      "round": "B",
+      "kickoff": "2026-06-12T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "qatar",
+        "name": "Qatar",
+        "shortName": "Qatar"
+      },
+      "awayTeam": {
+        "id": "bosnia-and-herzegovina",
+        "name": "Bosnia and Herzegovina",
+        "shortName": "Bosnia and Herzegovina"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4697100679387144,
+        "draw": 0.26,
+        "awayWin": 0.27028993206128554,
+        "expectedHomeGoals": 1.5067619803832117,
+        "expectedAwayGoals": 1.0950534749201684,
+        "over25": 0.4817428715612211,
+        "bothTeamsScore": 0.5204605605693999,
+        "homeCleanSheet": 0.33495833488733984,
+        "awayCleanSheet": 0.21916110085718055,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366476935352602
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.11368466195573151
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09425307183318413
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.08403954573343085
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.07835136090369833
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-9",
+      "stage": "Group",
+      "round": "B",
+      "kickoff": "2026-06-18T00:00:00Z",
+      "venue": "Vancouver, Canada",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "canada",
+        "name": "Canada",
+        "shortName": "Canada"
+      },
+      "awayTeam": {
+        "id": "qatar",
+        "name": "Qatar",
+        "shortName": "Qatar"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5502895462854225,
+        "draw": 0.26,
+        "awayWin": 0.18971045371457737,
+        "expectedHomeGoals": 1.6765134083732538,
+        "expectedAwayGoals": 0.9198629142467525,
+        "over25": 0.4785988866689474,
+        "bothTeamsScore": 0.5003847962331593,
+        "homeCleanSheet": 0.39675361834660167,
+        "awayCleanSheet": 0.18126013335143684,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12579778739644398
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12352875841214744
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.10303814598276116
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09910671114543794
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07839854793119799
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-10",
+      "stage": "Group",
+      "round": "B",
+      "kickoff": "2026-06-18T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "switzerland",
+        "name": "Switzerland",
+        "shortName": "Switzerland"
+      },
+      "awayTeam": {
+        "id": "bosnia-and-herzegovina",
+        "name": "Bosnia and Herzegovina",
+        "shortName": "Bosnia and Herzegovina"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6346708557298542,
+        "draw": 0.26,
+        "awayWin": 0.10532914427014588,
+        "expectedHomeGoals": 1.8630473490159187,
+        "expectedAwayGoals": 0.7113260297670897,
+        "over25": 0.47014843680549223,
+        "bothTeamsScore": 0.45480957308063313,
+        "homeCleanSheet": 0.4852183116139717,
+        "awayCleanSheet": 0.14795454292544724,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13734104022678242
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1268621957481117
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12232626491262233
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09547597699115742
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08798242762005194
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-11",
+      "stage": "Group",
+      "round": "B",
+      "kickoff": "2026-06-24T00:00:00Z",
+      "venue": "Toronto, Canada",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "canada",
+        "name": "Canada",
+        "shortName": "Canada"
+      },
+      "awayTeam": {
+        "id": "bosnia-and-herzegovina",
+        "name": "Bosnia and Herzegovina",
+        "shortName": "Bosnia and Herzegovina"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6174997944646474,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.1225002055353526,
+        "expectedHomeGoals": 1.8240334371126303,
+        "expectedAwayGoals": 0.7576148455247926,
+        "over25": 0.47263911934945685,
+        "bothTeamsScore": 0.4674146195822356,
+        "homeCleanSheet": 0.4638545882421437,
+        "awayCleanSheet": 0.15393387097389194,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13507802140045105
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12279367987291924
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.12148986738758531
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09733643168567552
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.0852030787982713
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-12",
+      "stage": "Group",
+      "round": "B",
+      "kickoff": "2026-06-24T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "switzerland",
+        "name": "Switzerland",
+        "shortName": "Switzerland"
+      },
+      "awayTeam": {
+        "id": "qatar",
+        "name": "Qatar",
+        "shortName": "Qatar"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5743543857529547,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.16564561424704527,
+        "expectedHomeGoals": 1.7285291827944542,
+        "expectedAwayGoals": 0.8642887962613454,
+        "over25": 0.4769716094826033,
+        "bothTeamsScore": 0.49086963528320626,
+        "homeCleanSheet": 0.41850573944909203,
+        "awayCleanSheet": 0.17091842087484893,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1292028410989768
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12338517475136133
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1092779562695588
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09927115169251409
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08029379560714703
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-13",
+      "stage": "Group",
+      "round": "C",
+      "kickoff": "2026-06-13T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "brazil",
+        "name": "Brazil",
+        "shortName": "Brazil"
+      },
+      "awayTeam": {
+        "id": "morocco",
+        "name": "Morocco",
+        "shortName": "Morocco"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.3955181190978553,
+        "draw": 0.25999999999999984,
+        "awayWin": 0.34448188090214465,
+        "expectedHomeGoals": 1.3538892874632082,
+        "expectedAwayGoals": 1.2491452458130248,
+        "over25": 0.4827718370950502,
+        "bothTeamsScore": 0.5277133089612105,
+        "homeCleanSheet": 0.28743681838441204,
+        "awayCleanSheet": 0.25810992616194856,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366191211531478
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.10150439960970015
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.09249807543491582
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.08566898018000536
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.07806770762245045
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-14",
+      "stage": "Group",
+      "round": "C",
+      "kickoff": "2026-06-13T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "scotland",
+        "name": "Scotland",
+        "shortName": "Scotland"
+      },
+      "awayTeam": {
+        "id": "haiti",
+        "name": "Haiti",
+        "shortName": "Haiti"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5361582997034766,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.2038417002965233,
+        "expectedHomeGoals": 1.6463043376379785,
+        "expectedAwayGoals": 0.9516045482143831,
+        "over25": 0.47937150419952557,
+        "bothTeamsScore": 0.5050844263530846,
+        "homeCleanSheet": 0.3848360196054055,
+        "awayCleanSheet": 0.18756235659175483,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12375368315070541
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12358038766421775
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.09951768248118215
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09868982300118545
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07748280255024494
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-15",
+      "stage": "Group",
+      "round": "C",
+      "kickoff": "2026-06-19T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "brazil",
+        "name": "Brazil",
+        "shortName": "Brazil"
+      },
+      "awayTeam": {
+        "id": "scotland",
+        "name": "Scotland",
+        "shortName": "Scotland"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6346708557298542,
+        "draw": 0.26,
+        "awayWin": 0.10532914427014588,
+        "expectedHomeGoals": 1.8630473490159187,
+        "expectedAwayGoals": 0.7113260297670897,
+        "over25": 0.47014843680549223,
+        "bothTeamsScore": 0.45480957308063313,
+        "homeCleanSheet": 0.4852183116139717,
+        "awayCleanSheet": 0.14795454292544724,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13734104022678242
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1268621957481117
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12232626491262233
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09547597699115742
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08798242762005194
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-16",
+      "stage": "Group",
+      "round": "C",
+      "kickoff": "2026-06-19T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "morocco",
+        "name": "Morocco",
+        "shortName": "Morocco"
+      },
+      "awayTeam": {
+        "id": "haiti",
+        "name": "Haiti",
+        "shortName": "Haiti"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6900129785425336,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.04998702145746635,
+        "expectedHomeGoals": 1.9940943102470086,
+        "expectedAwayGoals": 0.5301321431941268,
+        "over25": 0.4557143276134041,
+        "bothTeamsScore": 0.38817181962092234,
+        "homeCleanSheet": 0.5808584129716569,
+        "awayCleanSheet": 0.13532172555807734,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.14797947911930104
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14446820842381425
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11787426799282834
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.10435195815065641
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.10105072702768188
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-17",
+      "stage": "Group",
+      "round": "C",
+      "kickoff": "2026-06-25T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "brazil",
+        "name": "Brazil",
+        "shortName": "Brazil"
+      },
+      "awayTeam": {
+        "id": "haiti",
+        "name": "Haiti",
+        "shortName": "Haiti"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6960803021039519,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.04391969789604806,
+        "expectedHomeGoals": 2.0090302545980085,
+        "expectedAwayGoals": 0.5045675415107685,
+        "over25": 0.45299482520663165,
+        "bothTeamsScore": 0.37625790076479587,
+        "homeCleanSheet": 0.5960993950715632,
+        "awayCleanSheet": 0.13522430952903222,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.15092562147369404
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1452587873449126
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11669147493547612
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.10758160536539137
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.10454235337989716
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-18",
+      "stage": "Group",
+      "round": "C",
+      "kickoff": "2026-06-25T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "morocco",
+        "name": "Morocco",
+        "shortName": "Morocco"
+      },
+      "awayTeam": {
+        "id": "scotland",
+        "name": "Scotland",
+        "shortName": "Scotland"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6215635140297175,
+        "draw": 0.26,
+        "awayWin": 0.1184364859702824,
+        "expectedHomeGoals": 1.8332080131311714,
+        "expectedAwayGoals": 0.7469109037606727,
+        "over25": 0.4720997919611505,
+        "bothTeamsScore": 0.464640321883446,
+        "homeCleanSheet": 0.4686971676384458,
+        "awayCleanSheet": 0.1524687955613692,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1356171440114186
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.12272909442279563
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12270011286420328
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.0969639861484233
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08580628508326105
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-19",
+      "stage": "Group",
+      "round": "D",
+      "kickoff": "2026-06-14T00:00:00Z",
+      "venue": "Los Angeles, United States",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "united-states",
+        "name": "United States",
+        "shortName": "United States"
+      },
+      "awayTeam": {
+        "id": "paraguay",
+        "name": "Paraguay",
+        "shortName": "Paraguay"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6243988634639763,
+        "draw": 0.26,
+        "awayWin": 0.11560113653602352,
+        "expectedHomeGoals": 1.8396301982075662,
+        "expectedAwayGoals": 0.7393559807184854,
+        "over25": 0.47170620254717505,
+        "bothTeamsScore": 0.4626322073695722,
+        "homeCleanSheet": 0.4721498282389096,
+        "awayCleanSheet": 0.15146385925134417,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13599196123080096
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.123604952631987
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12262914347184166
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09668041448171631
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08624589485982605
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-20",
+      "stage": "Group",
+      "round": "D",
+      "kickoff": "2026-06-14T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "australia",
+        "name": "Australia",
+        "shortName": "Australia"
+      },
+      "awayTeam": {
+        "id": "turkiye",
+        "name": "Turkiye",
+        "shortName": "Turkiye"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.3955181190978553,
+        "draw": 0.25999999999999984,
+        "awayWin": 0.34448188090214465,
+        "expectedHomeGoals": 1.3538892874632082,
+        "expectedAwayGoals": 1.2491452458130248,
+        "over25": 0.4827718370950502,
+        "bothTeamsScore": 0.5277133089612105,
+        "homeCleanSheet": 0.28743681838441204,
+        "awayCleanSheet": 0.25810992616194856,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366191211531478
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.10150439960970015
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.09249807543491582
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.08566898018000536
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.07806770762245045
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-21",
+      "stage": "Group",
+      "round": "D",
+      "kickoff": "2026-06-20T00:00:00Z",
+      "venue": "Seattle, United States",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "united-states",
+        "name": "United States",
+        "shortName": "United States"
+      },
+      "awayTeam": {
+        "id": "australia",
+        "name": "Australia",
+        "shortName": "Australia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5196151255469854,
+        "draw": 0.2600000000000001,
+        "awayWin": 0.2203848744530147,
+        "expectedHomeGoals": 1.611210975818501,
+        "expectedAwayGoals": 0.9881004045241144,
+        "over25": 0.4801365604185754,
+        "bothTeamsScore": 0.5098740660299315,
+        "homeCleanSheet": 0.37155362239675377,
+        "awayCleanSheet": 0.19513560327887114,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12362031503231935
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12131798800197947
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09794098164932642
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.0955113157818701
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07656329170555634
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-22",
+      "stage": "Group",
+      "round": "D",
+      "kickoff": "2026-06-20T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "paraguay",
+        "name": "Paraguay",
+        "shortName": "Paraguay"
+      },
+      "awayTeam": {
+        "id": "turkiye",
+        "name": "Turkiye",
+        "shortName": "Turkiye"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.24705682580848964,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.49294317419151035,
+        "expectedHomeGoals": 1.0457494203003712,
+        "expectedAwayGoals": 1.5551569999750894,
+        "over25": 0.48110938579119833,
+        "bothTeamsScore": 0.5161902415565877,
+        "homeCleanSheet": 0.20776136884286958,
+        "awayCleanSheet": 0.35142028403946224,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12365394195876943
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.11729238796035527
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.0962140214268387
+          },
+          {
+            "home": 0,
+            "away": 2,
+            "probability": 0.08927689961976405
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07537189443891942
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-23",
+      "stage": "Group",
+      "round": "D",
+      "kickoff": "2026-06-26T00:00:00Z",
+      "venue": "Kansas City, United States",
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "united-states",
+        "name": "United States",
+        "shortName": "United States"
+      },
+      "awayTeam": {
+        "id": "turkiye",
+        "name": "Turkiye",
+        "shortName": "Turkiye"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5403816058400938,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.19961839415990623,
+        "expectedHomeGoals": 1.655309010660726,
+        "expectedAwayGoals": 0.9421776806346691,
+        "over25": 0.4791529748227292,
+        "bothTeamsScore": 0.5037419173041129,
+        "homeCleanSheet": 0.38833886911615373,
+        "awayCleanSheet": 0.18566224263236306,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12436808930435177
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12356691145696419
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.10055978438723238
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.0988370331489085
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.0777430290526298
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-24",
+      "stage": "Group",
+      "round": "D",
+      "kickoff": "2026-06-26T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "paraguay",
+        "name": "Paraguay",
+        "shortName": "Paraguay"
+      },
+      "awayTeam": {
+        "id": "australia",
+        "name": "Australia",
+        "shortName": "Australia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.22486470988209617,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.5151352901179038,
+        "expectedHomeGoals": 0.9978771124557201,
+        "expectedAwayGoals": 1.6017535347013252,
+        "over25": 0.48032089813822854,
+        "bothTeamsScore": 0.5110503838063212,
+        "homeCleanSheet": 0.19722104464885495,
+        "awayCleanSheet": 0.36806815606727156,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12362819925947317
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.12065040293790938
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.09769369422463647
+          },
+          {
+            "home": 0,
+            "away": 2,
+            "probability": 0.09444580154600862
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07633958452244768
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-25",
+      "stage": "Group",
+      "round": "E",
+      "kickoff": "2026-06-15T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "germany",
+        "name": "Germany",
+        "shortName": "Germany"
+      },
+      "awayTeam": {
+        "id": "ecuador",
+        "name": "Ecuador",
+        "shortName": "Ecuador"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5361582997034766,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.2038417002965233,
+        "expectedHomeGoals": 1.6463043376379785,
+        "expectedAwayGoals": 0.9516045482143831,
+        "over25": 0.47937150419952557,
+        "bothTeamsScore": 0.5050844263530846,
+        "homeCleanSheet": 0.3848360196054055,
+        "awayCleanSheet": 0.18756235659175483,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12375368315070541
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12358038766421775
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.09951768248118215
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09868982300118545
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07748280255024494
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-26",
+      "stage": "Group",
+      "round": "E",
+      "kickoff": "2026-06-15T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ivory-coast",
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast"
+      },
+      "awayTeam": {
+        "id": "curacao",
+        "name": "Curacao",
+        "shortName": "Curacao"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5361582997034766,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.2038417002965233,
+        "expectedHomeGoals": 1.6463043376379785,
+        "expectedAwayGoals": 0.9516045482143831,
+        "over25": 0.47937150419952557,
+        "bothTeamsScore": 0.5050844263530846,
+        "homeCleanSheet": 0.3848360196054055,
+        "awayCleanSheet": 0.18756235659175483,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12375368315070541
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12358038766421775
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.09951768248118215
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09868982300118545
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07748280255024494
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-27",
+      "stage": "Group",
+      "round": "E",
+      "kickoff": "2026-06-21T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "germany",
+        "name": "Germany",
+        "shortName": "Germany"
+      },
+      "awayTeam": {
+        "id": "ivory-coast",
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6215635140297175,
+        "draw": 0.26,
+        "awayWin": 0.1184364859702824,
+        "expectedHomeGoals": 1.8332080131311714,
+        "expectedAwayGoals": 0.7469109037606727,
+        "over25": 0.4720997919611505,
+        "bothTeamsScore": 0.464640321883446,
+        "homeCleanSheet": 0.4686971676384458,
+        "awayCleanSheet": 0.1524687955613692,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1356171440114186
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.12272909442279563
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12270011286420328
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.0969639861484233
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08580628508326105
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-28",
+      "stage": "Group",
+      "round": "E",
+      "kickoff": "2026-06-21T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ecuador",
+        "name": "Ecuador",
+        "shortName": "Ecuador"
+      },
+      "awayTeam": {
+        "id": "curacao",
+        "name": "Curacao",
+        "shortName": "Curacao"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6215635140297175,
+        "draw": 0.26,
+        "awayWin": 0.1184364859702824,
+        "expectedHomeGoals": 1.8332080131311714,
+        "expectedAwayGoals": 0.7469109037606727,
+        "over25": 0.4720997919611505,
+        "bothTeamsScore": 0.464640321883446,
+        "homeCleanSheet": 0.4686971676384458,
+        "awayCleanSheet": 0.1524687955613692,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1356171440114186
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.12272909442279563
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12270011286420328
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.0969639861484233
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08580628508326105
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-29",
+      "stage": "Group",
+      "round": "E",
+      "kickoff": "2026-06-27T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "germany",
+        "name": "Germany",
+        "shortName": "Germany"
+      },
+      "awayTeam": {
+        "id": "curacao",
+        "name": "Curacao",
+        "shortName": "Curacao"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6900129785425336,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.04998702145746635,
+        "expectedHomeGoals": 1.9940943102470086,
+        "expectedAwayGoals": 0.5301321431941268,
+        "over25": 0.4557143276134041,
+        "bothTeamsScore": 0.38817181962092234,
+        "homeCleanSheet": 0.5808584129716569,
+        "awayCleanSheet": 0.13532172555807734,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.14797947911930104
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14446820842381425
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11787426799282834
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.10435195815065641
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.10105072702768188
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-30",
+      "stage": "Group",
+      "round": "E",
+      "kickoff": "2026-06-27T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "ecuador",
+        "name": "Ecuador",
+        "shortName": "Ecuador"
+      },
+      "awayTeam": {
+        "id": "ivory-coast",
+        "name": "Ivory Coast",
+        "shortName": "Ivory Coast"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4929431741915105,
+        "draw": 0.26,
+        "awayWin": 0.2470568258084896,
+        "expectedHomeGoals": 1.5551569999750898,
+        "expectedAwayGoals": 1.045749420300371,
+        "over25": 0.48110938579119844,
+        "bothTeamsScore": 0.5161902415565875,
+        "homeCleanSheet": 0.35142028403946235,
+        "awayCleanSheet": 0.20776136884286958,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12365394195876944
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.11729238796035531
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09621402142683874
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.0892768996197641
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07537189443891942
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-31",
+      "stage": "Group",
+      "round": "F",
+      "kickoff": "2026-06-11T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "netherlands",
+        "name": "Netherlands",
+        "shortName": "Netherlands"
+      },
+      "awayTeam": {
+        "id": "japan",
+        "name": "Japan",
+        "shortName": "Japan"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4929431741915105,
+        "draw": 0.26,
+        "awayWin": 0.2470568258084896,
+        "expectedHomeGoals": 1.5551569999750898,
+        "expectedAwayGoals": 1.045749420300371,
+        "over25": 0.48110938579119844,
+        "bothTeamsScore": 0.5161902415565875,
+        "homeCleanSheet": 0.35142028403946235,
+        "awayCleanSheet": 0.20776136884286958,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12365394195876944
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.11729238796035531
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09621402142683874
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.0892768996197641
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07537189443891942
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-32",
+      "stage": "Group",
+      "round": "F",
+      "kickoff": "2026-06-11T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "sweden",
+        "name": "Sweden",
+        "shortName": "Sweden"
+      },
+      "awayTeam": {
+        "id": "tunisia",
+        "name": "Tunisia",
+        "shortName": "Tunisia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4929431741915105,
+        "draw": 0.26,
+        "awayWin": 0.2470568258084896,
+        "expectedHomeGoals": 1.5551569999750898,
+        "expectedAwayGoals": 1.045749420300371,
+        "over25": 0.48110938579119844,
+        "bothTeamsScore": 0.5161902415565875,
+        "homeCleanSheet": 0.35142028403946235,
+        "awayCleanSheet": 0.20776136884286958,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12365394195876944
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.11729238796035531
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09621402142683874
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.0892768996197641
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07537189443891942
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-33",
+      "stage": "Group",
+      "round": "F",
+      "kickoff": "2026-06-17T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "netherlands",
+        "name": "Netherlands",
+        "shortName": "Netherlands"
+      },
+      "awayTeam": {
+        "id": "sweden",
+        "name": "Sweden",
+        "shortName": "Sweden"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5743543857529547,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.16564561424704527,
+        "expectedHomeGoals": 1.7285291827944542,
+        "expectedAwayGoals": 0.8642887962613454,
+        "over25": 0.4769716094826033,
+        "bothTeamsScore": 0.49086963528320626,
+        "homeCleanSheet": 0.41850573944909203,
+        "awayCleanSheet": 0.17091842087484893,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1292028410989768
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12338517475136133
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1092779562695588
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09927115169251409
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08029379560714703
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-34",
+      "stage": "Group",
+      "round": "F",
+      "kickoff": "2026-06-17T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "japan",
+        "name": "Japan",
+        "shortName": "Japan"
+      },
+      "awayTeam": {
+        "id": "tunisia",
+        "name": "Tunisia",
+        "shortName": "Tunisia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5743543857529547,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.16564561424704527,
+        "expectedHomeGoals": 1.7285291827944542,
+        "expectedAwayGoals": 0.8642887962613454,
+        "over25": 0.4769716094826033,
+        "bothTeamsScore": 0.49086963528320626,
+        "homeCleanSheet": 0.41850573944909203,
+        "awayCleanSheet": 0.17091842087484893,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1292028410989768
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12338517475136133
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1092779562695588
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09927115169251409
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08029379560714703
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-35",
+      "stage": "Group",
+      "round": "F",
+      "kickoff": "2026-06-23T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "netherlands",
+        "name": "Netherlands",
+        "shortName": "Netherlands"
+      },
+      "awayTeam": {
+        "id": "tunisia",
+        "name": "Tunisia",
+        "shortName": "Tunisia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6465457114993601,
+        "draw": 0.26,
+        "awayWin": 0.0934542885006398,
+        "expectedHomeGoals": 1.8904339059992812,
+        "expectedAwayGoals": 0.677413501371033,
+        "over25": 0.46804579106201843,
+        "bothTeamsScore": 0.4445269147458938,
+        "homeCleanSheet": 0.5015978259366064,
+        "awayCleanSheet": 0.14419874470207808,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13888490194450212
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1308156496558958
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.1218624795883473
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09369024266656144
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.0903234853845783
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-36",
+      "stage": "Group",
+      "round": "F",
+      "kickoff": "2026-06-23T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "japan",
+        "name": "Japan",
+        "shortName": "Japan"
+      },
+      "awayTeam": {
+        "id": "sweden",
+        "name": "Sweden",
+        "shortName": "Sweden"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4697100679387144,
+        "draw": 0.26,
+        "awayWin": 0.27028993206128554,
+        "expectedHomeGoals": 1.5067619803832117,
+        "expectedAwayGoals": 1.0950534749201684,
+        "over25": 0.4817428715612211,
+        "bothTeamsScore": 0.5204605605693999,
+        "homeCleanSheet": 0.33495833488733984,
+        "awayCleanSheet": 0.21916110085718055,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366476935352602
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.11368466195573151
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09425307183318413
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.08403954573343085
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.07835136090369833
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-37",
+      "stage": "Group",
+      "round": "G",
+      "kickoff": "2026-06-12T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "belgium",
+        "name": "Belgium",
+        "shortName": "Belgium"
+      },
+      "awayTeam": {
+        "id": "egypt",
+        "name": "Egypt",
+        "shortName": "Egypt"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5653042773671806,
+        "draw": 0.26,
+        "awayWin": 0.1746957226328194,
+        "expectedHomeGoals": 1.7088763764086132,
+        "expectedAwayGoals": 0.8854428593877657,
+        "over25": 0.47763522346014964,
+        "bothTeamsScore": 0.4946925277147,
+        "homeCleanSheet": 0.41008707933319233,
+        "awayCleanSheet": 0.17474609727276938,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12793340050195837
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12344925740712681
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.10689180897564826
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09929672062918174
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07952570432066167
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-38",
+      "stage": "Group",
+      "round": "G",
+      "kickoff": "2026-06-12T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "iran",
+        "name": "Iran",
+        "shortName": "Iran"
+      },
+      "awayTeam": {
+        "id": "new-zealand",
+        "name": "New Zealand",
+        "shortName": "New Zealand"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6520419598297369,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.08795804017026322,
+        "expectedHomeGoals": 1.9032331231855837,
+        "expectedAwayGoals": 0.6610605625091164,
+        "over25": 0.4669411083448312,
+        "bothTeamsScore": 0.4392330067396328,
+        "homeCleanSheet": 0.5097291764804858,
+        "awayCleanSheet": 0.14259258312084092,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13959455592876532
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.13272527746558735
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12159375511978048
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09269766571433587
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.09155476634095949
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-39",
+      "stage": "Group",
+      "round": "G",
+      "kickoff": "2026-06-18T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "belgium",
+        "name": "Belgium",
+        "shortName": "Belgium"
+      },
+      "awayTeam": {
+        "id": "iran",
+        "name": "Iran",
+        "shortName": "Iran"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.48144742467106555,
+        "draw": 0.2599999999999999,
+        "awayWin": 0.2585525753289344,
+        "expectedHomeGoals": 1.5311670119986527,
+        "expectedAwayGoals": 1.0702349332139247,
+        "over25": 0.4814451172782246,
+        "bothTeamsScore": 0.5184365968372165,
+        "homeCleanSheet": 0.34316167656565544,
+        "awayCleanSheet": 0.21335568704055044,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366081518834933
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.11551919412062431
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09529314815619659
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.08666483506254323
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.07598245848736206
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-40",
+      "stage": "Group",
+      "round": "G",
+      "kickoff": "2026-06-18T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "egypt",
+        "name": "Egypt",
+        "shortName": "Egypt"
+      },
+      "awayTeam": {
+        "id": "new-zealand",
+        "name": "New Zealand",
+        "shortName": "New Zealand"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.59947041736752,
+        "draw": 0.26,
+        "awayWin": 0.14052958263248003,
+        "expectedHomeGoals": 1.7837262459800294,
+        "expectedAwayGoals": 0.8035667964292162,
+        "over25": 0.4747247502350007,
+        "bothTeamsScore": 0.4784188598906877,
+        "homeCleanSheet": 0.44369462765358036,
+        "awayCleanSheet": 0.16074404894460115,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13265748221686388
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12311473354456991
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.11619588846182387
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09855525078287071
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08285753648886915
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-41",
+      "stage": "Group",
+      "round": "G",
+      "kickoff": "2026-06-24T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "belgium",
+        "name": "Belgium",
+        "shortName": "Belgium"
+      },
+      "awayTeam": {
+        "id": "new-zealand",
+        "name": "New Zealand",
+        "shortName": "New Zealand"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6900129785425336,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.04998702145746635,
+        "expectedHomeGoals": 1.9940943102470086,
+        "expectedAwayGoals": 0.5301321431941268,
+        "over25": 0.4557143276134041,
+        "bothTeamsScore": 0.38817181962092234,
+        "homeCleanSheet": 0.5808584129716569,
+        "awayCleanSheet": 0.13532172555807734,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.14797947911930104
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14446820842381425
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11787426799282834
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.10435195815065641
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.10105072702768188
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-42",
+      "stage": "Group",
+      "round": "G",
+      "kickoff": "2026-06-24T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "egypt",
+        "name": "Egypt",
+        "shortName": "Egypt"
+      },
+      "awayTeam": {
+        "id": "iran",
+        "name": "Iran",
+        "shortName": "Iran"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.2702899320612856,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.4697100679387144,
+        "expectedHomeGoals": 1.0950534749201686,
+        "expectedAwayGoals": 1.5067619803832117,
+        "over25": 0.4817428715612211,
+        "bothTeamsScore": 0.5204605605694,
+        "homeCleanSheet": 0.2191611008571806,
+        "awayCleanSheet": 0.3349583348873399,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366476935352605
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.11368466195573153
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.09425307183318413
+          },
+          {
+            "home": 0,
+            "away": 2,
+            "probability": 0.08403954573343085
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.07835136090369835
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-43",
+      "stage": "Group",
+      "round": "H",
+      "kickoff": "2026-06-13T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "spain",
+        "name": "Spain",
+        "shortName": "Spain"
+      },
+      "awayTeam": {
+        "id": "uruguay",
+        "name": "Uruguay",
+        "shortName": "Uruguay"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.52579960915368,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.21420039084632014,
+        "expectedHomeGoals": 1.6242982008286215,
+        "expectedAwayGoals": 0.9745323037573296,
+        "over25": 0.47986665506913645,
+        "bothTeamsScore": 0.5081677600724991,
+        "homeCleanSheet": 0.3764409238680951,
+        "awayCleanSheet": 0.19228059152145827,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12360753932347443
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12223397588843621
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09825194014704544
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.09699548942793487
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.0768892754620523
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-44",
+      "stage": "Group",
+      "round": "H",
+      "kickoff": "2026-06-13T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "saudi-arabia",
+        "name": "Saudi Arabia",
+        "shortName": "Saudi Arabia"
+      },
+      "awayTeam": {
+        "id": "cape-verde",
+        "name": "Cape Verde",
+        "shortName": "Cape Verde"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4207946299939142,
+        "draw": 0.26,
+        "awayWin": 0.31920537000608584,
+        "expectedHomeGoals": 1.4057839432942818,
+        "expectedAwayGoals": 1.197038064460512,
+        "over25": 0.48256895706992886,
+        "bothTeamsScore": 0.5262488502212066,
+        "homeCleanSheet": 0.30288740536347836,
+        "awayCleanSheet": 0.2443877861434312,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366459994392233
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.10577040168878
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.08895086629703793
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.08782843375258358
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.07386201756888143
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-45",
+      "stage": "Group",
+      "round": "H",
+      "kickoff": "2026-06-19T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "spain",
+        "name": "Spain",
+        "shortName": "Spain"
+      },
+      "awayTeam": {
+        "id": "saudi-arabia",
+        "name": "Saudi Arabia",
+        "shortName": "Saudi Arabia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6900129785425336,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.04998702145746635,
+        "expectedHomeGoals": 1.9940943102470086,
+        "expectedAwayGoals": 0.5301321431941268,
+        "over25": 0.4557143276134041,
+        "bothTeamsScore": 0.38817181962092234,
+        "homeCleanSheet": 0.5808584129716569,
+        "awayCleanSheet": 0.13532172555807734,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.14797947911930104
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14446820842381425
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11787426799282834
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.10435195815065641
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.10105072702768188
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-46",
+      "stage": "Group",
+      "round": "H",
+      "kickoff": "2026-06-19T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "uruguay",
+        "name": "Uruguay",
+        "shortName": "Uruguay"
+      },
+      "awayTeam": {
+        "id": "cape-verde",
+        "name": "Cape Verde",
+        "shortName": "Cape Verde"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6520419598297369,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.08795804017026322,
+        "expectedHomeGoals": 1.9032331231855837,
+        "expectedAwayGoals": 0.6610605625091164,
+        "over25": 0.4669411083448312,
+        "bothTeamsScore": 0.4392330067396328,
+        "homeCleanSheet": 0.5097291764804858,
+        "awayCleanSheet": 0.14259258312084092,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13959455592876532
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.13272527746558735
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12159375511978048
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09269766571433587
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.09155476634095949
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-47",
+      "stage": "Group",
+      "round": "H",
+      "kickoff": "2026-06-25T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "spain",
+        "name": "Spain",
+        "shortName": "Spain"
+      },
+      "awayTeam": {
+        "id": "cape-verde",
+        "name": "Cape Verde",
+        "shortName": "Cape Verde"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.7014523274977427,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.03854767250225734,
+        "expectedHomeGoals": 2.022338621583583,
+        "expectedAwayGoals": 0.4801283973740115,
+        "over25": 0.4502311942198809,
+        "bothTeamsScore": 0.3642365054542247,
+        "homeCleanSheet": 0.6111109355511644,
+        "awayCleanSheet": 0.13558789232830187,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.15372350728902753
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14596908832840427
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11536887613801358
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.11093533333369106
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.10792657981610634
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-48",
+      "stage": "Group",
+      "round": "H",
+      "kickoff": "2026-06-25T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "uruguay",
+        "name": "Uruguay",
+        "shortName": "Uruguay"
+      },
+      "awayTeam": {
+        "id": "saudi-arabia",
+        "name": "Saudi Arabia",
+        "shortName": "Saudi Arabia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6282751276636209,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.11172487233637922,
+        "expectedHomeGoals": 1.8484386963148827,
+        "expectedAwayGoals": 0.7289049352534166,
+        "over25": 0.47114362893381734,
+        "bothTeamsScore": 0.459784847304714,
+        "homeCleanSheet": 0.4769742870238863,
+        "awayCleanSheet": 0.15011440997712053,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13650264502751988
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.12481808748057463
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.1225237966247399
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09625958312022946
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08687354430572067
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-49",
+      "stage": "Group",
+      "round": "I",
+      "kickoff": "2026-06-14T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "france",
+        "name": "France",
+        "shortName": "France"
+      },
+      "awayTeam": {
+        "id": "senegal",
+        "name": "Senegal",
+        "shortName": "Senegal"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5361582997034766,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.2038417002965233,
+        "expectedHomeGoals": 1.6463043376379785,
+        "expectedAwayGoals": 0.9516045482143831,
+        "over25": 0.47937150419952557,
+        "bothTeamsScore": 0.5050844263530846,
+        "homeCleanSheet": 0.3848360196054055,
+        "awayCleanSheet": 0.18756235659175483,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12375368315070541
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12358038766421775
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.09951768248118215
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09868982300118545
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07748280255024494
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-50",
+      "stage": "Group",
+      "round": "I",
+      "kickoff": "2026-06-14T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "norway",
+        "name": "Norway",
+        "shortName": "Norway"
+      },
+      "awayTeam": {
+        "id": "iraq",
+        "name": "Iraq",
+        "shortName": "Iraq"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5151352901179036,
+        "draw": 0.26,
+        "awayWin": 0.2248647098820962,
+        "expectedHomeGoals": 1.6017535347013248,
+        "expectedAwayGoals": 0.99787711245572,
+        "over25": 0.4803208981382284,
+        "bothTeamsScore": 0.5110503838063211,
+        "homeCleanSheet": 0.3680681560672715,
+        "awayCleanSheet": 0.19722104464885495,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12362819925947315
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12065040293790935
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09769369422463645
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.0944458015460086
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07633958452244767
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-51",
+      "stage": "Group",
+      "round": "I",
+      "kickoff": "2026-06-20T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "france",
+        "name": "France",
+        "shortName": "France"
+      },
+      "awayTeam": {
+        "id": "norway",
+        "name": "Norway",
+        "shortName": "Norway"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6346708557298542,
+        "draw": 0.26,
+        "awayWin": 0.10532914427014588,
+        "expectedHomeGoals": 1.8630473490159187,
+        "expectedAwayGoals": 0.7113260297670897,
+        "over25": 0.47014843680549223,
+        "bothTeamsScore": 0.45480957308063313,
+        "homeCleanSheet": 0.4852183116139717,
+        "awayCleanSheet": 0.14795454292544724,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13734104022678242
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1268621957481117
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12232626491262233
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09547597699115742
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08798242762005194
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-52",
+      "stage": "Group",
+      "round": "I",
+      "kickoff": "2026-06-20T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "senegal",
+        "name": "Senegal",
+        "shortName": "Senegal"
+      },
+      "awayTeam": {
+        "id": "iraq",
+        "name": "Iraq",
+        "shortName": "Iraq"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6215635140297175,
+        "draw": 0.26,
+        "awayWin": 0.1184364859702824,
+        "expectedHomeGoals": 1.8332080131311714,
+        "expectedAwayGoals": 0.7469109037606727,
+        "over25": 0.4720997919611505,
+        "bothTeamsScore": 0.464640321883446,
+        "homeCleanSheet": 0.4686971676384458,
+        "awayCleanSheet": 0.1524687955613692,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1356171440114186
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.12272909442279563
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12270011286420328
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.0969639861484233
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08580628508326105
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-53",
+      "stage": "Group",
+      "round": "I",
+      "kickoff": "2026-06-26T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "france",
+        "name": "France",
+        "shortName": "France"
+      },
+      "awayTeam": {
+        "id": "iraq",
+        "name": "Iraq",
+        "shortName": "Iraq"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6900129785425336,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.04998702145746635,
+        "expectedHomeGoals": 1.9940943102470086,
+        "expectedAwayGoals": 0.5301321431941268,
+        "over25": 0.4557143276134041,
+        "bothTeamsScore": 0.38817181962092234,
+        "homeCleanSheet": 0.5808584129716569,
+        "awayCleanSheet": 0.13532172555807734,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.14797947911930104
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14446820842381425
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11787426799282834
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.10435195815065641
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.10105072702768188
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-54",
+      "stage": "Group",
+      "round": "I",
+      "kickoff": "2026-06-26T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "senegal",
+        "name": "Senegal",
+        "shortName": "Senegal"
+      },
+      "awayTeam": {
+        "id": "norway",
+        "name": "Norway",
+        "shortName": "Norway"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5151352901179036,
+        "draw": 0.26,
+        "awayWin": 0.2248647098820962,
+        "expectedHomeGoals": 1.6017535347013248,
+        "expectedAwayGoals": 0.99787711245572,
+        "over25": 0.4803208981382284,
+        "bothTeamsScore": 0.5110503838063211,
+        "homeCleanSheet": 0.3680681560672715,
+        "awayCleanSheet": 0.19722104464885495,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12362819925947315
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12065040293790935
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09769369422463645
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.0944458015460086
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07633958452244767
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-55",
+      "stage": "Group",
+      "round": "J",
+      "kickoff": "2026-06-15T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "argentina",
+        "name": "Argentina",
+        "shortName": "Argentina"
+      },
+      "awayTeam": {
+        "id": "austria",
+        "name": "Austria",
+        "shortName": "Austria"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5743543857529547,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.16564561424704527,
+        "expectedHomeGoals": 1.7285291827944542,
+        "expectedAwayGoals": 0.8642887962613454,
+        "over25": 0.4769716094826033,
+        "bothTeamsScore": 0.49086963528320626,
+        "homeCleanSheet": 0.41850573944909203,
+        "awayCleanSheet": 0.17091842087484893,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1292028410989768
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12338517475136133
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1092779562695588
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09927115169251409
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08029379560714703
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-56",
+      "stage": "Group",
+      "round": "J",
+      "kickoff": "2026-06-15T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "algeria",
+        "name": "Algeria",
+        "shortName": "Algeria"
+      },
+      "awayTeam": {
+        "id": "jordan",
+        "name": "Jordan",
+        "shortName": "Jordan"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.52579960915368,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.21420039084632014,
+        "expectedHomeGoals": 1.6242982008286215,
+        "expectedAwayGoals": 0.9745323037573296,
+        "over25": 0.47986665506913645,
+        "bothTeamsScore": 0.5081677600724991,
+        "homeCleanSheet": 0.3764409238680951,
+        "awayCleanSheet": 0.19228059152145827,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12360753932347443
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12223397588843621
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09825194014704544
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.09699548942793487
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.0768892754620523
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-57",
+      "stage": "Group",
+      "round": "J",
+      "kickoff": "2026-06-21T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "argentina",
+        "name": "Argentina",
+        "shortName": "Argentina"
+      },
+      "awayTeam": {
+        "id": "algeria",
+        "name": "Algeria",
+        "shortName": "Algeria"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6346708557298542,
+        "draw": 0.26,
+        "awayWin": 0.10532914427014588,
+        "expectedHomeGoals": 1.8630473490159187,
+        "expectedAwayGoals": 0.7113260297670897,
+        "over25": 0.47014843680549223,
+        "bothTeamsScore": 0.45480957308063313,
+        "homeCleanSheet": 0.4852183116139717,
+        "awayCleanSheet": 0.14795454292544724,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13734104022678242
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1268621957481117
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12232626491262233
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09547597699115742
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08798242762005194
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-58",
+      "stage": "Group",
+      "round": "J",
+      "kickoff": "2026-06-21T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "austria",
+        "name": "Austria",
+        "shortName": "Austria"
+      },
+      "awayTeam": {
+        "id": "jordan",
+        "name": "Jordan",
+        "shortName": "Jordan"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.59947041736752,
+        "draw": 0.26,
+        "awayWin": 0.14052958263248003,
+        "expectedHomeGoals": 1.7837262459800294,
+        "expectedAwayGoals": 0.8035667964292162,
+        "over25": 0.4747247502350007,
+        "bothTeamsScore": 0.4784188598906877,
+        "homeCleanSheet": 0.44369462765358036,
+        "awayCleanSheet": 0.16074404894460115,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13265748221686388
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12311473354456991
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.11619588846182387
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09855525078287071
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08285753648886915
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-59",
+      "stage": "Group",
+      "round": "J",
+      "kickoff": "2026-06-27T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "argentina",
+        "name": "Argentina",
+        "shortName": "Argentina"
+      },
+      "awayTeam": {
+        "id": "jordan",
+        "name": "Jordan",
+        "shortName": "Jordan"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6931381122698985,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.04686188773010156,
+        "expectedHomeGoals": 2.0017738775767935,
+        "expectedAwayGoals": 0.5172050011809516,
+        "over25": 0.454361191757407,
+        "bothTeamsScore": 0.38223099300738494,
+        "homeCleanSheet": 0.5885069003922162,
+        "awayCleanSheet": 0.13521284888197466,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.14947147685295528
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14487418911455396
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11730016145087051
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.10595074228157571
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.1028097667783443
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-60",
+      "stage": "Group",
+      "round": "J",
+      "kickoff": "2026-06-27T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "austria",
+        "name": "Austria",
+        "shortName": "Austria"
+      },
+      "awayTeam": {
+        "id": "algeria",
+        "name": "Algeria",
+        "shortName": "Algeria"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4697100679387144,
+        "draw": 0.26,
+        "awayWin": 0.27028993206128554,
+        "expectedHomeGoals": 1.5067619803832117,
+        "expectedAwayGoals": 1.0950534749201684,
+        "over25": 0.4817428715612211,
+        "bothTeamsScore": 0.5204605605693999,
+        "homeCleanSheet": 0.33495833488733984,
+        "awayCleanSheet": 0.21916110085718055,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366476935352602
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.11368466195573151
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09425307183318413
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.08403954573343085
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.07835136090369833
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-61",
+      "stage": "Group",
+      "round": "K",
+      "kickoff": "2026-06-16T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "portugal",
+        "name": "Portugal",
+        "shortName": "Portugal"
+      },
+      "awayTeam": {
+        "id": "colombia",
+        "name": "Colombia",
+        "shortName": "Colombia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.45775225034588274,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.28224774965411736,
+        "expectedHomeGoals": 1.4819798321998152,
+        "expectedAwayGoals": 1.1201762611935835,
+        "over25": 0.48200341858061735,
+        "bothTeamsScore": 0.5222576145813542,
+        "homeCleanSheet": 0.32681952296949873,
+        "awayCleanSheet": 0.22517287803095365,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366652314929963
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1117903619144916
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09309577426509343
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.08140520370050829
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.08072533953915391
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-62",
+      "stage": "Group",
+      "round": "K",
+      "kickoff": "2026-06-16T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan",
+        "shortName": "Uzbekistan"
+      },
+      "awayTeam": {
+        "id": "dr-congo",
+        "name": "DR Congo",
+        "shortName": "DR Congo"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.40820142501011086,
+        "draw": 0.2600000000000001,
+        "awayWin": 0.3317985749898893,
+        "expectedHomeGoals": 1.3799156771939256,
+        "expectedAwayGoals": 1.223032275627831,
+        "over25": 0.48268749030823704,
+        "bothTeamsScore": 0.5271022579994348,
+        "homeCleanSheet": 0.29510490262155425,
+        "awayCleanSheet": 0.2511628874918993,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.1236631616840291
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.10366048767867336
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.0901731582991413
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.08735842470983254
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.07599216670233747
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-63",
+      "stage": "Group",
+      "round": "K",
+      "kickoff": "2026-06-22T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "portugal",
+        "name": "Portugal",
+        "shortName": "Portugal"
+      },
+      "awayTeam": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan",
+        "shortName": "Uzbekistan"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6713057527530092,
+        "draw": 0.26,
+        "awayWin": 0.06869424724699098,
+        "expectedHomeGoals": 1.94877119313488,
+        "expectedAwayGoals": 0.5994317098190312,
+        "over25": 0.46220483654856676,
+        "bothTeamsScore": 0.4171935661128286,
+        "homeCleanSheet": 0.5418236820619251,
+        "awayCleanSheet": 0.13785517569293768,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14206555644257327
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.13992476024734724
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12024629593088869
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.09687242386769114
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.09187748257705207
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-64",
+      "stage": "Group",
+      "round": "K",
+      "kickoff": "2026-06-22T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "colombia",
+        "name": "Colombia",
+        "shortName": "Colombia"
+      },
+      "awayTeam": {
+        "id": "dr-congo",
+        "name": "DR Congo",
+        "shortName": "DR Congo"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6520419598297369,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.08795804017026322,
+        "expectedHomeGoals": 1.9032331231855837,
+        "expectedAwayGoals": 0.6610605625091164,
+        "over25": 0.4669411083448312,
+        "bothTeamsScore": 0.4392330067396328,
+        "homeCleanSheet": 0.5097291764804858,
+        "awayCleanSheet": 0.14259258312084092,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13959455592876532
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.13272527746558735
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12159375511978048
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09269766571433587
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.09155476634095949
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-65",
+      "stage": "Group",
+      "round": "K",
+      "kickoff": "2026-06-27T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "portugal",
+        "name": "Portugal",
+        "shortName": "Portugal"
+      },
+      "awayTeam": {
+        "id": "dr-congo",
+        "name": "DR Congo",
+        "shortName": "DR Congo"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6831759034241458,
+        "draw": 0.2599999999999999,
+        "awayWin": 0.05682409657585416,
+        "expectedHomeGoals": 1.977399626827087,
+        "expectedAwayGoals": 0.5568909008937514,
+        "over25": 0.45837209033500315,
+        "bothTeamsScore": 0.39993435689291856,
+        "homeCleanSheet": 0.565398892565756,
+        "awayCleanSheet": 0.13592132082408448,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.14487880109071677
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14358638749138522
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11892078702186107
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.10125457028275914
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.09745523175838566
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-66",
+      "stage": "Group",
+      "round": "K",
+      "kickoff": "2026-06-27T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "colombia",
+        "name": "Colombia",
+        "shortName": "Colombia"
+      },
+      "awayTeam": {
+        "id": "uzbekistan",
+        "name": "Uzbekistan",
+        "shortName": "Uzbekistan"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6346708557298542,
+        "draw": 0.26,
+        "awayWin": 0.10532914427014588,
+        "expectedHomeGoals": 1.8630473490159187,
+        "expectedAwayGoals": 0.7113260297670897,
+        "over25": 0.47014843680549223,
+        "bothTeamsScore": 0.45480957308063313,
+        "homeCleanSheet": 0.4852183116139717,
+        "awayCleanSheet": 0.14795454292544724,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13734104022678242
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1268621957481117
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12232626491262233
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09547597699115742
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08798242762005194
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-67",
+      "stage": "Group",
+      "round": "L",
+      "kickoff": "2026-06-16T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "england",
+        "name": "England",
+        "shortName": "England"
+      },
+      "awayTeam": {
+        "id": "croatia",
+        "name": "Croatia",
+        "shortName": "Croatia"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.45775225034588274,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.28224774965411736,
+        "expectedHomeGoals": 1.4819798321998152,
+        "expectedAwayGoals": 1.1201762611935835,
+        "over25": 0.48200341858061735,
+        "bothTeamsScore": 0.5222576145813542,
+        "homeCleanSheet": 0.32681952296949873,
+        "awayCleanSheet": 0.22517287803095365,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12366652314929963
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1117903619144916
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09309577426509343
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.08140520370050829
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.08072533953915391
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-68",
+      "stage": "Group",
+      "round": "L",
+      "kickoff": "2026-06-16T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "panama",
+        "name": "Panama",
+        "shortName": "Panama"
+      },
+      "awayTeam": {
+        "id": "ghana",
+        "name": "Ghana",
+        "shortName": "Ghana"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5462006840799098,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.19379931592009014,
+        "expectedHomeGoals": 1.6677488191264866,
+        "expectedAwayGoals": 0.9291071960043347,
+        "over25": 0.47883485725304337,
+        "bothTeamsScore": 0.5018065167040113,
+        "homeCleanSheet": 0.39324637776043747,
+        "awayCleanSheet": 0.18306720946554275,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.12520975518921143
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12354569730941527
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.10200949017063367
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09900861453445568
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.07812010392999157
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-69",
+      "stage": "Group",
+      "round": "L",
+      "kickoff": "2026-06-22T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "england",
+        "name": "England",
+        "shortName": "England"
+      },
+      "awayTeam": {
+        "id": "panama",
+        "name": "Panama",
+        "shortName": "Panama"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6346708557298542,
+        "draw": 0.26,
+        "awayWin": 0.10532914427014588,
+        "expectedHomeGoals": 1.8630473490159187,
+        "expectedAwayGoals": 0.7113260297670897,
+        "over25": 0.47014843680549223,
+        "bothTeamsScore": 0.45480957308063313,
+        "homeCleanSheet": 0.4852183116139717,
+        "awayCleanSheet": 0.14795454292544724,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13734104022678242
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1268621957481117
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12232626491262233
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09547597699115742
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08798242762005194
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-70",
+      "stage": "Group",
+      "round": "L",
+      "kickoff": "2026-06-22T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "croatia",
+        "name": "Croatia",
+        "shortName": "Croatia"
+      },
+      "awayTeam": {
+        "id": "ghana",
+        "name": "Ghana",
+        "shortName": "Ghana"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6754911006916056,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.06450889930839422,
+        "expectedHomeGoals": 1.958814035404762,
+        "expectedAwayGoals": 0.5849180119669638,
+        "over25": 0.4609506224698064,
+        "bothTeamsScore": 0.41149968504113515,
+        "homeCleanSheet": 0.5497317082657761,
+        "awayCleanSheet": 0.13706543935722557,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.1426011255011141
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.14161747846500017
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11983600536456063
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.09829683266413701
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.09376041101268912
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-71",
+      "stage": "Group",
+      "round": "L",
+      "kickoff": "2026-06-27T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "england",
+        "name": "England",
+        "shortName": "England"
+      },
+      "awayTeam": {
+        "id": "ghana",
+        "name": "Ghana",
+        "shortName": "Ghana"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6988487355989293,
+        "draw": 0.26000000000000006,
+        "awayWin": 0.04115126440107052,
+        "expectedHomeGoals": 2.0158797850903905,
+        "expectedAwayGoals": 0.49221135444837144,
+        "over25": 0.4516174301247075,
+        "bothTeamsScore": 0.37025797041991654,
+        "homeCleanSheet": 0.603634531598763,
+        "awayCleanSheet": 0.13535099853134477,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.15234270167707278
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.14562333496711088
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11604781298815962
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.1092435005500244
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.10624807605874066
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-72",
+      "stage": "Group",
+      "round": "L",
+      "kickoff": "2026-06-27T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "croatia",
+        "name": "Croatia",
+        "shortName": "Croatia"
+      },
+      "awayTeam": {
+        "id": "panama",
+        "name": "Panama",
+        "shortName": "Panama"
+      },
+      "homeSource": null,
+      "awaySource": null,
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5830658083772777,
+        "draw": 0.25999999999999995,
+        "awayWin": 0.1569341916227224,
+        "expectedHomeGoals": 1.7475596581620998,
+        "expectedAwayGoals": 0.8435913366279166,
+        "over25": 0.4762652720307981,
+        "bothTeamsScore": 0.48687847653453314,
+        "homeCleanSheet": 0.42691627173231705,
+        "awayCleanSheet": 0.1673104932021388,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.13041232588916377
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.12330889852505368
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1116249797935662
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09913662772110571
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.08110524146898912
+          }
+        ],
+        "modelProbabilities": [],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "wc-73",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-06-28T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-74",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-06-28T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-75",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-06-28T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-76",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-06-29T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-77",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-06-29T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-78",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-06-29T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-79",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-06-30T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-80",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-06-30T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-81",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-06-30T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-82",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-07-01T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-83",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-07-01T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-84",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-07-01T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-85",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-07-02T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-86",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-07-02T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-87",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-07-03T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-88",
+      "stage": "R32",
+      "round": null,
+      "kickoff": "2026-07-03T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-89",
+      "stage": "R16",
+      "round": null,
+      "kickoff": "2026-07-04T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-90",
+      "stage": "R16",
+      "round": null,
+      "kickoff": "2026-07-04T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-91",
+      "stage": "R16",
+      "round": null,
+      "kickoff": "2026-07-05T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-92",
+      "stage": "R16",
+      "round": null,
+      "kickoff": "2026-07-05T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-93",
+      "stage": "R16",
+      "round": null,
+      "kickoff": "2026-07-06T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-94",
+      "stage": "R16",
+      "round": null,
+      "kickoff": "2026-07-06T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-95",
+      "stage": "R16",
+      "round": null,
+      "kickoff": "2026-07-07T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-96",
+      "stage": "R16",
+      "round": null,
+      "kickoff": "2026-07-07T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-97",
+      "stage": "QF",
+      "round": null,
+      "kickoff": "2026-07-09T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-98",
+      "stage": "QF",
+      "round": null,
+      "kickoff": "2026-07-10T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-99",
+      "stage": "QF",
+      "round": null,
+      "kickoff": "2026-07-11T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-100",
+      "stage": "QF",
+      "round": null,
+      "kickoff": "2026-07-11T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-101",
+      "stage": "SF",
+      "round": null,
+      "kickoff": "2026-07-14T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-102",
+      "stage": "SF",
+      "round": null,
+      "kickoff": "2026-07-15T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-103",
+      "stage": "3rd-place",
+      "round": null,
+      "kickoff": "2026-07-18T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    },
+    {
+      "id": "wc-104",
+      "stage": "Final",
+      "round": null,
+      "kickoff": "2026-07-19T00:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": null,
+      "awayTeam": null,
+      "homeSource": "TBD",
+      "awaySource": "TBD",
+      "score": null,
+      "forecast": null
+    }
+  ],
+  "bracket": [
+    {
+      "id": "left-r32",
+      "label": "R32 · Left",
+      "matches": [
+        {
+          "fixtureId": "projected-left-r32-1",
+          "homeSource": "Mexico",
+          "awaySource": "Ivory Coast"
+        },
+        {
+          "fixtureId": "projected-left-r32-2",
+          "homeSource": "Brazil",
+          "awaySource": "Japan"
+        },
+        {
+          "fixtureId": "projected-left-r32-3",
+          "homeSource": "Netherlands",
+          "awaySource": "Morocco"
+        },
+        {
+          "fixtureId": "projected-left-r32-4",
+          "homeSource": "Germany",
+          "awaySource": "Scotland"
+        },
+        {
+          "fixtureId": "projected-left-r32-5",
+          "homeSource": "France",
+          "awaySource": "Turkiye"
+        },
+        {
+          "fixtureId": "projected-left-r32-6",
+          "homeSource": "Ecuador",
+          "awaySource": "Senegal"
+        },
+        {
+          "fixtureId": "projected-left-r32-7",
+          "homeSource": "South Korea",
+          "awaySource": "Canada"
+        },
+        {
+          "fixtureId": "projected-left-r32-8",
+          "homeSource": "England",
+          "awaySource": "Norway"
+        }
+      ]
+    },
+    {
+      "id": "left-r16",
+      "label": "R16 · Left",
+      "matches": [
+        {
+          "fixtureId": "projected-left-r16-1",
+          "homeSource": "Mexico",
+          "awaySource": "Brazil"
+        },
+        {
+          "fixtureId": "projected-left-r16-2",
+          "homeSource": "Morocco",
+          "awaySource": "Germany"
+        },
+        {
+          "fixtureId": "projected-left-r16-3",
+          "homeSource": "France",
+          "awaySource": "Senegal"
+        },
+        {
+          "fixtureId": "projected-left-r16-4",
+          "homeSource": "South Korea",
+          "awaySource": "England"
+        }
+      ]
+    },
+    {
+      "id": "left-qf",
+      "label": "QF · Left",
+      "matches": [
+        {
+          "fixtureId": "projected-left-qf-1",
+          "homeSource": "Brazil",
+          "awaySource": "Germany"
+        },
+        {
+          "fixtureId": "projected-left-qf-2",
+          "homeSource": "France",
+          "awaySource": "England"
+        }
+      ]
+    },
+    {
+      "id": "left-sf",
+      "label": "SF · Left",
+      "matches": [
+        {
+          "fixtureId": "projected-left-sf-1",
+          "homeSource": "Brazil",
+          "awaySource": "France"
+        }
+      ]
+    },
+    {
+      "id": "right-r32",
+      "label": "R32 · Right",
+      "matches": [
+        {
+          "fixtureId": "projected-right-r32-1",
+          "homeSource": "Belgium",
+          "awaySource": "Algeria"
+        },
+        {
+          "fixtureId": "projected-right-r32-2",
+          "homeSource": "United States",
+          "awaySource": "Sweden"
+        },
+        {
+          "fixtureId": "projected-right-r32-3",
+          "homeSource": "Spain",
+          "awaySource": "Austria"
+        },
+        {
+          "fixtureId": "projected-right-r32-4",
+          "homeSource": "Colombia",
+          "awaySource": "Croatia"
+        },
+        {
+          "fixtureId": "projected-right-r32-5",
+          "homeSource": "Switzerland",
+          "awaySource": "Egypt"
+        },
+        {
+          "fixtureId": "projected-right-r32-6",
+          "homeSource": "Australia",
+          "awaySource": "Iran"
+        },
+        {
+          "fixtureId": "projected-right-r32-7",
+          "homeSource": "Argentina",
+          "awaySource": "Uruguay"
+        },
+        {
+          "fixtureId": "projected-right-r32-8",
+          "homeSource": "Portugal",
+          "awaySource": "Panama"
+        }
+      ]
+    },
+    {
+      "id": "right-r16",
+      "label": "R16 · Right",
+      "matches": [
+        {
+          "fixtureId": "projected-right-r16-1",
+          "homeSource": "Belgium",
+          "awaySource": "United States"
+        },
+        {
+          "fixtureId": "projected-right-r16-2",
+          "homeSource": "Spain",
+          "awaySource": "Croatia"
+        },
+        {
+          "fixtureId": "projected-right-r16-3",
+          "homeSource": "Switzerland",
+          "awaySource": "Iran"
+        },
+        {
+          "fixtureId": "projected-right-r16-4",
+          "homeSource": "Argentina",
+          "awaySource": "Portugal"
+        }
+      ]
+    },
+    {
+      "id": "right-qf",
+      "label": "QF · Right",
+      "matches": [
+        {
+          "fixtureId": "projected-right-qf-1",
+          "homeSource": "Belgium",
+          "awaySource": "Spain"
+        },
+        {
+          "fixtureId": "projected-right-qf-2",
+          "homeSource": "Iran",
+          "awaySource": "Argentina"
+        }
+      ]
+    },
+    {
+      "id": "right-sf",
+      "label": "SF · Right",
+      "matches": [
+        {
+          "fixtureId": "projected-right-sf-1",
+          "homeSource": "Spain",
+          "awaySource": "Argentina"
+        }
+      ]
+    },
+    {
+      "id": "final",
+      "label": "Final",
+      "matches": [
+        {
+          "fixtureId": "projected-final-1",
+          "homeSource": "France",
+          "awaySource": "Spain"
+        }
+      ]
+    }
+  ],
+  "methodology": {
+    "primaryModel": "Elo-Poisson",
+    "components": [
+      "Elo strength ratings",
+      "Poisson scoreline distribution",
+      "Monte Carlo group and knockout simulation",
+      "FIFA group and third-place tiebreakers"
+    ],
+    "evaluation": "Models are compared with log loss, Brier score and RPS.",
+    "assumptions": [
+      "Listed venues determine whether host advantage is applied.",
+      "Knockout shootouts use a small Elo-weighted advantage."
+    ]
+  }
+}

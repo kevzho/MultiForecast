@@ -1,19 +1,19 @@
 import streamlit as st
 
-from premier_league.dashboard import render_premier_league
+from domestic.ui import render_domestic_leagues
 from worldcup.ui import render_worldcup_tab
 
 
 st.set_page_config(
-    page_title="MultiForecast — World Cup 2026 & Premier League",
+    page_title="MultiForecast — World Cup & Big Five Leagues",
     page_icon="⚽",
     layout="wide",
 )
 
-tab_wc, tab_pl = st.tabs(["World Cup 2026", "Premier League 26/27"])
+tab_wc, tab_domestic = st.tabs(["World Cup 2026", "Big Five Leagues"])
 
 with tab_wc:
     render_worldcup_tab()
 
-with tab_pl:
-    render_premier_league()
+with tab_domestic:
+    render_domestic_leagues()

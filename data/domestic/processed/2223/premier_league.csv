@@ -1,0 +1,381 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+premier_league,2223,2022-08-05,Crystal Palace,Arsenal,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-06,Fulham,Liverpool,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-06,AFC Bournemouth,Aston Villa,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-06,Leeds United,Wolverhampton Wanderers,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-06,Newcastle United,Nottingham Forest,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-06,Tottenham Hotspur,Southampton,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-06,Everton,Chelsea,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-07,Leicester,Brentford,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-07,Manchester United,Brighton & Hove Albion,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-07,West Ham United,Manchester City,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-13,Aston Villa,Everton,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-13,Arsenal,Leicester,4,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-13,Brighton & Hove Albion,Newcastle United,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-13,Manchester City,AFC Bournemouth,4,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-13,Southampton,Leeds United,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-13,Wolverhampton Wanderers,Fulham,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-13,Brentford,Manchester United,4,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-14,Nottingham Forest,West Ham United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-14,Chelsea,Tottenham Hotspur,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-15,Liverpool,Crystal Palace,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-20,Tottenham Hotspur,Wolverhampton Wanderers,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-20,Crystal Palace,Aston Villa,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-20,Everton,Nottingham Forest,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-20,Fulham,Brentford,3,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-20,Leicester,Southampton,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-20,AFC Bournemouth,Arsenal,0,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-21,Leeds United,Chelsea,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-21,West Ham United,Brighton & Hove Albion,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-21,Newcastle United,Manchester City,3,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-22,Manchester United,Liverpool,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-27,Southampton,Manchester United,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-27,Brentford,Everton,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-27,Brighton & Hove Albion,Leeds United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-27,Chelsea,Leicester,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-27,Liverpool,AFC Bournemouth,9,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-27,Manchester City,Crystal Palace,4,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-27,Arsenal,Fulham,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-28,Aston Villa,West Ham United,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-28,Wolverhampton Wanderers,Newcastle United,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-28,Nottingham Forest,Tottenham Hotspur,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-30,Crystal Palace,Brentford,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-30,Fulham,Brighton & Hove Albion,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-30,Southampton,Chelsea,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-30,Leeds United,Everton,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-31,Arsenal,Aston Villa,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-31,AFC Bournemouth,Wolverhampton Wanderers,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-31,Manchester City,Nottingham Forest,6,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-31,West Ham United,Tottenham Hotspur,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-08-31,Liverpool,Newcastle United,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-01,Leicester,Manchester United,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-03,Everton,Liverpool,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-03,Brentford,Leeds United,5,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-03,Chelsea,West Ham United,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-03,Newcastle United,Crystal Palace,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-03,Nottingham Forest,AFC Bournemouth,2,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-03,Tottenham Hotspur,Fulham,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-03,Wolverhampton Wanderers,Southampton,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-03,Aston Villa,Manchester City,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-04,Brighton & Hove Albion,Leicester,5,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-04,Manchester United,Arsenal,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-16,Aston Villa,Southampton,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-16,Nottingham Forest,Fulham,2,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-17,Wolverhampton Wanderers,Manchester City,0,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-17,Newcastle United,AFC Bournemouth,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-17,Tottenham Hotspur,Leicester,6,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-18,Brentford,Arsenal,0,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-09-18,Everton,West Ham United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-01,Arsenal,Tottenham Hotspur,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-01,AFC Bournemouth,Brentford,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-01,Crystal Palace,Chelsea,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-01,Fulham,Newcastle United,1,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-01,Liverpool,Brighton & Hove Albion,3,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-01,Southampton,Everton,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-01,West Ham United,Wolverhampton Wanderers,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-02,Manchester City,Manchester United,6,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-02,Leeds United,Aston Villa,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-03,Leicester,Nottingham Forest,4,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-08,AFC Bournemouth,Leicester,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-08,Chelsea,Wolverhampton Wanderers,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-08,Manchester City,Southampton,4,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-08,Newcastle United,Brentford,5,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-08,Brighton & Hove Albion,Tottenham Hotspur,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-09,Crystal Palace,Leeds United,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-09,West Ham United,Fulham,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-09,Arsenal,Liverpool,3,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-09,Everton,Manchester United,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-10,Nottingham Forest,Aston Villa,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-14,Brentford,Brighton & Hove Albion,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-15,Leicester,Crystal Palace,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-15,Fulham,AFC Bournemouth,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-15,Wolverhampton Wanderers,Nottingham Forest,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-15,Tottenham Hotspur,Everton,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-16,Aston Villa,Chelsea,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-16,Leeds United,Arsenal,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-16,Manchester United,Newcastle United,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-16,Southampton,West Ham United,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-16,Liverpool,Manchester City,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-18,Brighton & Hove Albion,Nottingham Forest,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-18,Crystal Palace,Wolverhampton Wanderers,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-19,AFC Bournemouth,Southampton,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-19,Brentford,Chelsea,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-19,Liverpool,West Ham United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-19,Newcastle United,Everton,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-19,Manchester United,Tottenham Hotspur,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-20,Fulham,Aston Villa,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-20,Leicester,Leeds United,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-22,Nottingham Forest,Liverpool,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-22,Everton,Crystal Palace,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-22,Manchester City,Brighton & Hove Albion,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-22,Chelsea,Manchester United,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-23,Aston Villa,Brentford,4,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-23,Leeds United,Fulham,2,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-23,Southampton,Arsenal,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-23,Wolverhampton Wanderers,Leicester,0,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-23,Tottenham Hotspur,Newcastle United,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-24,West Ham United,AFC Bournemouth,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-29,Leicester,Manchester City,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-29,AFC Bournemouth,Tottenham Hotspur,2,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-29,Brentford,Wolverhampton Wanderers,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-29,Brighton & Hove Albion,Chelsea,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-29,Crystal Palace,Southampton,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-29,Newcastle United,Aston Villa,4,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-29,Fulham,Everton,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-29,Liverpool,Leeds United,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-30,Arsenal,Nottingham Forest,5,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-10-30,Manchester United,West Ham United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-05,Leeds United,AFC Bournemouth,4,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-05,Manchester City,Fulham,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-05,Nottingham Forest,Brentford,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-05,Wolverhampton Wanderers,Brighton & Hove Albion,2,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-05,Everton,Leicester,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-06,Chelsea,Arsenal,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-06,Aston Villa,Manchester United,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-06,Southampton,Newcastle United,1,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-06,West Ham United,Crystal Palace,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-06,Tottenham Hotspur,Liverpool,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-12,Manchester City,Brentford,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-12,AFC Bournemouth,Everton,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-12,Liverpool,Southampton,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-12,Nottingham Forest,Crystal Palace,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-12,Tottenham Hotspur,Leeds United,4,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-12,West Ham United,Leicester,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-12,Newcastle United,Chelsea,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-12,Wolverhampton Wanderers,Arsenal,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-13,Brighton & Hove Albion,Aston Villa,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-11-13,Fulham,Manchester United,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-26,Brentford,Tottenham Hotspur,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-26,Crystal Palace,Fulham,0,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-26,Everton,Wolverhampton Wanderers,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-26,Leicester,Newcastle United,0,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-26,Southampton,Brighton & Hove Albion,1,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-26,Aston Villa,Liverpool,1,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-26,Arsenal,West Ham United,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-27,Chelsea,AFC Bournemouth,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-27,Manchester United,Nottingham Forest,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-28,Leeds United,Manchester City,1,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-30,West Ham United,Brentford,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-30,Liverpool,Leicester,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-31,Wolverhampton Wanderers,Manchester United,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-31,AFC Bournemouth,Crystal Palace,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-31,Fulham,Southampton,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-31,Manchester City,Everton,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-31,Newcastle United,Leeds United,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2022-12-31,Brighton & Hove Albion,Arsenal,2,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-01,Tottenham Hotspur,Aston Villa,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-01,Nottingham Forest,Chelsea,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-02,Brentford,Liverpool,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-03,Arsenal,Newcastle United,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-03,Everton,Brighton & Hove Albion,1,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-03,Leicester,Fulham,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-03,Manchester United,AFC Bournemouth,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-04,Southampton,Nottingham Forest,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-04,Leeds United,West Ham United,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-04,Aston Villa,Wolverhampton Wanderers,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-04,Crystal Palace,Tottenham Hotspur,0,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-05,Chelsea,Manchester City,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-12,Fulham,Chelsea,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-13,Aston Villa,Leeds United,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-14,Manchester United,Manchester City,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-14,Brighton & Hove Albion,Liverpool,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-14,Everton,Southampton,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-14,Nottingham Forest,Leicester,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-14,Wolverhampton Wanderers,West Ham United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-14,Brentford,AFC Bournemouth,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-15,Chelsea,Crystal Palace,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-15,Newcastle United,Fulham,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-15,Tottenham Hotspur,Arsenal,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-18,Crystal Palace,Manchester United,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-19,Manchester City,Tottenham Hotspur,4,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-21,Liverpool,Chelsea,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-21,AFC Bournemouth,Nottingham Forest,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-21,Leicester,Brighton & Hove Albion,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-21,Southampton,Aston Villa,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-21,West Ham United,Everton,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-21,Crystal Palace,Newcastle United,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-22,Leeds United,Brentford,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-22,Manchester City,Wolverhampton Wanderers,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-22,Arsenal,Manchester United,3,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-01-23,Fulham,Tottenham Hotspur,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-03,Chelsea,Fulham,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-04,Everton,Arsenal,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-04,Aston Villa,Leicester,2,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-04,Brentford,Southampton,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-04,Brighton & Hove Albion,AFC Bournemouth,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-04,Manchester United,Crystal Palace,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-04,Wolverhampton Wanderers,Liverpool,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-04,Newcastle United,West Ham United,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-05,Nottingham Forest,Leeds United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-05,Tottenham Hotspur,Manchester City,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-08,Manchester United,Leeds United,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-11,West Ham United,Chelsea,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-11,Arsenal,Brentford,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-11,Crystal Palace,Brighton & Hove Albion,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-11,Fulham,Nottingham Forest,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-11,Leicester,Tottenham Hotspur,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-11,Southampton,Wolverhampton Wanderers,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-11,AFC Bournemouth,Newcastle United,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-12,Leeds United,Manchester United,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-12,Manchester City,Aston Villa,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-13,Liverpool,Everton,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-15,Arsenal,Manchester City,1,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-18,Aston Villa,Arsenal,2,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-18,Brentford,Crystal Palace,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-18,Brighton & Hove Albion,Fulham,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-18,Chelsea,Southampton,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-18,Everton,Leeds United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-18,Nottingham Forest,Manchester City,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-18,Wolverhampton Wanderers,AFC Bournemouth,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-18,Newcastle United,Liverpool,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-19,Manchester United,Leicester,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-19,Tottenham Hotspur,West Ham United,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-24,Fulham,Wolverhampton Wanderers,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-25,Everton,Aston Villa,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-25,Leeds United,Southampton,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-25,Leicester,Arsenal,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-25,West Ham United,Nottingham Forest,4,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-25,AFC Bournemouth,Manchester City,1,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-25,Crystal Palace,Liverpool,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-02-26,Tottenham Hotspur,Chelsea,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-01,Arsenal,Everton,4,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-01,Liverpool,Wolverhampton Wanderers,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-04,Manchester City,Newcastle United,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-04,Arsenal,AFC Bournemouth,3,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-04,Aston Villa,Crystal Palace,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-04,Brighton & Hove Albion,West Ham United,4,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-04,Chelsea,Leeds United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-04,Wolverhampton Wanderers,Tottenham Hotspur,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-04,Southampton,Leicester,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-05,Nottingham Forest,Everton,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-05,Liverpool,Manchester United,7,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-06,Brentford,Fulham,3,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-11,AFC Bournemouth,Liverpool,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-11,Everton,Brentford,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-11,Leeds United,Brighton & Hove Albion,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-11,Leicester,Chelsea,1,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-11,Tottenham Hotspur,Nottingham Forest,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-11,Crystal Palace,Manchester City,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-12,Fulham,Arsenal,0,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-12,Manchester United,Southampton,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-12,West Ham United,Aston Villa,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-12,Newcastle United,Wolverhampton Wanderers,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-15,Brighton & Hove Albion,Crystal Palace,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-15,Southampton,Brentford,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-17,Nottingham Forest,Newcastle United,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-18,Aston Villa,AFC Bournemouth,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-18,Brentford,Leicester,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-18,Southampton,Tottenham Hotspur,3,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-18,Wolverhampton Wanderers,Leeds United,2,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-18,Chelsea,Everton,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-03-19,Arsenal,Crystal Palace,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-01,Manchester City,Liverpool,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-01,Arsenal,Leeds United,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-01,AFC Bournemouth,Fulham,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-01,Brighton & Hove Albion,Brentford,3,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-01,Crystal Palace,Leicester,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-01,Nottingham Forest,Wolverhampton Wanderers,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-01,Chelsea,Aston Villa,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-02,West Ham United,Southampton,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-02,Newcastle United,Manchester United,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-03,Everton,Tottenham Hotspur,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-04,AFC Bournemouth,Brighton & Hove Albion,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-04,Leeds United,Nottingham Forest,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-04,Leicester,Aston Villa,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-04,Chelsea,Liverpool,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-05,Manchester United,Brentford,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-05,West Ham United,Newcastle United,1,5,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-08,Manchester United,Everton,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-08,Aston Villa,Nottingham Forest,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-08,Brentford,Newcastle United,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-08,Fulham,West Ham United,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-08,Leicester,AFC Bournemouth,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-08,Tottenham Hotspur,Brighton & Hove Albion,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-08,Wolverhampton Wanderers,Chelsea,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-08,Southampton,Manchester City,1,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-09,Leeds United,Crystal Palace,1,5,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-09,Liverpool,Arsenal,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-15,Aston Villa,Newcastle United,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-15,Chelsea,Brighton & Hove Albion,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-15,Everton,Fulham,1,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-15,Southampton,Crystal Palace,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-15,Tottenham Hotspur,AFC Bournemouth,2,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-15,Wolverhampton Wanderers,Brentford,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-15,Manchester City,Leicester,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-16,West Ham United,Arsenal,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-16,Nottingham Forest,Manchester United,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-17,Leeds United,Liverpool,1,6,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-21,Arsenal,Southampton,3,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-22,Fulham,Leeds United,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-22,Brentford,Aston Villa,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-22,Crystal Palace,Everton,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-22,Leicester,Wolverhampton Wanderers,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-22,Liverpool,Nottingham Forest,3,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-23,AFC Bournemouth,West Ham United,0,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-23,Newcastle United,Tottenham Hotspur,6,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-25,Wolverhampton Wanderers,Crystal Palace,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-25,Aston Villa,Fulham,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-25,Leeds United,Leicester,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-26,Nottingham Forest,Brighton & Hove Albion,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-26,Chelsea,Brentford,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-26,West Ham United,Liverpool,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-26,Manchester City,Arsenal,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-27,Everton,Newcastle United,1,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-27,Southampton,AFC Bournemouth,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-27,Tottenham Hotspur,Manchester United,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-29,Crystal Palace,West Ham United,4,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-29,Brentford,Nottingham Forest,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-29,Brighton & Hove Albion,Wolverhampton Wanderers,6,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-30,AFC Bournemouth,Leeds United,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-30,Fulham,Manchester City,1,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-30,Manchester United,Aston Villa,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-30,Newcastle United,Southampton,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-04-30,Liverpool,Tottenham Hotspur,4,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-01,Leicester,Everton,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-02,Arsenal,Chelsea,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-03,Liverpool,Fulham,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-03,Manchester City,West Ham United,3,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-04,Brighton & Hove Albion,Manchester United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-06,AFC Bournemouth,Chelsea,1,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-06,Manchester City,Leeds United,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-06,Tottenham Hotspur,Crystal Palace,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-06,Wolverhampton Wanderers,Aston Villa,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-06,Liverpool,Brentford,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-07,Newcastle United,Arsenal,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-07,West Ham United,Manchester United,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-08,Fulham,Leicester,5,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-08,Brighton & Hove Albion,Everton,1,5,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-08,Nottingham Forest,Southampton,4,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-13,Leeds United,Newcastle United,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-13,Aston Villa,Tottenham Hotspur,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-13,Chelsea,Nottingham Forest,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-13,Crystal Palace,AFC Bournemouth,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-13,Manchester United,Wolverhampton Wanderers,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-13,Southampton,Fulham,0,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-14,Brentford,West Ham United,2,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-14,Everton,Manchester City,0,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-14,Arsenal,Brighton & Hove Albion,0,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-15,Leicester,Liverpool,0,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-18,Newcastle United,Brighton & Hove Albion,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-20,Tottenham Hotspur,Brentford,1,3,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-20,AFC Bournemouth,Manchester United,0,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-20,Fulham,Crystal Palace,2,2,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-20,Liverpool,Aston Villa,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-20,Wolverhampton Wanderers,Everton,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-20,Nottingham Forest,Arsenal,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-21,West Ham United,Leeds United,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-21,Brighton & Hove Albion,Southampton,3,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-21,Manchester City,Chelsea,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-22,Newcastle United,Leicester,0,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-24,Brighton & Hove Albion,Manchester City,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-25,Manchester United,Chelsea,4,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Arsenal,Wolverhampton Wanderers,5,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Aston Villa,Brighton & Hove Albion,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Brentford,Manchester City,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Chelsea,Newcastle United,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Crystal Palace,Nottingham Forest,1,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Everton,AFC Bournemouth,1,0,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Leeds United,Tottenham Hotspur,1,4,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Leicester,West Ham United,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Manchester United,Fulham,2,1,played,2026-08-27 22:28:02.128443+00:00
+premier_league,2223,2023-05-28,Southampton,Liverpool,4,4,played,2026-08-27 22:28:02.128443+00:00

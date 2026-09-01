@@ -1,72 +1,81 @@
 # MultiForecast
 
-MultiForecast is a dual-mode football forecaster: a Premier League season simulator and a World Cup 2026 tournament predictor in one Streamlit app. Both products share a Monte Carlo and statistical-modeling foundation, while keeping league-table logic and group-plus-knockout tournament logic cleanly separated.
+MultiForecast predicts the 2026 World Cup and the 2026/27 seasons in the Premier League, Serie A, Ligue 1, La Liga, and Bundesliga. It ships as two applications backed by one Python forecasting system:
 
-![Premier League dashboard](img/pl.png)
+- `web/`: the complete public Next.js product, ready for Vercel.
+- `app.py`: the Streamlit analytics application for live model runs and deeper exploration.
 
-## Architecture
+Both surfaces use the same versioned JSON forecast contract.
+
+## Product coverage
+
+- World Cup group advancement, knockout progression, title probabilities, and projected bracket.
+- Domestic title, UEFA qualification, relegation, expected points, and full position distributions.
+- Elo, Elo-Poisson, attack/defense Poisson, Skellam, Dixon-Coles, and Bradley-Terry/Davidson models.
+- Walk-forward model comparison with log loss, Brier score, RPS, and calibration.
+- Match previews with W/D/L probabilities, expected goals, likely scorelines, O/U 2.5, BTTS, clean sheets, engine comparison, and season-impact scenarios.
+- Daily last-known-good data refreshes and static artifact publication.
+
+## Repository map
 
 ```text
-app.py                         # Streamlit entry point with two tabs
-premier_league/
-  dashboard.py                 # Premier League tab
-  refresh.py                   # Daily PL refresh workflow entry
-  run.py                       # PL simulation runner
-  engine/                      # Premier League engine modules
-  viz/                         # PL analysis notebooks
-worldcup/
-  ui.py                        # World Cup tab
-  data.py, model.py            # WC loaders and match models
-  tiebreakers.py, bracket.py   # FIFA ranking and knockout logic
-  simulate.py                  # WC tournament Monte Carlo
-data/
-  *.csv, *.json                # Premier League data
-  wc/                          # World Cup data layer
-cache/                         # App and simulation caches
-.github/workflows/
-  daily-refresh.yml            # Automated PL refresh
+app.py                    Streamlit entry point
+export_forecasts.py       Builds all Vercel forecast artifacts
+refresh_all.py            Daily data and artifact refresh
+domestic/                 Shared Big Five engine, UI, and pipeline
+worldcup/                 World Cup models, simulation, UI, and export
+premier_league/           Legacy compatibility package
+web/                      Next.js/Vercel application
+data/domestic/processed/  Canonical domestic match data
+data/wc/                  World Cup inputs and fitted strengths
+tests/                    Python unit and integration tests
+docs/                     Architecture, data, modeling, and deployment guides
 ```
 
-## Shared Concepts
+See [domestic/README.md](domestic/README.md) for the domestic package map and [web/README.md](web/README.md) for frontend routes.
 
-Both products use rating-based match probabilities, scoreline or result sampling, Monte Carlo aggregation, cache-aware outputs, and a daily GitHub Action refresh pattern. They diverge where football formats diverge: the Premier League product simulates a 20-team league table, while the World Cup product simulates groups, FIFA tiebreakers, third-place qualification, and a knockout bracket.
+## Run locally
 
-## Run Locally
+Python 3.11 is the deployed runtime.
 
 ```bash
+python -m pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Premier League refresh and pipeline:
+Generate the shared artifacts and run the Vercel app:
 
 ```bash
-python -m premier_league.refresh
-python -m premier_league.run
+python export_forecasts.py
+cd web
+npm install
+npm run dev
 ```
 
-World Cup simulator smoke run:
+The frontend is available at `http://localhost:3000`; Streamlit defaults to `http://localhost:8501`.
+
+## Refresh and verify
 
 ```bash
-python -m worldcup.simulate
+python -m domestic.refresh
+python refresh_all.py
+python -m pytest -q
+
+cd web
+npm run lint
+npm run typecheck
+npm run build
 ```
 
-## Automated Daily Refresh
+`refresh_all.py` updates current schedules and results, refreshes the World Cup inputs, reruns model selection and simulations, and writes `web/public/data/manifest.json` plus one artifact per competition.
 
-The GitHub Action `Daily Refresh (PL + World Cup)` runs `python refresh_all.py`
-every day at 10:00 UTC and commits updated tracked `data/` outputs. Premier
-League and World Cup live fetch steps are non-fatal, so a flaky upstream source
-prints a warning and the job continues with the last-good data where possible.
+## Documentation
 
-## Product Docs
+- [Architecture](docs/ARCHITECTURE.md)
+- [Data and models](docs/DATA_AND_MODELS.md)
+- [Deployment](docs/DEPLOYMENT.md)
+- [Domestic engine](domestic/README.md)
+- [World Cup engine](worldcup/README.md)
+- [Vercel frontend](web/README.md)
 
-- [Premier League predictor](premier_league/README.md)
-- [World Cup 2026 predictor](worldcup/README.md)
-
-## Modeling Roadmap
-
-The modeling path is Elo first, then Poisson/Skellam scoreline models, then Dixon-Coles calibration, and finally richer ML features once stable data and validation loops are in place.
-
-## Changelog
-
-- `v2.0`: World Cup 2026 predictor and monorepo restructure.
-- `v1.x`: Premier League Monte Carlo dashboard.
+Forecasts are probabilistic estimates, not betting advice.

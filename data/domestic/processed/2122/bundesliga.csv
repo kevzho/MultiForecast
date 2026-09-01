@@ -1,0 +1,307 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+bundesliga,2122,2021-08-13,Borussia Monchengladbach,Bayern Munich,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-14,Augsburg,Hoffenheim,0,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-14,Bielefeld,Freiburg,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-14,Stuttgart,Greuther Furth,5,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-14,Union Berlin,Bayer Leverkusen,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-14,Wolfsburg,Bochum,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-14,Borussia Dortmund,Eintracht Frankfurt,5,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-15,Mainz,RB Leipzig,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-15,FC Cologne,Hertha,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-20,RB Leipzig,Stuttgart,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-21,Bochum,Mainz,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-21,Eintracht Frankfurt,Augsburg,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-21,Freiburg,Borussia Dortmund,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-21,Greuther Furth,Bielefeld,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-21,Hertha,Wolfsburg,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-21,Bayer Leverkusen,Borussia Monchengladbach,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-22,Hoffenheim,Union Berlin,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-22,Bayern Munich,FC Cologne,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-27,Borussia Dortmund,Hoffenheim,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-28,Augsburg,Bayer Leverkusen,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-28,Bielefeld,Eintracht Frankfurt,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-28,FC Cologne,Bochum,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-28,Mainz,Greuther Furth,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-28,Stuttgart,Freiburg,2,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-28,Bayern Munich,Hertha,5,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-29,Union Berlin,Borussia Monchengladbach,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-08-29,Wolfsburg,RB Leipzig,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-11,Freiburg,FC Cologne,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-11,Greuther Furth,Wolfsburg,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-11,Hoffenheim,Mainz,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-11,Bayer Leverkusen,Borussia Dortmund,3,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-11,Union Berlin,Augsburg,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-11,RB Leipzig,Bayern Munich,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-12,Eintracht Frankfurt,Stuttgart,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-12,Bochum,Hertha,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-12,Borussia Monchengladbach,Bielefeld,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-17,Hertha,Greuther Furth,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-18,Augsburg,Borussia Monchengladbach,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-18,Bayern Munich,Bochum,7,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-18,Bielefeld,Hoffenheim,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-18,Mainz,Freiburg,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-18,FC Cologne,RB Leipzig,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-19,Stuttgart,Bayer Leverkusen,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-19,Borussia Dortmund,Union Berlin,4,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-19,Wolfsburg,Eintracht Frankfurt,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-24,Greuther Furth,Bayern Munich,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-25,Eintracht Frankfurt,FC Cologne,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-25,Hoffenheim,Wolfsburg,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-25,Bayer Leverkusen,Mainz,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-25,RB Leipzig,Hertha,6,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-25,Union Berlin,Bielefeld,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-25,Borussia Monchengladbach,Borussia Dortmund,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-26,Bochum,Stuttgart,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-09-26,Freiburg,Augsburg,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-01,FC Cologne,Greuther Furth,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-02,Borussia Dortmund,Augsburg,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-02,Hertha,Freiburg,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-02,Stuttgart,Hoffenheim,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-02,Wolfsburg,Borussia Monchengladbach,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-02,RB Leipzig,Bochum,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-03,Mainz,Union Berlin,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-03,Bayern Munich,Eintracht Frankfurt,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-03,Bielefeld,Bayer Leverkusen,0,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-15,Hoffenheim,FC Cologne,5,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-16,Borussia Dortmund,Mainz,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-16,Eintracht Frankfurt,Hertha,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-16,Freiburg,RB Leipzig,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-16,Greuther Furth,Bochum,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-16,Union Berlin,Wolfsburg,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-16,Borussia Monchengladbach,Stuttgart,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-17,Bayer Leverkusen,Bayern Munich,1,5,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-17,Augsburg,Bielefeld,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-22,Mainz,Augsburg,4,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-23,Bayern Munich,Hoffenheim,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-23,Bielefeld,Borussia Dortmund,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-23,RB Leipzig,Greuther Furth,4,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-23,Wolfsburg,Freiburg,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-23,Hertha,Borussia Monchengladbach,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-24,FC Cologne,Bayer Leverkusen,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-24,Stuttgart,Union Berlin,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-24,Bochum,Eintracht Frankfurt,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-29,Hoffenheim,Hertha,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-30,Bielefeld,Mainz,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-30,Borussia Dortmund,FC Cologne,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-30,Freiburg,Greuther Furth,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-30,Bayer Leverkusen,Wolfsburg,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-30,Union Berlin,Bayern Munich,2,5,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-30,Eintracht Frankfurt,RB Leipzig,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-31,Augsburg,Stuttgart,4,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-10-31,Borussia Monchengladbach,Bochum,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-05,Mainz,Borussia Monchengladbach,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-06,Bayern Munich,Freiburg,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-06,Bochum,Hoffenheim,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-06,Stuttgart,Bielefeld,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-06,Wolfsburg,Augsburg,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-06,RB Leipzig,Borussia Dortmund,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-07,Hertha,Bayer Leverkusen,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-07,FC Cologne,Union Berlin,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-07,Greuther Furth,Eintracht Frankfurt,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-19,Augsburg,Bayern Munich,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-20,Bielefeld,Wolfsburg,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-20,Borussia Dortmund,Stuttgart,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-20,Hoffenheim,RB Leipzig,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-20,Bayer Leverkusen,Bochum,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-20,Borussia Monchengladbach,Greuther Furth,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-20,Union Berlin,Hertha,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-21,Freiburg,Eintracht Frankfurt,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-21,Mainz,FC Cologne,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-26,Stuttgart,Mainz,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-27,Bochum,Freiburg,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-27,FC Cologne,Borussia Monchengladbach,4,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-27,Greuther Furth,Hoffenheim,3,6,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-27,Hertha,Augsburg,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-27,Wolfsburg,Borussia Dortmund,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-27,Bayern Munich,Bielefeld,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-28,Eintracht Frankfurt,Union Berlin,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-11-28,RB Leipzig,Bayer Leverkusen,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-03,Union Berlin,RB Leipzig,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-04,Augsburg,Bochum,2,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-04,Bielefeld,FC Cologne,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-04,Hoffenheim,Eintracht Frankfurt,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-04,Bayer Leverkusen,Greuther Furth,7,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-04,Mainz,Wolfsburg,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-04,Borussia Dortmund,Bayern Munich,2,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-05,Stuttgart,Hertha,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-05,Borussia Monchengladbach,Freiburg,0,6,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-10,FC Cologne,Augsburg,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-11,Bayern Munich,Mainz,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-11,Bochum,Borussia Dortmund,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-11,Freiburg,Hoffenheim,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-11,Hertha,Bielefeld,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-11,RB Leipzig,Borussia Monchengladbach,4,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-11,Wolfsburg,Stuttgart,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-12,Greuther Furth,Union Berlin,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-12,Eintracht Frankfurt,Bayer Leverkusen,5,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-14,Stuttgart,Bayern Munich,0,5,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-14,Bielefeld,Bochum,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-14,Mainz,Hertha,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-14,Wolfsburg,FC Cologne,2,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-15,Borussia Monchengladbach,Eintracht Frankfurt,2,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-15,Augsburg,RB Leipzig,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-15,Borussia Dortmund,Greuther Furth,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-15,Bayer Leverkusen,Hoffenheim,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-15,Union Berlin,Freiburg,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-17,Bayern Munich,Wolfsburg,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-18,Bochum,Union Berlin,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-18,Eintracht Frankfurt,Mainz,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-18,Greuther Furth,Augsburg,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-18,Hoffenheim,Borussia Monchengladbach,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-18,RB Leipzig,Bielefeld,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-18,Hertha,Borussia Dortmund,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-19,Freiburg,Bayer Leverkusen,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2021-12-19,FC Cologne,Stuttgart,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-07,Bayern Munich,Borussia Monchengladbach,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-08,Freiburg,Bielefeld,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-08,Greuther Furth,Stuttgart,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-08,Hoffenheim,Augsburg,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-08,Bayer Leverkusen,Union Berlin,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-08,RB Leipzig,Mainz,4,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-08,Eintracht Frankfurt,Borussia Dortmund,2,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-09,Hertha,FC Cologne,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-09,Bochum,Wolfsburg,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-14,Borussia Dortmund,Freiburg,5,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-15,FC Cologne,Bayern Munich,0,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-15,Mainz,Bochum,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-15,Stuttgart,RB Leipzig,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-15,Union Berlin,Hoffenheim,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-15,Wolfsburg,Hertha,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-15,Borussia Monchengladbach,Bayer Leverkusen,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-16,Augsburg,Eintracht Frankfurt,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-16,Bielefeld,Greuther Furth,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-21,Eintracht Frankfurt,Bielefeld,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-22,Freiburg,Stuttgart,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-22,Greuther Furth,Mainz,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-22,Hoffenheim,Borussia Dortmund,2,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-22,Bayer Leverkusen,Augsburg,5,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-22,Borussia Monchengladbach,Union Berlin,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-22,Bochum,FC Cologne,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-23,RB Leipzig,Wolfsburg,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-01-23,Hertha,Bayern Munich,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-04,Hertha,Bochum,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-05,Augsburg,Union Berlin,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-05,Bielefeld,Borussia Monchengladbach,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-05,FC Cologne,Freiburg,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-05,Mainz,Hoffenheim,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-05,Stuttgart,Eintracht Frankfurt,2,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-05,Bayern Munich,RB Leipzig,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-06,Borussia Dortmund,Bayer Leverkusen,2,5,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-06,Wolfsburg,Greuther Furth,4,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-11,RB Leipzig,FC Cologne,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-12,Bochum,Bayern Munich,4,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-12,Eintracht Frankfurt,Wolfsburg,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-12,Freiburg,Mainz,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-12,Greuther Furth,Hertha,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-12,Borussia Monchengladbach,Augsburg,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-12,Bayer Leverkusen,Stuttgart,4,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-13,Union Berlin,Borussia Dortmund,0,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-13,Hoffenheim,Bielefeld,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-18,Mainz,Bayer Leverkusen,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-19,Augsburg,Freiburg,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-19,Bielefeld,Union Berlin,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-19,Stuttgart,Bochum,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-19,Wolfsburg,Hoffenheim,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-19,FC Cologne,Eintracht Frankfurt,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-20,Bayern Munich,Greuther Furth,4,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-20,Borussia Dortmund,Borussia Monchengladbach,6,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-20,Hertha,RB Leipzig,1,6,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-25,Hoffenheim,Stuttgart,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-26,Freiburg,Hertha,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-26,Greuther Furth,FC Cologne,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-26,Bayer Leverkusen,Bielefeld,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-26,Borussia Monchengladbach,Wolfsburg,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-26,Union Berlin,Mainz,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-26,Eintracht Frankfurt,Bayern Munich,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-27,Bochum,RB Leipzig,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-02-27,Augsburg,Borussia Dortmund,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-04,Bielefeld,Augsburg,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-05,Bayern Munich,Bayer Leverkusen,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-05,Bochum,Greuther Furth,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-05,Hertha,Eintracht Frankfurt,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-05,RB Leipzig,Freiburg,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-05,Wolfsburg,Union Berlin,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-05,Stuttgart,Borussia Monchengladbach,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-06,FC Cologne,Hoffenheim,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-12,Freiburg,Wolfsburg,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-12,Hoffenheim,Bayern Munich,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-12,Union Berlin,Stuttgart,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-12,Borussia Monchengladbach,Hertha,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-13,Bayer Leverkusen,FC Cologne,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-13,Borussia Dortmund,Bielefeld,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-13,Eintracht Frankfurt,Bochum,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-13,Greuther Furth,RB Leipzig,1,6,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-16,Mainz,Borussia Dortmund,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-18,Bochum,Borussia Monchengladbach,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-19,Greuther Furth,Freiburg,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-19,Hertha,Hoffenheim,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-19,Mainz,Bielefeld,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-19,Stuttgart,Augsburg,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-19,Bayern Munich,Union Berlin,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-20,RB Leipzig,Eintracht Frankfurt,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-20,Wolfsburg,Bayer Leverkusen,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-03-20,FC Cologne,Borussia Dortmund,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-01,Union Berlin,FC Cologne,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-02,Bielefeld,Stuttgart,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-02,Eintracht Frankfurt,Greuther Furth,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-02,Freiburg,Bayern Munich,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-02,Hoffenheim,Bochum,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-02,Bayer Leverkusen,Hertha,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-02,Borussia Dortmund,RB Leipzig,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-03,Augsburg,Wolfsburg,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-03,Borussia Monchengladbach,Mainz,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-06,Augsburg,Mainz,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-08,Stuttgart,Borussia Dortmund,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-09,Bayern Munich,Augsburg,1,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-09,FC Cologne,Mainz,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-09,Greuther Furth,Borussia Monchengladbach,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-09,Wolfsburg,Bielefeld,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-09,Hertha,Union Berlin,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-10,Bochum,Bayer Leverkusen,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-10,Eintracht Frankfurt,Freiburg,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-10,RB Leipzig,Hoffenheim,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-16,Augsburg,Hertha,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-16,Borussia Dortmund,Wolfsburg,6,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-16,Freiburg,Bochum,3,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-16,Mainz,Stuttgart,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-16,Borussia Monchengladbach,FC Cologne,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-17,Bielefeld,Bayern Munich,0,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-17,Hoffenheim,Greuther Furth,0,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-17,Union Berlin,Eintracht Frankfurt,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-17,Bayer Leverkusen,RB Leipzig,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-22,Wolfsburg,Mainz,5,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-23,Eintracht Frankfurt,Hoffenheim,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-23,FC Cologne,Bielefeld,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-23,Freiburg,Borussia Monchengladbach,3,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-23,Greuther Furth,Bayer Leverkusen,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-23,RB Leipzig,Union Berlin,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-23,Bayern Munich,Borussia Dortmund,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-24,Bochum,Augsburg,0,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-24,Hertha,Stuttgart,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-29,Union Berlin,Greuther Furth,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-30,Augsburg,FC Cologne,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-30,Bielefeld,Hertha,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-30,Borussia Dortmund,Bochum,3,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-30,Mainz,Bayern Munich,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-30,Stuttgart,Wolfsburg,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-04-30,Hoffenheim,Freiburg,3,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-02,Bayer Leverkusen,Eintracht Frankfurt,2,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-02,Borussia Monchengladbach,RB Leipzig,3,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-06,Bochum,Bielefeld,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-07,FC Cologne,Wolfsburg,0,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-07,Freiburg,Union Berlin,1,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-07,Greuther Furth,Borussia Dortmund,1,3,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-07,Hoffenheim,Bayer Leverkusen,2,4,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-07,Hertha,Mainz,1,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-08,Eintracht Frankfurt,Borussia Monchengladbach,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-08,Bayern Munich,Stuttgart,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-08,RB Leipzig,Augsburg,4,0,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-14,Augsburg,Greuther Furth,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-14,Bielefeld,RB Leipzig,1,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-14,Borussia Dortmund,Hertha,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-14,Bayer Leverkusen,Freiburg,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-14,Mainz,Eintracht Frankfurt,2,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-14,Borussia Monchengladbach,Hoffenheim,5,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-14,Stuttgart,FC Cologne,2,1,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-14,Union Berlin,Bochum,3,2,played,2026-08-27 22:28:18.630211+00:00
+bundesliga,2122,2022-05-14,Wolfsburg,Bayern Munich,2,2,played,2026-08-27 22:28:18.630211+00:00

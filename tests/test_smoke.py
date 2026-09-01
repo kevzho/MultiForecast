@@ -69,16 +69,16 @@ def test_app_and_worldcup_ui_import_without_statsmodels(monkeypatch):
     ui = importlib.import_module("worldcup.ui")
     monkeypatch.setattr(ui, "render_worldcup_tab", lambda: calls.append(("render", "wc")))
 
-    pl_module = types.SimpleNamespace(
-        render_premier_league=lambda: calls.append(("render", "pl"))
+    domestic_module = types.SimpleNamespace(
+        render_domestic_leagues=lambda: calls.append(("render", "domestic"))
     )
-    monkeypatch.setitem(sys.modules, "premier_league.dashboard", pl_module)
+    monkeypatch.setitem(sys.modules, "domestic.ui", domestic_module)
 
     importlib.import_module("app")
 
-    assert ("tabs", ["World Cup 2026", "Premier League 26/27"]) in calls
-    assert calls.index(("render", "wc")) < calls.index(("render", "pl"))
-    assert ("render", "pl") in calls
+    assert ("tabs", ["World Cup 2026", "Big Five Leagues"]) in calls
+    assert calls.index(("render", "wc")) < calls.index(("render", "domestic"))
+    assert ("render", "domestic") in calls
     assert ("render", "wc") in calls
 
 
