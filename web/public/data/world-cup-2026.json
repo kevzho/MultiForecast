@@ -13,11 +13,11 @@
     "code": "WC2026"
   },
   "edition": "2026",
-  "generatedAt": "2026-08-27T22:48:00.009850+00:00",
+  "generatedAt": "2026-09-02T14:01:57.231861+00:00",
   "model": {
     "name": "Elo-Poisson",
     "version": "2026.1",
-    "simulations": 2000,
+    "simulations": 5000,
     "trainedThrough": null
   },
   "coverage": {
@@ -36,12 +36,12 @@
       "group": "A",
       "rating": 1956.0,
       "probabilities": {
-        "advanceGroup": 0.9305,
-        "roundOf16": 0.6235,
-        "quarterfinal": 0.288,
-        "semifinal": 0.1415,
-        "final": 0.0565,
-        "champion": 0.022
+        "advanceGroup": 0.9384,
+        "roundOf16": 0.6302,
+        "quarterfinal": 0.2914,
+        "semifinal": 0.1384,
+        "final": 0.059,
+        "champion": 0.027
       }
     },
     {
@@ -53,12 +53,12 @@
       "group": "A",
       "rating": 1872.0,
       "probabilities": {
-        "advanceGroup": 0.789,
-        "roundOf16": 0.452,
-        "quarterfinal": 0.1715,
-        "semifinal": 0.073,
-        "final": 0.023,
-        "champion": 0.0085
+        "advanceGroup": 0.7928,
+        "roundOf16": 0.4566,
+        "quarterfinal": 0.1706,
+        "semifinal": 0.0646,
+        "final": 0.0212,
+        "champion": 0.0068
       }
     },
     {
@@ -70,11 +70,11 @@
       "group": "A",
       "rating": 1668.0,
       "probabilities": {
-        "advanceGroup": 0.382,
-        "roundOf16": 0.126,
-        "quarterfinal": 0.0225,
-        "semifinal": 0.0045,
-        "final": 0.0,
+        "advanceGroup": 0.3716,
+        "roundOf16": 0.1196,
+        "quarterfinal": 0.0242,
+        "semifinal": 0.0046,
+        "final": 0.0002,
         "champion": 0.0
       }
     },
@@ -87,12 +87,12 @@
       "group": "A",
       "rating": 1740.0,
       "probabilities": {
-        "advanceGroup": 0.569,
-        "roundOf16": 0.215,
-        "quarterfinal": 0.059,
-        "semifinal": 0.013,
-        "final": 0.0035,
-        "champion": 0.0005
+        "advanceGroup": 0.567,
+        "roundOf16": 0.223,
+        "quarterfinal": 0.0574,
+        "semifinal": 0.0136,
+        "final": 0.003,
+        "champion": 0.0002
       }
     },
     {
@@ -104,12 +104,12 @@
       "group": "B",
       "rating": 1800.0,
       "probabilities": {
-        "advanceGroup": 0.8815,
-        "roundOf16": 0.407,
-        "quarterfinal": 0.143,
-        "semifinal": 0.0355,
-        "final": 0.0095,
-        "champion": 0.0025
+        "advanceGroup": 0.8788,
+        "roundOf16": 0.409,
+        "quarterfinal": 0.1438,
+        "semifinal": 0.0368,
+        "final": 0.0108,
+        "champion": 0.0026
       }
     },
     {
@@ -121,12 +121,12 @@
       "group": "B",
       "rating": 1896.0,
       "probabilities": {
-        "advanceGroup": 0.91,
-        "roundOf16": 0.534,
-        "quarterfinal": 0.256,
-        "semifinal": 0.0975,
-        "final": 0.037,
-        "champion": 0.016
+        "advanceGroup": 0.9016,
+        "roundOf16": 0.5118,
+        "quarterfinal": 0.2398,
+        "semifinal": 0.086,
+        "final": 0.0336,
+        "champion": 0.0126
       }
     },
     {
@@ -138,12 +138,12 @@
       "group": "B",
       "rating": 1680.0,
       "probabilities": {
-        "advanceGroup": 0.555,
-        "roundOf16": 0.183,
-        "quarterfinal": 0.042,
-        "semifinal": 0.0045,
-        "final": 0.0,
-        "champion": 0.0
+        "advanceGroup": 0.5586,
+        "roundOf16": 0.1774,
+        "quarterfinal": 0.0428,
+        "semifinal": 0.0066,
+        "final": 0.001,
+        "champion": 0.0002
       }
     },
     {
@@ -155,10 +155,10 @@
       "group": "B",
       "rating": 1584.0,
       "probabilities": {
-        "advanceGroup": 0.3355,
-        "roundOf16": 0.0575,
-        "quarterfinal": 0.0095,
-        "semifinal": 0.002,
+        "advanceGroup": 0.3462,
+        "roundOf16": 0.0654,
+        "quarterfinal": 0.0098,
+        "semifinal": 0.0018,
         "final": 0.0,
         "champion": 0.0
       }
@@ -172,12 +172,12 @@
       "group": "C",
       "rating": 2040.0,
       "probabilities": {
-        "advanceGroup": 0.942,
-        "roundOf16": 0.6025,
-        "quarterfinal": 0.3955,
-        "semifinal": 0.235,
-        "final": 0.122,
-        "champion": 0.063
+        "advanceGroup": 0.9446,
+        "roundOf16": 0.6012,
+        "quarterfinal": 0.4036,
+        "semifinal": 0.2394,
+        "final": 0.1248,
+        "champion": 0.064
       }
     },
     {
@@ -189,12 +189,12 @@
       "group": "C",
       "rating": 2016.0,
       "probabilities": {
-        "advanceGroup": 0.9325,
-        "roundOf16": 0.5555,
-        "quarterfinal": 0.349,
-        "semifinal": 0.2005,
-        "final": 0.1055,
-        "champion": 0.0505
+        "advanceGroup": 0.9296,
+        "roundOf16": 0.5588,
+        "quarterfinal": 0.3494,
+        "semifinal": 0.1946,
+        "final": 0.099,
+        "champion": 0.0466
       }
     },
     {
@@ -206,12 +206,12 @@
       "group": "C",
       "rating": 1728.0,
       "probabilities": {
-        "advanceGroup": 0.572,
-        "roundOf16": 0.1665,
-        "quarterfinal": 0.0565,
-        "semifinal": 0.011,
-        "final": 0.0025,
-        "champion": 0.0005
+        "advanceGroup": 0.5632,
+        "roundOf16": 0.1642,
+        "quarterfinal": 0.0468,
+        "semifinal": 0.0116,
+        "final": 0.0024,
+        "champion": 0.001
       }
     },
     {
@@ -223,11 +223,11 @@
       "group": "C",
       "rating": 1560.0,
       "probabilities": {
-        "advanceGroup": 0.204,
+        "advanceGroup": 0.2128,
         "roundOf16": 0.03,
-        "quarterfinal": 0.0045,
-        "semifinal": 0.002,
-        "final": 0.0,
+        "quarterfinal": 0.0044,
+        "semifinal": 0.0014,
+        "final": 0.0002,
         "champion": 0.0
       }
     },
@@ -240,12 +240,12 @@
       "group": "D",
       "rating": 1932.0,
       "probabilities": {
-        "advanceGroup": 0.9155,
-        "roundOf16": 0.5675,
-        "quarterfinal": 0.3195,
-        "semifinal": 0.1295,
-        "final": 0.0535,
-        "champion": 0.018
+        "advanceGroup": 0.9142,
+        "roundOf16": 0.5606,
+        "quarterfinal": 0.3086,
+        "semifinal": 0.1258,
+        "final": 0.0526,
+        "champion": 0.0192
       }
     },
     {
@@ -257,11 +257,11 @@
       "group": "D",
       "rating": 1704.0,
       "probabilities": {
-        "advanceGroup": 0.3805,
-        "roundOf16": 0.118,
-        "quarterfinal": 0.038,
-        "semifinal": 0.009,
-        "final": 0.0015,
+        "advanceGroup": 0.3988,
+        "roundOf16": 0.1214,
+        "quarterfinal": 0.0358,
+        "semifinal": 0.0084,
+        "final": 0.0014,
         "champion": 0.0
       }
     },
@@ -274,12 +274,12 @@
       "group": "D",
       "rating": 1848.0,
       "probabilities": {
-        "advanceGroup": 0.7385,
-        "roundOf16": 0.354,
-        "quarterfinal": 0.1595,
-        "semifinal": 0.053,
-        "final": 0.0165,
-        "champion": 0.006
+        "advanceGroup": 0.7328,
+        "roundOf16": 0.3472,
+        "quarterfinal": 0.1592,
+        "semifinal": 0.0508,
+        "final": 0.0156,
+        "champion": 0.005
       }
     },
     {
@@ -291,12 +291,12 @@
       "group": "D",
       "rating": 1824.0,
       "probabilities": {
-        "advanceGroup": 0.678,
-        "roundOf16": 0.292,
-        "quarterfinal": 0.1215,
-        "semifinal": 0.0385,
-        "final": 0.0135,
-        "champion": 0.0025
+        "advanceGroup": 0.6728,
+        "roundOf16": 0.2932,
+        "quarterfinal": 0.1252,
+        "semifinal": 0.039,
+        "final": 0.0122,
+        "champion": 0.0024
       }
     },
     {
@@ -308,12 +308,12 @@
       "group": "E",
       "rating": 2004.0,
       "probabilities": {
-        "advanceGroup": 0.9575,
-        "roundOf16": 0.6615,
-        "quarterfinal": 0.351,
-        "semifinal": 0.189,
-        "final": 0.097,
-        "champion": 0.048
+        "advanceGroup": 0.9528,
+        "roundOf16": 0.6618,
+        "quarterfinal": 0.3442,
+        "semifinal": 0.186,
+        "final": 0.0946,
+        "champion": 0.0452
       }
     },
     {
@@ -325,12 +325,12 @@
       "group": "E",
       "rating": 1836.0,
       "probabilities": {
-        "advanceGroup": 0.832,
-        "roundOf16": 0.3635,
-        "quarterfinal": 0.1295,
-        "semifinal": 0.0395,
-        "final": 0.0125,
-        "champion": 0.0045
+        "advanceGroup": 0.8318,
+        "roundOf16": 0.3776,
+        "quarterfinal": 0.131,
+        "semifinal": 0.0386,
+        "final": 0.0106,
+        "champion": 0.0034
       }
     },
     {
@@ -342,12 +342,12 @@
       "group": "E",
       "rating": 1716.0,
       "probabilities": {
-        "advanceGroup": 0.6365,
-        "roundOf16": 0.187,
-        "quarterfinal": 0.037,
-        "semifinal": 0.008,
-        "final": 0.0015,
-        "champion": 0.0005
+        "advanceGroup": 0.6264,
+        "roundOf16": 0.1872,
+        "quarterfinal": 0.045,
+        "semifinal": 0.0122,
+        "final": 0.0028,
+        "champion": 0.0004
       }
     },
     {
@@ -359,11 +359,11 @@
       "group": "E",
       "rating": 1548.0,
       "probabilities": {
-        "advanceGroup": 0.257,
-        "roundOf16": 0.046,
-        "quarterfinal": 0.006,
-        "semifinal": 0.001,
-        "final": 0.0005,
+        "advanceGroup": 0.2596,
+        "roundOf16": 0.0426,
+        "quarterfinal": 0.0064,
+        "semifinal": 0.0008,
+        "final": 0.0002,
         "champion": 0.0
       }
     },
@@ -376,12 +376,12 @@
       "group": "F",
       "rating": 2028.0,
       "probabilities": {
-        "advanceGroup": 0.918,
-        "roundOf16": 0.533,
-        "quarterfinal": 0.346,
-        "semifinal": 0.1905,
-        "final": 0.1035,
-        "champion": 0.0505
+        "advanceGroup": 0.9222,
+        "roundOf16": 0.5338,
+        "quarterfinal": 0.348,
+        "semifinal": 0.1998,
+        "final": 0.1062,
+        "champion": 0.0538
       }
     },
     {
@@ -393,12 +393,12 @@
       "group": "F",
       "rating": 1908.0,
       "probabilities": {
-        "advanceGroup": 0.7825,
-        "roundOf16": 0.3415,
-        "quarterfinal": 0.169,
-        "semifinal": 0.072,
-        "final": 0.0265,
-        "champion": 0.0125
+        "advanceGroup": 0.7958,
+        "roundOf16": 0.3496,
+        "quarterfinal": 0.177,
+        "semifinal": 0.0744,
+        "final": 0.03,
+        "champion": 0.012
       }
     },
     {
@@ -410,12 +410,12 @@
       "group": "F",
       "rating": 1812.0,
       "probabilities": {
-        "advanceGroup": 0.6355,
-        "roundOf16": 0.2185,
-        "quarterfinal": 0.082,
-        "semifinal": 0.0255,
-        "final": 0.008,
-        "champion": 0.0035
+        "advanceGroup": 0.6332,
+        "roundOf16": 0.2122,
+        "quarterfinal": 0.077,
+        "semifinal": 0.0248,
+        "final": 0.0078,
+        "champion": 0.0022
       }
     },
     {
@@ -427,11 +427,11 @@
       "group": "F",
       "rating": 1692.0,
       "probabilities": {
-        "advanceGroup": 0.3575,
-        "roundOf16": 0.0825,
-        "quarterfinal": 0.023,
-        "semifinal": 0.0055,
-        "final": 0.0015,
+        "advanceGroup": 0.3442,
+        "roundOf16": 0.0748,
+        "quarterfinal": 0.0218,
+        "semifinal": 0.0048,
+        "final": 0.0008,
         "champion": 0.0
       }
     },
@@ -444,12 +444,12 @@
       "group": "G",
       "rating": 1992.0,
       "probabilities": {
-        "advanceGroup": 0.941,
-        "roundOf16": 0.644,
-        "quarterfinal": 0.4245,
-        "semifinal": 0.189,
-        "final": 0.096,
-        "champion": 0.0445
+        "advanceGroup": 0.9344,
+        "roundOf16": 0.648,
+        "quarterfinal": 0.4258,
+        "semifinal": 0.1924,
+        "final": 0.0932,
+        "champion": 0.047
       }
     },
     {
@@ -461,12 +461,12 @@
       "group": "G",
       "rating": 1788.0,
       "probabilities": {
-        "advanceGroup": 0.7055,
-        "roundOf16": 0.323,
-        "quarterfinal": 0.131,
-        "semifinal": 0.0355,
-        "final": 0.011,
-        "champion": 0.004
+        "advanceGroup": 0.7036,
+        "roundOf16": 0.3206,
+        "quarterfinal": 0.1324,
+        "semifinal": 0.0334,
+        "final": 0.0104,
+        "champion": 0.0028
       }
     },
     {
@@ -478,12 +478,12 @@
       "group": "G",
       "rating": 1884.0,
       "probabilities": {
-        "advanceGroup": 0.8545,
-        "roundOf16": 0.49,
-        "quarterfinal": 0.2605,
-        "semifinal": 0.081,
-        "final": 0.031,
-        "champion": 0.009
+        "advanceGroup": 0.8536,
+        "roundOf16": 0.4922,
+        "quarterfinal": 0.2656,
+        "semifinal": 0.0872,
+        "final": 0.0328,
+        "champion": 0.0094
       }
     },
     {
@@ -495,11 +495,11 @@
       "group": "G",
       "rating": 1536.0,
       "probabilities": {
-        "advanceGroup": 0.1935,
-        "roundOf16": 0.039,
-        "quarterfinal": 0.007,
-        "semifinal": 0.0005,
-        "final": 0.0,
+        "advanceGroup": 0.1904,
+        "roundOf16": 0.0374,
+        "quarterfinal": 0.0068,
+        "semifinal": 0.0008,
+        "final": 0.0002,
         "champion": 0.0
       }
     },
@@ -512,12 +512,12 @@
       "group": "H",
       "rating": 2100.0,
       "probabilities": {
-        "advanceGroup": 0.9685,
-        "roundOf16": 0.6835,
-        "quarterfinal": 0.448,
-        "semifinal": 0.317,
-        "final": 0.2065,
-        "champion": 0.129
+        "advanceGroup": 0.9694,
+        "roundOf16": 0.6862,
+        "quarterfinal": 0.4466,
+        "semifinal": 0.3198,
+        "final": 0.2076,
+        "champion": 0.1288
       }
     },
     {
@@ -529,12 +529,12 @@
       "group": "H",
       "rating": 1944.0,
       "probabilities": {
-        "advanceGroup": 0.8925,
-        "roundOf16": 0.443,
-        "quarterfinal": 0.2175,
-        "semifinal": 0.1195,
-        "final": 0.0445,
-        "champion": 0.0135
+        "advanceGroup": 0.8956,
+        "roundOf16": 0.4434,
+        "quarterfinal": 0.216,
+        "semifinal": 0.1122,
+        "final": 0.044,
+        "champion": 0.017
       }
     },
     {
@@ -546,11 +546,11 @@
       "group": "H",
       "rating": 1644.0,
       "probabilities": {
-        "advanceGroup": 0.4305,
-        "roundOf16": 0.086,
-        "quarterfinal": 0.0185,
-        "semifinal": 0.004,
-        "final": 0.0005,
+        "advanceGroup": 0.4216,
+        "roundOf16": 0.0882,
+        "quarterfinal": 0.0226,
+        "semifinal": 0.0044,
+        "final": 0.0008,
         "champion": 0.0
       }
     },
@@ -563,11 +563,11 @@
       "group": "H",
       "rating": 1596.0,
       "probabilities": {
-        "advanceGroup": 0.3055,
-        "roundOf16": 0.0505,
-        "quarterfinal": 0.014,
-        "semifinal": 0.0015,
-        "final": 0.0005,
+        "advanceGroup": 0.3134,
+        "roundOf16": 0.0548,
+        "quarterfinal": 0.0116,
+        "semifinal": 0.0014,
+        "final": 0.0004,
         "champion": 0.0
       }
     },
@@ -580,12 +580,12 @@
       "group": "I",
       "rating": 2088.0,
       "probabilities": {
-        "advanceGroup": 0.963,
-        "roundOf16": 0.725,
-        "quarterfinal": 0.532,
-        "semifinal": 0.342,
-        "final": 0.212,
-        "champion": 0.116
+        "advanceGroup": 0.9534,
+        "roundOf16": 0.7276,
+        "quarterfinal": 0.5382,
+        "semifinal": 0.3456,
+        "final": 0.2174,
+        "champion": 0.1236
       }
     },
     {
@@ -597,12 +597,12 @@
       "group": "I",
       "rating": 1920.0,
       "probabilities": {
-        "advanceGroup": 0.8495,
-        "roundOf16": 0.515,
-        "quarterfinal": 0.217,
-        "semifinal": 0.102,
-        "final": 0.0455,
-        "champion": 0.018
+        "advanceGroup": 0.8416,
+        "roundOf16": 0.5032,
+        "quarterfinal": 0.2154,
+        "semifinal": 0.0972,
+        "final": 0.0434,
+        "champion": 0.0166
       }
     },
     {
@@ -614,12 +614,12 @@
       "group": "I",
       "rating": 1776.0,
       "probabilities": {
-        "advanceGroup": 0.5865,
-        "roundOf16": 0.2355,
-        "quarterfinal": 0.0625,
-        "semifinal": 0.0195,
-        "final": 0.0055,
-        "champion": 0.0015
+        "advanceGroup": 0.592,
+        "roundOf16": 0.245,
+        "quarterfinal": 0.067,
+        "semifinal": 0.0216,
+        "final": 0.0056,
+        "champion": 0.0016
       }
     },
     {
@@ -631,10 +631,10 @@
       "group": "I",
       "rating": 1632.0,
       "probabilities": {
-        "advanceGroup": 0.2755,
-        "roundOf16": 0.0725,
-        "quarterfinal": 0.0175,
-        "semifinal": 0.004,
+        "advanceGroup": 0.2806,
+        "roundOf16": 0.0754,
+        "quarterfinal": 0.0154,
+        "semifinal": 0.0026,
         "final": 0.0,
         "champion": 0.0
       }
@@ -648,12 +648,12 @@
       "group": "J",
       "rating": 2076.0,
       "probabilities": {
-        "advanceGroup": 0.958,
-        "roundOf16": 0.61,
-        "quarterfinal": 0.391,
-        "semifinal": 0.286,
+        "advanceGroup": 0.964,
+        "roundOf16": 0.6158,
+        "quarterfinal": 0.3922,
+        "semifinal": 0.2854,
         "final": 0.175,
-        "champion": 0.1025
+        "champion": 0.0968
       }
     },
     {
@@ -665,12 +665,12 @@
       "group": "J",
       "rating": 1860.0,
       "probabilities": {
-        "advanceGroup": 0.7975,
-        "roundOf16": 0.3175,
-        "quarterfinal": 0.132,
-        "semifinal": 0.0525,
-        "final": 0.0185,
-        "champion": 0.0065
+        "advanceGroup": 0.799,
+        "roundOf16": 0.3102,
+        "quarterfinal": 0.1272,
+        "semifinal": 0.0522,
+        "final": 0.0182,
+        "champion": 0.0052
       }
     },
     {
@@ -682,12 +682,12 @@
       "group": "J",
       "rating": 1764.0,
       "probabilities": {
-        "advanceGroup": 0.634,
-        "roundOf16": 0.201,
-        "quarterfinal": 0.064,
-        "semifinal": 0.023,
-        "final": 0.008,
-        "champion": 0.0025
+        "advanceGroup": 0.6272,
+        "roundOf16": 0.1926,
+        "quarterfinal": 0.0602,
+        "semifinal": 0.0182,
+        "final": 0.0054,
+        "champion": 0.0014
       }
     },
     {
@@ -699,11 +699,11 @@
       "group": "J",
       "rating": 1608.0,
       "probabilities": {
-        "advanceGroup": 0.2905,
-        "roundOf16": 0.045,
-        "quarterfinal": 0.008,
-        "semifinal": 0.0015,
-        "final": 0.0005,
+        "advanceGroup": 0.284,
+        "roundOf16": 0.0472,
+        "quarterfinal": 0.0106,
+        "semifinal": 0.0024,
+        "final": 0.0006,
         "champion": 0.0
       }
     },
@@ -716,12 +716,12 @@
       "group": "K",
       "rating": 2052.0,
       "probabilities": {
-        "advanceGroup": 0.959,
-        "roundOf16": 0.6615,
+        "advanceGroup": 0.9582,
+        "roundOf16": 0.6626,
         "quarterfinal": 0.38,
-        "semifinal": 0.248,
-        "final": 0.15,
-        "champion": 0.0875
+        "semifinal": 0.26,
+        "final": 0.1462,
+        "champion": 0.0858
       }
     },
     {
@@ -733,12 +733,12 @@
       "group": "K",
       "rating": 1968.0,
       "probabilities": {
-        "advanceGroup": 0.919,
-        "roundOf16": 0.527,
-        "quarterfinal": 0.2275,
-        "semifinal": 0.125,
-        "final": 0.05,
-        "champion": 0.021
+        "advanceGroup": 0.9078,
+        "roundOf16": 0.5208,
+        "quarterfinal": 0.2372,
+        "semifinal": 0.1318,
+        "final": 0.0552,
+        "champion": 0.025
       }
     },
     {
@@ -750,12 +750,12 @@
       "group": "K",
       "rating": 1656.0,
       "probabilities": {
-        "advanceGroup": 0.4215,
-        "roundOf16": 0.0915,
-        "quarterfinal": 0.027,
-        "semifinal": 0.0045,
-        "final": 0.001,
-        "champion": 0.0
+        "advanceGroup": 0.4216,
+        "roundOf16": 0.0902,
+        "quarterfinal": 0.0222,
+        "semifinal": 0.0048,
+        "final": 0.0008,
+        "champion": 0.0002
       }
     },
     {
@@ -767,11 +767,11 @@
       "group": "K",
       "rating": 1620.0,
       "probabilities": {
-        "advanceGroup": 0.318,
-        "roundOf16": 0.0525,
-        "quarterfinal": 0.011,
-        "semifinal": 0.003,
-        "final": 0.0005,
+        "advanceGroup": 0.3464,
+        "roundOf16": 0.0592,
+        "quarterfinal": 0.013,
+        "semifinal": 0.0024,
+        "final": 0.0006,
         "champion": 0.0
       }
     },
@@ -784,12 +784,12 @@
       "group": "L",
       "rating": 2064.0,
       "probabilities": {
-        "advanceGroup": 0.95,
-        "roundOf16": 0.6785,
-        "quarterfinal": 0.4655,
-        "semifinal": 0.275,
-        "final": 0.164,
-        "champion": 0.1
+        "advanceGroup": 0.9506,
+        "roundOf16": 0.6848,
+        "quarterfinal": 0.468,
+        "semifinal": 0.2796,
+        "final": 0.1618,
+        "champion": 0.0972
       }
     },
     {
@@ -801,12 +801,12 @@
       "group": "L",
       "rating": 1980.0,
       "probabilities": {
-        "advanceGroup": 0.8975,
-        "roundOf16": 0.578,
-        "quarterfinal": 0.3125,
-        "semifinal": 0.1715,
-        "final": 0.0815,
-        "champion": 0.035
+        "advanceGroup": 0.9038,
+        "roundOf16": 0.5708,
+        "quarterfinal": 0.3076,
+        "semifinal": 0.166,
+        "final": 0.0866,
+        "champion": 0.036
       }
     },
     {
@@ -818,12 +818,12 @@
       "group": "L",
       "rating": 1752.0,
       "probabilities": {
-        "advanceGroup": 0.579,
-        "roundOf16": 0.181,
-        "quarterfinal": 0.048,
-        "semifinal": 0.012,
-        "final": 0.002,
-        "champion": 0.0
+        "advanceGroup": 0.5782,
+        "roundOf16": 0.1808,
+        "quarterfinal": 0.0496,
+        "semifinal": 0.0128,
+        "final": 0.0036,
+        "champion": 0.001
       }
     },
     {
@@ -835,11 +835,11 @@
       "group": "L",
       "rating": 1572.0,
       "probabilities": {
-        "advanceGroup": 0.218,
-        "roundOf16": 0.032,
-        "quarterfinal": 0.0045,
-        "semifinal": 0.0015,
-        "final": 0.0005,
+        "advanceGroup": 0.2198,
+        "roundOf16": 0.0338,
+        "quarterfinal": 0.0056,
+        "semifinal": 0.001,
+        "final": 0.0002,
         "champion": 0.0
       }
     }
@@ -5927,7 +5927,7 @@
         {
           "fixtureId": "projected-left-r32-4",
           "homeSource": "Germany",
-          "awaySource": "Scotland"
+          "awaySource": "Czechia"
         },
         {
           "fixtureId": "projected-left-r32-5",
@@ -5984,7 +5984,7 @@
         {
           "fixtureId": "projected-left-qf-1",
           "homeSource": "Brazil",
-          "awaySource": "Germany"
+          "awaySource": "Morocco"
         },
         {
           "fixtureId": "projected-left-qf-2",
