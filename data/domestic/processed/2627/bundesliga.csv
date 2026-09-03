@@ -1,307 +1,307 @@
 league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
-bundesliga,2627,2026-08-28 18:30:00,Bayern Munich,VfB Stuttgart,5,1,played,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-08-29 13:30:00,1. FC Union Berlin,Eintracht Frankfurt,3,3,played,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-08-29 13:30:00,FC Cologne,TSG Hoffenheim,3,2,played,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-08-29 13:30:00,Mainz,SC Paderborn 07,0,0,played,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-08-29 13:30:00,RB Leipzig,Borussia Mönchengladbach,3,0,played,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-08-29 13:30:00,SV Elversberg,Bayer Leverkusen,3,2,played,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-08-29 16:30:00,Borussia Dortmund,Hamburg SV,2,0,played,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-08-30 13:30:00,SC Freiburg,Werder Bremen,4,1,played,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-08-30 15:30:00,FC Augsburg,Schalke 04,3,0,played,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-04 18:30:00,VfB Stuttgart,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-05 13:30:00,Bayer Leverkusen,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-05 13:30:00,Borussia Mönchengladbach,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-05 13:30:00,SC Paderborn 07,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-05 13:30:00,TSG Hoffenheim,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-05 13:30:00,Werder Bremen,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-05 16:30:00,Schalke 04,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-06 13:30:00,Hamburg SV,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-06 15:30:00,Eintracht Frankfurt,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-11 18:30:00,1. FC Union Berlin,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-12 13:30:00,Borussia Dortmund,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-12 13:30:00,FC Augsburg,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-12 13:30:00,Mainz,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-12 13:30:00,SC Freiburg,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-12 13:30:00,TSG Hoffenheim,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-12 16:30:00,FC Cologne,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-13 13:30:00,RB Leipzig,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-13 15:30:00,SV Elversberg,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-18 18:30:00,Bayern Munich,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-19 13:30:00,Borussia Mönchengladbach,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-19 13:30:00,Eintracht Frankfurt,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-19 13:30:00,Hamburg SV,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-19 13:30:00,Werder Bremen,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-19 16:30:00,VfB Stuttgart,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-20 13:30:00,Bayer Leverkusen,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-20 15:30:00,Schalke 04,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-09-20 17:30:00,SC Paderborn 07,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-10 18:00:00,1. FC Union Berlin,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-10 18:00:00,Borussia Dortmund,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-10 18:00:00,FC Augsburg,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-10 18:00:00,FC Cologne,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-10 18:00:00,Mainz,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-10 18:00:00,RB Leipzig,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-10 18:00:00,SC Freiburg,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-10 18:00:00,SC Paderborn 07,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-10 18:00:00,TSG Hoffenheim,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-17 18:00:00,1. FC Union Berlin,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-17 18:00:00,Bayer Leverkusen,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-17 18:00:00,Bayern Munich,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-17 18:00:00,Borussia Mönchengladbach,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-17 18:00:00,Eintracht Frankfurt,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-17 18:00:00,Hamburg SV,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-17 18:00:00,SV Elversberg,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-17 18:00:00,Schalke 04,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-17 18:00:00,Werder Bremen,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-24 18:00:00,Borussia Dortmund,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-24 18:00:00,FC Augsburg,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-24 18:00:00,FC Cologne,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-24 18:00:00,Mainz,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-24 18:00:00,RB Leipzig,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-24 18:00:00,SC Freiburg,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-24 18:00:00,SC Paderborn 07,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-24 18:00:00,TSG Hoffenheim,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-24 18:00:00,VfB Stuttgart,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-31 18:00:00,1. FC Union Berlin,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-31 18:00:00,Bayer Leverkusen,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-31 18:00:00,Bayern Munich,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-31 18:00:00,Borussia Mönchengladbach,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-31 18:00:00,Eintracht Frankfurt,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-31 18:00:00,FC Augsburg,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-31 18:00:00,SV Elversberg,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-31 18:00:00,Schalke 04,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-10-31 18:00:00,Werder Bremen,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-07 20:00:00,Borussia Dortmund,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-07 20:00:00,FC Cologne,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-07 20:00:00,Hamburg SV,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-07 20:00:00,Mainz,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-07 20:00:00,RB Leipzig,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-07 20:00:00,SC Freiburg,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-07 20:00:00,SC Paderborn 07,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-07 20:00:00,TSG Hoffenheim,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-07 20:00:00,VfB Stuttgart,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-21 20:00:00,1. FC Union Berlin,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-21 20:00:00,Bayer Leverkusen,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-21 20:00:00,Bayern Munich,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-21 20:00:00,Borussia Mönchengladbach,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-21 20:00:00,Eintracht Frankfurt,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-21 20:00:00,FC Augsburg,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-21 20:00:00,SV Elversberg,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-21 20:00:00,Schalke 04,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-21 20:00:00,Werder Bremen,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-28 20:00:00,Borussia Dortmund,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-28 20:00:00,FC Cologne,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-28 20:00:00,Hamburg SV,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-28 20:00:00,Mainz,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-28 20:00:00,SC Freiburg,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-28 20:00:00,SC Paderborn 07,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-28 20:00:00,TSG Hoffenheim,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-28 20:00:00,VfB Stuttgart,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-11-28 20:00:00,Werder Bremen,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-05 20:00:00,1. FC Union Berlin,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-05 20:00:00,Bayer Leverkusen,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-05 20:00:00,Bayern Munich,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-05 20:00:00,Eintracht Frankfurt,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-05 20:00:00,FC Augsburg,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-05 20:00:00,RB Leipzig,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-05 20:00:00,SC Freiburg,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-05 20:00:00,SV Elversberg,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-05 20:00:00,Schalke 04,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-12 20:00:00,Borussia Dortmund,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-12 20:00:00,Borussia Mönchengladbach,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-12 20:00:00,FC Cologne,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-12 20:00:00,Hamburg SV,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-12 20:00:00,Mainz,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-12 20:00:00,SC Paderborn 07,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-12 20:00:00,TSG Hoffenheim,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-12 20:00:00,VfB Stuttgart,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-12 20:00:00,Werder Bremen,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-19 20:00:00,1. FC Union Berlin,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-19 20:00:00,Bayer Leverkusen,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-19 20:00:00,Bayern Munich,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-19 20:00:00,FC Augsburg,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-19 20:00:00,Mainz,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-19 20:00:00,RB Leipzig,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-19 20:00:00,SC Freiburg,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-19 20:00:00,SV Elversberg,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2026-12-19 20:00:00,Schalke 04,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-09 20:00:00,Borussia Dortmund,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-09 20:00:00,Borussia Mönchengladbach,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-09 20:00:00,Eintracht Frankfurt,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-09 20:00:00,FC Cologne,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-09 20:00:00,Hamburg SV,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-09 20:00:00,SC Paderborn 07,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-09 20:00:00,TSG Hoffenheim,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-09 20:00:00,VfB Stuttgart,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-09 20:00:00,Werder Bremen,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-13 20:00:00,1. FC Union Berlin,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-13 20:00:00,Bayern Munich,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-13 20:00:00,FC Augsburg,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-13 20:00:00,FC Cologne,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-13 20:00:00,Mainz,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-13 20:00:00,RB Leipzig,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-13 20:00:00,SC Freiburg,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-13 20:00:00,SV Elversberg,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-13 20:00:00,Schalke 04,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-16 20:00:00,Bayer Leverkusen,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-16 20:00:00,Borussia Dortmund,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-16 20:00:00,Borussia Mönchengladbach,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-16 20:00:00,Eintracht Frankfurt,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-16 20:00:00,Hamburg SV,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-16 20:00:00,SC Paderborn 07,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-16 20:00:00,TSG Hoffenheim,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-16 20:00:00,VfB Stuttgart,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-16 20:00:00,Werder Bremen,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-23 20:00:00,Bayer Leverkusen,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-23 20:00:00,Borussia Mönchengladbach,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-23 20:00:00,Eintracht Frankfurt,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-23 20:00:00,Hamburg SV,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-23 20:00:00,SC Paderborn 07,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-23 20:00:00,Schalke 04,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-23 20:00:00,TSG Hoffenheim,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-23 20:00:00,VfB Stuttgart,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-23 20:00:00,Werder Bremen,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-30 20:00:00,1. FC Union Berlin,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-30 20:00:00,Bayern Munich,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-30 20:00:00,Borussia Dortmund,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-30 20:00:00,FC Augsburg,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-30 20:00:00,FC Cologne,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-30 20:00:00,Mainz,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-30 20:00:00,RB Leipzig,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-30 20:00:00,SC Freiburg,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-01-30 20:00:00,SV Elversberg,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-06 20:00:00,Bayer Leverkusen,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-06 20:00:00,Bayern Munich,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-06 20:00:00,Borussia Mönchengladbach,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-06 20:00:00,Eintracht Frankfurt,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-06 20:00:00,Hamburg SV,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-06 20:00:00,SC Paderborn 07,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-06 20:00:00,Schalke 04,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-06 20:00:00,VfB Stuttgart,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-06 20:00:00,Werder Bremen,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-13 20:00:00,1. FC Union Berlin,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-13 20:00:00,Borussia Dortmund,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-13 20:00:00,FC Augsburg,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-13 20:00:00,FC Cologne,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-13 20:00:00,Mainz,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-13 20:00:00,RB Leipzig,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-13 20:00:00,SC Freiburg,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-13 20:00:00,SV Elversberg,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-13 20:00:00,TSG Hoffenheim,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-20 20:00:00,Bayer Leverkusen,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-20 20:00:00,Bayern Munich,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-20 20:00:00,Borussia Mönchengladbach,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-20 20:00:00,Eintracht Frankfurt,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-20 20:00:00,Hamburg SV,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-20 20:00:00,SV Elversberg,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-20 20:00:00,Schalke 04,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-20 20:00:00,VfB Stuttgart,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-20 20:00:00,Werder Bremen,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-27 20:00:00,Borussia Dortmund,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-27 20:00:00,FC Augsburg,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-27 20:00:00,FC Cologne,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-27 20:00:00,Mainz,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-27 20:00:00,RB Leipzig,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-27 20:00:00,SC Freiburg,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-27 20:00:00,SC Paderborn 07,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-27 20:00:00,TSG Hoffenheim,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-02-27 20:00:00,VfB Stuttgart,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-03 20:00:00,1. FC Union Berlin,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-03 20:00:00,Bayer Leverkusen,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-03 20:00:00,Bayern Munich,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-03 20:00:00,Borussia Mönchengladbach,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-03 20:00:00,Eintracht Frankfurt,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-03 20:00:00,Hamburg SV,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-03 20:00:00,SV Elversberg,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-03 20:00:00,Schalke 04,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-03 20:00:00,Werder Bremen,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-06 20:00:00,Borussia Dortmund,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-06 20:00:00,FC Cologne,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-06 20:00:00,Hamburg SV,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-06 20:00:00,Mainz,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-06 20:00:00,RB Leipzig,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-06 20:00:00,SC Freiburg,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-06 20:00:00,SC Paderborn 07,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-06 20:00:00,TSG Hoffenheim,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-06 20:00:00,VfB Stuttgart,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-13 20:00:00,1. FC Union Berlin,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-13 20:00:00,Bayer Leverkusen,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-13 20:00:00,Bayern Munich,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-13 20:00:00,Borussia Mönchengladbach,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-13 20:00:00,Eintracht Frankfurt,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-13 20:00:00,FC Augsburg,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-13 20:00:00,SV Elversberg,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-13 20:00:00,Schalke 04,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-13 20:00:00,Werder Bremen,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-20 18:00:00,Borussia Dortmund,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-20 18:00:00,FC Cologne,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-20 18:00:00,Hamburg SV,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-20 18:00:00,Mainz,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-20 18:00:00,RB Leipzig,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-20 18:00:00,SC Freiburg,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-20 18:00:00,SC Paderborn 07,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-20 18:00:00,TSG Hoffenheim,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-03-20 18:00:00,VfB Stuttgart,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-03 18:00:00,1. FC Union Berlin,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-03 18:00:00,Bayer Leverkusen,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-03 18:00:00,Bayern Munich,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-03 18:00:00,Borussia Mönchengladbach,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-03 18:00:00,Eintracht Frankfurt,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-03 18:00:00,FC Augsburg,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-03 18:00:00,RB Leipzig,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-03 18:00:00,SV Elversberg,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-03 18:00:00,Schalke 04,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-10 18:00:00,Borussia Dortmund,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-10 18:00:00,Borussia Mönchengladbach,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-10 18:00:00,FC Cologne,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-10 18:00:00,Hamburg SV,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-10 18:00:00,Mainz,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-10 18:00:00,SC Paderborn 07,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-10 18:00:00,TSG Hoffenheim,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-10 18:00:00,VfB Stuttgart,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-10 18:00:00,Werder Bremen,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-17 18:00:00,1. FC Union Berlin,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-17 18:00:00,Bayer Leverkusen,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-17 18:00:00,Bayern Munich,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-17 18:00:00,Eintracht Frankfurt,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-17 18:00:00,FC Augsburg,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-17 18:00:00,RB Leipzig,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-17 18:00:00,SC Freiburg,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-17 18:00:00,SV Elversberg,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-17 18:00:00,Schalke 04,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-24 18:00:00,Borussia Dortmund,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-24 18:00:00,Borussia Mönchengladbach,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-24 18:00:00,Eintracht Frankfurt,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-24 18:00:00,FC Cologne,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-24 18:00:00,Hamburg SV,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-24 18:00:00,SC Paderborn 07,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-24 18:00:00,TSG Hoffenheim,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-24 18:00:00,VfB Stuttgart,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-04-24 18:00:00,Werder Bremen,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-08 18:00:00,1. FC Union Berlin,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-08 18:00:00,Bayer Leverkusen,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-08 18:00:00,Bayern Munich,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-08 18:00:00,FC Augsburg,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-08 18:00:00,Mainz,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-08 18:00:00,RB Leipzig,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-08 18:00:00,SC Freiburg,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-08 18:00:00,SV Elversberg,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-08 18:00:00,Schalke 04,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-15 18:00:00,Bayer Leverkusen,Bayern Munich,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-15 18:00:00,Borussia Dortmund,FC Cologne,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-15 18:00:00,Borussia Mönchengladbach,FC Augsburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-15 18:00:00,Eintracht Frankfurt,SV Elversberg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-15 18:00:00,Hamburg SV,SC Freiburg,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-15 18:00:00,SC Paderborn 07,1. FC Union Berlin,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-15 18:00:00,TSG Hoffenheim,Mainz,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-15 18:00:00,VfB Stuttgart,RB Leipzig,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-15 18:00:00,Werder Bremen,Schalke 04,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-22 13:30:00,1. FC Union Berlin,Borussia Mönchengladbach,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-22 13:30:00,Bayern Munich,Eintracht Frankfurt,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-22 13:30:00,FC Augsburg,Hamburg SV,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-22 13:30:00,FC Cologne,SC Paderborn 07,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-22 13:30:00,Mainz,VfB Stuttgart,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-22 13:30:00,RB Leipzig,TSG Hoffenheim,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-22 13:30:00,SC Freiburg,Borussia Dortmund,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-22 13:30:00,SV Elversberg,Werder Bremen,,,scheduled,2026-09-02 13:59:05.928401+00:00
-bundesliga,2627,2027-05-22 13:30:00,Schalke 04,Bayer Leverkusen,,,scheduled,2026-09-02 13:59:05.928401+00:00
+bundesliga,2627,2026-08-28 18:30:00,Bayern Munich,VfB Stuttgart,5,1,played,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-08-29 13:30:00,1. FC Union Berlin,Eintracht Frankfurt,3,3,played,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-08-29 13:30:00,FC Cologne,TSG Hoffenheim,3,2,played,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-08-29 13:30:00,Mainz,SC Paderborn 07,0,0,played,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-08-29 13:30:00,RB Leipzig,Borussia Mönchengladbach,3,0,played,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-08-29 13:30:00,SV Elversberg,Bayer Leverkusen,3,2,played,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-08-29 16:30:00,Borussia Dortmund,Hamburg SV,2,0,played,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-08-30 13:30:00,SC Freiburg,Werder Bremen,4,1,played,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-08-30 15:30:00,FC Augsburg,Schalke 04,3,0,played,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-04 18:30:00,VfB Stuttgart,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-05 13:30:00,Bayer Leverkusen,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-05 13:30:00,Borussia Mönchengladbach,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-05 13:30:00,SC Paderborn 07,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-05 13:30:00,TSG Hoffenheim,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-05 13:30:00,Werder Bremen,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-05 16:30:00,Schalke 04,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-06 13:30:00,Hamburg SV,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-06 15:30:00,Eintracht Frankfurt,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-11 18:30:00,1. FC Union Berlin,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-12 13:30:00,Borussia Dortmund,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-12 13:30:00,FC Augsburg,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-12 13:30:00,Mainz,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-12 13:30:00,SC Freiburg,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-12 13:30:00,TSG Hoffenheim,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-12 16:30:00,FC Cologne,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-13 13:30:00,RB Leipzig,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-13 15:30:00,SV Elversberg,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-18 18:30:00,Bayern Munich,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-19 13:30:00,Borussia Mönchengladbach,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-19 13:30:00,Eintracht Frankfurt,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-19 13:30:00,Hamburg SV,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-19 13:30:00,Werder Bremen,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-19 16:30:00,VfB Stuttgart,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-20 13:30:00,Bayer Leverkusen,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-20 15:30:00,Schalke 04,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-09-20 17:30:00,SC Paderborn 07,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-10 18:00:00,1. FC Union Berlin,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-10 18:00:00,Borussia Dortmund,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-10 18:00:00,FC Augsburg,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-10 18:00:00,FC Cologne,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-10 18:00:00,Mainz,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-10 18:00:00,RB Leipzig,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-10 18:00:00,SC Freiburg,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-10 18:00:00,SC Paderborn 07,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-10 18:00:00,TSG Hoffenheim,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-17 18:00:00,1. FC Union Berlin,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-17 18:00:00,Bayer Leverkusen,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-17 18:00:00,Bayern Munich,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-17 18:00:00,Borussia Mönchengladbach,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-17 18:00:00,Eintracht Frankfurt,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-17 18:00:00,Hamburg SV,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-17 18:00:00,SV Elversberg,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-17 18:00:00,Schalke 04,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-17 18:00:00,Werder Bremen,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-24 18:00:00,Borussia Dortmund,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-24 18:00:00,FC Augsburg,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-24 18:00:00,FC Cologne,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-24 18:00:00,Mainz,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-24 18:00:00,RB Leipzig,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-24 18:00:00,SC Freiburg,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-24 18:00:00,SC Paderborn 07,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-24 18:00:00,TSG Hoffenheim,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-24 18:00:00,VfB Stuttgart,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-31 18:00:00,1. FC Union Berlin,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-31 18:00:00,Bayer Leverkusen,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-31 18:00:00,Bayern Munich,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-31 18:00:00,Borussia Mönchengladbach,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-31 18:00:00,Eintracht Frankfurt,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-31 18:00:00,FC Augsburg,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-31 18:00:00,SV Elversberg,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-31 18:00:00,Schalke 04,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-10-31 18:00:00,Werder Bremen,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-07 20:00:00,Borussia Dortmund,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-07 20:00:00,FC Cologne,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-07 20:00:00,Hamburg SV,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-07 20:00:00,Mainz,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-07 20:00:00,RB Leipzig,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-07 20:00:00,SC Freiburg,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-07 20:00:00,SC Paderborn 07,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-07 20:00:00,TSG Hoffenheim,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-07 20:00:00,VfB Stuttgart,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-21 20:00:00,1. FC Union Berlin,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-21 20:00:00,Bayer Leverkusen,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-21 20:00:00,Bayern Munich,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-21 20:00:00,Borussia Mönchengladbach,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-21 20:00:00,Eintracht Frankfurt,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-21 20:00:00,FC Augsburg,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-21 20:00:00,SV Elversberg,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-21 20:00:00,Schalke 04,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-21 20:00:00,Werder Bremen,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-28 20:00:00,Borussia Dortmund,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-28 20:00:00,FC Cologne,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-28 20:00:00,Hamburg SV,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-28 20:00:00,Mainz,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-28 20:00:00,SC Freiburg,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-28 20:00:00,SC Paderborn 07,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-28 20:00:00,TSG Hoffenheim,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-28 20:00:00,VfB Stuttgart,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-11-28 20:00:00,Werder Bremen,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-05 20:00:00,1. FC Union Berlin,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-05 20:00:00,Bayer Leverkusen,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-05 20:00:00,Bayern Munich,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-05 20:00:00,Eintracht Frankfurt,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-05 20:00:00,FC Augsburg,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-05 20:00:00,RB Leipzig,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-05 20:00:00,SC Freiburg,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-05 20:00:00,SV Elversberg,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-05 20:00:00,Schalke 04,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-12 20:00:00,Borussia Dortmund,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-12 20:00:00,Borussia Mönchengladbach,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-12 20:00:00,FC Cologne,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-12 20:00:00,Hamburg SV,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-12 20:00:00,Mainz,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-12 20:00:00,SC Paderborn 07,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-12 20:00:00,TSG Hoffenheim,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-12 20:00:00,VfB Stuttgart,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-12 20:00:00,Werder Bremen,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-19 20:00:00,1. FC Union Berlin,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-19 20:00:00,Bayer Leverkusen,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-19 20:00:00,Bayern Munich,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-19 20:00:00,FC Augsburg,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-19 20:00:00,Mainz,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-19 20:00:00,RB Leipzig,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-19 20:00:00,SC Freiburg,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-19 20:00:00,SV Elversberg,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2026-12-19 20:00:00,Schalke 04,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-09 20:00:00,Borussia Dortmund,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-09 20:00:00,Borussia Mönchengladbach,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-09 20:00:00,Eintracht Frankfurt,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-09 20:00:00,FC Cologne,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-09 20:00:00,Hamburg SV,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-09 20:00:00,SC Paderborn 07,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-09 20:00:00,TSG Hoffenheim,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-09 20:00:00,VfB Stuttgart,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-09 20:00:00,Werder Bremen,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-13 20:00:00,1. FC Union Berlin,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-13 20:00:00,Bayern Munich,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-13 20:00:00,FC Augsburg,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-13 20:00:00,FC Cologne,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-13 20:00:00,Mainz,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-13 20:00:00,RB Leipzig,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-13 20:00:00,SC Freiburg,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-13 20:00:00,SV Elversberg,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-13 20:00:00,Schalke 04,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-16 20:00:00,Bayer Leverkusen,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-16 20:00:00,Borussia Dortmund,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-16 20:00:00,Borussia Mönchengladbach,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-16 20:00:00,Eintracht Frankfurt,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-16 20:00:00,Hamburg SV,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-16 20:00:00,SC Paderborn 07,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-16 20:00:00,TSG Hoffenheim,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-16 20:00:00,VfB Stuttgart,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-16 20:00:00,Werder Bremen,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-23 20:00:00,Bayer Leverkusen,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-23 20:00:00,Borussia Mönchengladbach,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-23 20:00:00,Eintracht Frankfurt,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-23 20:00:00,Hamburg SV,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-23 20:00:00,SC Paderborn 07,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-23 20:00:00,Schalke 04,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-23 20:00:00,TSG Hoffenheim,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-23 20:00:00,VfB Stuttgart,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-23 20:00:00,Werder Bremen,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-30 20:00:00,1. FC Union Berlin,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-30 20:00:00,Bayern Munich,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-30 20:00:00,Borussia Dortmund,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-30 20:00:00,FC Augsburg,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-30 20:00:00,FC Cologne,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-30 20:00:00,Mainz,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-30 20:00:00,RB Leipzig,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-30 20:00:00,SC Freiburg,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-01-30 20:00:00,SV Elversberg,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-06 20:00:00,Bayer Leverkusen,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-06 20:00:00,Bayern Munich,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-06 20:00:00,Borussia Mönchengladbach,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-06 20:00:00,Eintracht Frankfurt,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-06 20:00:00,Hamburg SV,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-06 20:00:00,SC Paderborn 07,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-06 20:00:00,Schalke 04,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-06 20:00:00,VfB Stuttgart,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-06 20:00:00,Werder Bremen,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-13 20:00:00,1. FC Union Berlin,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-13 20:00:00,Borussia Dortmund,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-13 20:00:00,FC Augsburg,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-13 20:00:00,FC Cologne,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-13 20:00:00,Mainz,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-13 20:00:00,RB Leipzig,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-13 20:00:00,SC Freiburg,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-13 20:00:00,SV Elversberg,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-13 20:00:00,TSG Hoffenheim,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-20 20:00:00,Bayer Leverkusen,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-20 20:00:00,Bayern Munich,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-20 20:00:00,Borussia Mönchengladbach,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-20 20:00:00,Eintracht Frankfurt,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-20 20:00:00,Hamburg SV,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-20 20:00:00,SV Elversberg,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-20 20:00:00,Schalke 04,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-20 20:00:00,VfB Stuttgart,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-20 20:00:00,Werder Bremen,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-27 20:00:00,Borussia Dortmund,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-27 20:00:00,FC Augsburg,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-27 20:00:00,FC Cologne,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-27 20:00:00,Mainz,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-27 20:00:00,RB Leipzig,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-27 20:00:00,SC Freiburg,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-27 20:00:00,SC Paderborn 07,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-27 20:00:00,TSG Hoffenheim,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-02-27 20:00:00,VfB Stuttgart,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-03 20:00:00,1. FC Union Berlin,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-03 20:00:00,Bayer Leverkusen,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-03 20:00:00,Bayern Munich,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-03 20:00:00,Borussia Mönchengladbach,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-03 20:00:00,Eintracht Frankfurt,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-03 20:00:00,Hamburg SV,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-03 20:00:00,SV Elversberg,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-03 20:00:00,Schalke 04,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-03 20:00:00,Werder Bremen,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-06 20:00:00,Borussia Dortmund,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-06 20:00:00,FC Cologne,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-06 20:00:00,Hamburg SV,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-06 20:00:00,Mainz,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-06 20:00:00,RB Leipzig,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-06 20:00:00,SC Freiburg,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-06 20:00:00,SC Paderborn 07,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-06 20:00:00,TSG Hoffenheim,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-06 20:00:00,VfB Stuttgart,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-13 20:00:00,1. FC Union Berlin,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-13 20:00:00,Bayer Leverkusen,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-13 20:00:00,Bayern Munich,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-13 20:00:00,Borussia Mönchengladbach,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-13 20:00:00,Eintracht Frankfurt,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-13 20:00:00,FC Augsburg,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-13 20:00:00,SV Elversberg,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-13 20:00:00,Schalke 04,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-13 20:00:00,Werder Bremen,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-20 18:00:00,Borussia Dortmund,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-20 18:00:00,FC Cologne,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-20 18:00:00,Hamburg SV,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-20 18:00:00,Mainz,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-20 18:00:00,RB Leipzig,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-20 18:00:00,SC Freiburg,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-20 18:00:00,SC Paderborn 07,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-20 18:00:00,TSG Hoffenheim,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-03-20 18:00:00,VfB Stuttgart,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-03 18:00:00,1. FC Union Berlin,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-03 18:00:00,Bayer Leverkusen,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-03 18:00:00,Bayern Munich,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-03 18:00:00,Borussia Mönchengladbach,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-03 18:00:00,Eintracht Frankfurt,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-03 18:00:00,FC Augsburg,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-03 18:00:00,RB Leipzig,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-03 18:00:00,SV Elversberg,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-03 18:00:00,Schalke 04,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-10 18:00:00,Borussia Dortmund,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-10 18:00:00,Borussia Mönchengladbach,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-10 18:00:00,FC Cologne,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-10 18:00:00,Hamburg SV,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-10 18:00:00,Mainz,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-10 18:00:00,SC Paderborn 07,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-10 18:00:00,TSG Hoffenheim,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-10 18:00:00,VfB Stuttgart,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-10 18:00:00,Werder Bremen,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-17 18:00:00,1. FC Union Berlin,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-17 18:00:00,Bayer Leverkusen,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-17 18:00:00,Bayern Munich,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-17 18:00:00,Eintracht Frankfurt,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-17 18:00:00,FC Augsburg,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-17 18:00:00,RB Leipzig,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-17 18:00:00,SC Freiburg,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-17 18:00:00,SV Elversberg,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-17 18:00:00,Schalke 04,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-24 18:00:00,Borussia Dortmund,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-24 18:00:00,Borussia Mönchengladbach,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-24 18:00:00,Eintracht Frankfurt,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-24 18:00:00,FC Cologne,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-24 18:00:00,Hamburg SV,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-24 18:00:00,SC Paderborn 07,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-24 18:00:00,TSG Hoffenheim,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-24 18:00:00,VfB Stuttgart,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-04-24 18:00:00,Werder Bremen,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-08 18:00:00,1. FC Union Berlin,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-08 18:00:00,Bayer Leverkusen,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-08 18:00:00,Bayern Munich,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-08 18:00:00,FC Augsburg,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-08 18:00:00,Mainz,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-08 18:00:00,RB Leipzig,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-08 18:00:00,SC Freiburg,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-08 18:00:00,SV Elversberg,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-08 18:00:00,Schalke 04,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-15 18:00:00,Bayer Leverkusen,Bayern Munich,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-15 18:00:00,Borussia Dortmund,FC Cologne,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-15 18:00:00,Borussia Mönchengladbach,FC Augsburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-15 18:00:00,Eintracht Frankfurt,SV Elversberg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-15 18:00:00,Hamburg SV,SC Freiburg,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-15 18:00:00,SC Paderborn 07,1. FC Union Berlin,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-15 18:00:00,TSG Hoffenheim,Mainz,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-15 18:00:00,VfB Stuttgart,RB Leipzig,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-15 18:00:00,Werder Bremen,Schalke 04,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-22 13:30:00,1. FC Union Berlin,Borussia Mönchengladbach,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-22 13:30:00,Bayern Munich,Eintracht Frankfurt,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-22 13:30:00,FC Augsburg,Hamburg SV,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-22 13:30:00,FC Cologne,SC Paderborn 07,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-22 13:30:00,Mainz,VfB Stuttgart,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-22 13:30:00,RB Leipzig,TSG Hoffenheim,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-22 13:30:00,SC Freiburg,Borussia Dortmund,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-22 13:30:00,SV Elversberg,Werder Bremen,,,scheduled,2026-09-03 14:01:04.044128+00:00
+bundesliga,2627,2027-05-22 13:30:00,Schalke 04,Bayer Leverkusen,,,scheduled,2026-09-03 14:01:04.044128+00:00
