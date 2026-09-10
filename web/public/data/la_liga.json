@@ -13,7 +13,7 @@
     "code": "SP1"
   },
   "season": "2026/27",
-  "generatedAt": "2026-09-09T14:04:56.968531+00:00",
+  "generatedAt": "2026-09-10T14:00:24.068011+00:00",
   "model": {
     "name": "poisson",
     "version": "2026.1",
@@ -37,18 +37,18 @@
       "played": 4,
       "points": 12,
       "goalDifference": 15,
-      "expectedPoints": 88.365,
-      "expectedPosition": 1.2311999999999999,
-      "titleProbability": 0.7874,
-      "championsLeagueProbability": 0.9996,
+      "expectedPoints": 88.3654,
+      "expectedPosition": 1.2289999999999999,
+      "titleProbability": 0.7916,
+      "championsLeagueProbability": 0.9994,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.7874,
-        0.197,
-        0.0132,
-        0.002,
-        0.0002,
-        0.0002,
+        0.7916,
+        0.1916,
+        0.0136,
+        0.0026,
+        0.0006,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -75,21 +75,21 @@
       "played": 4,
       "points": 9,
       "goalDifference": 7,
-      "expectedPoints": 80.2656,
-      "expectedPosition": 1.994,
-      "titleProbability": 0.2016,
-      "championsLeagueProbability": 0.9878,
+      "expectedPoints": 80.2334,
+      "expectedPosition": 1.9941999999999998,
+      "titleProbability": 0.1972,
+      "championsLeagueProbability": 0.987,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.2016,
-        0.6574,
-        0.1052,
-        0.0236,
-        0.0076,
-        0.003,
-        0.0014,
-        0.0,
+        0.1972,
+        0.6656,
+        0.101,
+        0.0232,
+        0.0092,
+        0.0028,
+        0.0008,
         0.0002,
+        0.0,
         0.0,
         0.0,
         0.0,
@@ -113,29 +113,29 @@
       "played": 4,
       "points": 7,
       "goalDifference": 1,
-      "expectedPoints": 66.4354,
-      "expectedPosition": 4.4488,
-      "titleProbability": 0.0062,
-      "championsLeagueProbability": 0.6372,
+      "expectedPoints": 66.4346,
+      "expectedPosition": 4.436400000000001,
+      "titleProbability": 0.0058,
+      "championsLeagueProbability": 0.6426,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.0062,
-        0.077,
+        0.0058,
+        0.0758,
         0.352,
-        0.202,
-        0.132,
-        0.0854,
-        0.0522,
-        0.0374,
-        0.0208,
-        0.011,
-        0.0104,
-        0.0064,
-        0.0042,
-        0.0014,
-        0.0008,
-        0.0006,
+        0.209,
+        0.1294,
+        0.088,
+        0.0454,
+        0.0378,
+        0.022,
+        0.015,
+        0.0074,
+        0.0054,
+        0.0036,
+        0.0016,
+        0.001,
         0.0002,
+        0.0006,
         0.0,
         0.0,
         0.0
@@ -151,30 +151,30 @@
       "played": 4,
       "points": 8,
       "goalDifference": 3,
-      "expectedPoints": 61.5524,
-      "expectedPosition": 5.9828,
-      "titleProbability": 0.0016,
-      "championsLeagueProbability": 0.3728,
-      "relegationProbability": 0.0016,
+      "expectedPoints": 61.5514,
+      "expectedPosition": 5.988400000000001,
+      "titleProbability": 0.0022,
+      "championsLeagueProbability": 0.3716,
+      "relegationProbability": 0.0018,
       "positionProbabilities": [
-        0.0016,
-        0.0252,
-        0.1606,
-        0.1854,
-        0.1596,
-        0.1224,
-        0.0964,
-        0.0752,
-        0.0514,
-        0.0392,
-        0.0304,
-        0.019,
-        0.013,
-        0.0078,
+        0.0022,
+        0.0234,
+        0.1628,
+        0.1832,
+        0.1568,
+        0.1222,
+        0.0998,
+        0.078,
+        0.0518,
+        0.0396,
+        0.028,
+        0.0176,
+        0.012,
+        0.0098,
         0.0064,
-        0.0036,
+        0.0034,
         0.0012,
-        0.001,
+        0.0012,
         0.0006,
         0.0
       ]
@@ -190,29 +190,29 @@
       "points": 9,
       "goalDifference": 0,
       "expectedPoints": 60.8208,
-      "expectedPosition": 6.2863999999999995,
-      "titleProbability": 0.0018,
-      "championsLeagueProbability": 0.3256,
-      "relegationProbability": 0.0018,
+      "expectedPosition": 6.2762,
+      "titleProbability": 0.0022,
+      "championsLeagueProbability": 0.3252,
+      "relegationProbability": 0.0012,
       "positionProbabilities": [
-        0.0018,
-        0.0206,
-        0.1272,
-        0.176,
-        0.1518,
-        0.13,
-        0.1086,
-        0.0856,
-        0.0592,
-        0.0438,
-        0.0332,
-        0.0234,
-        0.0138,
-        0.0108,
-        0.0064,
+        0.0022,
+        0.0198,
+        0.129,
+        0.1742,
+        0.1546,
+        0.1342,
+        0.1056,
+        0.0804,
+        0.0576,
+        0.044,
+        0.0352,
+        0.0248,
+        0.016,
+        0.0084,
+        0.007,
         0.0044,
-        0.0016,
         0.0014,
+        0.0008,
         0.0004,
         0.0
       ]
@@ -227,29 +227,29 @@
       "played": 4,
       "points": 2,
       "goalDifference": -2,
-      "expectedPoints": 59.9756,
-      "expectedPosition": 6.563,
-      "titleProbability": 0.0012,
-      "championsLeagueProbability": 0.2872,
+      "expectedPoints": 59.9962,
+      "expectedPosition": 6.5668,
+      "titleProbability": 0.0006,
+      "championsLeagueProbability": 0.286,
       "relegationProbability": 0.003,
       "positionProbabilities": [
-        0.0012,
-        0.013,
-        0.1182,
-        0.1548,
+        0.0006,
+        0.014,
+        0.1156,
         0.1558,
-        0.1352,
-        0.1118,
-        0.0812,
-        0.066,
-        0.0486,
-        0.0366,
-        0.0274,
-        0.0178,
-        0.0106,
-        0.0108,
-        0.0046,
-        0.0034,
+        0.1564,
+        0.133,
+        0.1126,
+        0.0768,
+        0.0752,
+        0.0474,
+        0.0378,
+        0.0252,
+        0.019,
+        0.0114,
+        0.0074,
+        0.0056,
+        0.0032,
         0.002,
         0.001,
         0.0
@@ -265,31 +265,31 @@
       "played": 4,
       "points": 6,
       "goalDifference": 1,
-      "expectedPoints": 55.5174,
-      "expectedPosition": 8.467000000000002,
-      "titleProbability": 0.0002,
-      "championsLeagueProbability": 0.1304,
-      "relegationProbability": 0.0114,
+      "expectedPoints": 55.517,
+      "expectedPosition": 8.4708,
+      "titleProbability": 0.0004,
+      "championsLeagueProbability": 0.128,
+      "relegationProbability": 0.0104,
       "positionProbabilities": [
-        0.0002,
-        0.0034,
-        0.0414,
-        0.0854,
-        0.0966,
-        0.1162,
-        0.1074,
-        0.0996,
-        0.1032,
-        0.0794,
-        0.0674,
-        0.051,
-        0.0448,
-        0.0348,
-        0.025,
-        0.0206,
-        0.0122,
-        0.009,
-        0.0024,
+        0.0004,
+        0.0038,
+        0.0412,
+        0.0826,
+        0.0972,
+        0.1098,
+        0.1192,
+        0.1006,
+        0.0972,
+        0.0814,
+        0.0664,
+        0.0508,
+        0.0444,
+        0.0358,
+        0.026,
+        0.0198,
+        0.013,
+        0.0078,
+        0.0026,
         0.0
       ]
     },
@@ -303,32 +303,32 @@
       "played": 4,
       "points": 4,
       "goalDifference": 1,
-      "expectedPoints": 53.767,
-      "expectedPosition": 9.316,
+      "expectedPoints": 53.792,
+      "expectedPosition": 9.2926,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.0788,
-      "relegationProbability": 0.0184,
+      "championsLeagueProbability": 0.079,
+      "relegationProbability": 0.0158,
       "positionProbabilities": [
         0.0,
-        0.0026,
+        0.003,
+        0.0252,
+        0.0508,
+        0.08,
+        0.0948,
+        0.1028,
+        0.1068,
+        0.0952,
+        0.0922,
+        0.0778,
+        0.0692,
+        0.0554,
+        0.048,
+        0.0334,
+        0.0266,
         0.023,
-        0.0532,
-        0.0812,
-        0.089,
-        0.1094,
-        0.104,
-        0.093,
-        0.0908,
-        0.076,
-        0.07,
-        0.0612,
-        0.0468,
-        0.0374,
-        0.0278,
-        0.0162,
-        0.0116,
-        0.0066,
-        0.0002
+        0.01,
+        0.0058,
+        0.0
       ]
     },
     {
@@ -341,31 +341,31 @@
       "played": 4,
       "points": 10,
       "goalDifference": 7,
-      "expectedPoints": 52.5026,
-      "expectedPosition": 9.929599999999999,
+      "expectedPoints": 52.4964,
+      "expectedPosition": 9.946199999999997,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.0588,
-      "relegationProbability": 0.024,
+      "championsLeagueProbability": 0.0594,
+      "relegationProbability": 0.0236,
       "positionProbabilities": [
         0.0,
-        0.0008,
-        0.0202,
-        0.0378,
-        0.0602,
-        0.0746,
-        0.0872,
-        0.1,
-        0.1016,
-        0.0954,
-        0.0934,
-        0.0826,
-        0.0614,
-        0.0586,
-        0.0462,
-        0.032,
-        0.024,
-        0.0174,
-        0.0066,
+        0.001,
+        0.0196,
+        0.0388,
+        0.0574,
+        0.074,
+        0.0854,
+        0.1012,
+        0.1038,
+        0.1026,
+        0.0886,
+        0.0802,
+        0.0624,
+        0.055,
+        0.0464,
+        0.0346,
+        0.0254,
+        0.0164,
+        0.0072,
         0.0
       ]
     },
@@ -379,32 +379,32 @@
       "played": 5,
       "points": 7,
       "goalDifference": -2,
-      "expectedPoints": 52.2226,
-      "expectedPosition": 10.103,
+      "expectedPoints": 52.221,
+      "expectedPosition": 10.113399999999999,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.0526,
-      "relegationProbability": 0.0302,
+      "championsLeagueProbability": 0.0512,
+      "relegationProbability": 0.0272,
       "positionProbabilities": [
         0.0,
-        0.0016,
-        0.0184,
-        0.0326,
-        0.056,
-        0.0784,
-        0.0858,
-        0.0908,
-        0.102,
+        0.0012,
+        0.0172,
+        0.0328,
+        0.0594,
+        0.07,
+        0.0902,
+        0.0966,
         0.099,
-        0.0862,
-        0.0778,
-        0.078,
-        0.0578,
-        0.0442,
-        0.0348,
-        0.0264,
-        0.0186,
-        0.0116,
-        0.0
+        0.0956,
+        0.0868,
+        0.0804,
+        0.071,
+        0.066,
+        0.043,
+        0.0326,
+        0.031,
+        0.0172,
+        0.0098,
+        0.0002
       ]
     },
     {
@@ -418,31 +418,31 @@
       "points": 7,
       "goalDifference": -1,
       "expectedPoints": 48.8576,
-      "expectedPosition": 11.816999999999998,
+      "expectedPosition": 11.821200000000001,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.0162,
-      "relegationProbability": 0.0664,
+      "championsLeagueProbability": 0.0168,
+      "relegationProbability": 0.0692,
       "positionProbabilities": [
         0.0,
         0.0002,
-        0.0064,
-        0.0096,
-        0.0262,
-        0.0388,
-        0.0554,
-        0.0694,
-        0.0772,
-        0.0922,
-        0.0928,
-        0.0992,
-        0.091,
-        0.085,
-        0.0714,
-        0.0632,
-        0.0556,
-        0.0382,
-        0.0278,
-        0.0004
+        0.0068,
+        0.0098,
+        0.0264,
+        0.0398,
+        0.055,
+        0.0626,
+        0.0854,
+        0.0888,
+        0.0944,
+        0.097,
+        0.092,
+        0.083,
+        0.0722,
+        0.065,
+        0.0524,
+        0.0416,
+        0.027,
+        0.0006
       ]
     },
     {
@@ -455,32 +455,32 @@
       "played": 4,
       "points": 7,
       "goalDifference": 1,
-      "expectedPoints": 48.3326,
-      "expectedPosition": 12.082999999999998,
+      "expectedPoints": 48.3348,
+      "expectedPosition": 12.0868,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.019,
-      "relegationProbability": 0.0802,
+      "championsLeagueProbability": 0.018,
+      "relegationProbability": 0.0794,
       "positionProbabilities": [
         0.0,
-        0.0004,
-        0.0046,
-        0.014,
-        0.0218,
-        0.037,
-        0.0484,
-        0.0684,
+        0.0002,
+        0.006,
+        0.0118,
+        0.023,
+        0.0386,
+        0.0506,
+        0.0672,
         0.0772,
-        0.0816,
-        0.086,
-        0.0896,
-        0.0896,
-        0.089,
         0.0806,
-        0.0706,
-        0.061,
-        0.0476,
-        0.0318,
-        0.0008
+        0.0844,
+        0.0866,
+        0.086,
+        0.087,
+        0.0866,
+        0.0762,
+        0.0586,
+        0.0456,
+        0.0328,
+        0.001
       ]
     },
     {
@@ -493,32 +493,32 @@
       "played": 5,
       "points": 3,
       "goalDifference": -3,
-      "expectedPoints": 47.6822,
-      "expectedPosition": 12.381,
+      "expectedPoints": 47.708,
+      "expectedPosition": 12.3514,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.015,
-      "relegationProbability": 0.0934,
+      "championsLeagueProbability": 0.0152,
+      "relegationProbability": 0.0904,
       "positionProbabilities": [
         0.0,
         0.0002,
-        0.0054,
-        0.0094,
-        0.0216,
-        0.0342,
-        0.0464,
-        0.0592,
-        0.0662,
-        0.0772,
-        0.0838,
-        0.0916,
-        0.0912,
-        0.0872,
-        0.0924,
-        0.0768,
-        0.0638,
-        0.0554,
-        0.0366,
-        0.0014
+        0.0048,
+        0.0102,
+        0.0208,
+        0.0392,
+        0.0446,
+        0.0624,
+        0.0572,
+        0.0778,
+        0.0854,
+        0.0948,
+        0.0974,
+        0.085,
+        0.0874,
+        0.0798,
+        0.0626,
+        0.0514,
+        0.038,
+        0.001
       ]
     },
     {
@@ -531,31 +531,31 @@
       "played": 4,
       "points": 5,
       "goalDifference": 0,
-      "expectedPoints": 45.0836,
-      "expectedPosition": 13.716800000000001,
+      "expectedPoints": 45.0792,
+      "expectedPosition": 13.732800000000003,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.0064,
-      "relegationProbability": 0.1712,
+      "championsLeagueProbability": 0.0068,
+      "relegationProbability": 0.1688,
       "positionProbabilities": [
         0.0,
-        0.0004,
-        0.0022,
+        0.0002,
+        0.0028,
         0.0038,
-        0.0096,
-        0.0194,
-        0.0294,
-        0.0352,
-        0.0446,
-        0.0528,
-        0.0726,
-        0.0814,
-        0.0818,
-        0.101,
-        0.1022,
-        0.1012,
-        0.0912,
-        0.0966,
-        0.0732,
+        0.0106,
+        0.0168,
+        0.0282,
+        0.0314,
+        0.0458,
+        0.0532,
+        0.0692,
+        0.0838,
+        0.0936,
+        0.0984,
+        0.0994,
+        0.103,
+        0.091,
+        0.0936,
+        0.0738,
         0.0014
       ]
     },
@@ -569,32 +569,32 @@
       "played": 4,
       "points": 4,
       "goalDifference": -3,
-      "expectedPoints": 43.257,
-      "expectedPosition": 14.580999999999998,
+      "expectedPoints": 43.2568,
+      "expectedPosition": 14.5922,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.003,
-      "relegationProbability": 0.2264,
+      "championsLeagueProbability": 0.004,
+      "relegationProbability": 0.2308,
       "positionProbabilities": [
         0.0,
         0.0,
-        0.0006,
-        0.0024,
-        0.0056,
-        0.009,
-        0.0176,
-        0.0252,
-        0.0322,
-        0.0434,
-        0.059,
-        0.0654,
-        0.0768,
-        0.0914,
-        0.1074,
-        0.1156,
-        0.122,
-        0.111,
-        0.1134,
-        0.002
+        0.0012,
+        0.0028,
+        0.0048,
+        0.0102,
+        0.0158,
+        0.0236,
+        0.0296,
+        0.042,
+        0.0618,
+        0.0662,
+        0.0798,
+        0.0926,
+        0.109,
+        0.1128,
+        0.117,
+        0.118,
+        0.1104,
+        0.0024
       ]
     },
     {
@@ -607,32 +607,32 @@
       "played": 4,
       "points": 4,
       "goalDifference": -3,
-      "expectedPoints": 42.8654,
-      "expectedPosition": 14.765799999999999,
+      "expectedPoints": 42.862,
+      "expectedPosition": 14.746200000000002,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.004,
-      "relegationProbability": 0.2584,
+      "championsLeagueProbability": 0.0046,
+      "relegationProbability": 0.254,
       "positionProbabilities": [
         0.0,
         0.0,
-        0.001,
-        0.003,
-        0.0056,
-        0.0102,
-        0.0148,
-        0.0246,
+        0.0006,
+        0.004,
+        0.005,
+        0.0104,
+        0.0154,
+        0.0232,
         0.033,
-        0.0412,
-        0.0462,
-        0.0634,
-        0.0812,
-        0.0806,
-        0.1,
-        0.1108,
-        0.126,
-        0.1296,
-        0.1244,
-        0.0044
+        0.0434,
+        0.0502,
+        0.0606,
+        0.0724,
+        0.0908,
+        0.0984,
+        0.1116,
+        0.127,
+        0.1258,
+        0.1242,
+        0.004
       ]
     },
     {
@@ -645,32 +645,32 @@
       "played": 4,
       "points": 4,
       "goalDifference": -1,
-      "expectedPoints": 42.165,
-      "expectedPosition": 15.072800000000003,
+      "expectedPoints": 42.15,
+      "expectedPosition": 15.0802,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.0024,
-      "relegationProbability": 0.2942,
+      "championsLeagueProbability": 0.0026,
+      "relegationProbability": 0.2956,
       "positionProbabilities": [
         0.0,
-        0.0002,
-        0.0002,
-        0.002,
-        0.0038,
-        0.0086,
-        0.0142,
-        0.0168,
-        0.0292,
-        0.042,
-        0.0438,
-        0.0562,
-        0.0722,
+        0.0,
+        0.0004,
+        0.0022,
+        0.004,
+        0.0078,
+        0.012,
+        0.0214,
+        0.0286,
+        0.0354,
+        0.0444,
+        0.0598,
+        0.078,
         0.0822,
-        0.0954,
-        0.1146,
-        0.1244,
-        0.1444,
-        0.1436,
-        0.0062
+        0.0942,
+        0.1066,
+        0.1274,
+        0.1408,
+        0.1488,
+        0.006
       ]
     },
     {
@@ -683,32 +683,32 @@
       "played": 4,
       "points": 1,
       "goalDifference": -8,
-      "expectedPoints": 41.5456,
-      "expectedPosition": 15.320200000000002,
+      "expectedPoints": 41.5726,
+      "expectedPosition": 15.319799999999999,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.0018,
-      "relegationProbability": 0.3132,
+      "championsLeagueProbability": 0.0016,
+      "relegationProbability": 0.3164,
       "positionProbabilities": [
         0.0,
         0.0,
         0.0002,
-        0.0016,
-        0.0022,
-        0.0036,
+        0.0014,
+        0.0026,
+        0.005,
         0.0092,
-        0.0162,
+        0.0166,
         0.0258,
-        0.0388,
-        0.0484,
-        0.0512,
-        0.0672,
-        0.0864,
-        0.095,
-        0.1048,
-        0.1362,
-        0.141,
-        0.1628,
-        0.0094
+        0.039,
+        0.0486,
+        0.0508,
+        0.0652,
+        0.0822,
+        0.0928,
+        0.1102,
+        0.134,
+        0.1454,
+        0.1618,
+        0.0092
       ]
     },
     {
@@ -721,32 +721,32 @@
       "played": 4,
       "points": 1,
       "goalDifference": -7,
-      "expectedPoints": 40.006,
-      "expectedPosition": 15.9868,
+      "expectedPoints": 39.9766,
+      "expectedPosition": 16.0024,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.0014,
-      "relegationProbability": 0.408,
+      "championsLeagueProbability": 0.001,
+      "relegationProbability": 0.4148,
       "positionProbabilities": [
         0.0,
         0.0,
         0.0,
-        0.0014,
-        0.0026,
-        0.0048,
-        0.0044,
-        0.0112,
-        0.0172,
-        0.0236,
-        0.0338,
-        0.0444,
-        0.0548,
-        0.0686,
-        0.0782,
-        0.1134,
-        0.1336,
-        0.1712,
+        0.001,
+        0.0018,
+        0.0034,
+        0.0074,
+        0.0132,
+        0.0156,
+        0.022,
+        0.0336,
+        0.0468,
+        0.0518,
+        0.0626,
+        0.0894,
+        0.1064,
+        0.1302,
+        0.1786,
         0.2254,
-        0.0114
+        0.0108
       ]
     },
     {
@@ -759,13 +759,12 @@
       "played": 4,
       "points": 2,
       "goalDifference": -6,
-      "expectedPoints": 19.8726,
-      "expectedPosition": 19.9538,
+      "expectedPoints": 19.8508,
+      "expectedPosition": 19.953,
       "titleProbability": 0.0,
       "championsLeagueProbability": 0.0,
-      "relegationProbability": 0.9982,
+      "relegationProbability": 0.9976,
       "positionProbabilities": [
-        0.0,
         0.0,
         0.0,
         0.0,
@@ -780,11 +779,12 @@
         0.0,
         0.0,
         0.0002,
-        0.0006,
+        0.0,
+        0.0012,
         0.001,
-        0.004,
-        0.0318,
-        0.9624
+        0.0038,
+        0.0304,
+        0.9634
       ]
     }
   ],
@@ -1823,20 +1823,20 @@
           {
             "outcome": "home",
             "label": "Sevilla win",
-            "homeDelta": -0.017799999999999996,
-            "awayDelta": -0.04319999999999996
+            "homeDelta": 0.0037333333333333246,
+            "awayDelta": -0.006400000000000017
           },
           {
             "outcome": "draw",
             "label": "Draw",
-            "homeDelta": -0.031133333333333325,
-            "awayDelta": -0.08653333333333332
+            "homeDelta": -0.0296,
+            "awayDelta": -0.029733333333333334
           },
           {
             "outcome": "away",
             "label": "Valencia win",
-            "homeDelta": -0.04446666666666666,
-            "awayDelta": -0.14319999999999997
+            "homeDelta": -0.0396,
+            "awayDelta": -0.1164
           }
         ]
       }
@@ -1932,20 +1932,20 @@
           {
             "outcome": "home",
             "label": "Racing Santander win",
-            "homeDelta": -0.05753333333333335,
-            "awayDelta": -0.04693333333333333
+            "homeDelta": -0.07559999999999997,
+            "awayDelta": -0.04413333333333333
           },
           {
             "outcome": "draw",
             "label": "Draw",
-            "homeDelta": 0.009133333333333327,
-            "awayDelta": -0.020266666666666655
+            "homeDelta": -0.018933333333333302,
+            "awayDelta": -0.010800000000000004
           },
           {
             "outcome": "away",
             "label": "Alaves win",
-            "homeDelta": 0.04246666666666665,
-            "awayDelta": 0.05306666666666668
+            "homeDelta": 0.03440000000000004,
+            "awayDelta": 0.06920000000000001
           }
         ]
       }
@@ -2041,20 +2041,20 @@
           {
             "outcome": "home",
             "label": "Osasuna win",
-            "homeDelta": 0.01546666666666667,
-            "awayDelta": -0.07233333333333333
+            "homeDelta": 0.026999999999999996,
+            "awayDelta": -0.0904666666666667
           },
           {
             "outcome": "draw",
             "label": "Draw",
-            "homeDelta": -0.017866666666666656,
-            "awayDelta": -0.04566666666666666
+            "homeDelta": -0.023000000000000007,
+            "awayDelta": -0.05046666666666669
           },
           {
             "outcome": "away",
             "label": "Espanyol win",
-            "homeDelta": -0.03119999999999999,
-            "awayDelta": 0.05099999999999999
+            "homeDelta": -0.043000000000000003,
+            "awayDelta": 0.042866666666666664
           }
         ]
       }
@@ -4400,280 +4400,100 @@
       }
     },
     {
-      "id": "la_liga-2026-10-11-real-sociedad-deportivo",
+      "id": "la_liga-2026-10-09-m-laga-espanyol",
       "stage": "League",
       "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
+      "kickoff": "2026-10-09T19:00:00Z",
       "venue": null,
       "status": "scheduled",
       "homeTeam": {
-        "id": "real-sociedad",
-        "name": "Real Sociedad",
-        "shortName": "Real Sociedad"
+        "id": "m-laga",
+        "name": "Málaga",
+        "shortName": "Málaga"
       },
       "awayTeam": {
-        "id": "deportivo",
-        "name": "Deportivo",
-        "shortName": "Deportivo"
+        "id": "espanyol",
+        "name": "Espanyol",
+        "shortName": "Espanyol"
       },
       "score": null,
       "forecast": {
-        "homeWin": 0.4051923435860342,
-        "draw": 0.22731800927217663,
-        "awayWin": 0.3674896471417892,
-        "expectedHomeGoals": 1.7302828673332764,
-        "expectedAwayGoals": 1.6399193016547218,
-        "over25": 0.6544821119469224,
-        "bothTeamsScore": 0.663157077596527,
-        "homeCleanSheet": 0.19399355553397982,
-        "awayCleanSheet": 0.17723104802732803,
+        "homeWin": 0.10192343413618168,
+        "draw": 0.3176938439850611,
+        "awayWin": 0.5803827218787572,
+        "expectedHomeGoals": 0.3232409271632445,
+        "expectedAwayGoals": 1.1712403463715542,
+        "over25": 0.1897692126680942,
+        "bothTeamsScore": 0.19058332820607882,
+        "homeCleanSheet": 0.3099820818989191,
+        "awayCleanSheet": 0.7237994504105614,
         "topScorelines": [
           {
-            "home": 1,
+            "home": 0,
             "away": 1,
-            "probability": 0.09756073477075553
-          },
-          {
-            "home": 2,
-            "away": 1,
-            "probability": 0.08440482561680279
-          },
-          {
-            "home": 1,
-            "away": 2,
-            "probability": 0.07999646767900155
-          },
-          {
-            "home": 2,
-            "away": 2,
-            "probability": 0.06920907186966278
-          },
-          {
-            "home": 1,
-            "away": 0,
-            "probability": 0.05949073281086966
-          }
-        ],
-        "modelProbabilities": [
-          {
-            "model": "poisson",
-            "homeWin": 0.4051923435860342,
-            "draw": 0.22731800927217663,
-            "awayWin": 0.3674896471417892
-          },
-          {
-            "model": "elo",
-            "homeWin": 0.4664989609824912,
-            "draw": 0.26500000000000007,
-            "awayWin": 0.26850103901750877
-          },
-          {
-            "model": "elo_poisson",
-            "homeWin": 0.4664989609824914,
-            "draw": 0.2649999999999999,
-            "awayWin": 0.26850103901750866
-          },
-          {
-            "model": "dixon_coles",
-            "homeWin": 0.4042630572480314,
-            "draw": 0.22917658194818225,
-            "awayWin": 0.3665603608037864
-          },
-          {
-            "model": "bradley_terry",
-            "homeWin": 0.2736202088911001,
-            "draw": 0.2814594242726053,
-            "awayWin": 0.44492036683629466
-          }
-        ],
-        "seasonImpact": []
-      }
-    },
-    {
-      "id": "la_liga-2026-10-11-real-madrid-villarreal",
-      "stage": "League",
-      "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
-      "venue": null,
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "real-madrid",
-        "name": "Real Madrid",
-        "shortName": "Real Madrid"
-      },
-      "awayTeam": {
-        "id": "villarreal",
-        "name": "Villarreal",
-        "shortName": "Villarreal"
-      },
-      "score": null,
-      "forecast": {
-        "homeWin": 0.6621446245488204,
-        "draw": 0.18065975840501652,
-        "awayWin": 0.1571956170461631,
-        "expectedHomeGoals": 2.398395412356497,
-        "expectedAwayGoals": 1.0937704295232455,
-        "over25": 0.6777578874234343,
-        "bothTeamsScore": 0.6046404120119928,
-        "homeCleanSheet": 0.3349511253764632,
-        "awayCleanSheet": 0.09083311755957706,
-        "topScorelines": [
-          {
-            "home": 2,
-            "away": 1,
-            "probability": 0.09574159763778327
-          },
-          {
-            "home": 2,
-            "away": 0,
-            "probability": 0.08753352019521676
-          },
-          {
-            "home": 1,
-            "away": 1,
-            "probability": 0.07982543645679394
-          },
-          {
-            "home": 3,
-            "away": 1,
-            "probability": 0.07655415721358938
-          },
-          {
-            "home": 1,
-            "away": 0,
-            "probability": 0.07298187649445771
-          }
-        ],
-        "modelProbabilities": [
-          {
-            "model": "poisson",
-            "homeWin": 0.6621446245488204,
-            "draw": 0.18065975840501652,
-            "awayWin": 0.1571956170461631
-          },
-          {
-            "model": "elo",
-            "homeWin": 0.5375265821598618,
-            "draw": 0.2650000000000001,
-            "awayWin": 0.19747341784013822
-          },
-          {
-            "model": "elo_poisson",
-            "homeWin": 0.5375265821598618,
-            "draw": 0.265,
-            "awayWin": 0.19747341784013817
-          },
-          {
-            "model": "dixon_coles",
-            "homeWin": 0.6613842706246857,
-            "draw": 0.18218046625328593,
-            "awayWin": 0.1564352631220284
-          },
-          {
-            "model": "bradley_terry",
-            "homeWin": 0.6678765681760335,
-            "draw": 0.22037680470815968,
-            "awayWin": 0.11174662711580667
-          }
-        ],
-        "seasonImpact": []
-      }
-    },
-    {
-      "id": "la_liga-2026-10-11-real-betis-osasuna",
-      "stage": "League",
-      "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
-      "venue": null,
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "real-betis",
-        "name": "Real Betis",
-        "shortName": "Real Betis"
-      },
-      "awayTeam": {
-        "id": "osasuna",
-        "name": "Osasuna",
-        "shortName": "Osasuna"
-      },
-      "score": null,
-      "forecast": {
-        "homeWin": 0.5569630388035711,
-        "draw": 0.2360454862574568,
-        "awayWin": 0.20699147493897205,
-        "expectedHomeGoals": 1.7398140061967735,
-        "expectedAwayGoals": 0.9610310273364127,
-        "over25": 0.5065866214420778,
-        "bothTeamsScore": 0.5090994722198827,
-        "homeCleanSheet": 0.3824982929174164,
-        "awayCleanSheet": 0.17554969260708997,
-        "topScorelines": [
-          {
-            "home": 1,
-            "away": 0,
-            "probability": 0.11682552380136817
-          },
-          {
-            "home": 1,
-            "away": 1,
-            "probability": 0.11227296111066987
-          },
-          {
-            "home": 2,
-            "away": 0,
-            "probability": 0.1016285907905761
-          },
-          {
-            "home": 2,
-            "away": 1,
-            "probability": 0.09766823593243676
+            "probability": 0.2627852859966056
           },
           {
             "home": 0,
             "away": 0,
-            "probability": 0.0671474577443891
+            "probability": 0.22436486051555926
+          },
+          {
+            "home": 0,
+            "away": 2,
+            "probability": 0.15389242855952684
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.08494295949061215
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.07252390553608154
           }
         ],
         "modelProbabilities": [
           {
             "model": "poisson",
-            "homeWin": 0.5569630388035711,
-            "draw": 0.2360454862574568,
-            "awayWin": 0.20699147493897205
+            "homeWin": 0.10192343413618168,
+            "draw": 0.3176938439850611,
+            "awayWin": 0.5803827218787572
           },
           {
             "model": "elo",
-            "homeWin": 0.5293833250650575,
+            "homeWin": 0.4272252329801681,
             "draw": 0.26500000000000007,
-            "awayWin": 0.20561667493494262
+            "awayWin": 0.30777476701983186
           },
           {
             "model": "elo_poisson",
-            "homeWin": 0.5293833250650575,
-            "draw": 0.26499999999999996,
-            "awayWin": 0.2056166749349425
+            "homeWin": 0.4272252329801681,
+            "draw": 0.265,
+            "awayWin": 0.3077747670198317
           },
           {
             "model": "dixon_coles",
-            "homeWin": 0.5558936154424984,
-            "draw": 0.23818433297960226,
-            "awayWin": 0.20592205157789933
+            "homeWin": 0.10111433473825657,
+            "draw": 0.3193120427809114,
+            "awayWin": 0.5795736224808321
           },
           {
             "model": "bradley_terry",
-            "homeWin": 0.6272136527845442,
-            "draw": 0.23615101797576024,
-            "awayWin": 0.13663532923969543
+            "homeWin": 0.4697443897143312,
+            "draw": 0.27779655015066984,
+            "awayWin": 0.2524590601349991
           }
         ],
         "seasonImpact": []
       }
     },
     {
-      "id": "la_liga-2026-10-11-rayo-vallecano-athletic-club",
+      "id": "la_liga-2026-10-10-rayo-vallecano-athletic-club",
       "stage": "League",
       "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
+      "kickoff": "2026-10-10T12:00:00Z",
       "venue": null,
       "status": "scheduled",
       "homeTeam": {
@@ -4760,370 +4580,10 @@
       }
     },
     {
-      "id": "la_liga-2026-10-11-racing-santander-valencia",
+      "id": "la_liga-2026-10-10-alaves-atletico-madrid",
       "stage": "League",
       "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
-      "venue": null,
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "racing-santander",
-        "name": "Racing Santander",
-        "shortName": "Racing Santander"
-      },
-      "awayTeam": {
-        "id": "valencia",
-        "name": "Valencia",
-        "shortName": "Valencia"
-      },
-      "score": null,
-      "forecast": {
-        "homeWin": 0.4785735861521053,
-        "draw": 0.22613449981741496,
-        "awayWin": 0.2952919140304797,
-        "expectedHomeGoals": 1.8499641782106366,
-        "expectedAwayGoals": 1.4141025395757743,
-        "over25": 0.6333127551278193,
-        "bothTeamsScore": 0.6378506303369332,
-        "homeCleanSheet": 0.24314306659602525,
-        "awayCleanSheet": 0.15723751453502427,
-        "topScorelines": [
-          {
-            "home": 1,
-            "away": 1,
-            "probability": 0.10001659122757044
-          },
-          {
-            "home": 2,
-            "away": 1,
-            "probability": 0.09251543797252339
-          },
-          {
-            "home": 1,
-            "away": 0,
-            "probability": 0.07072781085155794
-          },
-          {
-            "home": 1,
-            "away": 2,
-            "probability": 0.07071700933723002
-          },
-          {
-            "home": 2,
-            "away": 0,
-            "probability": 0.06542328945085989
-          }
-        ],
-        "modelProbabilities": [
-          {
-            "model": "poisson",
-            "homeWin": 0.4785735861521053,
-            "draw": 0.22613449981741496,
-            "awayWin": 0.2952919140304797
-          },
-          {
-            "model": "elo",
-            "homeWin": 0.369798459684166,
-            "draw": 0.26500000000000007,
-            "awayWin": 0.3652015403158341
-          },
-          {
-            "model": "elo_poisson",
-            "homeWin": 0.369798459684166,
-            "draw": 0.26500000000000007,
-            "awayWin": 0.36520154031583385
-          },
-          {
-            "model": "dixon_coles",
-            "homeWin": 0.4776209072693582,
-            "draw": 0.2280398575829092,
-            "awayWin": 0.2943392351477326
-          },
-          {
-            "model": "bradley_terry",
-            "homeWin": 0.3618314167318005,
-            "draw": 0.28738933593770827,
-            "awayWin": 0.35077924733049126
-          }
-        ],
-        "seasonImpact": []
-      }
-    },
-    {
-      "id": "la_liga-2026-10-11-barcelona-getafe",
-      "stage": "League",
-      "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
-      "venue": null,
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "barcelona",
-        "name": "Barcelona",
-        "shortName": "Barcelona"
-      },
-      "awayTeam": {
-        "id": "getafe",
-        "name": "Getafe",
-        "shortName": "Getafe"
-      },
-      "score": null,
-      "forecast": {
-        "homeWin": 0.7724732117509481,
-        "draw": 0.15796175516243333,
-        "awayWin": 0.06956503308661868,
-        "expectedHomeGoals": 2.277649169978055,
-        "expectedAwayGoals": 0.5253052729916693,
-        "over25": 0.5312952468567621,
-        "bothTeamsScore": 0.36673992429062713,
-        "homeCleanSheet": 0.5913748059788859,
-        "awayCleanSheet": 0.10250290570268378,
-        "topScorelines": [
-          {
-            "home": 2,
-            "away": 0,
-            "probability": 0.1572660381607671
-          },
-          {
-            "home": 1,
-            "away": 0,
-            "probability": 0.138080378417927
-          },
-          {
-            "home": 3,
-            "away": 0,
-            "probability": 0.11941164048631542
-          },
-          {
-            "home": 2,
-            "away": 1,
-            "probability": 0.08261267912990092
-          },
-          {
-            "home": 1,
-            "away": 1,
-            "probability": 0.07253435089853517
-          }
-        ],
-        "modelProbabilities": [
-          {
-            "model": "poisson",
-            "homeWin": 0.7724732117509481,
-            "draw": 0.15796175516243333,
-            "awayWin": 0.06956503308661868
-          },
-          {
-            "model": "elo",
-            "homeWin": 0.6244449371537668,
-            "draw": 0.26500000000000007,
-            "awayWin": 0.11055506284623313
-          },
-          {
-            "model": "elo_poisson",
-            "homeWin": 0.6244449371537668,
-            "draw": 0.26500000000000007,
-            "awayWin": 0.11055506284623307
-          },
-          {
-            "model": "dixon_coles",
-            "homeWin": 0.77178230693679,
-            "draw": 0.1593435647907494,
-            "awayWin": 0.06887412827246064
-          },
-          {
-            "model": "bradley_terry",
-            "homeWin": 0.8318882556027256,
-            "draw": 0.13462951146487212,
-            "awayWin": 0.03348223293240235
-          }
-        ],
-        "seasonImpact": []
-      }
-    },
-    {
-      "id": "la_liga-2026-10-11-levante-sevilla",
-      "stage": "League",
-      "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
-      "venue": null,
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "levante",
-        "name": "Levante",
-        "shortName": "Levante"
-      },
-      "awayTeam": {
-        "id": "sevilla",
-        "name": "Sevilla",
-        "shortName": "Sevilla"
-      },
-      "score": null,
-      "forecast": {
-        "homeWin": 0.4672008156609754,
-        "draw": 0.24337901601660852,
-        "awayWin": 0.28942016832241624,
-        "expectedHomeGoals": 1.638490511840729,
-        "expectedAwayGoals": 1.2391920438600357,
-        "over25": 0.548857763169147,
-        "bothTeamsScore": 0.5723754947583789,
-        "homeCleanSheet": 0.2896179023673066,
-        "awayCleanSheet": 0.19427094704978276,
-        "topScorelines": [
-          {
-            "home": 1,
-            "away": 1,
-            "probability": 0.11424030315239754
-          },
-          {
-            "home": 2,
-            "away": 1,
-            "probability": 0.09359152519280795
-          },
-          {
-            "home": 1,
-            "away": 0,
-            "probability": 0.09218928241691438
-          },
-          {
-            "home": 2,
-            "away": 0,
-            "probability": 0.07552619618244118
-          },
-          {
-            "home": 1,
-            "away": 2,
-            "probability": 0.07078288561424573
-          }
-        ],
-        "modelProbabilities": [
-          {
-            "model": "poisson",
-            "homeWin": 0.4672008156609754,
-            "draw": 0.24337901601660852,
-            "awayWin": 0.28942016832241624
-          },
-          {
-            "model": "elo",
-            "homeWin": 0.43582228043518517,
-            "draw": 0.26500000000000007,
-            "awayWin": 0.2991777195648149
-          },
-          {
-            "model": "elo_poisson",
-            "homeWin": 0.4358222804351852,
-            "draw": 0.265,
-            "awayWin": 0.29917771956481476
-          },
-          {
-            "model": "dixon_coles",
-            "homeWin": 0.4661126529568067,
-            "draw": 0.24555534142494573,
-            "awayWin": 0.28833200561824757
-          },
-          {
-            "model": "bradley_terry",
-            "homeWin": 0.48090910233881967,
-            "draw": 0.27588136325810236,
-            "awayWin": 0.24320953440307802
-          }
-        ],
-        "seasonImpact": []
-      }
-    },
-    {
-      "id": "la_liga-2026-10-11-elche-celta-vigo",
-      "stage": "League",
-      "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
-      "venue": null,
-      "status": "scheduled",
-      "homeTeam": {
-        "id": "elche",
-        "name": "Elche",
-        "shortName": "Elche"
-      },
-      "awayTeam": {
-        "id": "celta-vigo",
-        "name": "Celta Vigo",
-        "shortName": "Celta Vigo"
-      },
-      "score": null,
-      "forecast": {
-        "homeWin": 0.3855808534558584,
-        "draw": 0.2524115604892296,
-        "awayWin": 0.3620075860549121,
-        "expectedHomeGoals": 1.4288715123847093,
-        "expectedAwayGoals": 1.3768437830046811,
-        "over25": 0.531908669379517,
-        "bothTeamsScore": 0.5685114720709735,
-        "homeCleanSheet": 0.25237331299305066,
-        "awayCleanSheet": 0.23957841266079763,
-        "topScorelines": [
-          {
-            "home": 1,
-            "away": 1,
-            "probability": 0.11895171676370302
-          },
-          {
-            "home": 1,
-            "away": 0,
-            "probability": 0.08639434313073434
-          },
-          {
-            "home": 2,
-            "away": 1,
-            "probability": 0.08498355876614848
-          },
-          {
-            "home": 0,
-            "away": 1,
-            "probability": 0.0832485196340613
-          },
-          {
-            "home": 1,
-            "away": 2,
-            "probability": 0.08188910528332159
-          }
-        ],
-        "modelProbabilities": [
-          {
-            "model": "poisson",
-            "homeWin": 0.3855808534558584,
-            "draw": 0.2524115604892296,
-            "awayWin": 0.3620075860549121
-          },
-          {
-            "model": "elo",
-            "homeWin": 0.37446489705441893,
-            "draw": 0.26500000000000007,
-            "awayWin": 0.3605351029455811
-          },
-          {
-            "model": "elo_poisson",
-            "homeWin": 0.374464897054419,
-            "draw": 0.26500000000000007,
-            "awayWin": 0.360535102945581
-          },
-          {
-            "model": "dixon_coles",
-            "homeWin": 0.3844478135548138,
-            "draw": 0.25467764029131856,
-            "awayWin": 0.36087454615386755
-          },
-          {
-            "model": "bradley_terry",
-            "homeWin": 0.3744521507018678,
-            "draw": 0.28715172124193766,
-            "awayWin": 0.3383961280561946
-          }
-        ],
-        "seasonImpact": []
-      }
-    },
-    {
-      "id": "la_liga-2026-10-11-alaves-atletico-madrid",
-      "stage": "League",
-      "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
+      "kickoff": "2026-10-10T14:15:00Z",
       "venue": null,
       "status": "scheduled",
       "homeTeam": {
@@ -5210,90 +4670,630 @@
       }
     },
     {
-      "id": "la_liga-2026-10-11-m-laga-espanyol",
+      "id": "la_liga-2026-10-10-barcelona-getafe",
       "stage": "League",
       "round": null,
-      "kickoff": "2026-10-11T18:00:00Z",
+      "kickoff": "2026-10-10T16:30:00Z",
       "venue": null,
       "status": "scheduled",
       "homeTeam": {
-        "id": "m-laga",
-        "name": "Málaga",
-        "shortName": "Málaga"
+        "id": "barcelona",
+        "name": "Barcelona",
+        "shortName": "Barcelona"
       },
       "awayTeam": {
-        "id": "espanyol",
-        "name": "Espanyol",
-        "shortName": "Espanyol"
+        "id": "getafe",
+        "name": "Getafe",
+        "shortName": "Getafe"
       },
       "score": null,
       "forecast": {
-        "homeWin": 0.10192343413618168,
-        "draw": 0.3176938439850611,
-        "awayWin": 0.5803827218787572,
-        "expectedHomeGoals": 0.3232409271632445,
-        "expectedAwayGoals": 1.1712403463715542,
-        "over25": 0.1897692126680942,
-        "bothTeamsScore": 0.19058332820607882,
-        "homeCleanSheet": 0.3099820818989191,
-        "awayCleanSheet": 0.7237994504105614,
+        "homeWin": 0.7724732117509481,
+        "draw": 0.15796175516243333,
+        "awayWin": 0.06956503308661868,
+        "expectedHomeGoals": 2.277649169978055,
+        "expectedAwayGoals": 0.5253052729916693,
+        "over25": 0.5312952468567621,
+        "bothTeamsScore": 0.36673992429062713,
+        "homeCleanSheet": 0.5913748059788859,
+        "awayCleanSheet": 0.10250290570268378,
         "topScorelines": [
           {
-            "home": 0,
-            "away": 1,
-            "probability": 0.2627852859966056
-          },
-          {
-            "home": 0,
+            "home": 2,
             "away": 0,
-            "probability": 0.22436486051555926
-          },
-          {
-            "home": 0,
-            "away": 2,
-            "probability": 0.15389242855952684
-          },
-          {
-            "home": 1,
-            "away": 1,
-            "probability": 0.08494295949061215
+            "probability": 0.1572660381607671
           },
           {
             "home": 1,
             "away": 0,
-            "probability": 0.07252390553608154
+            "probability": 0.138080378417927
+          },
+          {
+            "home": 3,
+            "away": 0,
+            "probability": 0.11941164048631542
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.08261267912990092
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.07253435089853517
           }
         ],
         "modelProbabilities": [
           {
             "model": "poisson",
-            "homeWin": 0.10192343413618168,
-            "draw": 0.3176938439850611,
-            "awayWin": 0.5803827218787572
+            "homeWin": 0.7724732117509481,
+            "draw": 0.15796175516243333,
+            "awayWin": 0.06956503308661868
           },
           {
             "model": "elo",
-            "homeWin": 0.4272252329801681,
+            "homeWin": 0.6244449371537668,
             "draw": 0.26500000000000007,
-            "awayWin": 0.30777476701983186
+            "awayWin": 0.11055506284623313
           },
           {
             "model": "elo_poisson",
-            "homeWin": 0.4272252329801681,
-            "draw": 0.265,
-            "awayWin": 0.3077747670198317
+            "homeWin": 0.6244449371537668,
+            "draw": 0.26500000000000007,
+            "awayWin": 0.11055506284623307
           },
           {
             "model": "dixon_coles",
-            "homeWin": 0.10111433473825657,
-            "draw": 0.3193120427809114,
-            "awayWin": 0.5795736224808321
+            "homeWin": 0.77178230693679,
+            "draw": 0.1593435647907494,
+            "awayWin": 0.06887412827246064
           },
           {
             "model": "bradley_terry",
-            "homeWin": 0.4697443897143312,
-            "draw": 0.27779655015066984,
-            "awayWin": 0.2524590601349991
+            "homeWin": 0.8318882556027256,
+            "draw": 0.13462951146487212,
+            "awayWin": 0.03348223293240235
+          }
+        ],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "la_liga-2026-10-10-real-madrid-villarreal",
+      "stage": "League",
+      "round": null,
+      "kickoff": "2026-10-10T19:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "real-madrid",
+        "name": "Real Madrid",
+        "shortName": "Real Madrid"
+      },
+      "awayTeam": {
+        "id": "villarreal",
+        "name": "Villarreal",
+        "shortName": "Villarreal"
+      },
+      "score": null,
+      "forecast": {
+        "homeWin": 0.6621446245488204,
+        "draw": 0.18065975840501652,
+        "awayWin": 0.1571956170461631,
+        "expectedHomeGoals": 2.398395412356497,
+        "expectedAwayGoals": 1.0937704295232455,
+        "over25": 0.6777578874234343,
+        "bothTeamsScore": 0.6046404120119928,
+        "homeCleanSheet": 0.3349511253764632,
+        "awayCleanSheet": 0.09083311755957706,
+        "topScorelines": [
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09574159763778327
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.08753352019521676
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.07982543645679394
+          },
+          {
+            "home": 3,
+            "away": 1,
+            "probability": 0.07655415721358938
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.07298187649445771
+          }
+        ],
+        "modelProbabilities": [
+          {
+            "model": "poisson",
+            "homeWin": 0.6621446245488204,
+            "draw": 0.18065975840501652,
+            "awayWin": 0.1571956170461631
+          },
+          {
+            "model": "elo",
+            "homeWin": 0.5375265821598618,
+            "draw": 0.2650000000000001,
+            "awayWin": 0.19747341784013822
+          },
+          {
+            "model": "elo_poisson",
+            "homeWin": 0.5375265821598618,
+            "draw": 0.265,
+            "awayWin": 0.19747341784013817
+          },
+          {
+            "model": "dixon_coles",
+            "homeWin": 0.6613842706246857,
+            "draw": 0.18218046625328593,
+            "awayWin": 0.1564352631220284
+          },
+          {
+            "model": "bradley_terry",
+            "homeWin": 0.6678765681760335,
+            "draw": 0.22037680470815968,
+            "awayWin": 0.11174662711580667
+          }
+        ],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "la_liga-2026-10-11-elche-celta-vigo",
+      "stage": "League",
+      "round": null,
+      "kickoff": "2026-10-11T12:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "elche",
+        "name": "Elche",
+        "shortName": "Elche"
+      },
+      "awayTeam": {
+        "id": "celta-vigo",
+        "name": "Celta Vigo",
+        "shortName": "Celta Vigo"
+      },
+      "score": null,
+      "forecast": {
+        "homeWin": 0.3855808534558584,
+        "draw": 0.2524115604892296,
+        "awayWin": 0.3620075860549121,
+        "expectedHomeGoals": 1.4288715123847093,
+        "expectedAwayGoals": 1.3768437830046811,
+        "over25": 0.531908669379517,
+        "bothTeamsScore": 0.5685114720709735,
+        "homeCleanSheet": 0.25237331299305066,
+        "awayCleanSheet": 0.23957841266079763,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11895171676370302
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.08639434313073434
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.08498355876614848
+          },
+          {
+            "home": 0,
+            "away": 1,
+            "probability": 0.0832485196340613
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.08188910528332159
+          }
+        ],
+        "modelProbabilities": [
+          {
+            "model": "poisson",
+            "homeWin": 0.3855808534558584,
+            "draw": 0.2524115604892296,
+            "awayWin": 0.3620075860549121
+          },
+          {
+            "model": "elo",
+            "homeWin": 0.37446489705441893,
+            "draw": 0.26500000000000007,
+            "awayWin": 0.3605351029455811
+          },
+          {
+            "model": "elo_poisson",
+            "homeWin": 0.374464897054419,
+            "draw": 0.26500000000000007,
+            "awayWin": 0.360535102945581
+          },
+          {
+            "model": "dixon_coles",
+            "homeWin": 0.3844478135548138,
+            "draw": 0.25467764029131856,
+            "awayWin": 0.36087454615386755
+          },
+          {
+            "model": "bradley_terry",
+            "homeWin": 0.3744521507018678,
+            "draw": 0.28715172124193766,
+            "awayWin": 0.3383961280561946
+          }
+        ],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "la_liga-2026-10-11-real-sociedad-deportivo",
+      "stage": "League",
+      "round": null,
+      "kickoff": "2026-10-11T14:15:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "real-sociedad",
+        "name": "Real Sociedad",
+        "shortName": "Real Sociedad"
+      },
+      "awayTeam": {
+        "id": "deportivo",
+        "name": "Deportivo",
+        "shortName": "Deportivo"
+      },
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4051923435860342,
+        "draw": 0.22731800927217663,
+        "awayWin": 0.3674896471417892,
+        "expectedHomeGoals": 1.7302828673332764,
+        "expectedAwayGoals": 1.6399193016547218,
+        "over25": 0.6544821119469224,
+        "bothTeamsScore": 0.663157077596527,
+        "homeCleanSheet": 0.19399355553397982,
+        "awayCleanSheet": 0.17723104802732803,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.09756073477075553
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.08440482561680279
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.07999646767900155
+          },
+          {
+            "home": 2,
+            "away": 2,
+            "probability": 0.06920907186966278
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.05949073281086966
+          }
+        ],
+        "modelProbabilities": [
+          {
+            "model": "poisson",
+            "homeWin": 0.4051923435860342,
+            "draw": 0.22731800927217663,
+            "awayWin": 0.3674896471417892
+          },
+          {
+            "model": "elo",
+            "homeWin": 0.4664989609824912,
+            "draw": 0.26500000000000007,
+            "awayWin": 0.26850103901750877
+          },
+          {
+            "model": "elo_poisson",
+            "homeWin": 0.4664989609824914,
+            "draw": 0.2649999999999999,
+            "awayWin": 0.26850103901750866
+          },
+          {
+            "model": "dixon_coles",
+            "homeWin": 0.4042630572480314,
+            "draw": 0.22917658194818225,
+            "awayWin": 0.3665603608037864
+          },
+          {
+            "model": "bradley_terry",
+            "homeWin": 0.2736202088911001,
+            "draw": 0.2814594242726053,
+            "awayWin": 0.44492036683629466
+          }
+        ],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "la_liga-2026-10-11-real-betis-osasuna",
+      "stage": "League",
+      "round": null,
+      "kickoff": "2026-10-11T16:30:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "real-betis",
+        "name": "Real Betis",
+        "shortName": "Real Betis"
+      },
+      "awayTeam": {
+        "id": "osasuna",
+        "name": "Osasuna",
+        "shortName": "Osasuna"
+      },
+      "score": null,
+      "forecast": {
+        "homeWin": 0.5569630388035711,
+        "draw": 0.2360454862574568,
+        "awayWin": 0.20699147493897205,
+        "expectedHomeGoals": 1.7398140061967735,
+        "expectedAwayGoals": 0.9610310273364127,
+        "over25": 0.5065866214420778,
+        "bothTeamsScore": 0.5090994722198827,
+        "homeCleanSheet": 0.3824982929174164,
+        "awayCleanSheet": 0.17554969260708997,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.11682552380136817
+          },
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11227296111066987
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.1016285907905761
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09766823593243676
+          },
+          {
+            "home": 0,
+            "away": 0,
+            "probability": 0.0671474577443891
+          }
+        ],
+        "modelProbabilities": [
+          {
+            "model": "poisson",
+            "homeWin": 0.5569630388035711,
+            "draw": 0.2360454862574568,
+            "awayWin": 0.20699147493897205
+          },
+          {
+            "model": "elo",
+            "homeWin": 0.5293833250650575,
+            "draw": 0.26500000000000007,
+            "awayWin": 0.20561667493494262
+          },
+          {
+            "model": "elo_poisson",
+            "homeWin": 0.5293833250650575,
+            "draw": 0.26499999999999996,
+            "awayWin": 0.2056166749349425
+          },
+          {
+            "model": "dixon_coles",
+            "homeWin": 0.5558936154424984,
+            "draw": 0.23818433297960226,
+            "awayWin": 0.20592205157789933
+          },
+          {
+            "model": "bradley_terry",
+            "homeWin": 0.6272136527845442,
+            "draw": 0.23615101797576024,
+            "awayWin": 0.13663532923969543
+          }
+        ],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "la_liga-2026-10-11-racing-santander-valencia",
+      "stage": "League",
+      "round": null,
+      "kickoff": "2026-10-11T19:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "racing-santander",
+        "name": "Racing Santander",
+        "shortName": "Racing Santander"
+      },
+      "awayTeam": {
+        "id": "valencia",
+        "name": "Valencia",
+        "shortName": "Valencia"
+      },
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4785735861521053,
+        "draw": 0.22613449981741496,
+        "awayWin": 0.2952919140304797,
+        "expectedHomeGoals": 1.8499641782106366,
+        "expectedAwayGoals": 1.4141025395757743,
+        "over25": 0.6333127551278193,
+        "bothTeamsScore": 0.6378506303369332,
+        "homeCleanSheet": 0.24314306659602525,
+        "awayCleanSheet": 0.15723751453502427,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.10001659122757044
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09251543797252339
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.07072781085155794
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.07071700933723002
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.06542328945085989
+          }
+        ],
+        "modelProbabilities": [
+          {
+            "model": "poisson",
+            "homeWin": 0.4785735861521053,
+            "draw": 0.22613449981741496,
+            "awayWin": 0.2952919140304797
+          },
+          {
+            "model": "elo",
+            "homeWin": 0.369798459684166,
+            "draw": 0.26500000000000007,
+            "awayWin": 0.3652015403158341
+          },
+          {
+            "model": "elo_poisson",
+            "homeWin": 0.369798459684166,
+            "draw": 0.26500000000000007,
+            "awayWin": 0.36520154031583385
+          },
+          {
+            "model": "dixon_coles",
+            "homeWin": 0.4776209072693582,
+            "draw": 0.2280398575829092,
+            "awayWin": 0.2943392351477326
+          },
+          {
+            "model": "bradley_terry",
+            "homeWin": 0.3618314167318005,
+            "draw": 0.28738933593770827,
+            "awayWin": 0.35077924733049126
+          }
+        ],
+        "seasonImpact": []
+      }
+    },
+    {
+      "id": "la_liga-2026-10-12-levante-sevilla",
+      "stage": "League",
+      "round": null,
+      "kickoff": "2026-10-12T19:00:00Z",
+      "venue": null,
+      "status": "scheduled",
+      "homeTeam": {
+        "id": "levante",
+        "name": "Levante",
+        "shortName": "Levante"
+      },
+      "awayTeam": {
+        "id": "sevilla",
+        "name": "Sevilla",
+        "shortName": "Sevilla"
+      },
+      "score": null,
+      "forecast": {
+        "homeWin": 0.4672008156609754,
+        "draw": 0.24337901601660852,
+        "awayWin": 0.28942016832241624,
+        "expectedHomeGoals": 1.638490511840729,
+        "expectedAwayGoals": 1.2391920438600357,
+        "over25": 0.548857763169147,
+        "bothTeamsScore": 0.5723754947583789,
+        "homeCleanSheet": 0.2896179023673066,
+        "awayCleanSheet": 0.19427094704978276,
+        "topScorelines": [
+          {
+            "home": 1,
+            "away": 1,
+            "probability": 0.11424030315239754
+          },
+          {
+            "home": 2,
+            "away": 1,
+            "probability": 0.09359152519280795
+          },
+          {
+            "home": 1,
+            "away": 0,
+            "probability": 0.09218928241691438
+          },
+          {
+            "home": 2,
+            "away": 0,
+            "probability": 0.07552619618244118
+          },
+          {
+            "home": 1,
+            "away": 2,
+            "probability": 0.07078288561424573
+          }
+        ],
+        "modelProbabilities": [
+          {
+            "model": "poisson",
+            "homeWin": 0.4672008156609754,
+            "draw": 0.24337901601660852,
+            "awayWin": 0.28942016832241624
+          },
+          {
+            "model": "elo",
+            "homeWin": 0.43582228043518517,
+            "draw": 0.26500000000000007,
+            "awayWin": 0.2991777195648149
+          },
+          {
+            "model": "elo_poisson",
+            "homeWin": 0.4358222804351852,
+            "draw": 0.265,
+            "awayWin": 0.29917771956481476
+          },
+          {
+            "model": "dixon_coles",
+            "homeWin": 0.4661126529568067,
+            "draw": 0.24555534142494573,
+            "awayWin": 0.28833200561824757
+          },
+          {
+            "model": "bradley_terry",
+            "homeWin": 0.48090910233881967,
+            "draw": 0.27588136325810236,
+            "awayWin": 0.24320953440307802
           }
         ],
         "seasonImpact": []
