@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "artifactVersion": "2026.1",
-  "generatedAt": "2026-09-22T14:16:45.977289+00:00",
+  "generatedAt": "2026-09-23T14:34:17.735661+00:00",
   "leagues": [
     {
       "id": "premier_league",
@@ -14,7 +14,7 @@
       "expectedTeams": 20,
       "status": "ready",
       "dataUrl": "/data/premier_league.json",
-      "generatedAt": "2026-09-22T14:16:52.472141+00:00",
+      "generatedAt": "2026-09-23T14:34:30.754343+00:00",
       "note": "Cup winners and UEFA performance places can change the final allocation."
     },
     {
@@ -28,7 +28,7 @@
       "expectedTeams": 20,
       "status": "ready",
       "dataUrl": "/data/serie_a.json",
-      "generatedAt": "2026-09-22T14:17:02.092375+00:00",
+      "generatedAt": "2026-09-23T14:34:50.504906+00:00",
       "note": "Title and relegation ties may require a playoff; cup winners and UEFA performance places can change the allocation."
     },
     {
@@ -42,7 +42,7 @@
       "expectedTeams": 18,
       "status": "ready",
       "dataUrl": "/data/ligue_1.json",
-      "generatedAt": "2026-09-22T14:17:12.247176+00:00",
+      "generatedAt": "2026-09-23T14:35:11.270477+00:00",
       "note": "Cup winners and UEFA performance places can change the final allocation."
     },
     {
@@ -56,7 +56,7 @@
       "expectedTeams": 20,
       "status": "ready",
       "dataUrl": "/data/la_liga.json",
-      "generatedAt": "2026-09-22T14:17:23.582719+00:00",
+      "generatedAt": "2026-09-23T14:35:33.534334+00:00",
       "note": "Cup winners and UEFA performance places can change the final allocation."
     },
     {
@@ -70,7 +70,7 @@
       "expectedTeams": 18,
       "status": "ready",
       "dataUrl": "/data/bundesliga.json",
-      "generatedAt": "2026-09-22T14:17:34.718406+00:00",
+      "generatedAt": "2026-09-23T14:35:55.744052+00:00",
       "note": "Cup winners and UEFA performance places can change the final allocation."
     }
   ],
@@ -85,7 +85,7 @@
     "expectedTeams": 48,
     "status": "ready",
     "dataUrl": "/data/world-cup-2026.json",
-    "generatedAt": "2026-09-22T14:18:04.812422+00:00",
+    "generatedAt": "2026-09-23T14:37:01.184586+00:00",
     "note": "48-team group and knockout forecast."
   }
 }
