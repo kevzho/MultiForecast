@@ -29,6 +29,8 @@ from domestic.models import (
 )
 from domestic.simulation import SeasonForecast, simulate_fixture_outcomes, simulate_season
 from domestic.validation import compare_models, derive_ensemble_weights, select_model
+from domestic.odds import OddsAwareModel, calibrate_market_weight, consensus_1x2, load_odds
+from domestic.live_data import fixture_id
 
 
 @dataclass(frozen=True)
@@ -42,6 +44,7 @@ class ForecastRun:
     validation: pd.DataFrame
     forecast: SeasonForecast
     breakdowns: tuple[MatchBreakdown, ...]
+    market_calibration: dict[str, Any] | None = None
 
     @property
     def model(self) -> MatchModel:
@@ -57,7 +60,7 @@ def load_training_matches(
     league: str | LeagueConfig,
     *,
     data_root: str | Path = DEFAULT_DATA_ROOT,
-    history_seasons: int = 5,
+    history_seasons: int = 10,
 ) -> tuple[pd.DataFrame, pd.DataFrame]:
     config = get_league(league)
     current = load_matches(config, data_root=data_root)
@@ -175,7 +178,7 @@ def build_forecast(
     league: str | LeagueConfig,
     *,
     data_root: str | Path = DEFAULT_DATA_ROOT,
-    history_seasons: int = 5,
+    history_seasons: int = 10,
     model_name: str = "auto",
     use_ensemble: bool = False,
     run_validation: bool = True,
@@ -210,6 +213,21 @@ def build_forecast(
         model_name,
         use_ensemble=use_ensemble,
     )
+    snapshots = load_odds(Path(data_root) / "odds_snapshots.csv")
+    market_calibration: dict[str, Any] | None = None
+    if not snapshots.empty:
+        calibration_model = selected if selected in MODEL_NAMES else "dixon_coles"
+        market_calibration = calibrate_market_weight(training, snapshots, config, calibration_model)
+        weight = float(market_calibration["weight"])
+        if weight > 0:
+            market_map = {}
+            for row in current[current["status"] != "played"].itertuples(index=False):
+                market = consensus_1x2(snapshots, fixture_id(config.slug, config.season, row.home_team, row.away_team), before=row.date)
+                if market is not None:
+                    market_map[(row.home_team, row.away_team)] = market[0]
+            if market_map:
+                models["odds_aware"] = OddsAwareModel(models[selected], market_map, weight)
+                selected = "odds_aware"
     played, scheduled = split_played_scheduled(current)
     forecast = simulate_season(
         current,
@@ -246,6 +264,7 @@ def build_forecast(
         validation=validation,
         forecast=forecast,
         breakdowns=breakdowns,
+        market_calibration=market_calibration,
     )
 
 

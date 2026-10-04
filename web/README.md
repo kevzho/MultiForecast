@@ -1,6 +1,6 @@
 # Football Forecast web
 
-Next.js frontend for the Big Five domestic league and World Cup prediction products. The application reads versioned JSON from `public/data`; it does not calculate forecasts in the browser.
+Next.js frontend for the Big Five domestic league and World Cup prediction products. The application reads versioned JSON from `public/data`; it does not calculate forecasts in the browser. Big Five artifacts are refreshed by GitHub Actions every 15 minutes, and the browser rechecks them every five minutes.
 
 ## Run locally
 

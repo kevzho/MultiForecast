@@ -3,6 +3,10 @@
 from __future__ import annotations
 
 from typing import Any
+import json
+import os
+from pathlib import Path
+import requests
 
 import pandas as pd
 import streamlit as st
@@ -20,6 +24,42 @@ MODEL_LABELS = {
     "dixon_coles": "Dixon-Coles",
     "bradley_terry": "Bradley-Terry",
 }
+
+
+@st.cache_data(ttl=300, show_spinner=False)
+def _published_artifact(slug: str) -> dict[str, Any] | None:
+    base = os.getenv("FORECAST_DATA_URL", "").rstrip("/")
+    if base:
+        response = requests.get(f"{base}/{slug}.json", timeout=10)
+        response.raise_for_status()
+        return response.json()
+    path = Path(__file__).resolve().parents[1] / "web" / "public" / "data" / f"{slug}.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
+
+
+def _render_published(slug: str) -> None:
+    try:
+        artifact = _published_artifact(slug)
+    except (requests.RequestException, ValueError) as exc:
+        st.warning(f"Published forecast unavailable: {exc}")
+        return
+    if not artifact:
+        st.info("No published forecast is available yet.")
+        return
+    source = artifact.get("liveSource") or {}
+    st.caption(f"Published {artifact.get('generatedAt', 'unknown')} · Live source {source.get('capturedAt', 'unavailable')}")
+    official = artifact.get("officialStandings") or []
+    if official:
+        st.subheader("Official standings")
+        st.dataframe(pd.DataFrame([{"Pos": row["position"], "Team": row["team"]["name"], "MP": row["played"], "Pts": row["points"], "GD": row["goalDifference"]} for row in official]), use_container_width=True, hide_index=True)
+    st.subheader("Forecast standings")
+    st.dataframe(pd.DataFrame([{"Team": row["team"]["name"], "Pts": row["points"], "Projected Pts": row["expectedPoints"], "Title": row["titleProbability"]} for row in artifact["standings"]]), use_container_width=True, hide_index=True)
+    upcoming = [row for row in artifact["fixtures"] if row["status"] in ("scheduled", "live")]
+    st.subheader("Live and upcoming fixtures")
+    st.dataframe(pd.DataFrame([{"Kickoff": row["kickoff"], "Home": row["homeTeam"]["name"], "Away": row["awayTeam"]["name"], "Status": row["status"], "Home %": row["forecast"]["homeWin"] if row["forecast"] else None, "Draw %": row["forecast"]["draw"] if row["forecast"] else None, "Away %": row["forecast"]["awayWin"] if row["forecast"] else None} for row in upcoming]), use_container_width=True, hide_index=True)
+    calibration = artifact.get("marketCalibration")
+    if calibration:
+        st.caption(f"Odds blend: {calibration.get('weight', 0):.0%} · {calibration.get('reason', '')}")
 
 
 @st.cache_resource(show_spinner="Fitting models and simulating the season...")
@@ -310,6 +350,10 @@ def render_domestic_leagues() -> None:
     st.caption(
         "Scoreline models, rolling validation and Monte Carlo season forecasts."
     )
+    st.subheader("Published live snapshot")
+    _render_published(config.slug)
+    st.divider()
+    st.subheader("Interactive model analysis")
     if not state or state[0] != selection:
         st.info("Choose the settings in the sidebar and run the league forecast.")
         return

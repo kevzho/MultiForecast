@@ -1,5 +1,6 @@
 plan.pdf
 personal-notes.txt
+data/bets.csv
 /src/__pycache__/
 __pycache__/
 data/wc/historical/

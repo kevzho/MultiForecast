@@ -1,0 +1,43 @@
+name: Live Big Five Refresh
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: live-forecast-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Refresh live data and artifacts
+        env:
+          FOOTBALL_DATA_ORG_TOKEN: ${{ secrets.FOOTBALL_DATA_ORG_TOKEN }}
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ODDS_REGION: ${{ vars.ODDS_REGION || 'uk' }}
+          LIVE_SIMULATIONS: "500"
+        run: python refresh_live.py
+      - name: Commit published snapshots
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/domestic/processed web/public/data
+          if [ -d data/live ]; then git add data/live; fi
+          if [ -f data/odds_snapshots.csv ]; then git add data/odds_snapshots.csv; fi
+          git diff --cached --quiet || git commit -m "Refresh live football forecasts"
+          git pull --rebase --autostash origin main
+          git push

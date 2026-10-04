@@ -78,10 +78,27 @@ export type MatchForecast = {
     homeDelta: number | null;
     awayDelta: number | null;
   }>;
+  market?: {
+    implied: { home: number; draw: number; away: number };
+    bestDecimalOdds: Partial<Record<"home" | "draw" | "away", number>>;
+    expectedValue: Partial<Record<"home" | "draw" | "away", number>>;
+    entropy: number;
+  };
+  otherMarkets?: Partial<Record<"totals_2_5" | "btts", {
+    implied: Record<string, number>;
+    bestDecimalOdds: Record<string, number>;
+    expectedValue: Record<string, number>;
+  }>>;
+  uncertainty?: {
+    normalizedEntropy: number;
+    calibration: { status: string; error: number | null; sample_size: number | null } | null;
+  };
 };
 
 export type ForecastFixture = {
   id: string;
+  sourceId?: string | null;
+  sourceUpdatedAt?: string | null;
   stage: string;
   round: string | null;
   kickoff: string | null;
@@ -142,6 +159,35 @@ export type LeagueForecastArtifact = {
     fixturesExpected: number | null;
   };
   standings: StandingForecast[];
+  officialStandings?: Array<{
+    sourceTeamId: string;
+    team: TeamRef;
+    position: number;
+    played: number;
+    points: number;
+    goalDifference: number;
+    sourceUpdatedAt: string;
+  }>;
+  provisionalStandings?: Array<{
+    team: TeamRef;
+    position: number;
+    played: number;
+    points: number;
+    goalDifference: number;
+  }>;
+  liveSource?: { name: string; capturedAt: string } | null;
+  marketCalibration?: {
+    weight: number;
+    reason: string;
+    trainingSamples?: number;
+    holdoutSamples?: number;
+    holdoutBaseLogLoss?: number;
+    holdoutBlendLogLoss?: number;
+    holdoutBaseBrier?: number;
+    holdoutBlendBrier?: number;
+    holdoutBaseCalibrationError?: number;
+    holdoutBlendCalibrationError?: number;
+  } | null;
   fixtures: ForecastFixture[];
   methodology: MethodologySummary;
 };

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 from datetime import datetime, timezone
+import os
 from pathlib import Path
 from typing import Any
 
@@ -18,6 +19,7 @@ from domestic.data import (
     save_matches,
     validate_matches,
 )
+from domestic.live_data import apply_live_scores, fetch_live_snapshot, save_live_snapshot
 
 
 ESPN_LEAGUES = {
@@ -178,7 +180,7 @@ def refresh_current_schedule(
             cached["source_updated_at"], errors="coerce", utc=True
         )
         cached.attrs.update(data_source="last_known_good", used_cache=True, refresh_error=str(exc))
-        return cached
+        schedule = cached
 
     try:
         football_data = fetch_matches(
@@ -190,11 +192,21 @@ def refresh_current_schedule(
     except DataFetchError:
         football_data = pd.DataFrame(columns=CANONICAL_COLUMNS)
     combined = merge_results(schedule, football_data)
+    licensed_source = False
+    token = os.getenv("FOOTBALL_DATA_ORG_TOKEN")
+    if token:
+        try:
+            snapshot = fetch_live_snapshot(config, token=token, session=session, data_root=data_root)
+            combined = apply_live_scores(combined, snapshot, config)
+            save_live_snapshot(snapshot, data_root=data_root)
+            licensed_source = True
+        except (requests.RequestException, ValueError, KeyError) as exc:
+            print(f"WARN: {config.name} licensed live data unavailable: {exc}")
     report = validate_matches(combined, config, strict=True)
     report.raise_if_invalid()
     save_matches(combined, paths.processed)
     combined.attrs.update(
-        data_source="espn+football-data" if not football_data.empty else "espn",
+        data_source="football-data.org+espn" if licensed_source else ("espn+football-data" if not football_data.empty else "espn"),
         used_cache=False,
     )
     return combined

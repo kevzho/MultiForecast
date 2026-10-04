@@ -39,8 +39,7 @@ export function useManifest(): ManifestState {
 
   useEffect(() => {
     const controller = new AbortController();
-
-    getJson<ForecastManifest>("/data/manifest.json", controller.signal)
+    const load = () => getJson<ForecastManifest>("/data/manifest.json", controller.signal)
       .then((manifest) => {
         if (!isSupportedSchema(manifest.schemaVersion)) {
           throw new Error(`Unsupported manifest schema ${manifest.schemaVersion}`);
@@ -58,7 +57,9 @@ export function useManifest(): ManifestState {
         });
       });
 
-    return () => controller.abort();
+    load();
+    const timer = window.setInterval(load, 300_000);
+    return () => { window.clearInterval(timer); controller.abort(); };
   }, []);
 
   return state;
@@ -142,7 +143,8 @@ function useArtifact<T, E extends { dataUrl: string | null; status: string }>(
     }
 
     load();
-    return () => controller.abort();
+    const timer = window.setInterval(load, 300_000);
+    return () => { window.clearInterval(timer); controller.abort(); };
   }, [dependency, findEntry]);
 
   return state;

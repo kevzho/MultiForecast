@@ -15,6 +15,9 @@ import pandas as pd
 from domestic.config import LeagueConfig, get_league, list_leagues
 from domestic.pipeline import ForecastRun, build_breakdown_with_impact, build_forecast
 from domestic.sources import refresh_current_schedule
+from domestic.live_data import _resolve, fixture_id, load_live_snapshot
+from domestic.odds import consensus_1x2, consensus_binary, load_odds
+from domestic.standings import build_table, table_as_records
 from worldcup.artifacts import (
     ARTIFACT_VERSION,
     SCHEMA_VERSION,
@@ -31,11 +34,6 @@ def _id(value: str) -> str:
 
 def _team_ref(team: str) -> dict[str, str]:
     return {"id": _id(team), "name": team, "shortName": team}
-
-
-def _fixture_id(config: LeagueConfig, row: Any) -> str:
-    date = pd.Timestamp(row.date).strftime("%Y-%m-%d")
-    return f"{config.slug}-{date}-{_id(row.home_team)}-{_id(row.away_team)}"
 
 
 def _model_probabilities(breakdown: Any) -> list[dict[str, Any]]:
@@ -94,11 +92,11 @@ def _impact_rows(run: ForecastRun, breakdown: Any) -> list[dict[str, Any]]:
     return rows
 
 
-def _match_forecast(run: ForecastRun, breakdown: Any) -> dict[str, Any]:
+def _match_forecast(run: ForecastRun, breakdown: Any, market: Any = None, totals_market: Any = None, btts_market: Any = None) -> dict[str, Any]:
     probabilities = breakdown.probabilities
     goals = breakdown.expected_goals
     markets = breakdown.goal_markets
-    return {
+    result = {
         "homeWin": float(probabilities["home_win"]),
         "draw": float(probabilities["draw"]),
         "awayWin": float(probabilities["away_win"]),
@@ -118,7 +116,31 @@ def _match_forecast(run: ForecastRun, breakdown: Any) -> dict[str, Any]:
         ],
         "modelProbabilities": _model_probabilities(breakdown),
         "seasonImpact": _impact_rows(run, breakdown),
+        "uncertainty": {
+            "normalizedEntropy": float(-sum(p * np.log(p) for p in (probabilities["home_win"], probabilities["draw"], probabilities["away_win"]) if p > 0) / np.log(3)),
+            "calibration": breakdown.confidence.get("calibration"),
+        },
     }
+    if market is not None:
+        implied, prices = market
+        probs = [result["homeWin"], result["draw"], result["awayWin"]]
+        result["market"] = {
+            "implied": {key: float(value) for key, value in zip(("home", "draw", "away"), implied)},
+            "bestDecimalOdds": prices,
+            "expectedValue": {key: float(probability * prices[key] - 1) for key, probability in zip(("home", "draw", "away"), probs) if key in prices},
+            "entropy": float(-sum(p * np.log(p) for p in probs if p > 0) / np.log(3)),
+        }
+    for key, quote, probability in (("totals_2_5", totals_market, result["over25"]), ("btts", btts_market, result["bothTeamsScore"])):
+        if quote is not None:
+            implied, prices = quote
+            positive = "over" if key == "totals_2_5" else "yes"
+            negative = "under" if key == "totals_2_5" else "no"
+            result.setdefault("otherMarkets", {})[key] = {
+                "implied": implied,
+                "bestDecimalOdds": prices,
+                "expectedValue": {positive: float(probability * prices[positive] - 1), negative: float((1 - probability) * prices[negative] - 1)},
+            }
+    return result
 
 
 def _standing_rows(run: ForecastRun) -> list[dict[str, Any]]:
@@ -156,6 +178,16 @@ def _fixture_rows(
     impact_matches: int,
     impact_simulations: int,
 ) -> list[dict[str, Any]]:
+    snapshots = load_odds()
+    live = load_live_snapshot(run.config)
+    live_by_id = {}
+    if live:
+        teams = set(run.matches.home_team) | set(run.matches.away_team)
+        for item in live["fixtures"]:
+            home = _resolve(item.get("homeTeam") or "", teams, run.config)
+            away = _resolve(item.get("awayTeam") or "", teams, run.config)
+            if home and away:
+                live_by_id[fixture_id(run.config.slug, run.config.season, home, away)] = item
     breakdowns = {
         (item.home_team, item.away_team): item for item in run.breakdowns
     }
@@ -170,6 +202,11 @@ def _fixture_rows(
 
     fixtures = []
     for row in run.matches.sort_values("date").itertuples(index=False):
+        stable_id = fixture_id(run.config.slug, run.config.season, row.home_team, row.away_team)
+        live_item = live_by_id.get(stable_id)
+        market = consensus_1x2(snapshots, stable_id, before=row.date) if not snapshots.empty else None
+        totals_market = consensus_binary(snapshots, stable_id, "totals_2_5", before=row.date) if not snapshots.empty else None
+        btts_market = consensus_binary(snapshots, stable_id, "btts", before=row.date) if not snapshots.empty else None
         played = pd.notna(row.home_goals) and pd.notna(row.away_goals)
         breakdown = breakdowns.get((row.home_team, row.away_team))
         status = "final" if played else ("live" if row.status == "live" else "scheduled")
@@ -180,7 +217,9 @@ def _fixture_rows(
             kickoff = kickoff.tz_convert("UTC")
         fixtures.append(
             {
-                "id": _fixture_id(run.config, row),
+                "id": stable_id,
+                "sourceId": live_item.get("sourceId") if live_item else None,
+                "sourceUpdatedAt": live_item.get("sourceUpdatedAt") if live_item else None,
                 "stage": "League",
                 "round": None,
                 "kickoff": kickoff.isoformat().replace("+00:00", "Z"),
@@ -191,10 +230,10 @@ def _fixture_rows(
                 "score": (
                     {"home": int(row.home_goals), "away": int(row.away_goals)}
                     if played
-                    else None
+                    else ({"home": int(live_item["homeScore"]), "away": int(live_item["awayScore"])} if status == "live" and live_item and live_item.get("homeScore") is not None and live_item.get("awayScore") is not None else None)
                 ),
                 "forecast": (
-                    _match_forecast(run, breakdown)
+                    _match_forecast(run, breakdown, market, totals_market, btts_market)
                     if breakdown is not None and not played
                     else None
                 ),
@@ -208,7 +247,34 @@ def build_league_artifact(
     *,
     impact_matches: int = 3,
     impact_simulations: int = 300,
+    include_worldcup: bool = True,
 ) -> dict[str, Any]:
+    live = load_live_snapshot(run.config)
+    live_stale = bool(live and (datetime.now(timezone.utc) - datetime.fromisoformat(live["capturedAt"])).total_seconds() > 2700)
+    source_times = pd.to_datetime(run.matches["source_updated_at"], errors="coerce", utc=True)
+    source_stale = bool(source_times.isna().all() or (datetime.now(timezone.utc) - source_times.max().to_pydatetime()).total_seconds() > 2700)
+    official = []
+    if live:
+        teams = set(run.matches.home_team) | set(run.matches.away_team)
+        for row in live["officialStandings"]:
+            team = _resolve(row.get("team") or "", teams, run.config)
+            if team:
+                official.append({**row, "team": _team_ref(team)})
+    provisional = []
+    if live:
+        teams = set(run.matches.home_team) | set(run.matches.away_team)
+        played_rows = run.matches.dropna(subset=["home_goals", "away_goals"]).to_dict("records")
+        live_rows = []
+        for item in live["fixtures"]:
+            if item.get("status") not in ("IN_PLAY", "PAUSED", "HALFTIME", "EXTRA_TIME", "PENALTY_SHOOTOUT") or item.get("homeScore") is None or item.get("awayScore") is None:
+                continue
+            home = _resolve(item.get("homeTeam") or "", teams, run.config)
+            away = _resolve(item.get("awayTeam") or "", teams, run.config)
+            if home and away:
+                live_rows.append({"home_team": home, "away_team": away, "home_goals": item["homeScore"], "away_goals": item["awayScore"]})
+        if live_rows:
+            combined = played_rows + live_rows
+            provisional = [{"team": _team_ref(row["team"]), "position": row["position"], "played": row["played"], "points": row["points"], "goalDifference": row["goal_difference"]} for row in table_as_records(build_table(combined, teams, points_for_win=run.config.points_for_win), ranked=True, tiebreakers=run.config.standings_tiebreakers, results=combined, points_for_win=run.config.points_for_win)]
     played = run.matches.dropna(subset=["home_goals", "away_goals"])
     trained_through = None
     if not played.empty:
@@ -225,7 +291,7 @@ def build_league_artifact(
         "kind": "domestic-league-forecast",
         "schemaVersion": SCHEMA_VERSION,
         "artifactVersion": ARTIFACT_VERSION,
-        "status": "ready",
+        "status": "stale" if source_stale or live_stale else "ready",
         "isDemo": False,
         "disclaimer": "Forecast probabilities are model estimates, not guarantees.",
         "competition": {
@@ -250,6 +316,10 @@ def build_league_artifact(
             "fixturesExpected": run.config.expected_matches,
         },
         "standings": _standing_rows(run),
+        "officialStandings": official,
+        "provisionalStandings": provisional,
+        "liveSource": {"name": live["source"], "capturedAt": live["capturedAt"]} if live else None,
+        "marketCalibration": run.market_calibration,
         "fixtures": _fixture_rows(
             run,
             impact_matches=impact_matches,
@@ -339,34 +409,31 @@ def export_forecasts(
                 "kind": "domestic-league",
                 "season": "2026/27",
                 "expectedTeams": config.team_count,
-                "status": "ready",
+                "status": artifact["status"],
                 "dataUrl": f"/data/{filename}",
                 "generatedAt": run.generated_at,
                 "note": config.qualification_note,
             }
         )
 
-    worldcup = build_worldcup_artifact(n_simulations=worldcup_simulations)
-    _write_json(output / "world-cup-2026.json", worldcup)
+    if include_worldcup:
+        worldcup = build_worldcup_artifact(n_simulations=worldcup_simulations)
+        _write_json(output / "world-cup-2026.json", worldcup)
+        worldcup_entry = {
+            "id": "world-cup-2026", "name": "FIFA World Cup 2026", "shortName": "World Cup",
+            "country": "Canada, Mexico and United States", "code": "WC2026", "kind": "tournament",
+            "edition": "2026", "expectedTeams": 48, "status": "ready",
+            "dataUrl": "/data/world-cup-2026.json", "generatedAt": worldcup["generatedAt"],
+            "note": "48-team group and knockout forecast.",
+        }
+    else:
+        worldcup_entry = json.loads((output / "manifest.json").read_text(encoding="utf-8"))["worldCup"]
     manifest = {
         "schemaVersion": SCHEMA_VERSION,
         "artifactVersion": ARTIFACT_VERSION,
         "generatedAt": generated_at,
         "leagues": league_entries,
-        "worldCup": {
-            "id": "world-cup-2026",
-            "name": "FIFA World Cup 2026",
-            "shortName": "World Cup",
-            "country": "Canada, Mexico and United States",
-            "code": "WC2026",
-            "kind": "tournament",
-            "edition": "2026",
-            "expectedTeams": 48,
-            "status": "ready",
-            "dataUrl": "/data/world-cup-2026.json",
-            "generatedAt": worldcup["generatedAt"],
-            "note": "48-team group and knockout forecast.",
-        },
+        "worldCup": worldcup_entry,
     }
     _write_json(output / "manifest.json", manifest)
     return manifest

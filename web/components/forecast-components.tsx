@@ -137,6 +137,34 @@ export function MatchBreakdownPanel({ fixture }: { fixture: ForecastFixture }) {
               <ProbabilityBar label="Away clean sheet" value={forecast.awayCleanSheet} tone="muted" />
             </article>
           </section>
+          {forecast.uncertainty ? <p className="inline-note">Outcome uncertainty: {formatProbability(forecast.uncertainty.normalizedEntropy)} of maximum entropy. {forecast.uncertainty.calibration?.error != null ? `Backtest calibration error: ${formatProbability(forecast.uncertainty.calibration.error)}.` : "Match-level calibration is not available for this refresh."}</p> : null}
+
+          {forecast.market ? (
+            <section className="content-section-compact">
+              <SectionHeading kicker="Pre-kickoff market" title="Model and bookmaker prices" />
+              <div className="model-table-wrap"><table className="data-table model-table">
+                <thead><tr><th>Outcome</th><th>Market implied</th><th>Best decimal odds</th><th>Model EV</th></tr></thead>
+                <tbody>{(["home", "draw", "away"] as const).map((outcome) => <tr key={outcome}>
+                  <th scope="row">{outcome}</th><td>{formatProbability(forecast.market?.implied[outcome])}</td>
+                  <td>{formatDecimal(forecast.market?.bestDecimalOdds[outcome], 2)}</td>
+                  <td>{forecast.market?.expectedValue[outcome] === undefined ? "—" : formatProbability(forecast.market.expectedValue[outcome])}</td>
+                </tr>)}</tbody>
+              </table></div>
+              <p className="panel-note">EV is model probability × best available pre-kickoff decimal odds − 1. Prices and availability can change; positive EV is not a guarantee.</p>
+            </section>
+          ) : null}
+          {forecast.otherMarkets ? (
+            <section className="content-section-compact">
+              <SectionHeading kicker="Pre-kickoff market" title="Goals and BTTS prices" />
+              <div className="model-table-wrap"><table className="data-table model-table">
+                <thead><tr><th>Market</th><th>Selection</th><th>Market implied</th><th>Best odds</th><th>Model EV</th></tr></thead>
+                <tbody>{Object.entries(forecast.otherMarkets).flatMap(([market, quote]) => quote ? Object.keys(quote.implied).map((selection) => <tr key={`${market}-${selection}`}>
+                  <th scope="row">{market === "btts" ? "Both teams score" : "Goals 2.5"}</th><td>{selection}</td>
+                  <td>{formatProbability(quote.implied[selection])}</td><td>{formatDecimal(quote.bestDecimalOdds[selection], 2)}</td><td>{formatProbability(quote.expectedValue[selection])}</td>
+                </tr>) : [])}</tbody>
+              </table></div>
+            </section>
+          ) : null}
 
           <section className="content-section-compact">
             <SectionHeading kicker="Score matrix" title="Most likely scorelines" />

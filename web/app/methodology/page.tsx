@@ -20,6 +20,10 @@ const modelFamilies = [
     name: "Bradley–Terry",
     role: "Provides a direct strength-based comparison for win, draw and loss outcomes.",
   },
+  {
+    name: "Market blend",
+    role: "Uses margin-adjusted pre-kickoff bookmaker probabilities only when a past-season holdout supports the blend.",
+  },
 ];
 
 export default function MethodologyPage() {
@@ -68,7 +72,7 @@ export default function MethodologyPage() {
         <div>
           <p className="eyebrow eyebrow-light">Out-of-sample first</p>
           <h2>Validation should lead selection.</h2>
-          <p>Rolling backtests preserve time order. Model comparisons can include log loss, Brier score, Ranked Probability Score, scoreline likelihood and calibration bands.</p>
+          <p>Rolling backtests preserve time order. Market blend weights are fitted on real historical matches and pre-kickoff odds, then checked on an untouched recent season. Simulated seasons and personal bets never supply result labels.</p>
         </div>
         <div className="validation-scorecard">
           <div><span>Outcome quality</span><b>Log loss · Brier · RPS</b></div>

@@ -104,6 +104,8 @@ function LeagueShell({
         ]}
       />
       <DataNotice isDemo={artifact.isDemo} disclaimer={artifact.disclaimer} />
+      {artifact.liveSource ? <p className="inline-note">Official source: {artifact.liveSource.name} · captured {new Date(artifact.liveSource.capturedAt).toLocaleString()}</p> : null}
+      {artifact.marketCalibration ? <p className="inline-note">Market blend {formatProbability(artifact.marketCalibration.weight)} · {artifact.marketCalibration.reason}{artifact.marketCalibration.holdoutBlendLogLoss !== undefined ? ` · untouched holdout log loss ${formatDecimal(artifact.marketCalibration.holdoutBlendLogLoss, 3)}` : ""}</p> : null}
       {children(artifact)}
     </main>
   );
@@ -158,6 +160,15 @@ export function LeagueOverview({ slug }: { slug: string }) {
                 <div className="inline-empty"><h3>No table rows exported</h3><p>The artifact is valid, but its standings collection is empty.</p></div>
               )}
             </section>
+
+            {artifact.officialStandings?.length ? (
+              <section className="content-section">
+                <SectionHeading kicker="League source" title="Official standings" />
+                <div className="table-shell"><table className="data-table"><thead><tr><th>#</th><th>Club</th><th>Pld</th><th>Pts</th><th>GD</th></tr></thead><tbody>
+                  {artifact.officialStandings.map((row) => <tr key={row.sourceTeamId}><td>{row.position}</td><th scope="row">{row.team.name}</th><td>{row.played}</td><td>{row.points}</td><td>{row.goalDifference}</td></tr>)}
+                </tbody></table></div>
+              </section>
+            ) : null}
 
             <section className="content-section">
               <SectionHeading
