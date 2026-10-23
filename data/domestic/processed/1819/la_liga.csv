@@ -1,0 +1,381 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+la_liga,1819,2018-08-17,Real Betis,Levante,0,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-17,Girona,Valladolid,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-18,Barcelona,Alaves,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-18,Celta Vigo,Espanol,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-18,Villarreal,Real Sociedad,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-19,Eibar,Huesca,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-19,Real Madrid,Getafe,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-19,Vallecano,Sevilla,1,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-20,Athletic Club,Leganes,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-20,Valencia,Atletico Madrid,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-24,Getafe,Eibar,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-24,Leganes,Real Sociedad,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-25,Alaves,Real Betis,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-25,Atletico Madrid,Vallecano,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-25,Valladolid,Barcelona,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-26,Espanol,Valencia,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-26,Girona,Real Madrid,1,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-26,Sevilla,Villarreal,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-27,Athletic Club,Huesca,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-27,Levante,Celta Vigo,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-31,Eibar,Real Sociedad,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-31,Getafe,Valladolid,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-08-31,Villarreal,Girona,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-01,Celta Vigo,Atletico Madrid,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-01,Real Madrid,Leganes,4,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-02,Alaves,Espanol,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-02,Barcelona,Huesca,8,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-02,Real Betis,Sevilla,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-02,Levante,Valencia,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-14,Huesca,Vallecano,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-15,Athletic Club,Real Madrid,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-15,Atletico Madrid,Eibar,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-15,Real Sociedad,Barcelona,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-15,Valencia,Real Betis,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-16,Espanol,Levante,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-16,Leganes,Villarreal,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-16,Sevilla,Getafe,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-16,Valladolid,Alaves,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-17,Girona,Celta Vigo,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-21,Huesca,Real Sociedad,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-22,Celta Vigo,Valladolid,3,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-22,Eibar,Leganes,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-22,Getafe,Atletico Madrid,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-22,Real Madrid,Espanol,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-22,Vallecano,Alaves,1,5,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-23,Barcelona,Girona,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-23,Real Betis,Athletic Club,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-23,Levante,Sevilla,2,6,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-23,Villarreal,Valencia,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-25,Atletico Madrid,Huesca,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-25,Espanol,Eibar,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-25,Real Sociedad,Vallecano,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-26,Athletic Club,Villarreal,0,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-26,Leganes,Barcelona,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-26,Sevilla,Real Madrid,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-26,Valencia,Celta Vigo,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-27,Alaves,Getafe,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-27,Girona,Real Betis,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-27,Valladolid,Levante,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-28,Vallecano,Espanol,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-29,Barcelona,Athletic Club,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-29,Eibar,Sevilla,1,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-29,Real Madrid,Atletico Madrid,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-29,Real Sociedad,Valencia,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-30,Real Betis,Leganes,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-30,Huesca,Girona,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-30,Levante,Alaves,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-09-30,Villarreal,Valladolid,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-01,Celta Vigo,Getafe,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-05,Athletic Club,Real Sociedad,1,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-06,Alaves,Real Madrid,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-06,Getafe,Levante,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-06,Girona,Eibar,2,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-06,Leganes,Vallecano,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-07,Atletico Madrid,Real Betis,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-07,Espanol,Villarreal,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-07,Sevilla,Celta Vigo,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-07,Valencia,Barcelona,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-07,Valladolid,Huesca,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-19,Celta Vigo,Alaves,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-20,Barcelona,Sevilla,4,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-20,Real Madrid,Levante,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-20,Valencia,Leganes,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-20,Villarreal,Atletico Madrid,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-21,Real Betis,Valladolid,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-21,Eibar,Athletic Club,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-21,Huesca,Espanol,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-21,Vallecano,Getafe,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-22,Real Sociedad,Girona,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-24,Vallecano,Athletic Club,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-26,Valladolid,Espanol,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-27,Athletic Club,Valencia,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-27,Atletico Madrid,Real Sociedad,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-27,Celta Vigo,Eibar,4,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-27,Girona,Vallecano,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-27,Levante,Leganes,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-28,Alaves,Villarreal,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-28,Barcelona,Real Madrid,5,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-28,Getafe,Real Betis,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-10-28,Sevilla,Huesca,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-03,Leganes,Atletico Madrid,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-03,Real Madrid,Valladolid,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-03,Valencia,Girona,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-03,Vallecano,Barcelona,2,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-04,Real Betis,Celta Vigo,3,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-04,Eibar,Alaves,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-04,Huesca,Getafe,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-04,Real Sociedad,Sevilla,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-04,Villarreal,Levante,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-05,Espanol,Athletic Club,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-09,Levante,Real Sociedad,1,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-10,Atletico Madrid,Athletic Club,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-10,Getafe,Valencia,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-10,Girona,Leganes,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-10,Valladolid,Eibar,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-11,Alaves,Huesca,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-11,Barcelona,Real Betis,3,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-11,Celta Vigo,Real Madrid,2,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-11,Sevilla,Espanol,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-11,Vallecano,Villarreal,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-23,Leganes,Alaves,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-24,Atletico Madrid,Barcelona,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-24,Eibar,Real Madrid,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-24,Huesca,Levante,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-24,Valencia,Vallecano,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-25,Athletic Club,Getafe,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-25,Espanol,Girona,1,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-25,Sevilla,Valladolid,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-25,Villarreal,Real Betis,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-26,Real Sociedad,Celta Vigo,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-11-30,Vallecano,Eibar,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-01,Celta Vigo,Huesca,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-01,Getafe,Espanol,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-01,Real Madrid,Valencia,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-01,Valladolid,Leganes,2,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-02,Alaves,Sevilla,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-02,Barcelona,Villarreal,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-02,Real Betis,Real Sociedad,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-02,Girona,Atletico Madrid,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-03,Levante,Athletic Club,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-07,Leganes,Getafe,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-08,Atletico Madrid,Alaves,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-08,Espanol,Barcelona,0,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-08,Valencia,Sevilla,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-08,Villarreal,Celta Vigo,2,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-09,Real Betis,Vallecano,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-09,Eibar,Levante,4,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-09,Huesca,Real Madrid,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-09,Real Sociedad,Valladolid,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-10,Athletic Club,Girona,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-14,Celta Vigo,Leganes,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-15,Eibar,Valencia,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-15,Getafe,Real Sociedad,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-15,Real Madrid,Vallecano,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-15,Valladolid,Atletico Madrid,2,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-16,Espanol,Real Betis,1,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-16,Huesca,Villarreal,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-16,Levante,Barcelona,0,5,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-16,Sevilla,Girona,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-17,Alaves,Athletic Club,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-21,Girona,Getafe,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-21,Real Sociedad,Alaves,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-22,Athletic Club,Valladolid,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-22,Atletico Madrid,Espanol,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-22,Barcelona,Celta Vigo,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-22,Real Betis,Eibar,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-23,Leganes,Sevilla,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-23,Valencia,Huesca,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2018-12-23,Vallecano,Levante,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-03,Villarreal,Real Madrid,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-04,Espanol,Leganes,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-04,Levante,Girona,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-05,Alaves,Valencia,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-05,Huesca,Real Betis,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-05,Valladolid,Vallecano,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-06,Eibar,Villarreal,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-06,Getafe,Barcelona,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-06,Real Madrid,Real Sociedad,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-06,Sevilla,Atletico Madrid,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-07,Celta Vigo,Athletic Club,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-11,Vallecano,Celta Vigo,4,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-12,Girona,Alaves,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-12,Leganes,Huesca,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-12,Valencia,Valladolid,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-12,Villarreal,Getafe,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-13,Athletic Club,Sevilla,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-13,Atletico Madrid,Levante,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-13,Barcelona,Eibar,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-13,Real Betis,Real Madrid,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-14,Real Sociedad,Espanol,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-18,Getafe,Alaves,4,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-19,Celta Vigo,Valencia,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-19,Huesca,Atletico Madrid,0,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-19,Real Madrid,Sevilla,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-20,Barcelona,Leganes,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-20,Real Betis,Girona,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-20,Levante,Valladolid,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-20,Vallecano,Real Sociedad,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-20,Villarreal,Athletic Club,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-21,Eibar,Espanol,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-26,Atletico Madrid,Getafe,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-26,Leganes,Eibar,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-26,Sevilla,Levante,5,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-26,Valencia,Villarreal,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-27,Athletic Club,Real Betis,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-27,Espanol,Real Madrid,2,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-27,Girona,Barcelona,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-27,Real Sociedad,Huesca,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-27,Valladolid,Celta Vigo,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-01-28,Alaves,Vallecano,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-01,Huesca,Valladolid,4,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-02,Barcelona,Valencia,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-02,Celta Vigo,Sevilla,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-02,Levante,Getafe,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-02,Real Sociedad,Athletic Club,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-03,Real Betis,Atletico Madrid,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-03,Eibar,Girona,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-03,Real Madrid,Alaves,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-03,Villarreal,Espanol,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-04,Vallecano,Leganes,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-08,Valladolid,Villarreal,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-09,Atletico Madrid,Real Madrid,1,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-09,Espanol,Vallecano,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-09,Getafe,Celta Vigo,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-09,Girona,Huesca,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-10,Athletic Club,Barcelona,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-10,Leganes,Real Betis,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-10,Sevilla,Eibar,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-10,Valencia,Real Sociedad,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-11,Alaves,Levante,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-15,Eibar,Getafe,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-16,Barcelona,Valladolid,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-16,Celta Vigo,Levante,1,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-16,Real Sociedad,Leganes,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-16,Vallecano,Atletico Madrid,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-17,Real Betis,Alaves,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-17,Real Madrid,Girona,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-17,Valencia,Espanol,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-17,Villarreal,Sevilla,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-18,Huesca,Athletic Club,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-22,Espanol,Huesca,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-23,Alaves,Celta Vigo,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-23,Athletic Club,Eibar,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-23,Getafe,Vallecano,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-23,Sevilla,Barcelona,2,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-24,Atletico Madrid,Villarreal,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-24,Leganes,Valencia,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-24,Levante,Real Madrid,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-24,Valladolid,Real Betis,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-02-25,Girona,Real Sociedad,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-01,Vallecano,Girona,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-02,Espanol,Valladolid,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-02,Huesca,Sevilla,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-02,Real Madrid,Barcelona,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-02,Villarreal,Alaves,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-03,Real Betis,Getafe,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-03,Eibar,Celta Vigo,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-03,Real Sociedad,Atletico Madrid,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-03,Valencia,Athletic Club,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-04,Leganes,Levante,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-08,Athletic Club,Espanol,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-09,Alaves,Eibar,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-09,Atletico Madrid,Leganes,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-09,Barcelona,Vallecano,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-09,Getafe,Huesca,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-10,Celta Vigo,Real Betis,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-10,Girona,Valencia,2,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-10,Levante,Villarreal,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-10,Sevilla,Real Sociedad,5,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-10,Valladolid,Real Madrid,1,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-15,Real Sociedad,Levante,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-16,Athletic Club,Atletico Madrid,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-16,Huesca,Alaves,1,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-16,Leganes,Girona,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-16,Real Madrid,Celta Vigo,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-17,Real Betis,Barcelona,1,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-17,Eibar,Valladolid,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-17,Espanol,Sevilla,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-17,Valencia,Getafe,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-17,Villarreal,Vallecano,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-29,Girona,Athletic Club,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-30,Alaves,Atletico Madrid,0,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-30,Barcelona,Espanol,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-30,Celta Vigo,Villarreal,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-30,Getafe,Leganes,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-31,Levante,Eibar,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-31,Real Madrid,Huesca,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-31,Sevilla,Valencia,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-31,Valladolid,Real Sociedad,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-03-31,Vallecano,Real Betis,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-02,Atletico Madrid,Girona,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-02,Espanol,Getafe,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-02,Villarreal,Barcelona,4,4,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-03,Athletic Club,Levante,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-03,Eibar,Vallecano,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-03,Huesca,Celta Vigo,3,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-03,Valencia,Real Madrid,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-04,Leganes,Valladolid,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-04,Sevilla,Alaves,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-04,Real Sociedad,Real Betis,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-06,Barcelona,Atletico Madrid,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-06,Girona,Espanol,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-06,Real Madrid,Eibar,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-06,Vallecano,Valencia,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-07,Alaves,Leganes,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-07,Real Betis,Villarreal,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-07,Celta Vigo,Real Sociedad,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-07,Getafe,Athletic Club,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-07,Levante,Huesca,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-07,Valladolid,Sevilla,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-13,Atletico Madrid,Celta Vigo,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-13,Espanol,Alaves,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-13,Huesca,Barcelona,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-13,Sevilla,Real Betis,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-14,Athletic Club,Vallecano,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-14,Girona,Villarreal,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-14,Real Sociedad,Eibar,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-14,Valencia,Levante,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-14,Valladolid,Getafe,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-15,Leganes,Real Madrid,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-19,Alaves,Valladolid,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-20,Barcelona,Real Sociedad,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-20,Celta Vigo,Girona,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-20,Eibar,Atletico Madrid,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-20,Vallecano,Huesca,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-21,Real Betis,Valencia,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-21,Getafe,Sevilla,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-21,Levante,Espanol,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-21,Real Madrid,Athletic Club,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-21,Villarreal,Leganes,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-23,Alaves,Barcelona,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-23,Huesca,Eibar,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-23,Valladolid,Girona,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-24,Atletico Madrid,Valencia,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-24,Espanol,Celta Vigo,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-24,Leganes,Athletic Club,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-24,Levante,Real Betis,4,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-25,Getafe,Real Madrid,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-25,Sevilla,Vallecano,5,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-25,Real Sociedad,Villarreal,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-27,Athletic Club,Alaves,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-27,Atletico Madrid,Valladolid,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-27,Barcelona,Levante,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-27,Leganes,Celta Vigo,0,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-28,Girona,Sevilla,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-28,Real Sociedad,Getafe,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-28,Valencia,Eibar,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-28,Vallecano,Real Madrid,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-28,Villarreal,Huesca,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-04-29,Real Betis,Espanol,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-03,Sevilla,Leganes,0,3,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-04,Alaves,Real Sociedad,0,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-04,Celta Vigo,Barcelona,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-04,Espanol,Atletico Madrid,3,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-04,Levante,Vallecano,4,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-05,Eibar,Real Betis,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-05,Getafe,Girona,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-05,Huesca,Valencia,2,6,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-05,Real Madrid,Villarreal,3,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-05,Valladolid,Athletic Club,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Athletic Club,Celta Vigo,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Atletico Madrid,Sevilla,1,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Barcelona,Getafe,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Real Betis,Huesca,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Girona,Levante,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Leganes,Espanol,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Real Sociedad,Real Madrid,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Valencia,Alaves,3,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Vallecano,Valladolid,1,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-12,Villarreal,Eibar,1,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-18,Alaves,Girona,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-18,Celta Vigo,Vallecano,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-18,Espanol,Real Sociedad,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-18,Getafe,Villarreal,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-18,Huesca,Leganes,2,1,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-18,Levante,Atletico Madrid,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-18,Sevilla,Athletic Club,2,0,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-18,Valladolid,Valencia,0,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-19,Eibar,Barcelona,2,2,played,2026-10-23 14:34:03.205282+00:00
+la_liga,1819,2019-05-19,Real Madrid,Real Betis,0,2,played,2026-10-23 14:34:03.205282+00:00

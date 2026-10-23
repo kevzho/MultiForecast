@@ -1,0 +1,381 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+premier_league,1718,2017-08-11,Arsenal,Leicester,4,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-12,Brighton & Hove Albion,Manchester City,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-12,Chelsea,Burnley,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-12,Crystal Palace,Huddersfield,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-12,Everton,Stoke,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-12,Southampton,Swansea,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-12,Watford,Liverpool,3,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-12,West Brom,AFC Bournemouth,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-13,Manchester United,West Ham United,4,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-13,Newcastle United,Tottenham Hotspur,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-19,AFC Bournemouth,Watford,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-19,Burnley,West Brom,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-19,Leicester,Brighton & Hove Albion,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-19,Liverpool,Crystal Palace,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-19,Southampton,West Ham United,3,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-19,Stoke,Arsenal,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-19,Swansea,Manchester United,0,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-20,Huddersfield,Newcastle United,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-20,Tottenham Hotspur,Chelsea,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-21,Manchester City,Everton,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-26,AFC Bournemouth,Manchester City,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-26,Crystal Palace,Swansea,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-26,Huddersfield,Southampton,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-26,Manchester United,Leicester,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-26,Newcastle United,West Ham United,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-26,Watford,Brighton & Hove Albion,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-27,Chelsea,Everton,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-27,Liverpool,Arsenal,4,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-27,Tottenham Hotspur,Burnley,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-08-27,West Brom,Stoke,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-09,Arsenal,AFC Bournemouth,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-09,Brighton & Hove Albion,West Brom,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-09,Everton,Tottenham Hotspur,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-09,Leicester,Chelsea,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-09,Manchester City,Liverpool,5,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-09,Southampton,Watford,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-09,Stoke,Manchester United,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-10,Burnley,Crystal Palace,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-10,Swansea,Newcastle United,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-11,West Ham United,Huddersfield,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-15,AFC Bournemouth,Brighton & Hove Albion,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-16,Crystal Palace,Southampton,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-16,Huddersfield,Leicester,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-16,Liverpool,Burnley,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-16,Newcastle United,Stoke,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-16,Tottenham Hotspur,Swansea,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-16,Watford,Manchester City,0,6,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-16,West Brom,West Ham United,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-17,Chelsea,Arsenal,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-17,Manchester United,Everton,4,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-23,Burnley,Huddersfield,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-23,Everton,AFC Bournemouth,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-23,Leicester,Liverpool,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-23,Manchester City,Crystal Palace,5,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-23,Southampton,Manchester United,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-23,Stoke,Chelsea,0,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-23,Swansea,Watford,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-23,West Ham United,Tottenham Hotspur,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-24,Brighton & Hove Albion,Newcastle United,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-25,Arsenal,West Brom,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-30,AFC Bournemouth,Leicester,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-30,Chelsea,Manchester City,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-30,Huddersfield,Tottenham Hotspur,0,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-30,Manchester United,Crystal Palace,4,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-30,Stoke,Southampton,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-30,West Brom,Watford,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-09-30,West Ham United,Swansea,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-01,Arsenal,Brighton & Hove Albion,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-01,Everton,Burnley,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-01,Newcastle United,Liverpool,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-14,Burnley,West Ham United,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-14,Crystal Palace,Chelsea,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-14,Liverpool,Manchester United,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-14,Manchester City,Stoke,7,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-14,Swansea,Huddersfield,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-14,Tottenham Hotspur,AFC Bournemouth,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-14,Watford,Arsenal,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-15,Brighton & Hove Albion,Everton,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-15,Southampton,Newcastle United,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-16,Leicester,West Brom,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-20,West Ham United,Brighton & Hove Albion,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-21,Chelsea,Watford,4,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-21,Huddersfield,Manchester United,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-21,Manchester City,Burnley,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-21,Newcastle United,Crystal Palace,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-21,Southampton,West Brom,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-21,Stoke,AFC Bournemouth,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-21,Swansea,Leicester,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-22,Everton,Arsenal,2,5,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-22,Tottenham Hotspur,Liverpool,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-28,Arsenal,Swansea,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-28,AFC Bournemouth,Chelsea,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-28,Crystal Palace,West Ham United,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-28,Liverpool,Huddersfield,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-28,Manchester United,Tottenham Hotspur,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-28,Watford,Stoke,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-28,West Brom,Manchester City,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-29,Brighton & Hove Albion,Southampton,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-29,Leicester,Everton,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-10-30,Burnley,Newcastle United,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-04,Huddersfield,West Brom,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-04,Newcastle United,AFC Bournemouth,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-04,Southampton,Burnley,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-04,Stoke,Leicester,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-04,Swansea,Brighton & Hove Albion,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-04,West Ham United,Liverpool,1,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-05,Chelsea,Manchester United,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-05,Everton,Watford,3,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-05,Manchester City,Arsenal,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-05,Tottenham Hotspur,Crystal Palace,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-18,Arsenal,Tottenham Hotspur,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-18,AFC Bournemouth,Huddersfield,4,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-18,Burnley,Swansea,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-18,Crystal Palace,Everton,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-18,Leicester,Manchester City,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-18,Liverpool,Southampton,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-18,Manchester United,Newcastle United,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-18,West Brom,Chelsea,0,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-19,Watford,West Ham United,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-20,Brighton & Hove Albion,Stoke,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-24,West Ham United,Leicester,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-25,Crystal Palace,Stoke,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-25,Liverpool,Chelsea,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-25,Manchester United,Brighton & Hove Albion,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-25,Newcastle United,Watford,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-25,Swansea,AFC Bournemouth,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-25,Tottenham Hotspur,West Brom,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-26,Burnley,Arsenal,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-26,Huddersfield,Manchester City,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-26,Southampton,Everton,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-28,Brighton & Hove Albion,Crystal Palace,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-28,Leicester,Tottenham Hotspur,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-28,Watford,Manchester United,2,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-28,West Brom,Newcastle United,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-29,Arsenal,Huddersfield,5,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-29,AFC Bournemouth,Burnley,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-29,Chelsea,Swansea,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-29,Everton,West Ham United,4,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-29,Manchester City,Southampton,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-11-29,Stoke,Liverpool,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-02,Arsenal,Manchester United,1,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-02,Brighton & Hove Albion,Liverpool,1,5,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-02,Chelsea,Newcastle United,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-02,Everton,Huddersfield,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-02,Leicester,Burnley,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-02,Stoke,Swansea,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-02,Watford,Tottenham Hotspur,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-02,West Brom,Crystal Palace,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-03,AFC Bournemouth,Southampton,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-03,Manchester City,West Ham United,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-09,Burnley,Watford,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-09,Crystal Palace,AFC Bournemouth,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-09,Huddersfield,Brighton & Hove Albion,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-09,Newcastle United,Leicester,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-09,Swansea,West Brom,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-09,Tottenham Hotspur,Stoke,5,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-09,West Ham United,Chelsea,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-10,Liverpool,Everton,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-10,Manchester United,Manchester City,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-10,Southampton,Arsenal,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-12,Burnley,Stoke,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-12,Crystal Palace,Watford,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-12,Huddersfield,Chelsea,1,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-13,Liverpool,West Brom,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-13,Manchester United,AFC Bournemouth,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-13,Newcastle United,Everton,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-13,Southampton,Leicester,1,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-13,Swansea,Manchester City,0,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-13,Tottenham Hotspur,Brighton & Hove Albion,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-13,West Ham United,Arsenal,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-16,Arsenal,Newcastle United,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-16,Brighton & Hove Albion,Burnley,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-16,Chelsea,Southampton,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-16,Leicester,Crystal Palace,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-16,Manchester City,Tottenham Hotspur,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-16,Stoke,West Ham United,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-16,Watford,Huddersfield,1,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-17,AFC Bournemouth,Liverpool,0,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-17,West Brom,Manchester United,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-18,Everton,Swansea,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-22,Arsenal,Liverpool,3,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-23,Brighton & Hove Albion,Watford,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-23,Burnley,Tottenham Hotspur,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-23,Everton,Chelsea,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-23,Leicester,Manchester United,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-23,Manchester City,AFC Bournemouth,4,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-23,Southampton,Huddersfield,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-23,Stoke,West Brom,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-23,Swansea,Crystal Palace,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-23,West Ham United,Newcastle United,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-26,AFC Bournemouth,West Ham United,3,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-26,Chelsea,Brighton & Hove Albion,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-26,Huddersfield,Stoke,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-26,Liverpool,Swansea,5,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-26,Manchester United,Burnley,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-26,Tottenham Hotspur,Southampton,5,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-26,Watford,Leicester,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-26,West Brom,Everton,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-27,Newcastle United,Manchester City,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-28,Crystal Palace,Arsenal,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-30,AFC Bournemouth,Everton,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-30,Chelsea,Stoke,5,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-30,Huddersfield,Burnley,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-30,Liverpool,Leicester,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-30,Manchester United,Southampton,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-30,Newcastle United,Brighton & Hove Albion,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-30,Watford,Swansea,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-31,Crystal Palace,Manchester City,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2017-12-31,West Brom,Arsenal,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-01,Brighton & Hove Albion,AFC Bournemouth,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-01,Burnley,Liverpool,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-01,Everton,Manchester United,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-01,Leicester,Huddersfield,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-01,Stoke,Newcastle United,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-02,Manchester City,Watford,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-02,Southampton,Crystal Palace,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-02,Swansea,Tottenham Hotspur,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-02,West Ham United,West Brom,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-03,Arsenal,Chelsea,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-04,Tottenham Hotspur,West Ham United,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-13,Chelsea,Leicester,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-13,Crystal Palace,Burnley,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-13,Huddersfield,West Ham United,1,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-13,Newcastle United,Swansea,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-13,Tottenham Hotspur,Everton,4,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-13,Watford,Southampton,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-13,West Brom,Brighton & Hove Albion,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-14,AFC Bournemouth,Arsenal,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-14,Liverpool,Manchester City,4,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-15,Manchester United,Stoke,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-20,Arsenal,Crystal Palace,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-20,Brighton & Hove Albion,Chelsea,0,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-20,Burnley,Manchester United,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-20,Everton,West Brom,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-20,Leicester,Watford,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-20,Manchester City,Newcastle United,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-20,Stoke,Huddersfield,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-20,West Ham United,AFC Bournemouth,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-21,Southampton,Tottenham Hotspur,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-22,Swansea,Liverpool,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-30,Huddersfield,Liverpool,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-30,Swansea,Arsenal,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-30,West Ham United,Crystal Palace,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-31,Chelsea,AFC Bournemouth,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-31,Everton,Leicester,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-31,Manchester City,West Brom,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-31,Newcastle United,Burnley,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-31,Southampton,Brighton & Hove Albion,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-31,Stoke,Watford,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-01-31,Tottenham Hotspur,Manchester United,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-03,Arsenal,Everton,5,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-03,AFC Bournemouth,Stoke,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-03,Brighton & Hove Albion,West Ham United,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-03,Burnley,Manchester City,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-03,Leicester,Swansea,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-03,Manchester United,Huddersfield,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-03,West Brom,Southampton,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-04,Crystal Palace,Newcastle United,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-04,Liverpool,Tottenham Hotspur,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-05,Watford,Chelsea,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-10,Everton,Crystal Palace,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-10,Manchester City,Leicester,5,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-10,Stoke,Brighton & Hove Albion,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-10,Swansea,Burnley,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-10,Tottenham Hotspur,Arsenal,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-10,West Ham United,Watford,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-11,Huddersfield,AFC Bournemouth,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-11,Newcastle United,Manchester United,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-11,Southampton,Liverpool,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-12,Chelsea,West Brom,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-24,AFC Bournemouth,Newcastle United,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-24,Brighton & Hove Albion,Swansea,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-24,Burnley,Southampton,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-24,Leicester,Stoke,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-24,Liverpool,West Ham United,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-24,Watford,Everton,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-24,West Brom,Huddersfield,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-25,Crystal Palace,Tottenham Hotspur,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-02-25,Manchester United,Chelsea,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-01,Arsenal,Manchester City,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-03,Burnley,Everton,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-03,Leicester,AFC Bournemouth,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-03,Liverpool,Newcastle United,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-03,Southampton,Stoke,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-03,Swansea,West Ham United,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-03,Tottenham Hotspur,Huddersfield,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-03,Watford,West Brom,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-04,Brighton & Hove Albion,Arsenal,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-04,Manchester City,Chelsea,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-05,Crystal Palace,Manchester United,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-10,Chelsea,Crystal Palace,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-10,Everton,Brighton & Hove Albion,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-10,Huddersfield,Swansea,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-10,Manchester United,Liverpool,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-10,Newcastle United,Southampton,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-10,West Brom,Leicester,1,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-10,West Ham United,Burnley,0,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-11,Arsenal,Watford,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-11,AFC Bournemouth,Tottenham Hotspur,1,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-12,Stoke,Manchester City,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-17,AFC Bournemouth,West Brom,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-17,Huddersfield,Crystal Palace,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-17,Liverpool,Watford,5,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-17,Stoke,Everton,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-31,Brighton & Hove Albion,Leicester,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-31,Crystal Palace,Liverpool,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-31,Everton,Manchester City,1,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-31,Manchester United,Swansea,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-31,Newcastle United,Huddersfield,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-31,Watford,AFC Bournemouth,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-31,West Brom,Burnley,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-03-31,West Ham United,Southampton,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-01,Arsenal,Stoke,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-01,Chelsea,Tottenham Hotspur,1,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-07,AFC Bournemouth,Crystal Palace,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-07,Brighton & Hove Albion,Huddersfield,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-07,Everton,Liverpool,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-07,Leicester,Newcastle United,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-07,Manchester City,Manchester United,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-07,Stoke,Tottenham Hotspur,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-07,Watford,Burnley,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-07,West Brom,Swansea,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-08,Arsenal,Southampton,3,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-08,Chelsea,West Ham United,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-14,Burnley,Leicester,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-14,Crystal Palace,Brighton & Hove Albion,3,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-14,Huddersfield,Watford,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-14,Liverpool,AFC Bournemouth,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-14,Southampton,Chelsea,2,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-14,Swansea,Everton,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-14,Tottenham Hotspur,Manchester City,1,3,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-15,Manchester United,West Brom,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-15,Newcastle United,Arsenal,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-16,West Ham United,Stoke,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-17,Brighton & Hove Albion,Tottenham Hotspur,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-18,AFC Bournemouth,Manchester United,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-19,Burnley,Chelsea,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-19,Leicester,Southampton,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-21,Watford,Crystal Palace,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-21,West Brom,Liverpool,2,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-22,Arsenal,West Ham United,4,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-22,Manchester City,Swansea,5,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-22,Stoke,Burnley,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-23,Everton,Newcastle United,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-28,Burnley,Brighton & Hove Albion,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-28,Crystal Palace,Leicester,5,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-28,Huddersfield,Everton,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-28,Liverpool,Stoke,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-28,Newcastle United,West Brom,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-28,Southampton,AFC Bournemouth,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-28,Swansea,Chelsea,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-29,Manchester United,Arsenal,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-29,West Ham United,Manchester City,1,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-04-30,Tottenham Hotspur,Watford,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-04,Brighton & Hove Albion,Manchester United,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-05,AFC Bournemouth,Swansea,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-05,Everton,Southampton,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-05,Leicester,West Ham United,0,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-05,Stoke,Crystal Palace,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-05,Watford,Newcastle United,2,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-05,West Brom,Tottenham Hotspur,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-06,Arsenal,Burnley,5,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-06,Chelsea,Liverpool,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-06,Manchester City,Huddersfield,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-08,Swansea,Southampton,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-09,Chelsea,Huddersfield,1,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-09,Leicester,Arsenal,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-09,Manchester City,Brighton & Hove Albion,3,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-09,Tottenham Hotspur,Newcastle United,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-10,West Ham United,Manchester United,0,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,Burnley,AFC Bournemouth,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,Crystal Palace,West Brom,2,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,Huddersfield,Arsenal,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,Liverpool,Brighton & Hove Albion,4,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,Manchester United,Watford,1,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,Newcastle United,Chelsea,3,0,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,Southampton,Manchester City,0,1,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,Swansea,Stoke,1,2,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,Tottenham Hotspur,Leicester,5,4,played,2026-10-23 14:33:44.023034+00:00
+premier_league,1718,2018-05-13,West Ham United,Everton,3,1,played,2026-10-23 14:33:44.023034+00:00

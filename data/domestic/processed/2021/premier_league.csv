@@ -1,0 +1,381 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+premier_league,2021,2020-09-12,Fulham,Arsenal,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-12,Crystal Palace,Southampton,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-12,Liverpool,Leeds United,4,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-12,West Ham United,Newcastle United,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-13,West Brom,Leicester,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-13,Tottenham Hotspur,Everton,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-14,Brighton & Hove Albion,Chelsea,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-14,Sheffield United,Wolverhampton Wanderers,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-19,Everton,West Brom,5,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-19,Leeds United,Fulham,4,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-19,Manchester United,Crystal Palace,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-19,Arsenal,West Ham United,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-20,Southampton,Tottenham Hotspur,2,5,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-20,Newcastle United,Brighton & Hove Albion,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-20,Chelsea,Liverpool,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-20,Leicester,Burnley,4,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-21,Aston Villa,Sheffield United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-21,Wolverhampton Wanderers,Manchester City,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-26,Brighton & Hove Albion,Manchester United,2,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-26,Crystal Palace,Everton,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-26,West Brom,Chelsea,3,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-26,Burnley,Southampton,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-27,Sheffield United,Leeds United,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-27,Tottenham Hotspur,Newcastle United,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-27,Manchester City,Leicester,2,5,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-27,West Ham United,Wolverhampton Wanderers,4,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-28,Fulham,Aston Villa,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-09-28,Liverpool,Arsenal,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-03,Chelsea,Crystal Palace,4,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-03,Everton,Brighton & Hove Albion,4,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-03,Leeds United,Manchester City,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-03,Newcastle United,Burnley,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-04,Leicester,West Ham United,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-04,Southampton,West Brom,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-04,Arsenal,Sheffield United,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-04,Wolverhampton Wanderers,Fulham,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-04,Manchester United,Tottenham Hotspur,1,6,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-04,Aston Villa,Liverpool,7,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-17,Everton,Liverpool,2,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-17,Chelsea,Southampton,3,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-17,Manchester City,Arsenal,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-17,Newcastle United,Manchester United,1,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-18,Sheffield United,Fulham,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-18,Crystal Palace,Brighton & Hove Albion,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-18,Tottenham Hotspur,West Ham United,3,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-18,Leicester,Aston Villa,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-19,West Brom,Burnley,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-19,Leeds United,Wolverhampton Wanderers,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-23,Aston Villa,Leeds United,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-24,West Ham United,Manchester City,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-24,Fulham,Crystal Palace,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-24,Manchester United,Chelsea,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-24,Liverpool,Sheffield United,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-25,Southampton,Everton,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-25,Wolverhampton Wanderers,Newcastle United,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-25,Arsenal,Leicester,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-26,Brighton & Hove Albion,West Brom,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-26,Burnley,Tottenham Hotspur,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-30,Wolverhampton Wanderers,Crystal Palace,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-31,Sheffield United,Manchester City,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-31,Burnley,Chelsea,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-10-31,Liverpool,West Ham United,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-01,Aston Villa,Southampton,3,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-01,Newcastle United,Everton,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-01,Manchester United,Arsenal,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-01,Tottenham Hotspur,Brighton & Hove Albion,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-02,Fulham,West Brom,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-02,Leeds United,Leicester,1,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-06,Brighton & Hove Albion,Burnley,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-06,Southampton,Newcastle United,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-07,Everton,Manchester United,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-07,Crystal Palace,Leeds United,4,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-07,Chelsea,Sheffield United,4,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-07,West Ham United,Fulham,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-08,West Brom,Tottenham Hotspur,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-08,Leicester,Wolverhampton Wanderers,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-08,Manchester City,Liverpool,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-08,Arsenal,Aston Villa,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-21,Newcastle United,Chelsea,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-21,Aston Villa,Brighton & Hove Albion,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-21,Tottenham Hotspur,Manchester City,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-21,Manchester United,West Brom,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-22,Fulham,Everton,2,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-22,Sheffield United,West Ham United,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-22,Leeds United,Arsenal,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-22,Liverpool,Leicester,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-23,Burnley,Crystal Palace,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-23,Wolverhampton Wanderers,Southampton,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-27,Crystal Palace,Newcastle United,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-28,Brighton & Hove Albion,Liverpool,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-28,Manchester City,Burnley,5,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-28,Everton,Leeds United,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-28,West Brom,Sheffield United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-29,Southampton,Manchester United,2,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-29,Chelsea,Tottenham Hotspur,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-29,Arsenal,Wolverhampton Wanderers,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-30,Leicester,Fulham,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-11-30,West Ham United,Aston Villa,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-05,Burnley,Everton,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-05,Manchester City,Fulham,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-05,West Ham United,Manchester United,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-05,Chelsea,Leeds United,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-06,West Brom,Crystal Palace,1,5,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-06,Sheffield United,Leicester,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-06,Tottenham Hotspur,Arsenal,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-06,Liverpool,Wolverhampton Wanderers,4,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-07,Brighton & Hove Albion,Southampton,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-11,Leeds United,West Ham United,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-12,Wolverhampton Wanderers,Aston Villa,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-12,Newcastle United,West Brom,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-12,Manchester United,Manchester City,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-12,Everton,Chelsea,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-13,Southampton,Sheffield United,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-13,Crystal Palace,Tottenham Hotspur,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-13,Fulham,Liverpool,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-13,Arsenal,Burnley,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-13,Leicester,Brighton & Hove Albion,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-15,Wolverhampton Wanderers,Chelsea,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-15,Manchester City,West Brom,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-16,Arsenal,Southampton,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-16,Leeds United,Newcastle United,5,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-16,Leicester,Everton,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-16,Fulham,Brighton & Hove Albion,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-16,Liverpool,Tottenham Hotspur,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-16,West Ham United,Crystal Palace,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-17,Aston Villa,Burnley,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-17,Sheffield United,Manchester United,2,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-19,Crystal Palace,Liverpool,0,7,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-19,Southampton,Manchester City,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-19,Everton,Arsenal,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-19,Newcastle United,Fulham,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-20,Brighton & Hove Albion,Sheffield United,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-20,Tottenham Hotspur,Leicester,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-20,Manchester United,Leeds United,6,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-20,West Brom,Aston Villa,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-21,Burnley,Wolverhampton Wanderers,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-21,Chelsea,West Ham United,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-26,Leicester,Manchester United,2,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-26,Aston Villa,Crystal Palace,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-26,Fulham,Southampton,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-26,Arsenal,Chelsea,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-26,Manchester City,Newcastle United,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-26,Sheffield United,Everton,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-27,Leeds United,Burnley,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-27,West Ham United,Brighton & Hove Albion,2,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-27,Liverpool,West Brom,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-27,Wolverhampton Wanderers,Tottenham Hotspur,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-28,Crystal Palace,Leicester,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-28,Chelsea,Aston Villa,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-29,Brighton & Hove Albion,Arsenal,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-29,Burnley,Sheffield United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-29,Southampton,West Ham United,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-29,West Brom,Leeds United,0,5,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-29,Manchester United,Wolverhampton Wanderers,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2020-12-30,Newcastle United,Liverpool,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-01,Everton,West Ham United,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-01,Manchester United,Aston Villa,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-02,Tottenham Hotspur,Leeds United,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-02,Crystal Palace,Sheffield United,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-02,Brighton & Hove Albion,Wolverhampton Wanderers,3,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-02,West Brom,Arsenal,0,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-03,Newcastle United,Leicester,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-03,Chelsea,Manchester City,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-04,Southampton,Liverpool,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-12,Sheffield United,Newcastle United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-12,Burnley,Manchester United,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-12,Wolverhampton Wanderers,Everton,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-13,Manchester City,Brighton & Hove Albion,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-13,Tottenham Hotspur,Fulham,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-14,Arsenal,Crystal Palace,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-16,Wolverhampton Wanderers,West Brom,2,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-16,Leeds United,Brighton & Hove Albion,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-16,West Ham United,Burnley,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-16,Fulham,Chelsea,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-16,Leicester,Southampton,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-17,Sheffield United,Tottenham Hotspur,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-17,Liverpool,Manchester United,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-17,Manchester City,Crystal Palace,4,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-18,Arsenal,Newcastle United,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-19,West Ham United,West Brom,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-19,Leicester,Chelsea,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-20,Manchester City,Aston Villa,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-20,Fulham,Manchester United,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-21,Liverpool,Burnley,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-23,Aston Villa,Newcastle United,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-26,Crystal Palace,West Ham United,2,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-26,Newcastle United,Leeds United,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-26,Southampton,Arsenal,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-26,West Brom,Manchester City,0,5,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-27,Burnley,Aston Villa,3,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-27,Chelsea,Wolverhampton Wanderers,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-27,Brighton & Hove Albion,Fulham,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-27,Everton,Leicester,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-27,Manchester United,Sheffield United,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-28,Tottenham Hotspur,Liverpool,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-30,Everton,Newcastle United,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-30,Crystal Palace,Wolverhampton Wanderers,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-30,Manchester City,Sheffield United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-30,West Brom,Fulham,2,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-30,Arsenal,Manchester United,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-30,Southampton,Aston Villa,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-31,Chelsea,Burnley,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-31,Leicester,Leeds United,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-31,West Ham United,Liverpool,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-01-31,Brighton & Hove Albion,Tottenham Hotspur,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-02,Sheffield United,West Brom,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-02,Wolverhampton Wanderers,Arsenal,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-02,Manchester United,Southampton,9,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-02,Newcastle United,Crystal Palace,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-03,Burnley,Manchester City,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-03,Fulham,Leicester,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-03,Leeds United,Everton,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-03,Aston Villa,West Ham United,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-03,Liverpool,Brighton & Hove Albion,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-04,Tottenham Hotspur,Chelsea,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-06,Aston Villa,Arsenal,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-06,Burnley,Brighton & Hove Albion,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-06,Newcastle United,Southampton,3,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-06,Fulham,West Ham United,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-06,Manchester United,Everton,3,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-07,Tottenham Hotspur,West Brom,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-07,Wolverhampton Wanderers,Leicester,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-07,Liverpool,Manchester City,1,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-07,Sheffield United,Chelsea,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-08,Leeds United,Crystal Palace,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-13,Leicester,Liverpool,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-13,Crystal Palace,Burnley,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-13,Manchester City,Tottenham Hotspur,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-13,Brighton & Hove Albion,Aston Villa,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-14,Southampton,Wolverhampton Wanderers,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-14,West Brom,Manchester United,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-14,Arsenal,Leeds United,4,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-14,Everton,Fulham,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-15,West Ham United,Sheffield United,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-15,Chelsea,Newcastle United,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-17,Burnley,Fulham,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-17,Everton,Manchester City,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-19,Wolverhampton Wanderers,Leeds United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-20,Southampton,Chelsea,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-20,Burnley,West Brom,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-20,Liverpool,Everton,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-20,Fulham,Sheffield United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-21,West Ham United,Tottenham Hotspur,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-21,Aston Villa,Leicester,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-21,Arsenal,Manchester City,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-21,Manchester United,Newcastle United,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-22,Brighton & Hove Albion,Crystal Palace,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-23,Leeds United,Southampton,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-27,Manchester City,West Ham United,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-27,West Brom,Brighton & Hove Albion,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-27,Leeds United,Aston Villa,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-27,Newcastle United,Wolverhampton Wanderers,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-28,Crystal Palace,Fulham,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-28,Leicester,Arsenal,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-28,Tottenham Hotspur,Burnley,4,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-28,Chelsea,Manchester United,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-02-28,Sheffield United,Liverpool,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-01,Everton,Southampton,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-02,Manchester City,Wolverhampton Wanderers,4,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-03,Burnley,Leicester,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-03,Sheffield United,Aston Villa,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-03,Crystal Palace,Manchester United,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-04,Fulham,Tottenham Hotspur,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-04,West Brom,Everton,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-04,Liverpool,Chelsea,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-06,Burnley,Arsenal,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-06,Sheffield United,Southampton,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-06,Aston Villa,Wolverhampton Wanderers,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-06,Brighton & Hove Albion,Leicester,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-07,West Brom,Newcastle United,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-07,Liverpool,Fulham,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-07,Manchester City,Manchester United,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-07,Tottenham Hotspur,Crystal Palace,4,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-08,Chelsea,Everton,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-08,West Ham United,Leeds United,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-10,Manchester City,Southampton,5,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-12,Newcastle United,Aston Villa,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-13,Leeds United,Chelsea,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-13,Crystal Palace,West Brom,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-13,Everton,Burnley,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-13,Fulham,Manchester City,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-14,Southampton,Brighton & Hove Albion,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-14,Leicester,Sheffield United,5,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-14,Arsenal,Tottenham Hotspur,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-14,Manchester United,West Ham United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-15,Wolverhampton Wanderers,Liverpool,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-19,Fulham,Leeds United,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-20,Brighton & Hove Albion,Newcastle United,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-21,West Ham United,Arsenal,3,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-03-21,Aston Villa,Tottenham Hotspur,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-03,Chelsea,West Brom,2,5,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-03,Leeds United,Sheffield United,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-03,Leicester,Manchester City,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-03,Arsenal,Liverpool,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-04,Southampton,Burnley,3,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-04,Newcastle United,Tottenham Hotspur,2,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-04,Aston Villa,Fulham,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-04,Manchester United,Brighton & Hove Albion,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-05,Everton,Crystal Palace,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-05,Wolverhampton Wanderers,West Ham United,2,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-09,Fulham,Wolverhampton Wanderers,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-10,Manchester City,Leeds United,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-10,Liverpool,Aston Villa,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-10,Crystal Palace,Chelsea,1,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-11,Burnley,Newcastle United,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-11,West Ham United,Leicester,3,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-11,Tottenham Hotspur,Manchester United,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-11,Sheffield United,Arsenal,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-12,West Brom,Southampton,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-12,Brighton & Hove Albion,Everton,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-16,Everton,Tottenham Hotspur,2,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-17,Newcastle United,West Ham United,3,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-17,Wolverhampton Wanderers,Sheffield United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-18,Arsenal,Fulham,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-18,Manchester United,Burnley,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-19,Leeds United,Liverpool,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-20,Chelsea,Brighton & Hove Albion,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-21,Tottenham Hotspur,Southampton,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-21,Aston Villa,Manchester City,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-22,Leicester,West Brom,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-23,Arsenal,Everton,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-24,Liverpool,Newcastle United,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-24,West Ham United,Chelsea,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-24,Sheffield United,Brighton & Hove Albion,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-25,Wolverhampton Wanderers,Burnley,0,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-25,Leeds United,Manchester United,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-25,Aston Villa,West Brom,2,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-26,Leicester,Crystal Palace,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-04-30,Southampton,Leicester,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-01,Crystal Palace,Manchester City,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-01,Brighton & Hove Albion,Leeds United,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-01,Chelsea,Fulham,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-01,Everton,Aston Villa,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-02,Newcastle United,Arsenal,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-02,Tottenham Hotspur,Sheffield United,4,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-03,West Brom,Wolverhampton Wanderers,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-03,Burnley,West Ham United,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-07,Leicester,Newcastle United,2,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-08,Leeds United,Tottenham Hotspur,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-08,Sheffield United,Crystal Palace,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-08,Manchester City,Chelsea,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-08,Liverpool,Southampton,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-09,Wolverhampton Wanderers,Brighton & Hove Albion,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-09,Aston Villa,Manchester United,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-09,West Ham United,Everton,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-09,Arsenal,West Brom,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-10,Fulham,Burnley,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-11,Manchester United,Leicester,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-11,Southampton,Crystal Palace,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-12,Chelsea,Arsenal,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-13,Aston Villa,Everton,0,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-13,Manchester United,Liverpool,2,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-14,Newcastle United,Manchester City,3,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-15,Burnley,Leeds United,0,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-15,Southampton,Fulham,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-15,Brighton & Hove Albion,West Ham United,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-16,Crystal Palace,Aston Villa,3,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-16,Tottenham Hotspur,Wolverhampton Wanderers,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-16,West Brom,Liverpool,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-16,Everton,Sheffield United,0,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-18,Manchester United,Fulham,1,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-18,Southampton,Leeds United,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-18,Brighton & Hove Albion,Manchester City,3,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-18,Chelsea,Leicester,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-19,Everton,Wolverhampton Wanderers,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-19,Newcastle United,Sheffield United,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-19,Tottenham Hotspur,Aston Villa,1,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-19,Crystal Palace,Arsenal,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-19,Burnley,Liverpool,0,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-19,West Brom,West Ham United,1,3,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,Arsenal,Brighton & Hove Albion,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,Aston Villa,Chelsea,2,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,Fulham,Newcastle United,0,2,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,Leeds United,West Brom,3,1,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,Leicester,Tottenham Hotspur,2,4,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,Liverpool,Crystal Palace,2,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,Manchester City,Everton,5,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,Sheffield United,Burnley,1,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,West Ham United,Southampton,3,0,played,2026-10-23 14:33:47.800011+00:00
+premier_league,2021,2021-05-23,Wolverhampton Wanderers,Manchester United,1,2,played,2026-10-23 14:33:47.800011+00:00

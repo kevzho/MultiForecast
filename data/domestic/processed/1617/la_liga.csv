@@ -1,0 +1,381 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+la_liga,1617,2016-08-19,La Coruna,Eibar,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-19,Malaga,Osasuna,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-20,Barcelona,Real Betis,6,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-20,Granada,Villarreal,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-20,Sevilla,Espanol,6,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-21,Atletico Madrid,Alaves,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-21,Real Sociedad,Real Madrid,0,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-21,Sp Gijon,Athletic Club,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-22,Celta Vigo,Leganes,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-22,Valencia,Las Palmas,2,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-26,Real Betis,La Coruna,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-26,Espanol,Malaga,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-27,Eibar,Valencia,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-27,Leganes,Atletico Madrid,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-27,Osasuna,Real Sociedad,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-27,Real Madrid,Celta Vigo,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-28,Alaves,Sp Gijon,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-28,Athletic Club,Barcelona,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-28,Las Palmas,Granada,5,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-08-28,Villarreal,Sevilla,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-09,Real Sociedad,Espanol,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-10,Barcelona,Alaves,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-10,Celta Vigo,Atletico Madrid,0,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-10,Malaga,Villarreal,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-10,Real Madrid,Osasuna,5,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-10,Sevilla,Las Palmas,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-11,Granada,Eibar,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-11,La Coruna,Athletic Club,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-11,Sp Gijon,Leganes,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-11,Valencia,Real Betis,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-16,Real Betis,Granada,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-17,Atletico Madrid,Sp Gijon,5,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-17,Eibar,Sevilla,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-17,Las Palmas,Malaga,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-17,Leganes,Barcelona,1,5,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-18,Athletic Club,Valencia,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-18,Espanol,Real Madrid,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-18,Osasuna,Celta Vigo,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-18,Villarreal,Real Sociedad,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-19,Alaves,La Coruna,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-20,Malaga,Eibar,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-20,Sevilla,Real Betis,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-21,Barcelona,Atletico Madrid,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-21,Celta Vigo,Sp Gijon,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-21,Granada,Athletic Club,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-21,Real Madrid,Villarreal,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-21,Real Sociedad,Las Palmas,4,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-22,La Coruna,Leganes,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-22,Osasuna,Espanol,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-22,Valencia,Alaves,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-23,Real Betis,Malaga,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-24,Athletic Club,Sevilla,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-24,Eibar,Real Sociedad,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-24,Las Palmas,Real Madrid,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-24,Sp Gijon,Barcelona,0,5,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-25,Atletico Madrid,La Coruna,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-25,Espanol,Celta Vigo,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-25,Leganes,Valencia,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-25,Villarreal,Osasuna,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-26,Alaves,Granada,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-09-30,Real Sociedad,Real Betis,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-01,Granada,Leganes,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-01,La Coruna,Sp Gijon,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-01,Osasuna,Las Palmas,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-01,Sevilla,Alaves,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-02,Celta Vigo,Barcelona,4,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-02,Espanol,Villarreal,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-02,Malaga,Athletic Club,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-02,Real Madrid,Eibar,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-02,Valencia,Atletico Madrid,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-14,Las Palmas,Espanol,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-15,Atletico Madrid,Granada,7,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-15,Barcelona,La Coruna,4,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-15,Real Betis,Real Madrid,1,6,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-15,Leganes,Sevilla,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-16,Alaves,Malaga,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-16,Athletic Club,Real Sociedad,3,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-16,Sp Gijon,Valencia,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-16,Villarreal,Celta Vigo,5,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-17,Eibar,Osasuna,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-21,Osasuna,Real Betis,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-22,Espanol,Eibar,3,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-22,Granada,Sp Gijon,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-22,Real Sociedad,Alaves,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-22,Valencia,Barcelona,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-23,Celta Vigo,La Coruna,4,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-23,Malaga,Leganes,4,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-23,Real Madrid,Athletic Club,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-23,Sevilla,Atletico Madrid,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-23,Villarreal,Las Palmas,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-28,Leganes,Real Sociedad,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-29,Alaves,Real Madrid,1,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-29,Atletico Madrid,Malaga,4,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-29,Barcelona,Granada,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-29,Sp Gijon,Sevilla,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-30,Athletic Club,Osasuna,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-30,Real Betis,Espanol,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-30,Eibar,Villarreal,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-30,Las Palmas,Celta Vigo,3,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-10-31,La Coruna,Valencia,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-04,Malaga,Sp Gijon,3,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-05,Granada,La Coruna,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-05,Las Palmas,Eibar,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-05,Osasuna,Alaves,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-05,Real Sociedad,Atletico Madrid,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-06,Celta Vigo,Valencia,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-06,Espanol,Athletic Club,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-06,Real Madrid,Leganes,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-06,Sevilla,Barcelona,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-06,Villarreal,Real Betis,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-18,Real Betis,Las Palmas,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-19,Atletico Madrid,Real Madrid,0,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-19,Barcelona,Malaga,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-19,Eibar,Celta Vigo,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-19,La Coruna,Sevilla,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-20,Alaves,Espanol,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-20,Athletic Club,Villarreal,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-20,Sp Gijon,Real Sociedad,1,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-20,Valencia,Granada,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-21,Leganes,Osasuna,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-25,Eibar,Real Betis,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-26,Espanol,Leganes,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-26,Malaga,La Coruna,4,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-26,Real Madrid,Sp Gijon,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-26,Sevilla,Valencia,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-27,Celta Vigo,Granada,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-27,Osasuna,Atletico Madrid,0,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-27,Real Sociedad,Barcelona,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-27,Villarreal,Alaves,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-11-28,Las Palmas,Athletic Club,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-03,Atletico Madrid,Espanol,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-03,Barcelona,Real Madrid,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-03,Granada,Sevilla,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-03,Leganes,Villarreal,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-04,Alaves,Las Palmas,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-04,Athletic Club,Eibar,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-04,Real Betis,Celta Vigo,3,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-04,Sp Gijon,Osasuna,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-04,Valencia,Malaga,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-05,La Coruna,Real Sociedad,5,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-09,Malaga,Granada,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-10,Las Palmas,Leganes,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-10,Osasuna,Barcelona,0,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-10,Real Madrid,La Coruna,3,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-10,Real Sociedad,Valencia,3,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-11,Real Betis,Athletic Club,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-11,Celta Vigo,Sevilla,0,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-11,Eibar,Alaves,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-11,Espanol,Sp Gijon,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-12,Villarreal,Atletico Madrid,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-16,Alaves,Real Betis,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-17,Atletico Madrid,Las Palmas,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-17,Granada,Real Sociedad,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-17,Sevilla,Malaga,4,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-17,Sp Gijon,Villarreal,1,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-18,Barcelona,Espanol,4,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-18,La Coruna,Osasuna,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-18,Leganes,Eibar,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2016-12-19,Athletic Club,Celta Vigo,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-06,Espanol,La Coruna,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-07,Eibar,Atletico Madrid,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-07,Las Palmas,Sp Gijon,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-07,Real Madrid,Granada,5,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-07,Real Sociedad,Sevilla,0,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-08,Athletic Club,Alaves,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-08,Real Betis,Leganes,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-08,Celta Vigo,Malaga,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-08,Villarreal,Barcelona,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-09,Osasuna,Valencia,3,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-14,Atletico Madrid,Real Betis,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-14,Barcelona,Las Palmas,5,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-14,La Coruna,Villarreal,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-14,Leganes,Athletic Club,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-15,Celta Vigo,Alaves,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-15,Granada,Osasuna,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-15,Sevilla,Real Madrid,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-15,Sp Gijon,Eibar,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-15,Valencia,Espanol,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-16,Malaga,Real Sociedad,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-20,Las Palmas,La Coruna,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-21,Alaves,Leganes,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-21,Espanol,Granada,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-21,Real Madrid,Malaga,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-21,Villarreal,Valencia,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-22,Athletic Club,Atletico Madrid,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-22,Real Betis,Sp Gijon,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-22,Eibar,Barcelona,0,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-22,Osasuna,Sevilla,3,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-22,Real Sociedad,Celta Vigo,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-27,Osasuna,Malaga,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-28,Alaves,Atletico Madrid,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-28,Eibar,La Coruna,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-28,Leganes,Celta Vigo,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-28,Villarreal,Granada,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-29,Athletic Club,Sp Gijon,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-29,Real Betis,Barcelona,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-29,Espanol,Sevilla,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-29,Real Madrid,Real Sociedad,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-01-30,Las Palmas,Valencia,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-04,Atletico Madrid,Leganes,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-04,Barcelona,Athletic Club,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-04,Malaga,Espanol,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-04,Valencia,Eibar,0,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-05,Sevilla,Villarreal,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-05,Real Sociedad,Osasuna,3,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-05,Sp Gijon,Alaves,2,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-06,Granada,Las Palmas,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-10,Espanol,Real Sociedad,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-11,Alaves,Barcelona,0,6,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-11,Athletic Club,La Coruna,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-11,Real Betis,Valencia,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-11,Osasuna,Real Madrid,1,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-12,Atletico Madrid,Celta Vigo,3,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-12,Las Palmas,Sevilla,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-12,Leganes,Sp Gijon,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-12,Villarreal,Malaga,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-13,Eibar,Granada,4,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-17,Granada,Real Betis,4,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-18,La Coruna,Alaves,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-18,Real Madrid,Espanol,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-18,Sevilla,Eibar,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-18,Sp Gijon,Atletico Madrid,1,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-19,Barcelona,Leganes,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-19,Celta Vigo,Osasuna,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-19,Real Sociedad,Villarreal,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-19,Valencia,Athletic Club,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-20,Malaga,Las Palmas,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-22,Valencia,Real Madrid,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-24,Las Palmas,Real Sociedad,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-25,Alaves,Valencia,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-25,Real Betis,Sevilla,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-25,Eibar,Malaga,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-25,Leganes,La Coruna,4,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-26,Athletic Club,Granada,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-26,Atletico Madrid,Barcelona,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-26,Espanol,Osasuna,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-26,Sp Gijon,Celta Vigo,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-26,Villarreal,Real Madrid,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-28,Malaga,Real Betis,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-28,Real Sociedad,Eibar,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-02-28,Valencia,Leganes,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-01,Barcelona,Sp Gijon,6,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-01,Celta Vigo,Espanol,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-01,Granada,Alaves,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-01,Osasuna,Villarreal,1,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-01,Real Madrid,Las Palmas,3,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-02,La Coruna,Atletico Madrid,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-02,Sevilla,Athletic Club,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-03,Real Betis,Real Sociedad,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-04,Barcelona,Celta Vigo,5,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-04,Eibar,Real Madrid,1,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-04,Leganes,Granada,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-04,Villarreal,Espanol,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-05,Athletic Club,Malaga,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-05,Atletico Madrid,Valencia,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-05,Las Palmas,Osasuna,5,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-05,Sp Gijon,La Coruna,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-06,Alaves,Sevilla,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-08,La Coruna,Real Betis,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-10,Espanol,Las Palmas,4,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-11,Granada,Atletico Madrid,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-11,Malaga,Alaves,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-11,Sevilla,Leganes,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-11,Valencia,Sp Gijon,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-12,Celta Vigo,Villarreal,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-12,La Coruna,Barcelona,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-12,Real Madrid,Real Betis,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-12,Real Sociedad,Athletic Club,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-13,Osasuna,Eibar,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-17,Las Palmas,Villarreal,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-18,Alaves,Real Sociedad,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-18,Athletic Club,Real Madrid,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-18,Real Betis,Osasuna,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-18,Eibar,Espanol,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-19,Atletico Madrid,Sevilla,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-19,Barcelona,Valencia,4,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-19,La Coruna,Celta Vigo,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-19,Leganes,Malaga,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-19,Sp Gijon,Granada,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-03-31,Espanol,Real Betis,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-01,Malaga,Atletico Madrid,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-01,Osasuna,Athletic Club,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-01,Real Sociedad,Leganes,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-01,Villarreal,Eibar,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-02,Granada,Barcelona,1,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-02,Real Madrid,Alaves,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-02,Sevilla,Sp Gijon,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-02,Valencia,La Coruna,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-03,Celta Vigo,Las Palmas,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-04,Athletic Club,Espanol,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-04,Atletico Madrid,Real Sociedad,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-04,Real Betis,Villarreal,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-05,Alaves,Osasuna,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-05,Barcelona,Sevilla,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-05,La Coruna,Granada,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-05,Leganes,Real Madrid,2,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-05,Sp Gijon,Malaga,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-06,Eibar,Las Palmas,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-06,Valencia,Celta Vigo,3,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-07,Villarreal,Athletic Club,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-08,Espanol,Alaves,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-08,Malaga,Barcelona,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-08,Real Madrid,Atletico Madrid,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-08,Sevilla,La Coruna,4,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-09,Celta Vigo,Eibar,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-09,Granada,Valencia,1,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-09,Las Palmas,Real Betis,4,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-09,Osasuna,Leganes,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-10,Real Sociedad,Sp Gijon,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-14,Athletic Club,Las Palmas,5,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-15,Atletico Madrid,Osasuna,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-15,Barcelona,Real Sociedad,3,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-15,La Coruna,Malaga,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-15,Sp Gijon,Real Madrid,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-16,Real Betis,Eibar,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-16,Granada,Celta Vigo,0,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-16,Leganes,Espanol,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-16,Valencia,Sevilla,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-17,Alaves,Villarreal,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-21,Sevilla,Granada,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-22,Espanol,Atletico Madrid,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-22,Malaga,Valencia,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-22,Osasuna,Sp Gijon,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-22,Villarreal,Leganes,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-23,Celta Vigo,Real Betis,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-23,Las Palmas,Alaves,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-23,Real Madrid,Barcelona,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-23,Real Sociedad,La Coruna,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-24,Eibar,Athletic Club,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-25,Atletico Madrid,Villarreal,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-25,Granada,Malaga,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-25,Sp Gijon,Espanol,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-26,Barcelona,Osasuna,7,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-26,La Coruna,Real Madrid,2,6,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-26,Leganes,Las Palmas,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-26,Valencia,Real Sociedad,2,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-27,Alaves,Eibar,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-27,Athletic Club,Real Betis,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-27,Sevilla,Celta Vigo,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-28,Villarreal,Sp Gijon,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-29,Espanol,Barcelona,0,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-29,Las Palmas,Atletico Madrid,0,5,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-29,Real Madrid,Valencia,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-29,Real Sociedad,Granada,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-30,Real Betis,Alaves,1,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-30,Celta Vigo,Athletic Club,0,3,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-30,Eibar,Leganes,2,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-04-30,Osasuna,La Coruna,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-01,Malaga,Sevilla,4,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-05,Sevilla,Real Sociedad,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-06,Atletico Madrid,Eibar,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-06,Barcelona,Villarreal,4,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-06,Granada,Real Madrid,0,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-06,Sp Gijon,Las Palmas,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-07,Alaves,Athletic Club,1,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-07,La Coruna,Espanol,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-07,Malaga,Celta Vigo,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-07,Valencia,Osasuna,4,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-08,Leganes,Real Betis,4,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-13,Espanol,Valencia,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-13,Osasuna,Granada,2,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-14,Alaves,Celta Vigo,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-14,Athletic Club,Leganes,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-14,Real Betis,Atletico Madrid,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-14,Eibar,Sp Gijon,0,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-14,Las Palmas,Barcelona,1,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-14,Real Madrid,Sevilla,4,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-14,Real Sociedad,Malaga,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-14,Villarreal,La Coruna,0,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-17,Celta Vigo,Real Madrid,1,4,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-19,Granada,Espanol,1,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-20,La Coruna,Las Palmas,3,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-20,Leganes,Alaves,1,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-20,Sevilla,Osasuna,5,0,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-20,Sp Gijon,Real Betis,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-21,Atletico Madrid,Athletic Club,3,1,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-21,Barcelona,Eibar,4,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-21,Celta Vigo,Real Sociedad,2,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-21,Malaga,Real Madrid,0,2,played,2026-10-23 14:34:00.964670+00:00
+la_liga,1617,2017-05-21,Valencia,Villarreal,1,3,played,2026-10-23 14:34:00.964670+00:00

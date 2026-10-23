@@ -1,0 +1,280 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+ligue_1,1920,2019-08-09,Monaco,Olympique Lyonnais,0,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-10,Olympique Marseille,Reims,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-10,Angers,Bordeaux,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-10,Brest,Toulouse,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-10,Dijon,Saint-Etienne,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-10,Montpellier,Rennes,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-10,Nice,Amiens,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-11,Lille,Nantes,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-11,Strasbourg,Metz,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-11,Paris Saint-Germain,Nimes,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-16,Olympique Lyonnais,Angers,6,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-17,Nantes,Olympique Marseille,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-17,Amiens,Lille,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-17,Bordeaux,Montpellier,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-17,Metz,Monaco,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-17,Nimes,Nice,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-17,Toulouse,Dijon,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-18,Saint-Etienne,Brest,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-18,Reims,Strasbourg,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-18,Rennes,Paris Saint-Germain,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-24,Amiens,Nantes,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-24,Angers,Metz,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-24,Brest,Reims,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-24,Dijon,Bordeaux,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-25,Monaco,Nimes,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-25,Strasbourg,Rennes,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-25,Paris Saint-Germain,Toulouse,4,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-27,Montpellier,Olympique Lyonnais,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-28,Lille,Saint-Etienne,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-28,Nice,Olympique Marseille,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-30,Metz,Paris Saint-Germain,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-31,Olympique Lyonnais,Bordeaux,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-31,Angers,Dijon,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-31,Nantes,Montpellier,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-31,Nimes,Brest,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-08-31,Toulouse,Amiens,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-01,Reims,Lille,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-01,Rennes,Nice,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-01,Strasbourg,Monaco,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-01,Olympique Marseille,Saint-Etienne,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-13,Lille,Angers,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-13,Amiens,Olympique Lyonnais,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-14,Paris Saint-Germain,Strasbourg,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-14,Bordeaux,Metz,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-14,Brest,Rennes,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-14,Dijon,Nimes,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-14,Montpellier,Nice,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-15,Nantes,Reims,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-15,Saint-Etienne,Toulouse,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-15,Monaco,Olympique Marseille,3,4,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-20,Strasbourg,Nantes,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-21,Olympique Marseille,Montpellier,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-21,Bordeaux,Brest,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-21,Metz,Amiens,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-21,Nice,Dijon,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-21,Nimes,Toulouse,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-21,Reims,Monaco,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-22,Rennes,Lille,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-22,Angers,Saint-Etienne,4,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-22,Olympique Lyonnais,Paris Saint-Germain,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-24,Dijon,Olympique Marseille,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-24,Monaco,Nice,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-25,Amiens,Bordeaux,1,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-25,Brest,Olympique Lyonnais,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-25,Lille,Strasbourg,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-25,Montpellier,Nimes,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-25,Nantes,Rennes,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-25,Saint-Etienne,Metz,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-25,Toulouse,Angers,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-25,Paris Saint-Germain,Reims,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-28,Olympique Lyonnais,Nantes,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-28,Bordeaux,Paris Saint-Germain,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-28,Angers,Amiens,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-28,Metz,Toulouse,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-28,Monaco,Brest,4,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-28,Nice,Lille,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-28,Reims,Dijon,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-29,Strasbourg,Montpellier,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-29,Nimes,Saint-Etienne,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-09-29,Olympique Marseille,Rennes,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-04,Amiens,Olympique Marseille,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-05,Paris Saint-Germain,Angers,4,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-05,Brest,Metz,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-05,Dijon,Strasbourg,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-05,Montpellier,Monaco,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-05,Nantes,Nice,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-05,Toulouse,Bordeaux,1,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-06,Lille,Nimes,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-06,Rennes,Reims,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-06,Saint-Etienne,Olympique Lyonnais,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-18,Nice,Paris Saint-Germain,1,4,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-19,Olympique Lyonnais,Dijon,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-19,Angers,Brest,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-19,Metz,Nantes,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-19,Nimes,Amiens,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-19,Reims,Montpellier,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-19,Toulouse,Lille,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-20,Bordeaux,Saint-Etienne,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-20,Monaco,Rennes,3,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-20,Olympique Marseille,Strasbourg,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-25,Nantes,Monaco,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-26,Lille,Bordeaux,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-26,Brest,Dijon,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-26,Olympique Lyonnais,Metz,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-26,Montpellier,Angers,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-26,Reims,Nimes,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-26,Strasbourg,Nice,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-27,Rennes,Toulouse,3,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-27,Saint-Etienne,Amiens,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-10-27,Paris Saint-Germain,Olympique Marseille,4,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-01,Dijon,Paris Saint-Germain,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-02,Olympique Marseille,Lille,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-02,Amiens,Brest,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-02,Angers,Strasbourg,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-02,Metz,Montpellier,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-02,Toulouse,Olympique Lyonnais,2,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-03,Bordeaux,Nantes,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-03,Nice,Reims,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-03,Saint-Etienne,Monaco,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-08,Nice,Bordeaux,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-09,Brest,Paris Saint-Germain,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-09,Lille,Metz,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-09,Monaco,Dijon,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-09,Reims,Angers,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-09,Strasbourg,Nimes,4,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-10,Rennes,Amiens,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-10,Montpellier,Toulouse,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-10,Nantes,Saint-Etienne,2,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-10,Olympique Marseille,Olympique Lyonnais,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-22,Paris Saint-Germain,Lille,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-23,Olympique Lyonnais,Nice,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-23,Amiens,Strasbourg,0,4,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-23,Angers,Nimes,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-23,Brest,Nantes,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-23,Dijon,Rennes,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-23,Metz,Reims,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-24,Bordeaux,Monaco,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-24,Saint-Etienne,Montpellier,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-24,Toulouse,Olympique Marseille,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-29,Olympique Marseille,Brest,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-30,Strasbourg,Olympique Lyonnais,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-30,Lille,Dijon,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-30,Montpellier,Amiens,4,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-30,Nice,Angers,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-30,Nimes,Metz,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-11-30,Reims,Bordeaux,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-01,Nantes,Toulouse,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-01,Rennes,Saint-Etienne,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-03,Angers,Olympique Marseille,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-03,Bordeaux,Nimes,6,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-03,Brest,Strasbourg,5,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-03,Olympique Lyonnais,Lille,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-04,Dijon,Montpellier,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-04,Metz,Rennes,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-04,Saint-Etienne,Nice,4,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-04,Toulouse,Monaco,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-04,Paris Saint-Germain,Nantes,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-06,Lille,Brest,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-06,Nimes,Olympique Lyonnais,0,4,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-07,Montpellier,Paris Saint-Germain,1,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-07,Monaco,Amiens,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-07,Nice,Metz,4,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-07,Rennes,Angers,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-07,Strasbourg,Toulouse,4,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-08,Reims,Saint-Etienne,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-08,Nantes,Dijon,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-08,Olympique Marseille,Bordeaux,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-13,Lille,Montpellier,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-14,Metz,Olympique Marseille,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-14,Amiens,Dijon,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-14,Angers,Monaco,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-14,Brest,Nice,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-14,Nimes,Nantes,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-14,Toulouse,Reims,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-15,Bordeaux,Strasbourg,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-15,Olympique Lyonnais,Rennes,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-15,Saint-Etienne,Paris Saint-Germain,0,4,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Dijon,Metz,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Olympique Marseille,Nimes,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Monaco,Lille,5,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Montpellier,Brest,4,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Nantes,Angers,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Nice,Toulouse,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Paris Saint-Germain,Amiens,4,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Reims,Olympique Lyonnais,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Rennes,Bordeaux,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2019-12-21,Strasbourg,Saint-Etienne,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-10,Rennes,Olympique Marseille,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-11,Bordeaux,Olympique Lyonnais,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-11,Amiens,Montpellier,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-11,Angers,Nice,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-11,Metz,Strasbourg,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-11,Nimes,Reims,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-11,Toulouse,Brest,2,5,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-12,Saint-Etienne,Nantes,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-12,Dijon,Lille,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-12,Paris Saint-Germain,Monaco,3,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-15,Amiens,Reims,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-15,Nimes,Rennes,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-15,Monaco,Paris Saint-Germain,1,4,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-24,Nice,Rennes,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-25,Olympique Marseille,Angers,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-25,Brest,Amiens,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-25,Monaco,Strasbourg,1,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-25,Montpellier,Dijon,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-25,Reims,Metz,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-25,Saint-Etienne,Nimes,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-26,Olympique Lyonnais,Toulouse,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-26,Nantes,Bordeaux,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-26,Lille,Paris Saint-Germain,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-01-31,Rennes,Nantes,3,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-01,Paris Saint-Germain,Montpellier,5,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-01,Amiens,Toulouse,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-01,Angers,Reims,1,4,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-01,Dijon,Brest,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-01,Nimes,Monaco,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-01,Strasbourg,Lille,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-02,Nice,Olympique Lyonnais,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-02,Metz,Saint-Etienne,3,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-02,Bordeaux,Olympique Marseille,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-04,Lille,Rennes,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-04,Monaco,Angers,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-04,Nantes,Paris Saint-Germain,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-05,Brest,Bordeaux,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-05,Olympique Lyonnais,Amiens,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-05,Montpellier,Metz,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-05,Nimes,Dijon,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-05,Reims,Nice,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-05,Toulouse,Strasbourg,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-05,Saint-Etienne,Olympique Marseille,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-07,Angers,Lille,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-08,Olympique Marseille,Toulouse,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-08,Amiens,Monaco,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-08,Dijon,Nantes,3,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-08,Metz,Bordeaux,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-08,Nice,Nimes,1,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-08,Rennes,Brest,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-09,Montpellier,Saint-Etienne,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-09,Strasbourg,Reims,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-09,Paris Saint-Germain,Olympique Lyonnais,4,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-14,Monaco,Montpellier,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-15,Amiens,Paris Saint-Germain,4,4,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-15,Bordeaux,Dijon,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-15,Nantes,Metz,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-15,Nimes,Angers,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-15,Toulouse,Nice,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-16,Olympique Lyonnais,Strasbourg,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-16,Brest,Saint-Etienne,3,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-16,Reims,Rennes,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-16,Lille,Olympique Marseille,1,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-21,Nice,Brest,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-21,Metz,Olympique Lyonnais,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-22,Olympique Marseille,Nantes,1,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-22,Angers,Montpellier,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-22,Dijon,Monaco,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-22,Lille,Toulouse,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-22,Strasbourg,Amiens,0,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-23,Saint-Etienne,Reims,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-23,Rennes,Nimes,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-23,Paris Saint-Germain,Bordeaux,4,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-28,Nimes,Olympique Marseille,2,3,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-29,Paris Saint-Germain,Dijon,4,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-29,Amiens,Metz,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-29,Brest,Angers,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-29,Monaco,Reims,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-29,Montpellier,Strasbourg,3,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-02-29,Toulouse,Rennes,0,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-01,Nantes,Lille,0,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-01,Bordeaux,Nice,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-01,Olympique Lyonnais,Saint-Etienne,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-06,Olympique Marseille,Amiens,2,2,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-07,Angers,Nantes,2,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-07,Dijon,Toulouse,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-07,Metz,Nimes,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-07,Nice,Monaco,2,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-07,Reims,Brest,1,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-08,Saint-Etienne,Bordeaux,1,1,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-08,Rennes,Montpellier,5,0,played,2026-10-23 14:33:58.493247+00:00
+ligue_1,1920,2020-03-08,Lille,Olympique Lyonnais,1,0,played,2026-10-23 14:33:58.493247+00:00

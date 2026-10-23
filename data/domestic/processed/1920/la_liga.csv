@@ -1,0 +1,381 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+la_liga,1920,2019-08-16,Athletic Club,Barcelona,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-17,Celta Vigo,Real Madrid,1,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-17,Valencia,Real Sociedad,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-17,Mallorca,Eibar,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-17,Leganes,Osasuna,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-17,Villarreal,Granada,4,4,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-18,Alaves,Levante,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-18,Espanol,Sevilla,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-18,Real Betis,Valladolid,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-18,Atletico Madrid,Getafe,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-23,Granada,Sevilla,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-23,Levante,Villarreal,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-24,Osasuna,Eibar,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-24,Real Madrid,Valladolid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-24,Celta Vigo,Valencia,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-24,Getafe,Athletic Club,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-25,Alaves,Espanol,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-25,Mallorca,Real Sociedad,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-25,Leganes,Atletico Madrid,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-25,Barcelona,Real Betis,5,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-30,Sevilla,Celta Vigo,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-30,Athletic Club,Real Sociedad,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-31,Osasuna,Barcelona,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-31,Getafe,Alaves,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-31,Levante,Valladolid,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-08-31,Real Betis,Leganes,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-01,Valencia,Mallorca,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-01,Atletico Madrid,Eibar,3,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-01,Espanol,Granada,0,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-01,Villarreal,Real Madrid,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-13,Mallorca,Athletic Club,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-14,Real Madrid,Levante,3,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-14,Leganes,Villarreal,0,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-14,Real Sociedad,Atletico Madrid,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-14,Barcelona,Valencia,5,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-15,Eibar,Espanol,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-15,Alaves,Sevilla,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-15,Celta Vigo,Granada,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-15,Valladolid,Osasuna,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-15,Real Betis,Getafe,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-20,Osasuna,Real Betis,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-21,Villarreal,Valladolid,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-21,Levante,Eibar,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-21,Atletico Madrid,Celta Vigo,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-21,Granada,Barcelona,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-22,Getafe,Mallorca,4,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-22,Espanol,Real Sociedad,1,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-22,Valencia,Leganes,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-22,Athletic Club,Alaves,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-22,Sevilla,Real Madrid,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-24,Valladolid,Granada,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-24,Real Betis,Levante,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-24,Barcelona,Villarreal,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-25,Leganes,Athletic Club,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-25,Mallorca,Atletico Madrid,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-25,Valencia,Getafe,3,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-25,Real Madrid,Osasuna,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-26,Eibar,Sevilla,3,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-26,Celta Vigo,Espanol,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-26,Real Sociedad,Alaves,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-27,Villarreal,Real Betis,5,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-28,Athletic Club,Valencia,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-28,Getafe,Barcelona,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-28,Granada,Leganes,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-28,Atletico Madrid,Real Madrid,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-29,Espanol,Valladolid,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-29,Eibar,Celta Vigo,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-29,Alaves,Mallorca,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-29,Levante,Osasuna,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-09-29,Sevilla,Real Sociedad,3,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-04,Real Betis,Eibar,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-05,Leganes,Levante,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-05,Real Madrid,Granada,4,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-05,Valencia,Alaves,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-05,Osasuna,Villarreal,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-06,Mallorca,Espanol,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-06,Celta Vigo,Athletic Club,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-06,Valladolid,Atletico Madrid,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-06,Real Sociedad,Getafe,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-06,Barcelona,Sevilla,4,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-18,Granada,Osasuna,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-19,Eibar,Barcelona,0,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-19,Atletico Madrid,Valencia,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-19,Getafe,Leganes,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-19,Mallorca,Real Madrid,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-20,Alaves,Celta Vigo,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-20,Real Sociedad,Real Betis,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-20,Espanol,Villarreal,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-20,Athletic Club,Valladolid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-20,Sevilla,Levante,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-25,Villarreal,Alaves,4,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-26,Leganes,Mallorca,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-26,Valladolid,Eibar,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-26,Atletico Madrid,Athletic Club,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-27,Celta Vigo,Real Sociedad,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-27,Granada,Real Betis,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-27,Levante,Espanol,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-27,Sevilla,Getafe,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-27,Osasuna,Valencia,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-29,Alaves,Atletico Madrid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-29,Barcelona,Valladolid,5,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-30,Real Sociedad,Levante,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-30,Valencia,Sevilla,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-30,Athletic Club,Espanol,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-30,Real Betis,Celta Vigo,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-30,Real Madrid,Leganes,5,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-31,Eibar,Villarreal,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-31,Mallorca,Osasuna,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-10-31,Getafe,Granada,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-02,Espanol,Valencia,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-02,Levante,Barcelona,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-02,Sevilla,Atletico Madrid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-02,Real Madrid,Real Betis,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-03,Valladolid,Mallorca,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-03,Villarreal,Athletic Club,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-03,Osasuna,Alaves,4,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-03,Celta Vigo,Getafe,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-03,Leganes,Eibar,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-03,Granada,Real Sociedad,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-08,Real Sociedad,Leganes,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-09,Alaves,Valladolid,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-09,Valencia,Granada,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-09,Eibar,Real Madrid,0,4,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-09,Barcelona,Celta Vigo,4,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-10,Mallorca,Villarreal,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-10,Athletic Club,Levante,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-10,Atletico Madrid,Espanol,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-10,Getafe,Osasuna,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-10,Real Betis,Sevilla,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-22,Levante,Mallorca,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-23,Leganes,Barcelona,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-23,Real Betis,Valencia,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-23,Granada,Atletico Madrid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-23,Real Madrid,Real Sociedad,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-24,Espanol,Getafe,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-24,Osasuna,Athletic Club,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-24,Eibar,Alaves,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-24,Villarreal,Celta Vigo,1,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-24,Valladolid,Sevilla,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-29,Celta Vigo,Valladolid,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-30,Alaves,Real Madrid,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-30,Real Sociedad,Eibar,4,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-30,Mallorca,Real Betis,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-11-30,Valencia,Villarreal,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-01,Sevilla,Leganes,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-01,Athletic Club,Granada,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-01,Espanol,Osasuna,2,4,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-01,Getafe,Levante,4,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-01,Atletico Madrid,Barcelona,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-06,Villarreal,Atletico Madrid,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-07,Real Madrid,Espanol,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-07,Granada,Alaves,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-07,Levante,Valencia,2,4,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-07,Barcelona,Mallorca,5,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-08,Eibar,Getafe,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-08,Real Betis,Athletic Club,3,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-08,Valladolid,Real Sociedad,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-08,Leganes,Celta Vigo,3,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-08,Osasuna,Sevilla,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-13,Alaves,Leganes,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-14,Granada,Levante,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-14,Real Sociedad,Barcelona,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-14,Athletic Club,Eibar,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-14,Atletico Madrid,Osasuna,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-15,Getafe,Valladolid,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-15,Celta Vigo,Mallorca,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-15,Espanol,Real Betis,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-15,Sevilla,Villarreal,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-15,Valencia,Real Madrid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-18,Barcelona,Real Madrid,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-20,Eibar,Granada,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-21,Mallorca,Sevilla,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-21,Barcelona,Alaves,4,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-21,Villarreal,Getafe,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-21,Valladolid,Valencia,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-22,Leganes,Espanol,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-22,Osasuna,Real Sociedad,3,4,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-22,Real Betis,Atletico Madrid,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-22,Levante,Celta Vigo,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2019-12-22,Real Madrid,Athletic Club,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-03,Valladolid,Leganes,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-03,Sevilla,Athletic Club,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-04,Valencia,Eibar,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-04,Getafe,Real Madrid,0,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-04,Atletico Madrid,Levante,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-04,Espanol,Barcelona,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-05,Granada,Mallorca,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-05,Real Sociedad,Villarreal,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-05,Alaves,Real Betis,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-05,Celta Vigo,Osasuna,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-17,Leganes,Getafe,0,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-18,Levante,Alaves,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-18,Real Madrid,Sevilla,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-18,Osasuna,Valladolid,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-18,Eibar,Atletico Madrid,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-19,Mallorca,Valencia,4,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-19,Real Betis,Real Sociedad,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-19,Villarreal,Espanol,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-19,Athletic Club,Celta Vigo,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-19,Barcelona,Granada,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-24,Osasuna,Levante,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-25,Espanol,Athletic Club,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-25,Valencia,Barcelona,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-25,Alaves,Villarreal,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-25,Sevilla,Granada,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-26,Atletico Madrid,Leganes,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-26,Celta Vigo,Eibar,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-26,Getafe,Real Betis,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-26,Real Sociedad,Mallorca,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-01-26,Valladolid,Real Madrid,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-01,Granada,Espanol,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-01,Real Madrid,Atletico Madrid,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-01,Mallorca,Valladolid,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-01,Valencia,Celta Vigo,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-02,Leganes,Real Sociedad,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-02,Eibar,Real Betis,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-02,Athletic Club,Getafe,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-02,Sevilla,Alaves,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-02,Villarreal,Osasuna,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-02,Barcelona,Levante,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-07,Alaves,Eibar,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-08,Levante,Leganes,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-08,Getafe,Valencia,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-08,Valladolid,Villarreal,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-08,Atletico Madrid,Granada,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-09,Espanol,Mallorca,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-09,Real Sociedad,Athletic Club,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-09,Osasuna,Real Madrid,1,4,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-09,Celta Vigo,Sevilla,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-09,Real Betis,Barcelona,2,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-14,Valencia,Atletico Madrid,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-15,Mallorca,Alaves,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-15,Barcelona,Getafe,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-15,Villarreal,Levante,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-15,Granada,Valladolid,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-16,Sevilla,Espanol,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-16,Leganes,Real Betis,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-16,Athletic Club,Osasuna,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-16,Real Madrid,Celta Vigo,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-21,Real Betis,Mallorca,3,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-22,Celta Vigo,Leganes,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-22,Barcelona,Eibar,5,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-22,Real Sociedad,Valencia,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-22,Levante,Real Madrid,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-23,Osasuna,Granada,0,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-23,Alaves,Athletic Club,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-23,Valladolid,Espanol,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-23,Getafe,Sevilla,0,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-23,Atletico Madrid,Villarreal,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-28,Real Sociedad,Valladolid,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-29,Eibar,Levante,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-29,Valencia,Real Betis,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-29,Leganes,Alaves,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-02-29,Granada,Celta Vigo,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-01,Sevilla,Osasuna,3,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-01,Athletic Club,Villarreal,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-01,Espanol,Atletico Madrid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-01,Mallorca,Getafe,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-01,Real Madrid,Barcelona,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-06,Alaves,Valencia,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-07,Eibar,Mallorca,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-07,Atletico Madrid,Sevilla,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-07,Barcelona,Real Sociedad,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-07,Getafe,Celta Vigo,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-08,Osasuna,Espanol,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-08,Valladolid,Athletic Club,1,4,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-08,Levante,Granada,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-08,Villarreal,Leganes,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-08,Real Betis,Real Madrid,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-03-10,Eibar,Real Sociedad,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-11,Sevilla,Real Betis,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-12,Granada,Getafe,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-12,Valencia,Levante,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-13,Espanol,Alaves,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-13,Celta Vigo,Villarreal,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-13,Leganes,Valladolid,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-13,Mallorca,Barcelona,0,4,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-14,Athletic Club,Atletico Madrid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-14,Real Madrid,Eibar,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-14,Real Sociedad,Osasuna,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-15,Levante,Sevilla,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-15,Real Betis,Granada,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-16,Getafe,Espanol,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-16,Villarreal,Mallorca,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-16,Barcelona,Leganes,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-17,Eibar,Athletic Club,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-17,Valladolid,Celta Vigo,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-17,Osasuna,Atletico Madrid,0,5,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-18,Alaves,Real Sociedad,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-18,Real Madrid,Valencia,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-19,Granada,Villarreal,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-19,Mallorca,Leganes,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-19,Sevilla,Barcelona,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-20,Espanol,Levante,1,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-20,Athletic Club,Real Betis,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-20,Getafe,Eibar,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-20,Atletico Madrid,Valladolid,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-21,Celta Vigo,Alaves,6,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-21,Valencia,Osasuna,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-21,Real Sociedad,Real Madrid,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-22,Villarreal,Sevilla,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-22,Leganes,Granada,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-23,Levante,Atletico Madrid,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-23,Valladolid,Getafe,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-23,Barcelona,Athletic Club,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-24,Alaves,Osasuna,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-24,Real Sociedad,Celta Vigo,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-24,Real Madrid,Mallorca,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-25,Eibar,Valencia,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-25,Real Betis,Espanol,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-26,Sevilla,Valladolid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-27,Athletic Club,Mallorca,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-27,Celta Vigo,Barcelona,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-27,Osasuna,Leganes,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-27,Atletico Madrid,Alaves,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-28,Levante,Real Betis,4,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-28,Villarreal,Valencia,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-28,Granada,Eibar,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-28,Espanol,Real Madrid,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-29,Getafe,Real Sociedad,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-30,Mallorca,Celta Vigo,5,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-30,Leganes,Sevilla,0,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-06-30,Barcelona,Atletico Madrid,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-01,Alaves,Granada,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-01,Valencia,Athletic Club,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-01,Real Betis,Villarreal,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-01,Valladolid,Levante,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-02,Eibar,Osasuna,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-02,Real Sociedad,Espanol,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-02,Real Madrid,Getafe,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-03,Atletico Madrid,Mallorca,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-04,Celta Vigo,Real Betis,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-04,Valladolid,Alaves,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-04,Granada,Valencia,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-05,Athletic Club,Real Madrid,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-05,Espanol,Leganes,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-05,Osasuna,Getafe,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-05,Villarreal,Barcelona,1,4,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-06,Levante,Real Sociedad,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-06,Sevilla,Eibar,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-07,Valencia,Valladolid,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-07,Celta Vigo,Atletico Madrid,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-08,Real Betis,Osasuna,3,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-08,Getafe,Villarreal,1,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-08,Barcelona,Espanol,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-09,Eibar,Leganes,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-09,Mallorca,Levante,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-09,Athletic Club,Sevilla,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-10,Real Sociedad,Granada,2,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-10,Real Madrid,Alaves,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-11,Osasuna,Celta Vigo,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-11,Valladolid,Barcelona,0,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-11,Atletico Madrid,Real Betis,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-12,Espanol,Eibar,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-12,Levante,Athletic Club,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-12,Leganes,Valencia,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-12,Sevilla,Mallorca,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-13,Alaves,Getafe,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-13,Villarreal,Real Sociedad,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-13,Granada,Real Madrid,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Eibar,Valladolid,3,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Athletic Club,Leganes,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Barcelona,Osasuna,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Real Betis,Alaves,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Celta Vigo,Levante,2,3,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Getafe,Atletico Madrid,0,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Mallorca,Granada,1,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Real Madrid,Villarreal,2,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Real Sociedad,Sevilla,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-16,Valencia,Espanol,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Alaves,Barcelona,0,5,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Valladolid,Real Betis,2,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Villarreal,Eibar,4,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Atletico Madrid,Real Sociedad,1,1,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Espanol,Celta Vigo,0,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Granada,Athletic Club,4,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Leganes,Real Madrid,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Levante,Getafe,1,0,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Osasuna,Mallorca,2,2,played,2026-10-23 14:34:04.430155+00:00
+la_liga,1920,2020-07-19,Sevilla,Valencia,1,0,played,2026-10-23 14:34:04.430155+00:00

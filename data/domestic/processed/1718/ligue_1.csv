@@ -1,0 +1,381 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+ligue_1,1718,2017-08-04,Monaco,Toulouse,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-05,Olympique Lyonnais,Strasbourg,4,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-05,Metz,Guingamp,1,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-05,Montpellier,Caen,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-05,Paris Saint-Germain,Amiens,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-05,Saint-Etienne,Nice,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-05,Troyes,Rennes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-06,Angers,Bordeaux,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-06,Lille,Nantes,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-06,Olympique Marseille,Dijon,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-11,Nice,Troyes,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-11,Rennes,Olympique Lyonnais,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-12,Amiens,Angers,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-12,Bordeaux,Metz,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-12,Caen,Saint-Etienne,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-12,Nantes,Olympique Marseille,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-12,Toulouse,Montpellier,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-13,Dijon,Monaco,1,4,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-13,Guingamp,Paris Saint-Germain,0,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-13,Strasbourg,Lille,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-18,Metz,Monaco,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-19,Olympique Lyonnais,Bordeaux,3,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-19,Montpellier,Strasbourg,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-19,Nice,Guingamp,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-19,Rennes,Dijon,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-19,Saint-Etienne,Amiens,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-19,Troyes,Nantes,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-20,Lille,Caen,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-20,Olympique Marseille,Angers,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-20,Paris Saint-Germain,Toulouse,6,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-25,Paris Saint-Germain,Saint-Etienne,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-26,Amiens,Nice,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-26,Bordeaux,Troyes,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-26,Caen,Metz,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-26,Dijon,Montpellier,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-26,Nantes,Olympique Lyonnais,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-26,Toulouse,Rennes,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-27,Angers,Lille,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-27,Guingamp,Strasbourg,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-08-27,Monaco,Olympique Marseille,6,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-08,Lille,Bordeaux,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-08,Metz,Paris Saint-Germain,1,5,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-09,Caen,Dijon,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-09,Montpellier,Nantes,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-09,Nice,Monaco,4,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-09,Strasbourg,Amiens,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-09,Troyes,Toulouse,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-10,Olympique Lyonnais,Guingamp,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-10,Olympique Marseille,Rennes,1,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-10,Saint-Etienne,Angers,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-15,Toulouse,Bordeaux,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-16,Dijon,Saint-Etienne,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-16,Guingamp,Lille,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-16,Monaco,Strasbourg,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-16,Nantes,Caen,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-16,Troyes,Montpellier,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-17,Amiens,Olympique Marseille,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-17,Angers,Metz,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-17,Paris Saint-Germain,Olympique Lyonnais,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-17,Rennes,Nice,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-22,Lille,Monaco,0,4,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-22,Nice,Angers,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-23,Bordeaux,Guingamp,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-23,Caen,Amiens,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-23,Olympique Lyonnais,Dijon,3,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-23,Metz,Troyes,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-23,Montpellier,Paris Saint-Germain,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-24,Olympique Marseille,Toulouse,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-24,Saint-Etienne,Rennes,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-24,Strasbourg,Nantes,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-29,Monaco,Montpellier,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-30,Dijon,Strasbourg,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-30,Guingamp,Toulouse,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-30,Nantes,Metz,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-30,Paris Saint-Germain,Bordeaux,6,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-09-30,Rennes,Caen,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-01,Angers,Olympique Lyonnais,3,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-01,Nice,Olympique Marseille,2,4,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-01,Troyes,Saint-Etienne,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-13,Olympique Lyonnais,Monaco,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-14,Caen,Angers,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-14,Dijon,Paris Saint-Germain,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-14,Guingamp,Rennes,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-14,Lille,Troyes,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-14,Saint-Etienne,Metz,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-14,Toulouse,Amiens,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-15,Bordeaux,Nantes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-15,Montpellier,Nice,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-15,Strasbourg,Olympique Marseille,3,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-20,Saint-Etienne,Montpellier,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-21,Amiens,Bordeaux,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-21,Angers,Toulouse,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-21,Metz,Dijon,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-21,Monaco,Caen,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-21,Nantes,Guingamp,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-21,Rennes,Lille,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-22,Olympique Marseille,Paris Saint-Germain,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-22,Nice,Strasbourg,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-22,Troyes,Olympique Lyonnais,0,5,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-27,Paris Saint-Germain,Nice,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-28,Bordeaux,Monaco,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-28,Caen,Troyes,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-28,Dijon,Nantes,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-28,Guingamp,Amiens,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-28,Montpellier,Rennes,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-28,Strasbourg,Angers,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-29,Lille,Olympique Marseille,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-29,Olympique Lyonnais,Metz,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-10-29,Toulouse,Saint-Etienne,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-03,Rennes,Bordeaux,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-04,Angers,Paris Saint-Germain,0,5,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-04,Monaco,Guingamp,6,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-04,Montpellier,Amiens,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-04,Nantes,Toulouse,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-04,Troyes,Strasbourg,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-05,Olympique Marseille,Caen,5,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-05,Metz,Lille,0,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-05,Nice,Dijon,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-05,Saint-Etienne,Olympique Lyonnais,0,5,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-17,Amiens,Monaco,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-17,Lille,Saint-Etienne,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-18,Dijon,Troyes,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-18,Guingamp,Angers,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-18,Paris Saint-Germain,Nantes,4,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-18,Strasbourg,Rennes,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-18,Toulouse,Metz,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-19,Bordeaux,Olympique Marseille,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-19,Caen,Nice,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-19,Olympique Lyonnais,Montpellier,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-20,Amiens,Lille,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-24,Saint-Etienne,Strasbourg,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-25,Caen,Bordeaux,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-25,Dijon,Toulouse,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-25,Metz,Amiens,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-25,Montpellier,Lille,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-25,Rennes,Nantes,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-25,Troyes,Angers,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-26,Olympique Marseille,Guingamp,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-26,Monaco,Paris Saint-Germain,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-26,Nice,Olympique Lyonnais,0,5,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-28,Amiens,Dijon,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-28,Bordeaux,Saint-Etienne,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-28,Strasbourg,Caen,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-29,Angers,Rennes,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-29,Guingamp,Montpellier,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-29,Olympique Lyonnais,Lille,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-29,Metz,Olympique Marseille,0,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-29,Nantes,Monaco,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-29,Paris Saint-Germain,Troyes,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-11-29,Toulouse,Nice,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-01,Dijon,Bordeaux,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-02,Lille,Toulouse,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-02,Monaco,Angers,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-02,Nice,Metz,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-02,Rennes,Amiens,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-02,Strasbourg,Paris Saint-Germain,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-02,Troyes,Guingamp,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-03,Caen,Olympique Lyonnais,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-03,Montpellier,Olympique Marseille,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-03,Saint-Etienne,Nantes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-08,Bordeaux,Strasbourg,0,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-09,Angers,Montpellier,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-09,Guingamp,Dijon,4,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-09,Metz,Rennes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-09,Monaco,Troyes,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-09,Paris Saint-Germain,Lille,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-09,Toulouse,Caen,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-10,Amiens,Olympique Lyonnais,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-10,Olympique Marseille,Saint-Etienne,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-10,Nantes,Nice,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-15,Saint-Etienne,Monaco,0,4,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-16,Caen,Guingamp,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-16,Dijon,Lille,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-16,Montpellier,Metz,1,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-16,Rennes,Paris Saint-Germain,1,4,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-16,Strasbourg,Toulouse,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-16,Troyes,Amiens,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-17,Olympique Lyonnais,Olympique Marseille,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-17,Nantes,Angers,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-17,Nice,Bordeaux,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Amiens,Nantes,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Angers,Dijon,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Bordeaux,Montpellier,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Guingamp,Saint-Etienne,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Lille,Nice,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Olympique Marseille,Troyes,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Metz,Strasbourg,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Monaco,Rennes,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Paris Saint-Germain,Caen,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2017-12-20,Toulouse,Olympique Lyonnais,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-12,Strasbourg,Guingamp,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-13,Caen,Lille,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-13,Dijon,Metz,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-13,Montpellier,Monaco,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-13,Nice,Amiens,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-13,Rennes,Olympique Marseille,0,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-13,Troyes,Bordeaux,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-14,Olympique Lyonnais,Angers,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-14,Nantes,Paris Saint-Germain,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-14,Saint-Etienne,Toulouse,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-16,Bordeaux,Caen,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-16,Olympique Marseille,Strasbourg,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-16,Monaco,Nice,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-17,Amiens,Montpellier,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-17,Angers,Troyes,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-17,Guingamp,Olympique Lyonnais,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-17,Lille,Rennes,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-17,Metz,Saint-Etienne,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-17,Paris Saint-Germain,Dijon,8,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-17,Toulouse,Nantes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-19,Caen,Olympique Marseille,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-20,Amiens,Guingamp,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-20,Montpellier,Toulouse,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-20,Nantes,Bordeaux,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-20,Rennes,Angers,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-20,Strasbourg,Dijon,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-20,Troyes,Lille,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-21,Olympique Lyonnais,Paris Saint-Germain,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-21,Monaco,Metz,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-21,Nice,Saint-Etienne,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-26,Dijon,Rennes,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-27,Angers,Amiens,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-27,Guingamp,Nantes,0,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-27,Metz,Nice,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-27,Paris Saint-Germain,Montpellier,4,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-27,Saint-Etienne,Caen,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-27,Toulouse,Troyes,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-28,Bordeaux,Olympique Lyonnais,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-28,Lille,Strasbourg,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-01-28,Olympique Marseille,Monaco,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-02,Olympique Marseille,Metz,6,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-03,Amiens,Saint-Etienne,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-03,Lille,Paris Saint-Germain,0,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-03,Montpellier,Angers,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-03,Nice,Toulouse,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-03,Strasbourg,Bordeaux,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-04,Caen,Nantes,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-04,Monaco,Olympique Lyonnais,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-04,Rennes,Guingamp,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-09,Saint-Etienne,Olympique Marseille,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-10,Angers,Monaco,0,4,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-10,Bordeaux,Amiens,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-10,Dijon,Nice,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-10,Guingamp,Caen,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-10,Metz,Montpellier,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-10,Toulouse,Paris Saint-Germain,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-11,Olympique Lyonnais,Rennes,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-11,Nantes,Lille,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-11,Strasbourg,Troyes,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-16,Monaco,Dijon,4,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-17,Amiens,Toulouse,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-17,Angers,Saint-Etienne,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-17,Caen,Rennes,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-17,Montpellier,Guingamp,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-17,Paris Saint-Germain,Strasbourg,5,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-17,Troyes,Metz,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-18,Lille,Olympique Lyonnais,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-18,Olympique Marseille,Bordeaux,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-18,Nice,Nantes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-20,Troyes,Dijon,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-23,Strasbourg,Montpellier,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-24,Dijon,Caen,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-24,Guingamp,Metz,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-24,Lille,Angers,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-24,Nantes,Amiens,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-24,Rennes,Troyes,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-24,Toulouse,Monaco,3,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-25,Bordeaux,Nice,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-25,Olympique Lyonnais,Saint-Etienne,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-02-25,Paris Saint-Germain,Olympique Marseille,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-02,Monaco,Bordeaux,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-02,Nice,Lille,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-03,Amiens,Rennes,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-03,Angers,Guingamp,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-03,Metz,Toulouse,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-03,Saint-Etienne,Dijon,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-03,Troyes,Paris Saint-Germain,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-04,Caen,Strasbourg,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-04,Olympique Marseille,Nantes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-04,Montpellier,Olympique Lyonnais,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-09,Strasbourg,Monaco,1,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-10,Bordeaux,Angers,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-10,Dijon,Amiens,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-10,Lille,Montpellier,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-10,Nantes,Troyes,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-10,Paris Saint-Germain,Metz,5,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-10,Rennes,Saint-Etienne,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-11,Guingamp,Nice,2,5,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-11,Olympique Lyonnais,Caen,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-11,Toulouse,Olympique Marseille,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-14,Paris Saint-Germain,Angers,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-16,Monaco,Lille,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-17,Amiens,Troyes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-17,Angers,Caen,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-17,Bordeaux,Rennes,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-17,Montpellier,Dijon,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-17,Toulouse,Strasbourg,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-18,Olympique Marseille,Olympique Lyonnais,2,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-18,Metz,Nantes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-18,Nice,Paris Saint-Germain,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-18,Saint-Etienne,Guingamp,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-03-31,Dijon,Olympique Marseille,1,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-01,Caen,Montpellier,1,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-01,Guingamp,Bordeaux,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-01,Lille,Amiens,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-01,Olympique Lyonnais,Toulouse,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-01,Nantes,Saint-Etienne,0,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-01,Strasbourg,Metz,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-01,Troyes,Nice,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-04,Rennes,Monaco,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-06,Saint-Etienne,Paris Saint-Germain,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-07,Amiens,Caen,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-07,Angers,Strasbourg,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-07,Bordeaux,Lille,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-07,Guingamp,Troyes,4,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-07,Monaco,Nantes,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-07,Toulouse,Dijon,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-08,Olympique Marseille,Montpellier,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-08,Metz,Olympique Lyonnais,0,5,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-08,Nice,Rennes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-13,Angers,Nice,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-14,Lille,Guingamp,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-14,Olympique Lyonnais,Amiens,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-14,Nantes,Dijon,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-14,Rennes,Metz,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-14,Strasbourg,Saint-Etienne,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-15,Montpellier,Bordeaux,1,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-15,Paris Saint-Germain,Monaco,7,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-15,Troyes,Olympique Marseille,2,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-20,Dijon,Olympique Lyonnais,2,5,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-20,Nantes,Rennes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-21,Amiens,Strasbourg,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-21,Guingamp,Monaco,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-21,Olympique Marseille,Lille,5,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-21,Metz,Caen,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-21,Toulouse,Angers,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-22,Bordeaux,Paris Saint-Germain,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-22,Nice,Montpellier,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-22,Saint-Etienne,Troyes,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-25,Caen,Toulouse,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-27,Montpellier,Saint-Etienne,0,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-28,Bordeaux,Dijon,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-28,Lille,Metz,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-28,Olympique Lyonnais,Nantes,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-28,Monaco,Amiens,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-28,Strasbourg,Nice,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-28,Troyes,Caen,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-29,Angers,Olympique Marseille,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-29,Paris Saint-Germain,Guingamp,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-04-29,Rennes,Toulouse,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-04,Amiens,Paris Saint-Germain,2,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-06,Caen,Monaco,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-06,Dijon,Guingamp,3,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-06,Olympique Lyonnais,Troyes,3,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-06,Olympique Marseille,Nice,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-06,Metz,Angers,1,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-06,Nantes,Montpellier,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-06,Rennes,Strasbourg,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-06,Saint-Etienne,Bordeaux,1,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-06,Toulouse,Lille,2,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-11,Guingamp,Olympique Marseille,3,3,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-12,Amiens,Metz,2,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-12,Angers,Nantes,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-12,Bordeaux,Toulouse,4,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-12,Lille,Dijon,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-12,Monaco,Saint-Etienne,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-12,Montpellier,Troyes,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-12,Nice,Caen,4,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-12,Paris Saint-Germain,Rennes,0,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-12,Strasbourg,Olympique Lyonnais,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Caen,Paris Saint-Germain,0,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Dijon,Angers,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Olympique Lyonnais,Nice,3,2,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Olympique Marseille,Amiens,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Metz,Bordeaux,0,4,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Nantes,Strasbourg,1,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Rennes,Montpellier,1,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Saint-Etienne,Lille,5,0,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Toulouse,Guingamp,2,1,played,2026-10-23 14:33:56.125085+00:00
+ligue_1,1718,2018-05-19,Troyes,Monaco,0,3,played,2026-10-23 14:33:56.125085+00:00

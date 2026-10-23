@@ -1,0 +1,307 @@
+league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
+bundesliga,1819,2018-08-24,Bayern Munich,Hoffenheim,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-08-25,Fortuna Dusseldorf,Augsburg,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-08-25,Freiburg,Eintracht Frankfurt,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-08-25,Hertha,Nurnberg,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-08-25,Borussia Monchengladbach,Bayer Leverkusen,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-08-25,Werder Bremen,Hannover,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-08-25,Wolfsburg,Schalke 04,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-08-26,Borussia Dortmund,RB Leipzig,4,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-08-26,Mainz,Stuttgart,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-08-31,Hannover,Borussia Dortmund,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-01,Augsburg,Borussia Monchengladbach,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-01,Eintracht Frankfurt,Werder Bremen,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-01,Hoffenheim,Freiburg,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-01,Bayer Leverkusen,Wolfsburg,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-01,Nurnberg,Mainz,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-01,Stuttgart,Bayern Munich,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-02,RB Leipzig,Fortuna Dusseldorf,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-02,Schalke 04,Hertha,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-14,Borussia Dortmund,Eintracht Frankfurt,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-15,Bayern Munich,Bayer Leverkusen,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-15,Fortuna Dusseldorf,Hoffenheim,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-15,Mainz,Augsburg,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-15,Borussia Monchengladbach,Schalke 04,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-15,RB Leipzig,Hannover,3,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-15,Wolfsburg,Hertha,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-16,Freiburg,Stuttgart,3,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-16,Werder Bremen,Nurnberg,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-21,Stuttgart,Fortuna Dusseldorf,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-22,Augsburg,Werder Bremen,2,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-22,Hertha,Borussia Monchengladbach,4,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-22,Hoffenheim,Borussia Dortmund,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-22,Nurnberg,Hannover,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-22,Schalke 04,Bayern Munich,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-22,Wolfsburg,Freiburg,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-23,Eintracht Frankfurt,RB Leipzig,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-23,Bayer Leverkusen,Mainz,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-25,Bayern Munich,Augsburg,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-25,Freiburg,Schalke 04,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-25,Hannover,Hoffenheim,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-25,Werder Bremen,Hertha,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-26,Borussia Dortmund,Nurnberg,7,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-26,Fortuna Dusseldorf,Bayer Leverkusen,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-26,Mainz,Wolfsburg,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-26,Borussia Monchengladbach,Eintracht Frankfurt,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-26,RB Leipzig,Stuttgart,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-28,Hertha,Bayern Munich,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-29,Hoffenheim,RB Leipzig,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-29,Bayer Leverkusen,Borussia Dortmund,2,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-29,Nurnberg,Fortuna Dusseldorf,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-29,Schalke 04,Mainz,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-29,Stuttgart,Werder Bremen,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-29,Wolfsburg,Borussia Monchengladbach,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-30,Augsburg,Freiburg,4,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-09-30,Eintracht Frankfurt,Hannover,4,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-05,Werder Bremen,Wolfsburg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-06,Bayern Munich,Borussia Monchengladbach,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-06,Borussia Dortmund,Augsburg,4,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-06,Fortuna Dusseldorf,Schalke 04,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-06,Hannover,Stuttgart,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-06,Mainz,Hertha,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-07,Freiburg,Bayer Leverkusen,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-07,Hoffenheim,Eintracht Frankfurt,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-07,RB Leipzig,Nurnberg,6,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-19,Eintracht Frankfurt,Fortuna Dusseldorf,7,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-20,Augsburg,RB Leipzig,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-20,Bayer Leverkusen,Hannover,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-20,Nurnberg,Hoffenheim,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-20,Schalke 04,Werder Bremen,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-20,Stuttgart,Borussia Dortmund,0,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-20,Wolfsburg,Bayern Munich,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-21,Hertha,Freiburg,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-21,Borussia Monchengladbach,Mainz,4,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-26,Freiburg,Borussia Monchengladbach,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-27,Borussia Dortmund,Hertha,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-27,Fortuna Dusseldorf,Wolfsburg,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-27,Hannover,Augsburg,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-27,Hoffenheim,Stuttgart,4,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-27,Mainz,Bayern Munich,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-28,Nurnberg,Eintracht Frankfurt,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-28,RB Leipzig,Schalke 04,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-10-28,Werder Bremen,Bayer Leverkusen,2,6,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-02,Stuttgart,Eintracht Frankfurt,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-03,Augsburg,Nurnberg,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-03,Bayern Munich,Freiburg,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-03,Hertha,RB Leipzig,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-03,Bayer Leverkusen,Hoffenheim,1,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-03,Schalke 04,Hannover,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-03,Wolfsburg,Borussia Dortmund,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-04,Mainz,Werder Bremen,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-04,Borussia Monchengladbach,Fortuna Dusseldorf,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-09,Hannover,Wolfsburg,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-10,Borussia Dortmund,Bayern Munich,3,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-10,Fortuna Dusseldorf,Hertha,4,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-10,Freiburg,Mainz,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-10,Hoffenheim,Augsburg,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-10,Nurnberg,Stuttgart,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-10,Werder Bremen,Borussia Monchengladbach,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-11,Eintracht Frankfurt,Schalke 04,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-11,RB Leipzig,Bayer Leverkusen,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-23,Bayer Leverkusen,Stuttgart,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-24,Augsburg,Eintracht Frankfurt,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-24,Bayern Munich,Fortuna Dusseldorf,3,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-24,Hertha,Hoffenheim,3,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-24,Mainz,Borussia Dortmund,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-24,Schalke 04,Nurnberg,5,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-24,Wolfsburg,RB Leipzig,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-25,Freiburg,Werder Bremen,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-25,Borussia Monchengladbach,Hannover,4,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-11-30,Fortuna Dusseldorf,Mainz,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-01,Borussia Dortmund,Freiburg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-01,Hannover,Hertha,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-01,Hoffenheim,Schalke 04,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-01,Stuttgart,Augsburg,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-01,Werder Bremen,Bayern Munich,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-02,Eintracht Frankfurt,Wolfsburg,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-02,RB Leipzig,Borussia Monchengladbach,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-03,Nurnberg,Bayer Leverkusen,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-07,Werder Bremen,Fortuna Dusseldorf,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-08,Bayern Munich,Nurnberg,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-08,Freiburg,RB Leipzig,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-08,Hertha,Eintracht Frankfurt,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-08,Bayer Leverkusen,Augsburg,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-08,Schalke 04,Borussia Dortmund,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-08,Wolfsburg,Hoffenheim,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-09,Mainz,Hannover,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-09,Borussia Monchengladbach,Stuttgart,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-14,Nurnberg,Wolfsburg,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-15,Augsburg,Schalke 04,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-15,Borussia Dortmund,Werder Bremen,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-15,Fortuna Dusseldorf,Freiburg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-15,Hannover,Bayern Munich,0,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-15,Hoffenheim,Borussia Monchengladbach,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-15,Stuttgart,Hertha,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-16,Eintracht Frankfurt,Bayer Leverkusen,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-16,RB Leipzig,Mainz,4,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-18,Fortuna Dusseldorf,Borussia Dortmund,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-18,Hertha,Augsburg,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-18,Borussia Monchengladbach,Nurnberg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-18,Wolfsburg,Stuttgart,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-19,Bayern Munich,RB Leipzig,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-19,Freiburg,Hannover,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-19,Mainz,Eintracht Frankfurt,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-19,Schalke 04,Bayer Leverkusen,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-19,Werder Bremen,Hoffenheim,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-21,Borussia Dortmund,Borussia Monchengladbach,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-22,Eintracht Frankfurt,Bayern Munich,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-22,Hannover,Fortuna Dusseldorf,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-22,Bayer Leverkusen,Hertha,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-22,Nurnberg,Freiburg,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-22,RB Leipzig,Werder Bremen,3,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-22,Stuttgart,Schalke 04,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-23,Augsburg,Wolfsburg,2,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2018-12-23,Hoffenheim,Mainz,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-18,Hoffenheim,Bayern Munich,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-19,Augsburg,Fortuna Dusseldorf,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-19,Eintracht Frankfurt,Freiburg,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-19,Hannover,Werder Bremen,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-19,Bayer Leverkusen,Borussia Monchengladbach,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-19,RB Leipzig,Borussia Dortmund,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-19,Stuttgart,Mainz,2,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-20,Nurnberg,Hertha,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-20,Schalke 04,Wolfsburg,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-25,Hertha,Schalke 04,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-26,Borussia Dortmund,Hannover,5,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-26,Freiburg,Hoffenheim,2,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-26,Mainz,Nurnberg,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-26,Borussia Monchengladbach,Augsburg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-26,Werder Bremen,Eintracht Frankfurt,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-26,Wolfsburg,Bayer Leverkusen,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-27,Bayern Munich,Stuttgart,4,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-01-27,Fortuna Dusseldorf,RB Leipzig,0,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-01,Hannover,RB Leipzig,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-02,Eintracht Frankfurt,Borussia Dortmund,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-02,Hertha,Wolfsburg,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-02,Hoffenheim,Fortuna Dusseldorf,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-02,Bayer Leverkusen,Bayern Munich,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-02,Nurnberg,Werder Bremen,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-02,Schalke 04,Borussia Monchengladbach,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-03,Augsburg,Mainz,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-03,Stuttgart,Freiburg,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-08,Mainz,Bayer Leverkusen,1,5,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-09,Bayern Munich,Schalke 04,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-09,Borussia Dortmund,Hoffenheim,3,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-09,Freiburg,Wolfsburg,3,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-09,Hannover,Nurnberg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-09,Borussia Monchengladbach,Hertha,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-09,RB Leipzig,Eintracht Frankfurt,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-10,Fortuna Dusseldorf,Stuttgart,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-10,Werder Bremen,Augsburg,4,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-15,Augsburg,Bayern Munich,2,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-16,Hertha,Werder Bremen,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-16,Hoffenheim,Hannover,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-16,Schalke 04,Freiburg,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-16,Stuttgart,RB Leipzig,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-16,Wolfsburg,Mainz,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-17,Eintracht Frankfurt,Borussia Monchengladbach,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-17,Bayer Leverkusen,Fortuna Dusseldorf,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-18,Nurnberg,Borussia Dortmund,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-22,Werder Bremen,Stuttgart,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-23,Bayern Munich,Hertha,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-23,Fortuna Dusseldorf,Nurnberg,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-23,Freiburg,Augsburg,5,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-23,Mainz,Schalke 04,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-23,Borussia Monchengladbach,Wolfsburg,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-24,Borussia Dortmund,Bayer Leverkusen,3,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-24,Hannover,Eintracht Frankfurt,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-02-25,RB Leipzig,Hoffenheim,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-01,Augsburg,Borussia Dortmund,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-02,Eintracht Frankfurt,Hoffenheim,3,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-02,Hertha,Mainz,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-02,Bayer Leverkusen,Freiburg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-02,Borussia Monchengladbach,Bayern Munich,1,5,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-02,Nurnberg,RB Leipzig,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-02,Schalke 04,Fortuna Dusseldorf,0,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-03,Stuttgart,Hannover,5,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-03,Wolfsburg,Werder Bremen,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-08,Werder Bremen,Schalke 04,4,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-09,Bayern Munich,Wolfsburg,6,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-09,Borussia Dortmund,Stuttgart,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-09,Freiburg,Hertha,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-09,Mainz,Borussia Monchengladbach,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-09,RB Leipzig,Augsburg,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-10,Hannover,Bayer Leverkusen,2,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-10,Hoffenheim,Nurnberg,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-11,Fortuna Dusseldorf,Eintracht Frankfurt,0,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-15,Borussia Monchengladbach,Freiburg,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-16,Augsburg,Hannover,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-16,Hertha,Borussia Dortmund,2,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-16,Schalke 04,RB Leipzig,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-16,Stuttgart,Hoffenheim,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-16,Wolfsburg,Fortuna Dusseldorf,5,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-17,Bayern Munich,Mainz,6,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-17,Eintracht Frankfurt,Nurnberg,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-17,Bayer Leverkusen,Werder Bremen,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-29,Hoffenheim,Bayer Leverkusen,4,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-30,Borussia Dortmund,Wolfsburg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-30,Fortuna Dusseldorf,Borussia Monchengladbach,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-30,Freiburg,Bayern Munich,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-30,Nurnberg,Augsburg,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-30,RB Leipzig,Hertha,5,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-30,Werder Bremen,Mainz,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-31,Eintracht Frankfurt,Stuttgart,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-03-31,Hannover,Schalke 04,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-05,Mainz,Freiburg,5,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-06,Bayern Munich,Borussia Dortmund,5,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-06,Hertha,Fortuna Dusseldorf,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-06,Bayer Leverkusen,RB Leipzig,2,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-06,Schalke 04,Eintracht Frankfurt,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-06,Stuttgart,Nurnberg,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-06,Wolfsburg,Hannover,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-07,Augsburg,Hoffenheim,0,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-07,Borussia Monchengladbach,Werder Bremen,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-12,Nurnberg,Schalke 04,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-13,Borussia Dortmund,Mainz,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-13,Hannover,Borussia Monchengladbach,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-13,RB Leipzig,Wolfsburg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-13,Stuttgart,Bayer Leverkusen,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-13,Werder Bremen,Freiburg,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-14,Eintracht Frankfurt,Augsburg,1,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-14,Fortuna Dusseldorf,Bayern Munich,1,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-14,Hoffenheim,Hertha,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-20,Augsburg,Stuttgart,6,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-20,Bayern Munich,Werder Bremen,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-20,Bayer Leverkusen,Nurnberg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-20,Mainz,Fortuna Dusseldorf,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-20,Borussia Monchengladbach,RB Leipzig,1,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-20,Schalke 04,Hoffenheim,2,5,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-21,Freiburg,Borussia Dortmund,0,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-21,Hertha,Hannover,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-22,Wolfsburg,Eintracht Frankfurt,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-26,Augsburg,Bayer Leverkusen,1,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-27,Borussia Dortmund,Schalke 04,2,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-27,Eintracht Frankfurt,Hertha,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-27,Fortuna Dusseldorf,Werder Bremen,4,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-27,Hannover,Mainz,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-27,RB Leipzig,Freiburg,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-27,Stuttgart,Borussia Monchengladbach,1,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-28,Hoffenheim,Wolfsburg,1,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-04-28,Nurnberg,Bayern Munich,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-03,Mainz,RB Leipzig,3,3,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-04,Bayern Munich,Hannover,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-04,Hertha,Stuttgart,3,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-04,Borussia Monchengladbach,Hoffenheim,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-04,Werder Bremen,Borussia Dortmund,2,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-04,Wolfsburg,Nurnberg,2,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-05,Freiburg,Fortuna Dusseldorf,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-05,Bayer Leverkusen,Eintracht Frankfurt,6,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-05,Schalke 04,Augsburg,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-11,Augsburg,Hertha,3,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-11,Borussia Dortmund,Fortuna Dusseldorf,3,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-11,Hannover,Freiburg,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-11,Hoffenheim,Werder Bremen,0,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-11,Bayer Leverkusen,Schalke 04,1,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-11,Nurnberg,Borussia Monchengladbach,0,4,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-11,RB Leipzig,Bayern Munich,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-11,Stuttgart,Wolfsburg,3,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-12,Eintracht Frankfurt,Mainz,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-18,Bayern Munich,Eintracht Frankfurt,5,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-18,Fortuna Dusseldorf,Hannover,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-18,Freiburg,Nurnberg,5,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-18,Hertha,Bayer Leverkusen,1,5,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-18,Mainz,Hoffenheim,4,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-18,Borussia Monchengladbach,Borussia Dortmund,0,2,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-18,Schalke 04,Stuttgart,0,0,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-18,Werder Bremen,RB Leipzig,2,1,played,2026-10-23 14:34:09.289373+00:00
+bundesliga,1819,2019-05-18,Wolfsburg,Augsburg,8,1,played,2026-10-23 14:34:09.289373+00:00
