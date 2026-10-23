@@ -376,6 +376,7 @@ def export_forecasts(
     worldcup_simulations: int = 2_000,
     impact_matches: int = 3,
     impact_simulations: int = 300,
+    include_worldcup: bool = True,
 ) -> dict[str, Any]:
     output = Path(output_dir)
     configs = tuple(get_league(item) for item in leagues) if leagues else list_leagues()
