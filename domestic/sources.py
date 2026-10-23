@@ -139,6 +139,15 @@ def merge_results(
 ) -> pd.DataFrame:
     """Overlay completed scores without dropping the future schedule."""
 
+    # CSV inference turns season codes into integers, while fetched results
+    # use strings. Normalize copies so either source can be used as a fallback.
+    schedule = schedule.copy()
+    results = results.copy()
+    for frame in (schedule, results):
+        frame["season"] = (
+            frame["season"].fillna("").astype(str).str.replace(r"\.0$", "", regex=True)
+        )
+
     keys = ["league", "season", "home_team", "away_team"]
     result_columns = keys + ["home_goals", "away_goals", "status", "source_updated_at"]
     played = results.dropna(subset=["home_goals", "away_goals"])[result_columns]
