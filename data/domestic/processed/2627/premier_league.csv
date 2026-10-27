@@ -1,84 +1,84 @@
 league,season,date,home_team,away_team,home_goals,away_goals,status,source_updated_at
-premier_league,2627,2026-08-21 19:00:00,Arsenal,Coventry City,3,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-22 11:30:00,Hull City,Manchester United,2,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-22 14:00:00,Everton,Crystal Palace,2,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-22 14:00:00,Ipswich Town,Sunderland,2,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-22 14:00:00,Nottingham Forest,Leeds United,0,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-22 16:30:00,Brentford,Tottenham Hotspur,3,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-23 13:00:00,Brighton & Hove Albion,Aston Villa,4,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-23 13:00:00,Manchester City,AFC Bournemouth,2,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-23 15:30:00,Newcastle United,Liverpool,2,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-24 19:00:00,Fulham,Chelsea,2,3,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-28 19:00:00,Crystal Palace,Manchester City,1,4,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-29 11:30:00,Liverpool,Nottingham Forest,2,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-29 14:00:00,AFC Bournemouth,Everton,1,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-29 14:00:00,Coventry City,Hull City,0,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-29 16:30:00,Tottenham Hotspur,Newcastle United,0,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-30 13:00:00,Chelsea,Brighton & Hove Albion,4,3,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-30 13:00:00,Leeds United,Brentford,1,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-30 13:00:00,Sunderland,Fulham,1,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-30 15:30:00,Manchester United,Ipswich Town,5,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-08-31 19:00:00,Aston Villa,Arsenal,0,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-04 19:00:00,Ipswich Town,Liverpool,0,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-05 11:30:00,Newcastle United,AFC Bournemouth,2,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-05 14:00:00,Brentford,Sunderland,1,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-05 14:00:00,Brighton & Hove Albion,Leeds United,1,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-05 14:00:00,Fulham,Crystal Palace,2,3,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-05 14:00:00,Manchester City,Coventry City,1,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-05 14:00:00,Nottingham Forest,Tottenham Hotspur,0,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-05 16:30:00,Hull City,Aston Villa,0,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-06 13:00:00,Everton,Manchester United,2,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-06 15:30:00,Arsenal,Chelsea,2,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-12 14:00:00,AFC Bournemouth,Brentford,2,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-12 14:00:00,Aston Villa,Nottingham Forest,1,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-12 14:00:00,Chelsea,Hull City,2,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-12 14:00:00,Crystal Palace,Ipswich Town,2,3,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-12 14:00:00,Liverpool,Fulham,0,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-12 16:30:00,Tottenham Hotspur,Everton,0,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-12 19:00:00,Sunderland,Arsenal,0,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-13 13:00:00,Coventry City,Brighton & Hove Albion,0,5,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-13 15:30:00,Manchester United,Manchester City,0,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-14 19:00:00,Leeds United,Newcastle United,4,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-18 19:00:00,Brentford,Chelsea,3,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-19 11:30:00,Tottenham Hotspur,Aston Villa,2,3,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-19 14:00:00,Brighton & Hove Albion,Arsenal,3,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-19 14:00:00,Everton,Ipswich Town,1,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-19 14:00:00,Newcastle United,Hull City,2,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-19 16:30:00,Nottingham Forest,Coventry City,0,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-20 13:00:00,AFC Bournemouth,Liverpool,0,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-20 13:00:00,Leeds United,Crystal Palace,0,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-20 13:00:00,Manchester City,Sunderland,5,3,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-09-20 15:30:00,Fulham,Manchester United,1,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-10 11:30:00,Arsenal,Leeds United,2,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-10 14:00:00,Aston Villa,Brentford,2,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-10 14:00:00,Chelsea,AFC Bournemouth,5,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-10 14:00:00,Ipswich Town,Fulham,2,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-10 14:00:00,Sunderland,Brighton & Hove Albion,0,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-10 16:30:00,Manchester United,Tottenham Hotspur,1,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-11 13:00:00,Crystal Palace,Nottingham Forest,3,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-11 13:00:00,Hull City,Everton,2,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-11 15:30:00,Liverpool,Manchester City,0,3,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-12 19:00:00,Coventry City,Newcastle United,4,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-17 11:30:00,Everton,Chelsea,0,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-17 14:00:00,Brentford,Liverpool,1,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-17 14:00:00,Fulham,Hull City,1,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-17 14:00:00,Manchester City,Ipswich Town,3,2,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-17 16:30:00,Newcastle United,Aston Villa,0,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-18 13:00:00,AFC Bournemouth,Sunderland,2,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-18 13:00:00,Brighton & Hove Albion,Crystal Palace,5,0,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-18 13:00:00,Leeds United,Manchester United,1,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-18 15:30:00,Nottingham Forest,Arsenal,0,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-19 19:00:00,Tottenham Hotspur,Coventry City,3,1,played,2026-10-26 21:39:24.886792+00:00
-premier_league,2627,2026-10-23 19:00:00,Ipswich Town,Nottingham Forest,,,scheduled,2026-09-15 14:34:05.601964+00:00
-premier_league,2627,2026-10-24 11:30:00,Aston Villa,Manchester City,,,scheduled,2026-09-15 14:34:05.601964+00:00
-premier_league,2627,2026-10-24 14:00:00,Arsenal,Everton,,,scheduled,2026-09-15 14:34:05.601964+00:00
-premier_league,2627,2026-10-24 14:00:00,Coventry City,Fulham,,,scheduled,2026-09-15 14:34:05.601964+00:00
-premier_league,2627,2026-10-24 16:30:00,Chelsea,Tottenham Hotspur,,,scheduled,2026-09-15 14:34:05.601964+00:00
-premier_league,2627,2026-10-25 14:00:00,Crystal Palace,Newcastle United,,,scheduled,2026-09-15 14:34:05.601964+00:00
-premier_league,2627,2026-10-25 14:00:00,Hull City,Brentford,,,scheduled,2026-09-15 14:34:05.601964+00:00
-premier_league,2627,2026-10-25 14:00:00,Liverpool,Brighton & Hove Albion,,,scheduled,2026-09-15 14:34:05.601964+00:00
-premier_league,2627,2026-10-25 14:00:00,Manchester United,AFC Bournemouth,,,scheduled,2026-09-15 14:34:05.601964+00:00
-premier_league,2627,2026-10-25 16:30:00,Sunderland,Leeds United,,,scheduled,2026-09-15 14:34:05.601964+00:00
+premier_league,2627,2026-08-21 19:00:00,Arsenal,Coventry City,3,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-22 11:30:00,Hull City,Manchester United,2,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-22 14:00:00,Everton,Crystal Palace,2,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-22 14:00:00,Ipswich Town,Sunderland,2,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-22 14:00:00,Nottingham Forest,Leeds United,0,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-22 16:30:00,Brentford,Tottenham Hotspur,3,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-23 13:00:00,Brighton & Hove Albion,Aston Villa,4,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-23 13:00:00,Manchester City,AFC Bournemouth,2,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-23 15:30:00,Newcastle United,Liverpool,2,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-24 19:00:00,Fulham,Chelsea,2,3,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-28 19:00:00,Crystal Palace,Manchester City,1,4,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-29 11:30:00,Liverpool,Nottingham Forest,2,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-29 14:00:00,AFC Bournemouth,Everton,1,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-29 14:00:00,Coventry City,Hull City,0,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-29 16:30:00,Tottenham Hotspur,Newcastle United,0,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-30 13:00:00,Chelsea,Brighton & Hove Albion,4,3,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-30 13:00:00,Leeds United,Brentford,1,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-30 13:00:00,Sunderland,Fulham,1,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-30 15:30:00,Manchester United,Ipswich Town,5,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-08-31 19:00:00,Aston Villa,Arsenal,0,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-04 19:00:00,Ipswich Town,Liverpool,0,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-05 11:30:00,Newcastle United,AFC Bournemouth,2,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-05 14:00:00,Brentford,Sunderland,1,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-05 14:00:00,Brighton & Hove Albion,Leeds United,1,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-05 14:00:00,Fulham,Crystal Palace,2,3,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-05 14:00:00,Manchester City,Coventry City,1,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-05 14:00:00,Nottingham Forest,Tottenham Hotspur,0,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-05 16:30:00,Hull City,Aston Villa,0,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-06 13:00:00,Everton,Manchester United,2,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-06 15:30:00,Arsenal,Chelsea,2,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-12 14:00:00,AFC Bournemouth,Brentford,2,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-12 14:00:00,Aston Villa,Nottingham Forest,1,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-12 14:00:00,Chelsea,Hull City,2,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-12 14:00:00,Crystal Palace,Ipswich Town,2,3,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-12 14:00:00,Liverpool,Fulham,0,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-12 16:30:00,Tottenham Hotspur,Everton,0,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-12 19:00:00,Sunderland,Arsenal,0,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-13 13:00:00,Coventry City,Brighton & Hove Albion,0,5,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-13 15:30:00,Manchester United,Manchester City,0,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-14 19:00:00,Leeds United,Newcastle United,4,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-18 19:00:00,Brentford,Chelsea,3,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-19 11:30:00,Tottenham Hotspur,Aston Villa,2,3,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-19 14:00:00,Brighton & Hove Albion,Arsenal,3,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-19 14:00:00,Everton,Ipswich Town,1,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-19 14:00:00,Newcastle United,Hull City,2,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-19 16:30:00,Nottingham Forest,Coventry City,0,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-20 13:00:00,AFC Bournemouth,Liverpool,0,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-20 13:00:00,Leeds United,Crystal Palace,0,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-20 13:00:00,Manchester City,Sunderland,5,3,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-09-20 15:30:00,Fulham,Manchester United,1,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-10 11:30:00,Arsenal,Leeds United,2,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-10 14:00:00,Aston Villa,Brentford,2,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-10 14:00:00,Chelsea,AFC Bournemouth,5,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-10 14:00:00,Ipswich Town,Fulham,2,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-10 14:00:00,Sunderland,Brighton & Hove Albion,0,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-10 16:30:00,Manchester United,Tottenham Hotspur,1,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-11 13:00:00,Crystal Palace,Nottingham Forest,3,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-11 13:00:00,Hull City,Everton,2,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-11 15:30:00,Liverpool,Manchester City,0,3,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-12 19:00:00,Coventry City,Newcastle United,4,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-17 11:30:00,Everton,Chelsea,0,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-17 14:00:00,Brentford,Liverpool,1,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-17 14:00:00,Fulham,Hull City,1,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-17 14:00:00,Manchester City,Ipswich Town,3,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-17 16:30:00,Newcastle United,Aston Villa,0,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-18 13:00:00,AFC Bournemouth,Sunderland,2,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-18 13:00:00,Brighton & Hove Albion,Crystal Palace,5,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-18 13:00:00,Leeds United,Manchester United,1,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-18 15:30:00,Nottingham Forest,Arsenal,0,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-19 19:00:00,Tottenham Hotspur,Coventry City,3,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-23 19:00:00,Ipswich Town,Nottingham Forest,1,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-24 11:30:00,Aston Villa,Manchester City,2,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-24 14:00:00,Arsenal,Everton,2,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-24 14:00:00,Coventry City,Fulham,0,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-24 16:30:00,Chelsea,Tottenham Hotspur,0,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-25 14:00:00,Crystal Palace,Newcastle United,0,2,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-25 14:00:00,Hull City,Brentford,1,1,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-25 14:00:00,Liverpool,Brighton & Hove Albion,2,0,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-25 14:00:00,Manchester United,AFC Bournemouth,0,3,played,2026-10-27 00:52:16.442003+00:00
+premier_league,2627,2026-10-25 16:30:00,Sunderland,Leeds United,0,0,played,2026-10-27 00:52:16.442003+00:00
 premier_league,2627,2026-10-31 12:30:00,Chelsea,Manchester United,,,scheduled,2026-09-15 14:34:05.601964+00:00
 premier_league,2627,2026-10-31 15:00:00,AFC Bournemouth,Leeds United,,,scheduled,2026-09-15 14:34:05.601964+00:00
 premier_league,2627,2026-10-31 15:00:00,Brentford,Nottingham Forest,,,scheduled,2026-09-15 14:34:05.601964+00:00
