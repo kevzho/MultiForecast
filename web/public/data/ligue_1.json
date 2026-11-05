@@ -13,11 +13,11 @@
     "code": "F1"
   },
   "season": "2026/27",
-  "generatedAt": "2026-11-05T15:22:36.604297+00:00",
+  "generatedAt": "2026-11-05T17:47:30.745395+00:00",
   "model": {
     "name": "dixon_coles",
     "version": "2026.1",
-    "simulations": 500,
+    "simulations": 5000,
     "trainedThrough": "2026-11-01"
   },
   "coverage": {
@@ -37,18 +37,18 @@
       "played": 4,
       "points": 10,
       "goalDifference": 4,
-      "expectedPoints": 79.122,
-      "expectedPosition": 1.374,
-      "titleProbability": 0.67,
-      "championsLeagueProbability": 0.998,
+      "expectedPoints": 79.3106,
+      "expectedPosition": 1.3372,
+      "titleProbability": 0.6972,
+      "championsLeagueProbability": 0.9992,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.67,
-        0.296,
+        0.6972,
+        0.2732,
         0.026,
-        0.006,
-        0.002,
-        0.0,
+        0.0028,
+        0.0004,
+        0.0004,
         0.0,
         0.0,
         0.0,
@@ -73,20 +73,20 @@
       "played": 8,
       "points": 17,
       "goalDifference": 7,
-      "expectedPoints": 74.616,
-      "expectedPosition": 1.87,
-      "titleProbability": 0.308,
-      "championsLeagueProbability": 0.99,
+      "expectedPoints": 74.6082,
+      "expectedPosition": 1.8584,
+      "titleProbability": 0.2878,
+      "championsLeagueProbability": 0.9936,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.308,
-        0.564,
-        0.09,
-        0.028,
-        0.008,
-        0.002,
-        0.0,
-        0.0,
+        0.2878,
+        0.5998,
+        0.087,
+        0.019,
+        0.0054,
+        0.0004,
+        0.0002,
+        0.0004,
         0.0,
         0.0,
         0.0,
@@ -109,26 +109,26 @@
       "played": 4,
       "points": 10,
       "goalDifference": 3,
-      "expectedPoints": 62.038,
-      "expectedPosition": 4.2540000000000004,
-      "titleProbability": 0.018,
-      "championsLeagueProbability": 0.646,
+      "expectedPoints": 61.8584,
+      "expectedPosition": 4.314,
+      "titleProbability": 0.0122,
+      "championsLeagueProbability": 0.6454,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.018,
-        0.078,
-        0.322,
-        0.228,
-        0.138,
-        0.1,
-        0.06,
-        0.024,
-        0.02,
-        0.012,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
+        0.0122,
+        0.0668,
+        0.3536,
+        0.2128,
+        0.134,
+        0.088,
+        0.063,
+        0.036,
+        0.0182,
+        0.008,
+        0.0044,
+        0.0022,
+        0.0006,
+        0.0002,
         0.0,
         0.0,
         0.0,
@@ -145,25 +145,25 @@
       "played": 7,
       "points": 14,
       "goalDifference": 5,
-      "expectedPoints": 58.568,
-      "expectedPosition": 5.192,
-      "titleProbability": 0.0,
-      "championsLeagueProbability": 0.444,
+      "expectedPoints": 58.455,
+      "expectedPosition": 5.2463999999999995,
+      "titleProbability": 0.001,
+      "championsLeagueProbability": 0.4162,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.0,
-        0.018,
-        0.208,
-        0.218,
-        0.164,
-        0.156,
-        0.106,
-        0.058,
-        0.044,
-        0.014,
-        0.008,
-        0.004,
-        0.002,
+        0.001,
+        0.0236,
+        0.1864,
+        0.2052,
+        0.1888,
+        0.1502,
+        0.1064,
+        0.068,
+        0.0358,
+        0.0216,
+        0.0102,
+        0.0026,
+        0.0002,
         0.0,
         0.0,
         0.0,
@@ -181,26 +181,26 @@
       "played": 8,
       "points": 12,
       "goalDifference": 6,
-      "expectedPoints": 57.284,
-      "expectedPosition": 5.544,
-      "titleProbability": 0.002,
-      "championsLeagueProbability": 0.336,
+      "expectedPoints": 57.3114,
+      "expectedPosition": 5.481599999999999,
+      "titleProbability": 0.0012,
+      "championsLeagueProbability": 0.3708,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.002,
-        0.018,
-        0.146,
-        0.17,
-        0.194,
-        0.186,
-        0.108,
-        0.11,
-        0.022,
-        0.024,
-        0.014,
-        0.004,
-        0.002,
-        0.0,
+        0.0012,
+        0.0184,
+        0.148,
+        0.2032,
+        0.1926,
+        0.155,
+        0.12,
+        0.0734,
+        0.0464,
+        0.0208,
+        0.0134,
+        0.0056,
+        0.0016,
+        0.0004,
         0.0,
         0.0,
         0.0,
@@ -217,26 +217,26 @@
       "played": 8,
       "points": 13,
       "goalDifference": 4,
-      "expectedPoints": 55.34,
-      "expectedPosition": 6.258,
-      "titleProbability": 0.002,
-      "championsLeagueProbability": 0.254,
+      "expectedPoints": 55.121,
+      "expectedPosition": 6.275399999999999,
+      "titleProbability": 0.0002,
+      "championsLeagueProbability": 0.2314,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.002,
-        0.014,
-        0.084,
-        0.154,
-        0.148,
-        0.16,
-        0.154,
-        0.106,
-        0.104,
-        0.03,
-        0.03,
-        0.014,
-        0.0,
-        0.0,
+        0.0002,
+        0.009,
+        0.0846,
+        0.1376,
+        0.1646,
+        0.1694,
+        0.1568,
+        0.1212,
+        0.0752,
+        0.0448,
+        0.0226,
+        0.0104,
+        0.0022,
+        0.0014,
         0.0,
         0.0,
         0.0,
@@ -253,27 +253,27 @@
       "played": 8,
       "points": 14,
       "goalDifference": 4,
-      "expectedPoints": 54.868,
-      "expectedPosition": 6.422000000000001,
-      "titleProbability": 0.0,
-      "championsLeagueProbability": 0.208,
+      "expectedPoints": 54.6732,
+      "expectedPosition": 6.5043999999999995,
+      "titleProbability": 0.0002,
+      "championsLeagueProbability": 0.2148,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.0,
-        0.006,
-        0.082,
-        0.12,
-        0.158,
-        0.158,
-        0.17,
-        0.154,
-        0.064,
-        0.048,
-        0.018,
-        0.016,
-        0.006,
-        0.0,
-        0.0,
+        0.0002,
+        0.0074,
+        0.0792,
+        0.128,
+        0.1502,
+        0.1648,
+        0.147,
+        0.1274,
+        0.0906,
+        0.0528,
+        0.0294,
+        0.0158,
+        0.0058,
+        0.001,
+        0.0004,
         0.0,
         0.0,
         0.0
@@ -289,28 +289,28 @@
       "played": 7,
       "points": 11,
       "goalDifference": 3,
-      "expectedPoints": 50.008,
-      "expectedPosition": 8.204,
-      "titleProbability": 0.0,
-      "championsLeagueProbability": 0.068,
+      "expectedPoints": 50.0948,
+      "expectedPosition": 8.1326,
+      "titleProbability": 0.0002,
+      "championsLeagueProbability": 0.0676,
       "relegationProbability": 0.0,
       "positionProbabilities": [
-        0.0,
-        0.006,
-        0.026,
-        0.036,
-        0.084,
-        0.092,
-        0.134,
-        0.17,
-        0.16,
-        0.118,
-        0.08,
-        0.044,
-        0.034,
-        0.01,
-        0.006,
-        0.0,
+        0.0002,
+        0.0016,
+        0.0176,
+        0.0482,
+        0.0696,
+        0.107,
+        0.1462,
+        0.1674,
+        0.159,
+        0.1312,
+        0.0762,
+        0.0466,
+        0.0216,
+        0.0046,
+        0.0026,
+        0.0004,
         0.0,
         0.0
       ]
@@ -325,28 +325,28 @@
       "played": 7,
       "points": 7,
       "goalDifference": -3,
-      "expectedPoints": 48.534,
-      "expectedPosition": 8.65,
+      "expectedPoints": 48.4634,
+      "expectedPosition": 8.7486,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.046,
+      "championsLeagueProbability": 0.0394,
       "relegationProbability": 0.0,
       "positionProbabilities": [
         0.0,
-        0.0,
-        0.012,
-        0.034,
+        0.0002,
+        0.0118,
+        0.0274,
         0.058,
-        0.08,
-        0.132,
-        0.156,
-        0.164,
-        0.14,
-        0.108,
-        0.068,
-        0.024,
-        0.016,
-        0.008,
-        0.0,
+        0.0868,
+        0.1128,
+        0.1534,
+        0.174,
+        0.1344,
+        0.1144,
+        0.07,
+        0.0362,
+        0.0136,
+        0.0058,
+        0.0012,
         0.0,
         0.0
       ]
@@ -361,29 +361,29 @@
       "played": 8,
       "points": 12,
       "goalDifference": 5,
-      "expectedPoints": 45.098,
-      "expectedPosition": 9.986,
+      "expectedPoints": 45.1524,
+      "expectedPosition": 9.9054,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.006,
-      "relegationProbability": 0.0,
+      "championsLeagueProbability": 0.014,
+      "relegationProbability": 0.0012,
       "positionProbabilities": [
         0.0,
         0.0,
-        0.002,
-        0.004,
-        0.018,
-        0.034,
-        0.052,
-        0.11,
-        0.178,
-        0.206,
-        0.162,
-        0.124,
-        0.062,
-        0.036,
+        0.0038,
+        0.0102,
+        0.0206,
+        0.0396,
+        0.0708,
+        0.1118,
+        0.1454,
+        0.185,
+        0.1702,
+        0.1258,
+        0.0738,
+        0.0292,
         0.008,
-        0.004,
-        0.0,
+        0.0046,
+        0.0012,
         0.0
       ]
     },
@@ -397,30 +397,30 @@
       "played": 8,
       "points": 11,
       "goalDifference": -2,
-      "expectedPoints": 42.824,
-      "expectedPosition": 10.866000000000001,
+      "expectedPoints": 42.9534,
+      "expectedPosition": 10.821000000000002,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.002,
-      "relegationProbability": 0.004,
+      "championsLeagueProbability": 0.0034,
+      "relegationProbability": 0.0034,
       "positionProbabilities": [
         0.0,
         0.0,
-        0.002,
-        0.0,
-        0.014,
-        0.022,
-        0.042,
-        0.046,
-        0.09,
-        0.186,
-        0.196,
-        0.194,
-        0.126,
-        0.046,
-        0.02,
-        0.012,
-        0.004,
-        0.0
+        0.0006,
+        0.0028,
+        0.0092,
+        0.0196,
+        0.0392,
+        0.0664,
+        0.1116,
+        0.164,
+        0.1956,
+        0.1742,
+        0.1324,
+        0.0506,
+        0.0224,
+        0.008,
+        0.0024,
+        0.001
       ]
     },
     {
@@ -433,30 +433,30 @@
       "played": 7,
       "points": 6,
       "goalDifference": -2,
-      "expectedPoints": 41.27,
-      "expectedPosition": 11.288,
+      "expectedPoints": 41.0212,
+      "expectedPosition": 11.3756,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.0,
-      "relegationProbability": 0.006,
+      "championsLeagueProbability": 0.004,
+      "relegationProbability": 0.0072,
       "positionProbabilities": [
         0.0,
         0.0,
-        0.0,
-        0.0,
-        0.012,
-        0.008,
-        0.034,
-        0.044,
-        0.094,
-        0.12,
-        0.2,
-        0.202,
-        0.164,
-        0.07,
-        0.03,
-        0.016,
-        0.006,
-        0.0
+        0.0014,
+        0.0026,
+        0.005,
+        0.0136,
+        0.0274,
+        0.0464,
+        0.088,
+        0.13,
+        0.1738,
+        0.2036,
+        0.1658,
+        0.0798,
+        0.038,
+        0.0174,
+        0.0062,
+        0.001
       ]
     },
     {
@@ -469,30 +469,30 @@
       "played": 8,
       "points": 9,
       "goalDifference": -2,
-      "expectedPoints": 38.362,
-      "expectedPosition": 12.373999999999999,
+      "expectedPoints": 38.5336,
+      "expectedPosition": 12.315800000000001,
       "titleProbability": 0.0,
-      "championsLeagueProbability": 0.002,
-      "relegationProbability": 0.012,
+      "championsLeagueProbability": 0.0002,
+      "relegationProbability": 0.0176,
       "positionProbabilities": [
         0.0,
         0.0,
         0.0,
-        0.002,
-        0.002,
-        0.0,
-        0.008,
-        0.022,
-        0.048,
-        0.082,
-        0.126,
-        0.196,
-        0.242,
-        0.158,
-        0.064,
-        0.038,
-        0.008,
-        0.004
+        0.0002,
+        0.0016,
+        0.005,
+        0.0094,
+        0.026,
+        0.0482,
+        0.0822,
+        0.134,
+        0.1974,
+        0.2326,
+        0.1404,
+        0.0738,
+        0.0316,
+        0.0142,
+        0.0034
       ]
     },
     {
@@ -505,30 +505,30 @@
       "played": 4,
       "points": 2,
       "goalDifference": -2,
-      "expectedPoints": 30.704,
-      "expectedPosition": 14.750000000000002,
+      "expectedPoints": 30.362,
+      "expectedPosition": 14.8712,
       "titleProbability": 0.0,
       "championsLeagueProbability": 0.0,
-      "relegationProbability": 0.176,
+      "relegationProbability": 0.2038,
       "positionProbabilities": [
         0.0,
         0.0,
         0.0,
         0.0,
         0.0,
-        0.002,
-        0.0,
-        0.0,
+        0.0002,
+        0.0004,
+        0.001,
         0.004,
-        0.006,
-        0.022,
-        0.07,
-        0.132,
-        0.198,
-        0.222,
-        0.168,
-        0.114,
-        0.062
+        0.012,
+        0.0234,
+        0.053,
+        0.1122,
+        0.2016,
+        0.2156,
+        0.1728,
+        0.1384,
+        0.0654
       ]
     },
     {
@@ -541,11 +541,11 @@
       "played": 8,
       "points": 6,
       "goalDifference": -7,
-      "expectedPoints": 29.994,
-      "expectedPosition": 15.048,
+      "expectedPoints": 30.0204,
+      "expectedPosition": 15.046199999999999,
       "titleProbability": 0.0,
       "championsLeagueProbability": 0.0,
-      "relegationProbability": 0.23,
+      "relegationProbability": 0.2216,
       "positionProbabilities": [
         0.0,
         0.0,
@@ -553,18 +553,18 @@
         0.0,
         0.0,
         0.0,
-        0.0,
-        0.0,
-        0.006,
-        0.004,
-        0.02,
-        0.036,
-        0.116,
-        0.194,
-        0.204,
-        0.19,
-        0.162,
-        0.068
+        0.0004,
+        0.0006,
+        0.0026,
+        0.0076,
+        0.0172,
+        0.0468,
+        0.0976,
+        0.1972,
+        0.2186,
+        0.1898,
+        0.1458,
+        0.0758
       ]
     },
     {
@@ -577,11 +577,11 @@
       "played": 9,
       "points": 8,
       "goalDifference": -8,
-      "expectedPoints": 28.642,
-      "expectedPosition": 15.44,
+      "expectedPoints": 28.931,
+      "expectedPosition": 15.3646,
       "titleProbability": 0.0,
       "championsLeagueProbability": 0.0,
-      "relegationProbability": 0.274,
+      "relegationProbability": 0.2664,
       "positionProbabilities": [
         0.0,
         0.0,
@@ -590,17 +590,17 @@
         0.0,
         0.0,
         0.0,
-        0.0,
-        0.002,
-        0.008,
-        0.014,
-        0.016,
-        0.052,
-        0.168,
-        0.226,
-        0.24,
-        0.194,
-        0.08
+        0.0004,
+        0.0008,
+        0.0042,
+        0.0116,
+        0.0306,
+        0.0752,
+        0.1676,
+        0.2088,
+        0.2344,
+        0.1842,
+        0.0822
       ]
     },
     {
@@ -613,11 +613,11 @@
       "played": 9,
       "points": 8,
       "goalDifference": -9,
-      "expectedPoints": 25.87,
-      "expectedPosition": 16.262,
+      "expectedPoints": 26.06,
+      "expectedPosition": 16.235799999999998,
       "titleProbability": 0.0,
       "championsLeagueProbability": 0.0,
-      "relegationProbability": 0.508,
+      "relegationProbability": 0.5054,
       "positionProbabilities": [
         0.0,
         0.0,
@@ -626,17 +626,17 @@
         0.0,
         0.0,
         0.0,
-        0.0,
-        0.0,
-        0.002,
-        0.0,
-        0.008,
-        0.032,
-        0.082,
-        0.136,
-        0.232,
-        0.314,
-        0.194
+        0.0002,
+        0.0002,
+        0.0014,
+        0.0026,
+        0.0116,
+        0.0304,
+        0.0834,
+        0.146,
+        0.2188,
+        0.3002,
+        0.2052
       ]
     },
     {
@@ -649,11 +649,11 @@
       "played": 4,
       "points": 3,
       "goalDifference": -6,
-      "expectedPoints": 21.662,
-      "expectedPosition": 17.218,
+      "expectedPoints": 22.0936,
+      "expectedPosition": 17.1658,
       "titleProbability": 0.0,
       "championsLeagueProbability": 0.0,
-      "relegationProbability": 0.79,
+      "relegationProbability": 0.7734,
       "positionProbabilities": [
         0.0,
         0.0,
@@ -665,14 +665,14 @@
         0.0,
         0.0,
         0.0,
-        0.002,
-        0.004,
-        0.006,
-        0.022,
-        0.076,
-        0.1,
-        0.198,
-        0.592
+        0.001,
+        0.0038,
+        0.0118,
+        0.029,
+        0.06,
+        0.121,
+        0.2074,
+        0.566
       ]
     }
   ],
@@ -1670,13 +1670,32 @@
             "awayWin": 0.0892657626494144
           }
         ],
-        "seasonImpact": [],
+        "seasonImpact": [
+          {
+            "outcome": "home",
+            "label": "AS Monaco win",
+            "homeDelta": 0.05613333333333326,
+            "awayDelta": -0.03539999999999999
+          },
+          {
+            "outcome": "draw",
+            "label": "Draw",
+            "homeDelta": -0.0005333333333333856,
+            "awayDelta": 0.014599999999999946
+          },
+          {
+            "outcome": "away",
+            "label": "Lens win",
+            "homeDelta": -0.07720000000000005,
+            "awayDelta": 0.10460000000000003
+          }
+        ],
         "uncertainty": {
           "normalizedEntropy": 0.7891161596371326,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -1845,13 +1864,32 @@
             "awayWin": 0.5446455421688228
           }
         ],
-        "seasonImpact": [],
+        "seasonImpact": [
+          {
+            "outcome": "home",
+            "label": "Olympique Lyonnais win",
+            "homeDelta": 0.10686666666666667,
+            "awayDelta": -0.0507333333333333
+          },
+          {
+            "outcome": "draw",
+            "label": "Draw",
+            "homeDelta": -0.01313333333333333,
+            "awayDelta": -0.01406666666666656
+          },
+          {
+            "outcome": "away",
+            "label": "Stade Rennais win",
+            "homeDelta": -0.0931333333333334,
+            "awayDelta": 0.05260000000000009
+          }
+        ],
         "uncertainty": {
           "normalizedEntropy": 0.9861458217933657,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -1945,13 +1983,32 @@
             "awayWin": 0.16324803577979702
           }
         ],
-        "seasonImpact": [],
+        "seasonImpact": [
+          {
+            "outcome": "home",
+            "label": "Toulouse win",
+            "homeDelta": -0.0072,
+            "awayDelta": 0.049533333333333346
+          },
+          {
+            "outcome": "draw",
+            "label": "Draw",
+            "homeDelta": 0.0028000000000000004,
+            "awayDelta": 0.012866666666666665
+          },
+          {
+            "outcome": "away",
+            "label": "Le Havre AC win",
+            "homeDelta": 0.0028000000000000004,
+            "awayDelta": -0.0638
+          }
+        ],
         "uncertainty": {
           "normalizedEntropy": 0.9349804987463074,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -2049,9 +2106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8639456784358517,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -2224,9 +2281,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8575174471331094,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -2324,9 +2381,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6633597757551445,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -2524,9 +2581,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.4415071978888958,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -2774,9 +2831,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9703338952332193,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -2874,9 +2931,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7414357839568372,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -2974,9 +3031,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9862865382512591,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -3174,9 +3231,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8183228875948767,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -3274,9 +3331,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9587977496366803,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -3399,9 +3456,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8195366457789593,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -3499,9 +3556,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9056806392937835,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -3624,9 +3681,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7916399076996637,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -3749,9 +3806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9625381507612659,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -3924,9 +3981,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.5882745278513398,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4024,9 +4081,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8358511941386794,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4149,9 +4206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9875423002139003,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4249,9 +4306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8239577523635083,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4349,9 +4406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.3925948044859874,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4449,9 +4506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9804243628474483,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4549,9 +4606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9801600208220114,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4649,9 +4706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9809899401117703,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4749,9 +4806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9904172466093906,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4849,9 +4906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.5639937684073554,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -4949,9 +5006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9730047685840094,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5049,9 +5106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9925571277117221,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5149,9 +5206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8398681947416222,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5249,9 +5306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9418810308715612,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5349,9 +5406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9734020944148442,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5449,9 +5506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.23097942895053866,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5549,9 +5606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9104245214513248,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5649,9 +5706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8473203624428068,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5749,9 +5806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9457127460898538,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5849,9 +5906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6618772220061501,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -5949,9 +6006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.989186153210909,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6049,9 +6106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8774507682236847,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6149,9 +6206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8445064116750645,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6249,9 +6306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9637129494068288,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6349,9 +6406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.878005373079513,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6449,9 +6506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6405225231485391,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6549,9 +6606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6545027572405769,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6649,9 +6706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9714655172337872,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6749,9 +6806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8656076210946431,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6849,9 +6906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8604535920259282,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -6949,9 +7006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9238419953365646,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7049,9 +7106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8350472681326997,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7149,9 +7206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8600081933720891,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7249,9 +7306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.5389613321740975,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7349,9 +7406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.874745437958924,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7449,9 +7506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8424481024507363,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7549,9 +7606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.49752439050453007,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7649,9 +7706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8240900978478273,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7749,9 +7806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8830130004316588,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7849,9 +7906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9308070023717292,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -7949,9 +8006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8011708237191375,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8049,9 +8106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9983034812032336,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8149,9 +8206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9683018207431907,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8249,9 +8306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9749590022181871,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8349,9 +8406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7724801044641879,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8449,9 +8506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9036686639538275,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8549,9 +8606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9798389909677561,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8649,9 +8706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7678596663153778,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8749,9 +8806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8948363834652244,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8849,9 +8906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9067267494950886,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -8949,9 +9006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7825232634953923,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9049,9 +9106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8901709678743979,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9149,9 +9206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9636204063906729,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9249,9 +9306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6404339261379779,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9349,9 +9406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9390929741494959,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9449,9 +9506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.959958743375766,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9549,9 +9606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7862931618063049,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9649,9 +9706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9717847095189878,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9749,9 +9806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9687024909064246,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9849,9 +9906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9825898793047707,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -9949,9 +10006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9433035504973423,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10049,9 +10106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.667676381125043,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10149,9 +10206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6112834911311105,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10249,9 +10306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.968307493248289,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10349,9 +10406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8935367698374317,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10449,9 +10506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.22704186808512195,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10549,9 +10606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.981803858638693,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10649,9 +10706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9826346497538193,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10749,9 +10806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9512809656049528,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10849,9 +10906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.5470085745424565,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -10949,9 +11006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8885919528715117,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11049,9 +11106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9694922749147941,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11149,9 +11206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.911520555030027,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11249,9 +11306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9539089485428286,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11349,9 +11406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9179966725037868,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11449,9 +11506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.986233800386861,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11549,9 +11606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9801563303058781,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11649,9 +11706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9754219772057512,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11749,9 +11806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9932891728696274,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11849,9 +11906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6037887087335704,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -11949,9 +12006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6465082190430164,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12049,9 +12106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8355651096715645,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12149,9 +12206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.981829753523889,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12249,9 +12306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8275078402991557,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12349,9 +12406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9773233929869268,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12449,9 +12506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9522359939219179,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12549,9 +12606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9841290207082538,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12649,9 +12706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.744280946343221,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12749,9 +12806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9808779769918152,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12849,9 +12906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.37181086961379706,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -12949,9 +13006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9172007338468412,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13049,9 +13106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8328462296126047,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13149,9 +13206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.908023784721566,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13249,9 +13306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7869992965814616,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13349,9 +13406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9600215903636905,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13449,9 +13506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6143668550153725,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13549,9 +13606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9548256030493151,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13649,9 +13706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9875410100889288,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13749,9 +13806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.706982488192207,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13849,9 +13906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7693198235859007,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -13949,9 +14006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7925327610065208,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14049,9 +14106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6632469493007174,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14149,9 +14206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7496372877293981,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14249,9 +14306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8858056965178822,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14349,9 +14406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8831268389469938,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14449,9 +14506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9756611139666826,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14549,9 +14606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9435471287270962,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14649,9 +14706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9469341402301458,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14749,9 +14806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.4084831962913277,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14849,9 +14906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6496349477683171,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -14949,9 +15006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9465873993943476,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15049,9 +15106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8900574816016932,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15149,9 +15206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9754946000306076,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15249,9 +15306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9328828494000138,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15349,9 +15406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9406996289935815,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15449,9 +15506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7558268829032321,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15549,9 +15606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7257088245688017,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15649,9 +15706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9262137115830925,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15749,9 +15806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8606211246659724,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15849,9 +15906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9571441961533179,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -15949,9 +16006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8805672386777279,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16049,9 +16106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8690573743760415,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16149,9 +16206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.979586986094375,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16249,9 +16306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9605413633193411,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16349,9 +16406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9850948293824608,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16449,9 +16506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9376377169603219,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16549,9 +16606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7451550510341544,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16649,9 +16706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9282910209261852,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16749,9 +16806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9416934951381849,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16849,9 +16906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8775688822085027,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -16949,9 +17006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6843012726739224,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17049,9 +17106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9910631940984558,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17149,9 +17206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8130553013390287,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17249,9 +17306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9269472806758166,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17349,9 +17406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9789907259694819,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17449,9 +17506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.39823346170220164,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17549,9 +17606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8277696399598375,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17649,9 +17706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9671349076000783,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17749,9 +17806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9797390681313257,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17849,9 +17906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9265012176252723,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -17949,9 +18006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7272065619861477,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18049,9 +18106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9885728506812813,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18149,9 +18206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9884110855468949,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18249,9 +18306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6620246565656046,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18349,9 +18406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9915566254134188,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18449,9 +18506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9570511169836396,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18549,9 +18606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9562398218532047,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18649,9 +18706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9059180221143295,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18749,9 +18806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9844645157692834,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18849,9 +18906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9886119220448263,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -18949,9 +19006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9621664812111466,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19049,9 +19106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9760541692614014,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19149,9 +19206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6351970712571633,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19249,9 +19306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6940912035817288,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19349,9 +19406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8370767979036454,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19449,9 +19506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9985588843694653,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19549,9 +19606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6646636571580036,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19649,9 +19706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8685874948923488,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19749,9 +19806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9484278916981559,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19849,9 +19906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9946582318567574,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -19949,9 +20006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9614713986738523,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20049,9 +20106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9225847107872519,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20149,9 +20206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8710807863432825,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20249,9 +20306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7932524496708775,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20349,9 +20406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9947234602402079,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20449,9 +20506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6027763388282928,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20549,9 +20606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8843525587245463,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20649,9 +20706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8940720705940995,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20749,9 +20806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9178409123620724,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20849,9 +20906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8606093576145799,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -20949,9 +21006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9026681594168262,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21049,9 +21106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6605306979264401,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21149,9 +21206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9203162814416386,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21249,9 +21306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9358665614784871,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21349,9 +21406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9767498358665201,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21449,9 +21506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.99175650011558,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21549,9 +21606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.44412533396854886,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21649,9 +21706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9146292131944321,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21749,9 +21806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9081415043547151,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21849,9 +21906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8055039334051508,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -21949,9 +22006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9122388298732422,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22049,9 +22106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9877248346758953,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22149,9 +22206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.974516599104699,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22249,9 +22306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9233434888862407,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22349,9 +22406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8671066381727592,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22449,9 +22506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.4974157201333462,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22549,9 +22606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9894608610628733,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22649,9 +22706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9662903131073651,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22749,9 +22806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6034371182136479,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22849,9 +22906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7367234198640938,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -22949,9 +23006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7019760582949424,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23049,9 +23106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8161665345448167,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23149,9 +23206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9957939586628103,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23249,9 +23306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9666844961688016,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23349,9 +23406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9838017547101855,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23449,9 +23506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9279103928078367,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23549,9 +23606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6905246166248068,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23649,9 +23706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9735710715165133,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23749,9 +23806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8974182820491579,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23849,9 +23906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9357888218725392,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -23949,9 +24006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9742216360005346,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24049,9 +24106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7230223788004579,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24149,9 +24206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9703687585544486,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24249,9 +24306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7409330311212673,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24349,9 +24406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6838545797146517,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24449,9 +24506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9293492790233149,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24549,9 +24606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7139474561543496,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24649,9 +24706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.6456511478335737,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24749,9 +24806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7732297132462342,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24849,9 +24906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.563970467648538,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -24949,9 +25006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7262735213565881,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25049,9 +25106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7731859264088364,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25149,9 +25206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9748684222925028,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25249,9 +25306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9855113440288974,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25349,9 +25406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9223478713229758,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25449,9 +25506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9305045870752424,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25549,9 +25606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.966608912863841,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25649,9 +25706,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9831943745215972,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25749,9 +25806,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7034387272269599,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25849,9 +25906,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9990173257820268,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -25949,9 +26006,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.40661885784130086,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -26049,9 +26106,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9726366473206026,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -26149,9 +26206,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.73385668025131,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -26249,9 +26306,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9624841622741479,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -26349,9 +26406,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.8432239296895025,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -26449,9 +26506,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.7108010025835458,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -26549,9 +26606,9 @@
         "uncertainty": {
           "normalizedEntropy": 0.9447511472505244,
           "calibration": {
-            "status": "not_available",
-            "error": null,
-            "sample_size": null
+            "status": "well_calibrated",
+            "error": 0.028700547466793118,
+            "sample_size": 369
           }
         }
       }
@@ -26567,7 +26624,7 @@
       "Bradley-Terry Davidson comparison",
       "Scoreline Monte Carlo season simulation"
     ],
-    "evaluation": null,
+    "evaluation": "Rolling backtest over 369 matches: RPS 0.207, log loss 1.002.",
     "assumptions": [
       "Standings use: points, goal_difference, goals_for, head_to_head_points.",
       "Cup winners and UEFA performance places can change the final allocation."
