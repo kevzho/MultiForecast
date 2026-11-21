@@ -1,7 +1,7 @@
 {
   "schemaVersion": "1.0.0",
   "artifactVersion": "2026.1",
-  "generatedAt": "2026-11-20T23:17:52.957203+00:00",
+  "generatedAt": "2026-11-21T04:12:09.610147+00:00",
   "leagues": [
     {
       "id": "premier_league",
@@ -14,7 +14,7 @@
       "expectedTeams": 20,
       "status": "ready",
       "dataUrl": "/data/premier_league.json",
-      "generatedAt": "2026-11-20T23:17:55.043348+00:00",
+      "generatedAt": "2026-11-21T04:12:11.525012+00:00",
       "note": "Cup winners and UEFA performance places can change the final allocation."
     },
     {
@@ -28,7 +28,7 @@
       "expectedTeams": 20,
       "status": "ready",
       "dataUrl": "/data/serie_a.json",
-      "generatedAt": "2026-11-20T23:17:57.690590+00:00",
+      "generatedAt": "2026-11-21T04:12:13.975819+00:00",
       "note": "Title and relegation ties may require a playoff; cup winners and UEFA performance places can change the allocation."
     },
     {
@@ -42,7 +42,7 @@
       "expectedTeams": 18,
       "status": "ready",
       "dataUrl": "/data/ligue_1.json",
-      "generatedAt": "2026-11-20T23:17:59.960890+00:00",
+      "generatedAt": "2026-11-21T04:12:16.029833+00:00",
       "note": "Cup winners and UEFA performance places can change the final allocation."
     },
     {
@@ -56,7 +56,7 @@
       "expectedTeams": 20,
       "status": "ready",
       "dataUrl": "/data/la_liga.json",
-      "generatedAt": "2026-11-20T23:18:02.397936+00:00",
+      "generatedAt": "2026-11-21T04:12:18.347332+00:00",
       "note": "Cup winners and UEFA performance places can change the final allocation."
     },
     {
@@ -70,7 +70,7 @@
       "expectedTeams": 18,
       "status": "ready",
       "dataUrl": "/data/bundesliga.json",
-      "generatedAt": "2026-11-20T23:18:04.547676+00:00",
+      "generatedAt": "2026-11-21T04:12:20.410933+00:00",
       "note": "Cup winners and UEFA performance places can change the final allocation."
     }
   ],
